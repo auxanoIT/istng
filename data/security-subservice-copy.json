@@ -1,0 +1,2012 @@
+{
+  "cctv": {
+    "name": "CCTV Installation & Surveillance",
+    "hero": {
+      "title": "See What Matters. Protect What You've Built.",
+      "primary": "Book a CCTV Consultation",
+      "secondary": "Explore Security Solutions"
+    },
+    "benefits": {
+      "title": "The Right Camera in the Right Place Makes the Difference.",
+      "paragraphs": [
+        "An effective CCTV system begins with understanding where visibility is needed and what the cameras must achieve."
+      ],
+      "items": [
+        {
+          "title": "Coverage Where It Matters",
+          "paragraphs": [
+            "Plan suitable camera positions around entrances, access routes, parking areas, boundaries and other relevant locations."
+          ]
+        },
+        {
+          "title": "Clearer Surveillance Footage",
+          "paragraphs": [
+            "Select appropriate cameras and viewing angles based on lighting, distance and the level of image detail required."
+          ]
+        },
+        {
+          "title": "Convenient Viewing & Playback",
+          "paragraphs": [
+            "Access live footage and recorded video through compatible monitoring and recording equipment, subject to the configured permissions."
+          ]
+        },
+        {
+          "title": "A System Designed for Your Property",
+          "paragraphs": [
+            "Match cameras, recording capacity, network connections and suitable power arrangements to your environment and operational needs."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "A Surveillance System Designed Around What You Need to See.",
+      "paragraphs": [
+        "We help customers identify suitable surveillance requirements, select compatible equipment and install CCTV systems that serve a defined security purpose."
+      ],
+      "entries": [
+        {
+          "title": "CCTV Site Assessment & Camera Planning",
+          "tagline": "Understand the Property Before Positioning the Cameras.",
+          "paragraphs": [
+            "The first step is determining which areas require surveillance and what each camera needs to capture.",
+            "We review the relevant entrances, access routes, building layout, lighting conditions and practical installation constraints.",
+            "This helps establish suitable camera locations, coverage objectives, cable routes and equipment requirements before installation begins."
+          ],
+          "cta": "Book a CCTV Consultation"
+        },
+        {
+          "title": "Security Camera Selection & System Design",
+          "tagline": "Choose Cameras for the Job, Not Just the Specification Sheet.",
+          "paragraphs": [
+            "Different locations require different camera capabilities.",
+            "We help assess suitable indoor and outdoor cameras, including compatible IP or analogue-based systems, according to the agreed surveillance requirements.",
+            "The design considers image resolution, field of view, night-time visibility, environmental protection, recording needs and integration with the supporting infrastructure."
+          ],
+          "cta": "Discuss Your CCTV System Design"
+        },
+        {
+          "title": "CCTV Camera & Recording Equipment Installation",
+          "tagline": "Install the System With Every Connection Considered.",
+          "paragraphs": [
+            "Professional CCTV installation brings together camera mounting, physical connections, power requirements and recording infrastructure.",
+            "We deploy suitable cameras, supporting cables, compatible network or video connections and agreed recording equipment.",
+            "Installation considers approved mounting positions, equipment accessibility, cable protection and appropriate connection arrangements for the property."
+          ],
+          "cta": "Discuss CCTV Installation"
+        },
+        {
+          "title": "Remote Viewing, Testing & Handover",
+          "tagline": "Know What Your Cameras Can See and How to Access the Footage.",
+          "paragraphs": [
+            "After installation, the system should be configured and checked against its intended coverage requirements.",
+            "We review relevant camera views, recording operation, playback access and applicable user settings.",
+            "Where supported by the selected equipment and included in scope, authorised remote viewing can also be configured, followed by a practical handover covering basic system operation and maintenance considerations."
+          ],
+          "cta": "Discuss CCTV Setup & Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Surveillance Designed for Real Environments.",
+      "paragraphs": [
+        "Explore the camera installations and technical components involved in building dependable property surveillance."
+      ],
+      "items": [
+        {
+          "title": "Residential CCTV Installation",
+          "paragraphs": [
+            "Suitable camera coverage around home entrances, gates, compounds and other approved areas requiring surveillance."
+          ]
+        },
+        {
+          "title": "Office & Commercial CCTV Systems",
+          "paragraphs": [
+            "Security camera installations planned around relevant entrances, work areas, reception spaces, corridors and building access points."
+          ]
+        },
+        {
+          "title": "Outdoor & Perimeter Surveillance",
+          "paragraphs": [
+            "Appropriate weather-rated cameras positioned to observe selected external areas, property boundaries and access routes."
+          ]
+        },
+        {
+          "title": "CCTV Recording & Monitoring Setup",
+          "paragraphs": [
+            "Compatible recording equipment and viewing arrangements configured to support authorised live monitoring and recorded footage playback."
+          ]
+        }
+      ],
+      "cta": "Discuss Your CCTV Project"
+    },
+    "faq": {
+      "title": "Your CCTV Installation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "How much does CCTV installation cost in Nigeria?",
+          "paragraphs": [
+            "CCTV installation costs depend on the number and type of cameras, property size, recording equipment, storage capacity, cable routes, power arrangements and installation conditions. A consultation and, where necessary, a site assessment help determine a suitable system and quotation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install CCTV cameras for homes?",
+          "paragraphs": [
+            "Yes. Residential CCTV installations can be planned around suitable coverage for gates, entrances, compounds, driveways and other relevant areas. Camera selection depends on the property layout, lighting conditions and security requirements."
+          ]
+        },
+        {
+          "title": "Do you provide CCTV installation for offices and businesses?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides CCTV installation services for business and commercial environments. The proposed system can be designed around approved surveillance zones, monitoring requirements, recording needs and available infrastructure."
+          ]
+        },
+        {
+          "title": "How many CCTV cameras do I need for my house?",
+          "paragraphs": [
+            "The number depends on your building layout, number of entrances, compound size, camera viewing angles and the areas you want to monitor. A four-camera system may suit some small properties, but it is not a universal recommendation. The correct quantity should follow a coverage assessment."
+          ]
+        },
+        {
+          "title": "Which CCTV camera is best for outdoor installation?",
+          "paragraphs": [
+            "Outdoor cameras should be selected for the required coverage, environmental exposure, lighting and image detail. Relevant features may include suitable weather protection, night-time imaging capabilities and compatible mounting arrangements."
+          ]
+        },
+        {
+          "title": "What is the difference between IP CCTV and analogue CCTV?",
+          "paragraphs": [
+            "IP cameras transmit digital video over compatible networks and commonly work with network video recorders or video management systems. Analogue CCTV systems use compatible video connections and digital video recorders. The appropriate choice depends on the existing infrastructure, budget, image requirements and system capabilities."
+          ]
+        },
+        {
+          "title": "What is the difference between DVR and NVR CCTV systems?",
+          "paragraphs": [
+            "A Digital Video Recorder (DVR) is commonly associated with compatible analogue camera systems. A Network Video Recorder (NVR) receives and records video from supported IP cameras. Recording features and device compatibility vary by manufacturer and model."
+          ]
+        },
+        {
+          "title": "Can I view my CCTV cameras on my phone?",
+          "paragraphs": [
+            "Many modern CCTV systems support mobile viewing through compatible applications or authorised remote-access arrangements. Remote viewing depends on the selected equipment, network availability, user permissions and secure configuration."
+          ]
+        },
+        {
+          "title": "Can CCTV cameras work without an internet connection?",
+          "paragraphs": [
+            "Yes. Many CCTV systems can record and provide local viewing without internet access when their cameras, recorder and local connections are properly configured. Internet connectivity is usually needed for remote access through services that depend on an external network."
+          ]
+        },
+        {
+          "title": "Will CCTV cameras continue recording during a power outage?",
+          "paragraphs": [
+            "Only if suitable backup power is available for the necessary cameras, recording equipment and supporting network devices. The required backup arrangement depends on the equipment power demand and desired operating duration."
+          ]
+        },
+        {
+          "title": "Can CCTV cameras record at night?",
+          "paragraphs": [
+            "Many cameras provide infrared illumination or other low-light imaging capabilities. Actual results depend on the model, scene lighting, viewing distance, camera position and environmental conditions. Night-time visibility should be considered during system design."
+          ]
+        },
+        {
+          "title": "How long can a CCTV system store video recordings?",
+          "paragraphs": [
+            "Recording duration depends on storage capacity, camera count, resolution, frame rate, compression settings and recording schedule. The desired retention period should be established before selecting storage hardware, while also considering applicable privacy and data-protection requirements."
+          ]
+        },
+        {
+          "title": "Can you install CCTV cameras in an existing building?",
+          "paragraphs": [
+            "Yes. CCTV systems can be considered for existing properties, subject to suitable mounting locations, available cable pathways, power access and any building restrictions. Installation methods should be selected according to site conditions."
+          ]
+        },
+        {
+          "title": "Can CCTV cameras cover a large compound or warehouse?",
+          "paragraphs": [
+            "Yes, where suitable cameras, infrastructure and coverage design are used. Large sites may require multiple camera locations, longer-distance connectivity, appropriate lighting and suitable recording arrangements."
+          ]
+        },
+        {
+          "title": "Do wireless CCTV cameras work without cables?",
+          "paragraphs": [
+            "Many Wi-Fi cameras still need electrical power and may require other wired connections. Battery-powered products are also available, but their capabilities and maintenance needs differ. A wireless video connection should not be mistaken for a completely cable-free installation."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing CCTV system?",
+          "paragraphs": [
+            "An existing installation can be assessed for camera replacement, recording capacity expansion, additional coverage and equipment compatibility. Upgrade options depend on the existing system, cabling, recorder capabilities and available support."
+          ]
+        },
+        {
+          "title": "Do you supply CCTV cameras and installation equipment?",
+          "paragraphs": [
+            "CCTV equipment sourcing can be considered as part of an agreed installation project. The exact camera models, recording devices, accessories, warranty terms and availability should be confirmed in the quotation."
+          ]
+        },
+        {
+          "title": "Do you install CCTV systems from brands such as Hikvision or Dahua?",
+          "paragraphs": [
+            "Equipment from these manufacturers may be considered where appropriate, subject to product availability, compatibility and confirmed technical capability. Specific manufacturer partnerships or authorised installer status should not be assumed."
+          ]
+        },
+        {
+          "title": "Can CCTV systems send motion alerts?",
+          "paragraphs": [
+            "Certain cameras and recording platforms can generate notifications based on configured motion-detection or analytics features. Performance varies by equipment, scene conditions and settings, and false alerts may occur."
+          ]
+        },
+        {
+          "title": "Is it legal to install CCTV cameras at a business premises in Nigeria?",
+          "paragraphs": [
+            "CCTV use can involve processing personal data under the Nigeria Data Protection Act 2023. Under the Nigeria Data Protection Commission's 2025 directive, organisations deploying cameras in places the public may access must conduct and file a data protection impact assessment. The organisation should also review camera placement, notices, access to footage and retention."
+          ]
+        },
+        {
+          "title": "Can CCTV cameras guarantee that a property will not be burgled?",
+          "paragraphs": [
+            "No. CCTV can support observation, incident review and broader security measures, but it cannot guarantee that an incident will not occur. Effective property protection may also require suitable lighting, physical security, access control and incident-response arrangements."
+          ]
+        },
+        {
+          "title": "Does CCTV installation include maintenance?",
+          "paragraphs": [
+            "Initial installation and ongoing maintenance are different service requirements. Integrated Solutions Technology also offers Security System Maintenance & Upgrades, which can be discussed according to the equipment and required support arrangement."
+          ]
+        },
+        {
+          "title": "How long does CCTV installation take?",
+          "paragraphs": [
+            "The timeframe depends on property size, camera quantities, cable routes, mounting conditions, equipment availability and system configuration requirements. A defined project scope helps establish an appropriate schedule."
+          ]
+        },
+        {
+          "title": "What information do you need to prepare a CCTV quotation?",
+          "paragraphs": [
+            "Useful details include your property location, building type, number of floors, compound size, preferred surveillance areas, existing cameras if any, remote-viewing requirements and desired recording duration."
+          ]
+        },
+        {
+          "title": "How do I get started with CCTV installation?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your property location and the areas you would like to monitor. We can discuss your security requirements and recommend the next steps towards a suitable CCTV system proposal."
+          ]
+        }
+      ],
+      "cta": "Book Your CCTV Consultation"
+    },
+    "closing": {
+      "title": "Better Visibility Begins With the Right Security Plan.",
+      "paragraphs": [
+        "Whether you're protecting your home, improving surveillance at your office or planning camera coverage for a larger facility, Integrated Solutions Technology can help you assess the environment and choose an appropriate CCTV solution."
+      ],
+      "primary": "Book a CCTV Consultation",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "access": {
+    "name": "Access Control Systems",
+    "hero": {
+      "title": "The Right People. The Right Access. At the Right Time.",
+      "primary": "Book an Access Control Consultation",
+      "secondary": "Explore Security Solutions"
+    },
+    "benefits": {
+      "title": "Better Security Starts With Clear Access Decisions.",
+      "paragraphs": [
+        "The right system balances security, convenience, privacy and safe movement through your building."
+      ],
+      "items": [
+        {
+          "title": "Control Access by Area",
+          "paragraphs": [
+            "Restrict entry to designated offices, equipment rooms, stores and other areas according to approved permissions."
+          ]
+        },
+        {
+          "title": "Manage User Credentials",
+          "paragraphs": [
+            "Issue, modify or revoke compatible cards, PINs and other supported credentials as personnel and access requirements change."
+          ]
+        },
+        {
+          "title": "Improve Access Visibility",
+          "paragraphs": [
+            "Use available system records to review authorised access events, subject to the selected equipment, configuration and data policies."
+          ]
+        },
+        {
+          "title": "Support Everyday Operations",
+          "paragraphs": [
+            "Choose access arrangements suited to staff movement, visitor requirements, opening hours and the intended use of each door."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Door Has a Purpose. Every Access Decision Needs a Plan.",
+      "paragraphs": [
+        "We help organisations identify their controlled-entry requirements, select suitable equipment and plan installations with attention to security, operational convenience and emergency escape."
+      ],
+      "entries": [
+        {
+          "title": "Access Control Assessment & Design",
+          "tagline": "Understand Who Needs Access and Where.",
+          "paragraphs": [
+            "Different areas of a building may require different levels of access.",
+            "We review designated entry points, door types, user groups, operating hours, existing security arrangements and relevant site conditions.",
+            "The assessment helps identify suitable reader locations, credential options, controller requirements, locking arrangements and any life-safety or integration considerations that need specialist review."
+          ],
+          "cta": "Discuss Your Access Requirements"
+        },
+        {
+          "title": "Card, PIN & Biometric Access Solutions",
+          "tagline": "Choose How Authorised Users Enter.",
+          "paragraphs": [
+            "Modern access control systems offer different ways to verify permission to enter a controlled area.",
+            "We help assess compatible RFID or smart-card readers, PIN keypads and biometric access terminals according to the agreed requirements.",
+            "Selection considers convenience, user volume, security objectives, device compatibility, administrative controls and relevant privacy obligations."
+          ],
+          "cta": "Explore Access Control Options"
+        },
+        {
+          "title": "Electronic Lock & Access Device Installation",
+          "tagline": "Turn Access Policies Into Controlled Entry Points.",
+          "paragraphs": [
+            "An access control system depends on compatible readers, controllers, locking devices and supporting infrastructure.",
+            "We install suitable equipment according to the approved design, including reader mounting, compatible electronic locks, required cabling and power connections.",
+            "Door construction, hardware compatibility, fire-door requirements and safe emergency exit arrangements must be considered before installation."
+          ],
+          "cta": "Discuss Access Control Installation"
+        },
+        {
+          "title": "Access Configuration, Verification & Handover",
+          "tagline": "Make Sure Your Access Rules Work as Intended.",
+          "paragraphs": [
+            "Once installed, the system needs appropriate user permissions, device settings and operational checks.",
+            "We configure agreed access groups, credentials and schedules where supported by the equipment.",
+            "Verification includes relevant entry functions and authorised release arrangements, with fire-alarm interfaces and emergency escape behaviour checked by appropriately competent personnel against the approved design.",
+            "The handover can include administrator guidance, credential-management procedures and agreed system documentation."
+          ],
+          "cta": "Discuss Access Control Setup"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Security Technology That Works With Your Building.",
+      "paragraphs": [
+        "Explore the equipment and installation arrangements involved in managing controlled entry across different facilities."
+      ],
+      "items": [
+        {
+          "title": "Office Door Access Control",
+          "paragraphs": [
+            "Electronic access readers and compatible locking hardware installed on designated staff entrances and restricted office areas."
+          ]
+        },
+        {
+          "title": "Card Readers & Biometric Terminals",
+          "paragraphs": [
+            "Suitable credential readers mounted at approved locations to support authorised identification and access decisions."
+          ]
+        },
+        {
+          "title": "Server Room & Restricted-Area Security",
+          "paragraphs": [
+            "Controlled entry arrangements designed to limit access to selected technical and business-critical spaces."
+          ]
+        },
+        {
+          "title": "Access Controllers & Management Systems",
+          "paragraphs": [
+            "Compatible control equipment and management interfaces configured to administer users, door permissions and supported access-event records."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Access Control Project"
+    },
+    "faq": {
+      "title": "Your Access Control Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is an access control system?",
+          "paragraphs": [
+            "An access control system manages permission to enter designated buildings, rooms or restricted areas. Electronic systems commonly use credentials such as cards, PINs or biometric identifiers, along with readers, controllers and compatible locking hardware."
+          ]
+        },
+        {
+          "title": "How much does an access control system cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number of doors, credential technology, selected hardware, door construction, cabling, power requirements, software features and installation conditions. A site assessment helps determine the equipment and installation scope before an itemised quotation is prepared."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install access control systems in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides electronic access control solutions for business and property environments. Projects can include site assessment, equipment selection, installation, configuration and agreed handover activities."
+          ]
+        },
+        {
+          "title": "Can you install biometric door access systems?",
+          "paragraphs": [
+            "Biometric access terminals can be considered where suitable equipment and a lawful, appropriate use case have been established. Organisations must also consider how biometric data will be collected, protected, retained and deleted under applicable privacy requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between biometric and RFID card access?",
+          "paragraphs": [
+            "Biometric systems use a person's physical or behavioural characteristics for identification or authentication. RFID or smart-card systems use compatible credentials presented to a reader. The right option depends on the security objective, user needs, privacy requirements and system capabilities."
+          ]
+        },
+        {
+          "title": "Can access control restrict entry to specific departments?",
+          "paragraphs": [
+            "Yes. Compatible systems can be configured so designated users or groups have access only to approved doors or areas. Permission settings depend on the controller, software and system design."
+          ]
+        },
+        {
+          "title": "Can access permissions be limited to certain hours?",
+          "paragraphs": [
+            "Many access control platforms support time-based schedules and user groups. For example, employees may be assigned access during approved working hours while designated personnel receive broader permissions."
+          ]
+        },
+        {
+          "title": "Can you install access control on an existing office door?",
+          "paragraphs": [
+            "Often, yes. The existing door, frame, lock, opening direction, available space and emergency escape requirements must be assessed before selecting electronic hardware. Some doors may require specialist modifications or a different access-control approach."
+          ]
+        },
+        {
+          "title": "What is a magnetic door lock?",
+          "paragraphs": [
+            "An electromagnetic, or magnetic, lock uses electrical power to hold a compatible door closed. Its suitability depends on the door design and security requirements. Emergency release arrangements, power-loss behaviour and applicable fire-safety requirements must be considered carefully."
+          ]
+        },
+        {
+          "title": "What is the difference between fail-safe and fail-secure locks?",
+          "paragraphs": [
+            "A fail-safe electronic locking function releases when its power is removed. A fail-secure locking function remains locked when power is removed.",
+            "These descriptions do not, by themselves, determine whether occupants can exit safely. The complete door hardware and emergency escape design must be assessed for the intended use."
+          ]
+        },
+        {
+          "title": "What happens to access control during a power outage?",
+          "paragraphs": [
+            "Behaviour depends on the locking hardware, power-supply design and any backup power arrangements. Some devices unlock when power is lost, while others retain their locked state but provide independent mechanical escape. The correct arrangement must be determined for each door and its safety requirements."
+          ]
+        },
+        {
+          "title": "Can access control work without internet access?",
+          "paragraphs": [
+            "Many systems can make local access decisions without a continuous internet connection, depending on their architecture and configuration. Cloud management, remote administration or certain reporting features may require network connectivity."
+          ]
+        },
+        {
+          "title": "Can an access control system record who entered a room?",
+          "paragraphs": [
+            "Compatible systems can record access events linked to assigned credentials or users. Record availability and accuracy depend on the system configuration, credential practices and retention settings. Access logs must be managed according to applicable privacy and security obligations."
+          ]
+        },
+        {
+          "title": "Can you integrate access control with CCTV?",
+          "paragraphs": [
+            "Certain platforms support integration with compatible CCTV or video management systems. This may allow authorised personnel to associate selected door events with video records. Integration requires confirmation of product compatibility and the agreed technical scope."
+          ]
+        },
+        {
+          "title": "Can access control be connected to a fire alarm?",
+          "paragraphs": [
+            "Where required by the building's approved fire and escape strategy, suitable access control devices may need to interface with the fire alarm system. The design and verification must meet applicable local requirements and should involve appropriately qualified fire-safety professionals."
+          ]
+        },
+        {
+          "title": "Can access control be installed in a server room?",
+          "paragraphs": [
+            "Yes. Server rooms and other technical spaces are common candidates for controlled entry. The selected arrangement should reflect authorised personnel, access logging needs, existing door hardware and emergency escape requirements."
+          ]
+        },
+        {
+          "title": "Can one system manage access across several doors?",
+          "paragraphs": [
+            "Yes. Compatible multi-door controllers and management platforms can administer multiple controlled entry points. The number of supported doors depends on the system architecture, licensing, available connections and equipment capacity."
+          ]
+        },
+        {
+          "title": "Can you manage access for visitors and contractors?",
+          "paragraphs": [
+            "Suitable systems may support temporary credentials, scheduled permissions or integration with visitor-management procedures. Available options depend on the selected products and the organisation's access policies."
+          ]
+        },
+        {
+          "title": "Is biometric access control legal in Nigeria?",
+          "paragraphs": [
+            "Biometric data used to uniquely identify a person is sensitive personal data under the Nigeria Data Protection Act 2023. Organisations must establish a lawful basis, meet the conditions for processing sensitive data and protect people's rights. Under the Nigeria Data Protection Commission's 2025 directive, organisations must conduct and file a data protection impact assessment when sensitive personal data is involved."
+          ]
+        },
+        {
+          "title": "Can access control completely prevent unauthorised entry?",
+          "paragraphs": [
+            "No. Access control can strengthen entry management, but it cannot eliminate every security risk. Security also depends on door construction, credential protection, system maintenance, operating procedures and the wider physical security arrangements."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing access control system?",
+          "paragraphs": [
+            "An existing system can be assessed for additional doors, replacement readers, updated controllers or changes to management functionality. Upgrade feasibility depends on the installed platform, wiring, compatibility and manufacturer support."
+          ]
+        },
+        {
+          "title": "Do you provide access control maintenance?",
+          "paragraphs": [
+            "Integrated Solutions Technology also offers Security System Maintenance & Upgrades. The specific maintenance activities and support arrangements for access control equipment can be discussed separately."
+          ]
+        },
+        {
+          "title": "How long does access control installation take?",
+          "paragraphs": [
+            "The timeframe depends on door quantities, door construction, equipment availability, cabling pathways, electrical requirements and integration complexity. A defined project scope helps establish an appropriate schedule."
+          ]
+        },
+        {
+          "title": "What information is needed for an access control quotation?",
+          "paragraphs": [
+            "Useful details include your property location, number and type of doors, approximate user count, preferred credential method, existing security infrastructure and any visitor-management or integration requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with an access control project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your facility location and the entry points you want to manage. We can discuss your operational and security requirements and recommend the next steps towards a suitable access control proposal."
+          ]
+        }
+      ],
+      "cta": "Book Your Access Control Consultation"
+    },
+    "closing": {
+      "title": "Know Who Should Enter. Make Access Easier to Manage.",
+      "paragraphs": [
+        "Whether you're securing an office entrance, controlling access to a server room or planning an electronic entry system across multiple doors, Integrated Solutions Technology can help you assess your requirements and develop a suitable access control solution."
+      ],
+      "primary": "Book an Access Control Consultation",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "video": {
+    "name": "Video Monitoring & Recording Systems",
+    "hero": {
+      "title": "See What's Happening. Find What Matters.",
+      "primary": "Discuss Your Video Monitoring Requirements",
+      "secondary": "Explore Security & Surveillance Solutions"
+    },
+    "benefits": {
+      "title": "A Camera Captures the View. The Right System Makes It Accessible.",
+      "paragraphs": [
+        "A well-planned monitoring and recording environment considers how footage is captured, stored, viewed and managed throughout its required retention period."
+      ],
+      "items": [
+        {
+          "title": "Accessible Live Monitoring",
+          "paragraphs": [
+            "Bring compatible camera feeds into suitable viewing interfaces for authorised personnel monitoring designated locations."
+          ]
+        },
+        {
+          "title": "Planned Video Retention",
+          "paragraphs": [
+            "Size recording storage around camera quantities, video settings and the retention period your organisation requires."
+          ]
+        },
+        {
+          "title": "Easier Footage Retrieval",
+          "paragraphs": [
+            "Use supported playback, search and export features to locate relevant recordings more efficiently."
+          ]
+        },
+        {
+          "title": "Controlled Access to Footage",
+          "paragraphs": [
+            "Configure appropriate user permissions and security settings to limit who can view, manage or export recorded video."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Capture the Footage. Manage It Properly. Retrieve It When Needed.",
+      "paragraphs": [
+        "We help organisations select suitable recording infrastructure, establish viewing access and configure systems around their defined surveillance requirements."
+      ],
+      "entries": [
+        {
+          "title": "Video Recording Requirements & Storage Planning",
+          "tagline": "Plan the Recording System Around What You Need to Retain.",
+          "paragraphs": [
+            "Recording capacity should be determined before purchasing storage equipment.",
+            "We review camera quantities, recording resolution, frame rates, compression settings, preferred recording schedules and the required footage retention period.",
+            "These requirements help inform suitable recorder specifications, storage capacity, network bandwidth and other infrastructure considerations."
+          ],
+          "cta": "Discuss Your Recording Requirements"
+        },
+        {
+          "title": "DVR, NVR & Video Storage Installation",
+          "tagline": "Put the Right Recording Infrastructure in Place.",
+          "paragraphs": [
+            "Different surveillance systems require different recording technologies.",
+            "We help select and install compatible digital video recorders, network video recorders and supporting storage equipment according to the approved design.",
+            "Installation considers camera compatibility, recording channels, supported drive capacities, network connections, power requirements and appropriate physical security for the equipment."
+          ],
+          "cta": "Discuss Video Recording Installation"
+        },
+        {
+          "title": "Live Monitoring & Video Management Setup",
+          "tagline": "Bring Your Surveillance Views Together.",
+          "paragraphs": [
+            "Security personnel and authorised users need a practical way to view the cameras relevant to their responsibilities.",
+            "We configure suitable viewing arrangements, compatible monitoring displays and supported video management features according to the selected platform.",
+            "Where required and supported, this may include camera groups, user permissions, live-view layouts and secure remote-access arrangements."
+          ],
+          "cta": "Plan Your Video Monitoring Setup"
+        },
+        {
+          "title": "Playback, Verification & System Handover",
+          "tagline": "Make Sure Your Footage Can Be Found When It's Needed.",
+          "paragraphs": [
+            "An installed recorder should be checked for more than a live picture on the screen.",
+            "We review relevant recording schedules, time settings, playback functionality, storage status and authorised user access.",
+            "Where included in scope, we demonstrate supported footage retrieval and export procedures, document agreed system settings and provide basic operational guidance during handover."
+          ],
+          "cta": "Discuss Recording System Verification"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Camera Feeds to Usable Security Records.",
+      "paragraphs": [
+        "Explore the infrastructure and operational interfaces behind professional surveillance monitoring and recording."
+      ],
+      "items": [
+        {
+          "title": "Security Monitoring Displays",
+          "paragraphs": [
+            "Appropriate viewing arrangements presenting authorised live camera feeds across designated buildings and surveillance zones."
+          ]
+        },
+        {
+          "title": "DVR & NVR Recording Equipment",
+          "paragraphs": [
+            "Compatible recording devices installed to receive, manage and store footage from supported security cameras."
+          ]
+        },
+        {
+          "title": "Surveillance Storage Infrastructure",
+          "paragraphs": [
+            "Suitable recording drives and storage equipment configured around the approved camera count and footage retention requirements."
+          ]
+        },
+        {
+          "title": "Video Playback & Retrieval",
+          "paragraphs": [
+            "Authorised users reviewing stored footage and using supported playback or export functions to locate relevant incidents."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Video Monitoring Project"
+    },
+    "faq": {
+      "title": "Your Video Monitoring & Recording Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is a video monitoring and recording system?",
+          "paragraphs": [
+            "A video monitoring and recording system receives footage from compatible surveillance cameras, presents live video to authorised viewers and stores recordings for later playback. Depending on the platform, it may include DVRs, NVRs, video management software, storage equipment and remote-viewing features."
+          ]
+        },
+        {
+          "title": "What is the difference between CCTV installation and video recording system installation?",
+          "paragraphs": [
+            "CCTV installation focuses on positioning and connecting the cameras that capture surveillance footage. Video recording system installation focuses on receiving, storing, managing and retrieving that footage. A complete surveillance project may include both services."
+          ]
+        },
+        {
+          "title": "What is the difference between a DVR and an NVR?",
+          "paragraphs": [
+            "A Digital Video Recorder (DVR) commonly records footage from compatible analogue-based CCTV cameras. A Network Video Recorder (NVR) receives video from supported IP cameras over a network. The appropriate choice depends on the installed cameras, available connections and system requirements."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install video recording systems in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides Video Monitoring & Recording Systems as part of its Security & Surveillance services. Projects can include recorder selection, storage planning, installation, configuration and agreed operational checks."
+          ]
+        },
+        {
+          "title": "How much does a CCTV recording system cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the type and capacity of recorder, number of camera channels, required storage, monitoring equipment, software licensing, installation conditions and additional features. An itemised quotation should identify the equipment and services included."
+          ]
+        },
+        {
+          "title": "How long can a CCTV recorder store footage?",
+          "paragraphs": [
+            "The retention period depends on camera count, recording bitrate, resolution, frame rate, compression, storage capacity and recording schedule. A required number of days should be specified so the equipment can be sized appropriately."
+          ]
+        },
+        {
+          "title": "Is a 1TB or 2TB hard drive enough for CCTV recording?",
+          "paragraphs": [
+            "There is no universal answer. Storage needs vary considerably between systems. A few cameras recording intermittently at modest bitrates may use much less storage than numerous high-resolution cameras recording continuously. Capacity should be estimated from the actual configuration."
+          ]
+        },
+        {
+          "title": "Can you set up 24-hour continuous video recording?",
+          "paragraphs": [
+            "Yes, where supported by the selected equipment and available storage. Continuous recording generally requires more storage than event-triggered recording, although actual consumption depends on the video settings and scene activity."
+          ]
+        },
+        {
+          "title": "Can CCTV systems record only when motion is detected?",
+          "paragraphs": [
+            "Many compatible recorders support motion-triggered or event-based recording. However, detection capabilities and reliability depend on the equipment and configuration. Event-based recording may not capture every incident, so the recording strategy must suit the security requirements."
+          ]
+        },
+        {
+          "title": "Can multiple CCTV cameras be viewed on one screen?",
+          "paragraphs": [
+            "Yes. Compatible video monitoring systems commonly provide multi-camera layouts. The number of simultaneous views depends on the selected recorder, monitoring platform, display arrangement and available processing capacity."
+          ]
+        },
+        {
+          "title": "Can I monitor CCTV footage remotely on my phone or computer?",
+          "paragraphs": [
+            "Many systems support remote viewing through compatible applications or video management platforms. Secure remote access requires suitable networking, authorised credentials and supported equipment features."
+          ]
+        },
+        {
+          "title": "Do video recording systems work without internet access?",
+          "paragraphs": [
+            "Many DVR and NVR systems can record footage locally without an internet connection. Local viewing may also remain available. Internet access is generally needed for remote features that depend on external connectivity."
+          ]
+        },
+        {
+          "title": "What happens to recordings during a power outage?",
+          "paragraphs": [
+            "A recording system normally stops operating when it loses power unless suitable backup power is provided. The cameras, recorder and any essential network equipment must all be considered when planning backup power."
+          ]
+        },
+        {
+          "title": "Can you connect new recording equipment to our existing CCTV cameras?",
+          "paragraphs": [
+            "Existing cameras can be assessed for compatibility with a replacement or additional recorder. The outcome depends on camera technology, supported protocols, recorder capabilities, software licensing and available network connections."
+          ]
+        },
+        {
+          "title": "Can we increase the recording capacity of an existing DVR or NVR?",
+          "paragraphs": [
+            "Some recorders support larger compatible drives or additional storage, subject to manufacturer limitations. Others may require replacement or a different architecture. Existing recording requirements and hardware specifications should be reviewed first."
+          ]
+        },
+        {
+          "title": "What is video management software?",
+          "paragraphs": [
+            "Video management software (VMS) is a platform used to organise and manage video from compatible surveillance cameras and recording systems. Depending on the product, it may provide live monitoring, playback, user administration, alarms, camera grouping and video export functions."
+          ]
+        },
+        {
+          "title": "Can different office locations be monitored from one place?",
+          "paragraphs": [
+            "Some surveillance platforms support centralised viewing or management across multiple sites. Implementation depends on camera and platform compatibility, network bandwidth, connectivity, security requirements and applicable software licensing."
+          ]
+        },
+        {
+          "title": "Can CCTV recordings be downloaded or exported?",
+          "paragraphs": [
+            "Many systems support authorised footage export to an appropriate file or storage device. Available formats, timestamps, integrity features and access restrictions vary by manufacturer. Evidence-handling requirements should be defined where recordings may be used in investigations."
+          ]
+        },
+        {
+          "title": "Can CCTV recordings be deleted or overwritten automatically?",
+          "paragraphs": [
+            "Many recorders can overwrite older recordings when available storage is exhausted, depending on their settings. Retention and deletion arrangements should align with the organisation's documented policy and applicable legal obligations."
+          ]
+        },
+        {
+          "title": "Is cloud video storage better than local NVR storage?",
+          "paragraphs": [
+            "Neither is automatically better for every site. Local recording may provide greater independence from internet connectivity, while cloud services may offer additional offsite access or retention features. Costs, bandwidth, security, licensing, data location and service availability must be considered."
+          ]
+        },
+        {
+          "title": "Can recorded security footage be accessed by any employee?",
+          "paragraphs": [
+            "Access should be restricted according to the organisation's authorised roles and legitimate operational requirements. Systems that support individual accounts and permissions can help limit viewing, exports and administrative changes."
+          ]
+        },
+        {
+          "title": "How should businesses handle CCTV video under Nigerian data protection law?",
+          "paragraphs": [
+            "Where recordings contain identifiable individuals, applicable personal data protection obligations may arise. Organisations should consider lawful and transparent processing, appropriate security controls, access restrictions and a justified retention policy under the Nigeria Data Protection Act 2023 and relevant guidance."
+          ]
+        },
+        {
+          "title": "Can video monitoring guarantee that every security incident will be captured?",
+          "paragraphs": [
+            "No. Recording may be affected by camera coverage, lighting, equipment failures, power loss, storage settings or other factors. A monitoring and recording solution should be evaluated as one part of a wider security arrangement."
+          ]
+        },
+        {
+          "title": "Do you provide recording system upgrades and maintenance?",
+          "paragraphs": [
+            "Existing recording systems can be assessed for suitable upgrades. Integrated Solutions Technology also offers Security System Maintenance & Upgrades, which can be discussed according to the installed equipment and agreed support requirements."
+          ]
+        },
+        {
+          "title": "What information do you need for a recording system quotation?",
+          "paragraphs": [
+            "Useful details include your property location, number and type of cameras, existing recorder model, desired retention period, remote-viewing needs, monitoring arrangements and whether backup power or multiple-site access is required."
+          ]
+        },
+        {
+          "title": "How do we get started with a video recording project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your surveillance requirements and any details of your existing CCTV infrastructure. We can review the needs and discuss appropriate recording, storage and monitoring options."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Video Recording Requirements"
+    },
+    "closing": {
+      "title": "Security Footage Is Valuable When You Can Use It.",
+      "paragraphs": [
+        "Whether you're installing a new recording system, expanding CCTV storage or improving how your team views and retrieves surveillance footage, Integrated Solutions Technology can help you plan a suitable solution."
+      ],
+      "primary": "Discuss Your Video Monitoring Project",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "maintenance": {
+    "name": "Security System Maintenance & Upgrades",
+    "hero": {
+      "title": "Your Security System Should Work When It Matters.",
+      "primary": "Request Security System Maintenance",
+      "secondary": "Explore Security Solutions"
+    },
+    "benefits": {
+      "title": "A Security System Is Only Useful When It Works.",
+      "paragraphs": [
+        "Regular checks can identify faulty cameras, missing recordings and unreliable access controls before they disrupt operations."
+      ],
+      "items": [
+        {
+          "title": "Maintain Surveillance Visibility",
+          "paragraphs": [
+            "Identify camera faults, obstructed views and image-quality problems that may affect the areas your system is intended to monitor."
+          ]
+        },
+        {
+          "title": "Check Recording & Access Functions",
+          "paragraphs": [
+            "Review relevant recording status, playback functionality and access-control operation to identify issues requiring corrective work."
+          ]
+        },
+        {
+          "title": "Address Ageing Equipment",
+          "paragraphs": [
+            "Assess whether faulty or unsupported components should be repaired, replaced or upgraded to meet current requirements."
+          ]
+        },
+        {
+          "title": "Plan Maintenance With Greater Confidence",
+          "paragraphs": [
+            "Maintain clearer records of inspections, identified faults, corrective actions and outstanding system recommendations."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Find the Fault. Understand the Cause. Make the Right Improvement.",
+      "paragraphs": [
+        "We help organisations investigate existing security infrastructure and determine appropriate maintenance or upgrade work."
+      ],
+      "entries": [
+        {
+          "title": "Security System Inspection & Diagnostics",
+          "tagline": "Know the Condition of Your Security System.",
+          "paragraphs": [
+            "A thorough review begins with understanding which devices are installed and the problems being experienced.",
+            "We assess relevant CCTV equipment, recording devices, access-control components, physical connections and available system alerts.",
+            "The findings help identify equipment faults, connectivity issues, unsuitable configurations and other conditions that may require maintenance or further investigation."
+          ],
+          "cta": "Request a Security System Assessment"
+        },
+        {
+          "title": "CCTV & Access Control Maintenance",
+          "tagline": "Keep Essential Security Functions Operating.",
+          "paragraphs": [
+            "Security cameras and controlled-entry equipment need appropriate inspection and servicing.",
+            "We review relevant camera views, recording status, access readers, controllers and compatible locking arrangements against the agreed maintenance scope.",
+            "Where necessary, corrective work may include appropriate cleaning, approved adjustments, connection repairs or replacement of supported components."
+          ],
+          "cta": "Discuss CCTV & Access Control Maintenance"
+        },
+        {
+          "title": "Security Equipment & System Upgrades",
+          "tagline": "Improve Existing Infrastructure Without Unnecessary Replacement.",
+          "paragraphs": [
+            "Some security systems can benefit from targeted upgrades rather than a complete new installation.",
+            "We assess opportunities to replace unsuitable cameras, expand recording capacity, upgrade compatible access devices or improve related equipment and configurations.",
+            "Recommendations consider existing system compatibility, manufacturer support, security requirements, equipment availability and the expected impact of the change."
+          ],
+          "cta": "Plan Your Security System Upgrade"
+        },
+        {
+          "title": "System Verification & Maintenance Handover",
+          "tagline": "Confirm the Work. Document What Has Changed.",
+          "paragraphs": [
+            "Completed maintenance should include appropriate checks of the functions affected by the work.",
+            "We review relevant camera operation, recording and playback, authorised access functions and system status according to the agreed requirements.",
+            "For access-controlled emergency exits or fire-alarm interfaces, testing must follow the approved life-safety arrangements and involve appropriately competent personnel.",
+            "The handover can include fault findings, replaced components, verification results and recommendations for future maintenance."
+          ],
+          "cta": "Discuss Security Maintenance Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technical Work Behind Dependable Protection.",
+      "paragraphs": [
+        "Explore the inspection, repair and upgrade activities involved in maintaining existing electronic security systems."
+      ],
+      "items": [
+        {
+          "title": "CCTV Camera Inspection & Servicing",
+          "paragraphs": [
+            "Assessing camera condition, mounting, connections, image quality and relevant operating functions."
+          ]
+        },
+        {
+          "title": "DVR, NVR & Recording System Maintenance",
+          "paragraphs": [
+            "Reviewing recorder health, recording schedules, storage alerts, playback functionality and relevant equipment conditions."
+          ]
+        },
+        {
+          "title": "Access Control Diagnostics & Maintenance",
+          "paragraphs": [
+            "Inspecting compatible access readers, controllers, door hardware and authorised entry functions."
+          ]
+        },
+        {
+          "title": "Security Equipment Replacement & Upgrades",
+          "paragraphs": [
+            "Replacing suitable cameras, recording components or access-control devices according to an approved upgrade plan."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Security Maintenance Project"
+    },
+    "faq": {
+      "title": "Your Security System Maintenance Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is security system maintenance?",
+          "paragraphs": [
+            "Security system maintenance involves inspecting, testing, servicing and correcting faults in electronic security equipment. It may include CCTV cameras, recording devices, access-control systems, supporting connections and related components."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology maintain existing CCTV and access control systems in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Security System Maintenance & Upgrades for existing security installations. Support for specific equipment depends on the system type, manufacturer, technical condition and agreed maintenance requirements."
+          ]
+        },
+        {
+          "title": "How much does security system maintenance cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number of devices, type of system, reported faults, site location, required replacement parts and maintenance scope. A routine inspection and a complex equipment repair may have very different costs."
+          ]
+        },
+        {
+          "title": "How often should CCTV systems be serviced?",
+          "paragraphs": [
+            "Maintenance frequency depends on the operating environment, manufacturer recommendations, equipment condition and how important the surveillance system is to the property. Outdoor cameras, high-use systems and critical surveillance environments may need more frequent checks."
+          ]
+        },
+        {
+          "title": "Why is my CCTV camera showing a black screen or no video?",
+          "paragraphs": [
+            "Possible causes include power problems, faulty cabling, network issues, damaged camera hardware, incompatible settings or recording equipment faults. The correct solution depends on identifying where the video connection is failing."
+          ]
+        },
+        {
+          "title": "Can you repair a CCTV camera that has stopped working?",
+          "paragraphs": [
+            "A faulty camera can be assessed for suitable corrective action. Some problems may involve connections or configuration, while others require component servicing or complete camera replacement. Repair feasibility depends on the camera model and fault."
+          ]
+        },
+        {
+          "title": "Why has my CCTV system stopped recording?",
+          "paragraphs": [
+            "Recording may stop because of storage faults, full or unavailable drives, configuration changes, recorder failures, camera disconnections or power problems. The system should be checked before replacing equipment."
+          ]
+        },
+        {
+          "title": "Can you replace a faulty DVR or NVR hard drive?",
+          "paragraphs": [
+            "Compatible surveillance drives may be replaced after reviewing the recorder specifications and existing storage configuration. Any available recordings, backup requirements and risk of footage loss should be assessed before the work begins."
+          ]
+        },
+        {
+          "title": "Can you improve the picture quality of existing CCTV cameras?",
+          "paragraphs": [
+            "Sometimes. Image quality may improve through appropriate cleaning, focus adjustments, viewing-angle changes, lighting improvements or compatible configuration changes. However, equipment resolution and optical limitations may require a camera upgrade."
+          ]
+        },
+        {
+          "title": "Can you upgrade an old CCTV system without replacing all the cameras?",
+          "paragraphs": [
+            "Some systems support partial upgrades, depending on camera technology, cabling, recorder capabilities and compatibility. An assessment helps establish whether existing components can be retained or need replacement."
+          ]
+        },
+        {
+          "title": "Can you add more cameras to our existing CCTV system?",
+          "paragraphs": [
+            "Additional cameras may be possible if the recorder, network, power supply and storage infrastructure have suitable capacity. Where these limits have been reached, supporting equipment may need expansion or replacement."
+          ]
+        },
+        {
+          "title": "Can you fix CCTV remote viewing that has stopped working?",
+          "paragraphs": [
+            "Remote access problems may involve internet connectivity, mobile application changes, account permissions, router configuration or recorder settings. Troubleshooting should review the relevant connection and security requirements."
+          ]
+        },
+        {
+          "title": "Do CCTV cameras need firmware updates?",
+          "paragraphs": [
+            "Supported firmware updates may address vulnerabilities, bugs or compatibility issues. Updates should be selected for the exact equipment model and installed using manufacturer-supported procedures, with necessary configuration backups and testing."
+          ]
+        },
+        {
+          "title": "Can you maintain biometric and RFID access control systems?",
+          "paragraphs": [
+            "Compatible biometric readers, RFID card readers, controllers and locking hardware can be considered for maintenance. The specific work depends on system architecture, device condition and authorised access to its management functions."
+          ]
+        },
+        {
+          "title": "Why is an access control door not unlocking?",
+          "paragraphs": [
+            "Possible causes include credential permissions, reader faults, controller communication problems, power-supply issues or locking hardware failures. Where the door forms part of an emergency escape route, any fault must be assessed promptly in accordance with applicable safety arrangements."
+          ]
+        },
+        {
+          "title": "What happens if an electronic door lock fails during a power outage?",
+          "paragraphs": [
+            "Behaviour depends on the lock type, backup power arrangement and door hardware. A compliant emergency escape arrangement must not be compromised during maintenance or repair. The correct response requires a review of the specific door and approved safety design."
+          ]
+        },
+        {
+          "title": "Can you upgrade access control readers without replacing the entire system?",
+          "paragraphs": [
+            "It may be possible to replace compatible readers or credentials while retaining some existing controllers and wiring. Communication protocols, power requirements, manufacturer support and security features must be checked first."
+          ]
+        },
+        {
+          "title": "Can maintenance be performed while security systems remain operational?",
+          "paragraphs": [
+            "Some inspections and non-intrusive checks may be completed without interrupting service. Equipment replacement, firmware updates, network changes or door-lock work may require authorised maintenance windows and temporary security arrangements."
+          ]
+        },
+        {
+          "title": "Can you service security systems installed by another contractor?",
+          "paragraphs": [
+            "Existing third-party installations can be assessed, subject to equipment condition, available documentation, administrative access and manufacturer restrictions. Support for every product or proprietary system cannot be assumed."
+          ]
+        },
+        {
+          "title": "Do you provide preventive security maintenance contracts?",
+          "paragraphs": [
+            "Planned maintenance arrangements can be discussed according to the number of sites, equipment, inspection requirements and support needs. Any recurring schedule, response commitment or service-level agreement must be confirmed in writing."
+          ]
+        },
+        {
+          "title": "Can you provide emergency or 24-hour security system repair?",
+          "paragraphs": [
+            "Response availability depends on the support agreement, site location and technical resources. Emergency attendance and 24-hour support should be explicitly agreed rather than assumed."
+          ]
+        },
+        {
+          "title": "Will maintenance erase our CCTV recordings or access logs?",
+          "paragraphs": [
+            "Not necessarily, but some repairs, drive replacements, resets or software changes can affect stored footage or records. Relevant data retention, backup and preservation requirements should be reviewed before intrusive work."
+          ]
+        },
+        {
+          "title": "How long does security system repair or maintenance take?",
+          "paragraphs": [
+            "The timeframe depends on the reported problem, equipment quantities, fault diagnosis, replacement-part availability, system complexity and approved access arrangements. A technical assessment helps establish the appropriate work and schedule."
+          ]
+        },
+        {
+          "title": "Will you provide a report after servicing our security system?",
+          "paragraphs": [
+            "An agreed maintenance report may include inspected equipment, identified faults, corrective actions, replaced parts, verification results and outstanding recommendations."
+          ]
+        },
+        {
+          "title": "What information do you need for a security system maintenance quotation?",
+          "paragraphs": [
+            "Useful details include the property location, system type, equipment manufacturer and models, number of cameras or controlled doors, reported faults and whether access is available to the system configuration."
+          ]
+        },
+        {
+          "title": "How do we get started with security system maintenance?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with information about your installed security equipment and the problem or maintenance requirement. We can review the details and discuss the appropriate assessment and support scope."
+          ]
+        }
+      ],
+      "cta": "Request Security System Maintenance"
+    },
+    "closing": {
+      "title": "Security Doesn't End When Installation Is Complete.",
+      "paragraphs": [
+        "Whether you're dealing with faulty cameras, recording problems, unreliable access control or ageing security equipment, Integrated Solutions Technology can help you assess your system and plan the maintenance or upgrades it needs."
+      ],
+      "primary": "Request Security System Maintenance",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "fire": {
+    "name": "Fire Alarm & Safety Systems",
+    "hero": {
+      "title": "Early Warning Matters. Every Second Counts.",
+      "primary": "Discuss Your Fire Alarm Project",
+      "secondary": "Explore Security & Safety Solutions"
+    },
+    "benefits": {
+      "title": "Fire Safety Requires More Than an Alarm on the Wall.",
+      "paragraphs": [
+        "Equipment selection, detector locations, notification coverage and emergency interfaces all need careful consideration."
+      ],
+      "items": [
+        {
+          "title": "Earlier Fire Detection",
+          "paragraphs": [
+            "Use appropriate detection devices in locations determined by the building's fire risk assessment and approved fire alarm design."
+          ]
+        },
+        {
+          "title": "Effective Occupant Warning",
+          "paragraphs": [
+            "Provide suitable audible and, where required, visual notifications that support the intended evacuation strategy."
+          ]
+        },
+        {
+          "title": "Clearer System Monitoring",
+          "paragraphs": [
+            "Use appropriate alarm control and indication equipment to identify relevant fire, fault and supervisory conditions."
+          ]
+        },
+        {
+          "title": "Better Safety Preparedness",
+          "paragraphs": [
+            "Support ongoing inspection, testing and maintenance through accessible equipment, documentation and defined operational responsibilities."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Detector, Alarm and Connection Has a Safety Purpose.",
+      "paragraphs": [
+        "We help organisations assess technical requirements and coordinate appropriately qualified design, installation and commissioning work according to the agreed project and applicable safety requirements."
+      ],
+      "entries": [
+        {
+          "title": "Fire Alarm Assessment & System Planning",
+          "tagline": "Establish the Requirements Before Selecting Devices.",
+          "paragraphs": [
+            "A fire detection and alarm system should be based on the premises, occupancy, risk assessment and applicable regulatory requirements.",
+            "We review the building layout, intended use, existing fire safety infrastructure and the project documentation available.",
+            "This helps identify the design information, equipment requirements, interfaces and specialist fire-safety approvals that must be addressed before implementation."
+          ],
+          "cta": "Discuss Your Fire Alarm Requirements"
+        },
+        {
+          "title": "Conventional & Addressable Fire Alarm Solutions",
+          "tagline": "Choose the System Architecture That Fits the Building.",
+          "paragraphs": [
+            "Conventional and addressable fire alarm systems provide different methods of identifying and managing alarm conditions.",
+            "We help evaluate suitable control panels, detector arrangements, manual call points and notification devices for the approved design.",
+            "Selection considers building size, zoning requirements, compatible equipment, system monitoring needs, expansion requirements and applicable standards."
+          ],
+          "cta": "Explore Fire Alarm System Options"
+        },
+        {
+          "title": "Fire Detection & Alarm Equipment Installation",
+          "tagline": "Install Equipment According to the Approved Fire Safety Design.",
+          "paragraphs": [
+            "Fire alarm equipment must be correctly selected, positioned, connected and protected.",
+            "The installation scope may include compatible smoke and heat detectors, manual call points, alarm sounders, visual notification devices, fire alarm control panels and supporting cabling.",
+            "Installation and any interface with emergency exits or other fire safety systems must follow the approved design and be performed by appropriately competent personnel."
+          ],
+          "cta": "Discuss Fire Alarm Installation"
+        },
+        {
+          "title": "Commissioning, Testing & Technical Handover",
+          "tagline": "A Fire Alarm Installation Is Not Complete Until It Is Properly Verified.",
+          "paragraphs": [
+            "Fire detection and alarm systems require formal commissioning and acceptance procedures appropriate to the applicable standards and project requirements.",
+            "The agreed scope should address detector and manual call point operation, notification functions, power and standby arrangements, fault indications and relevant system interfaces.",
+            "Commissioning records, applicable certification, operating instructions and maintenance responsibilities should be established before the completed system is handed over."
+          ],
+          "cta": "Discuss Fire Alarm Commissioning"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Systems Behind an Effective Fire Warning.",
+      "paragraphs": [
+        "Explore the equipment and technical activities involved in building fire detection and alarm infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Smoke & Heat Detection Devices",
+          "paragraphs": [
+            "Appropriate detectors selected and positioned according to the building's risk profile and approved design."
+          ]
+        },
+        {
+          "title": "Fire Alarm Control Panels",
+          "paragraphs": [
+            "Compatible conventional or addressable control equipment used to receive, indicate and manage relevant alarm and fault signals."
+          ]
+        },
+        {
+          "title": "Manual Call Points & Alarm Notification",
+          "paragraphs": [
+            "Suitable manual activation devices, audible alarm sounders and visual notification equipment installed at approved locations."
+          ]
+        },
+        {
+          "title": "Fire Alarm Inspection & Commissioning",
+          "paragraphs": [
+            "Competent personnel checking equipment operation, system indications, notification functions and relevant safety interfaces against the approved requirements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Fire Detection Project"
+    },
+    "faq": {
+      "title": "Your Fire Alarm System Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is a fire alarm system?",
+          "paragraphs": [
+            "A fire alarm system is an arrangement of compatible equipment designed to detect or receive an indication of fire and provide appropriate warning or signalling. It may include detectors, manual call points, control panels, notification devices, power supplies and related interfaces."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide fire alarm installation services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology lists Fire Alarm & Safety Systems within its Security & Surveillance services. The precise design, installation, specialist subcontracting, commissioning and approval responsibilities must be established for each project before work is agreed."
+          ]
+        },
+        {
+          "title": "How much does fire alarm installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on building size and use, required detection coverage, system category, number of devices, control-panel specification, cabling, interfaces, standby power and commissioning requirements. An approved design or suitably qualified assessment is needed to prepare an appropriate quotation."
+          ]
+        },
+        {
+          "title": "What is the difference between a conventional and an addressable fire alarm system?",
+          "paragraphs": [
+            "A conventional system generally identifies an alarm through the circuit or zone associated with the activated device.",
+            "An addressable system can provide information about individual compatible devices through a suitable control panel. The preferred architecture depends on the building's needs, approved design and system specification."
+          ]
+        },
+        {
+          "title": "What is the difference between smoke and heat detectors?",
+          "paragraphs": [
+            "Smoke detectors respond to specified smoke characteristics, while heat detectors respond to temperature conditions according to their operating principle. Each has particular applications and limitations. The correct device must be selected according to the environment and applicable design requirements."
+          ]
+        },
+        {
+          "title": "How many smoke detectors does an office need?",
+          "paragraphs": [
+            "There is no reliable universal number based only on floor area. Detector requirements depend on the building's layout, occupancy, fire risk assessment, ceiling conditions, applicable standards and the approved system design."
+          ]
+        },
+        {
+          "title": "What is a manual call point?",
+          "paragraphs": [
+            "A manual call point allows a person to activate a fire alarm system when they discover a fire or another condition requiring alarm activation under the site's procedures. Its location and installation must follow the relevant design and safety requirements."
+          ]
+        },
+        {
+          "title": "Do fire alarms require sounders and flashing lights?",
+          "paragraphs": [
+            "The required alarm notification arrangements depend on the building, occupancy and evacuation strategy. Audible signals are common, while visual notification devices or other arrangements may be necessary for particular environments and accessibility needs."
+          ]
+        },
+        {
+          "title": "Can fire alarms work during a power outage?",
+          "paragraphs": [
+            "Properly specified fire alarm systems include standby power arrangements suited to the applicable standards and design requirements. Actual standby performance depends on the power supply, battery condition and system load."
+          ]
+        },
+        {
+          "title": "Can fire alarm systems connect to access-controlled doors?",
+          "paragraphs": [
+            "Where required, fire alarm systems may interface with appropriate access-control equipment to support safe emergency escape. The release behaviour and interface must follow the approved fire and life-safety design and be verified by competent personnel."
+          ]
+        },
+        {
+          "title": "Can a fire alarm connect to a building management system?",
+          "paragraphs": [
+            "Some compatible systems support monitoring or integration through approved interfaces. Integration must not compromise required fire alarm functions, fault supervision, independence or the system's applicable approvals."
+          ]
+        },
+        {
+          "title": "Does a fire alarm system automatically extinguish a fire?",
+          "paragraphs": [
+            "No. A fire detection and alarm system primarily provides detection, indication and warning functions. Fire suppression systems perform a different role. Any connection between them requires appropriate specialist design and verification."
+          ]
+        },
+        {
+          "title": "What is fire alarm commissioning?",
+          "paragraphs": [
+            "Commissioning is the structured process of checking that the installed system operates as specified. It includes relevant device tests, system indications, notification functions, power arrangements and interfaces, with appropriate records produced for acceptance and handover."
+          ]
+        },
+        {
+          "title": "How often should fire alarm systems be tested?",
+          "paragraphs": [
+            "Testing and maintenance intervals depend on the applicable standards, approved design, local requirements, equipment instructions and building responsibilities. The owner or responsible person should establish and follow an appropriate documented inspection and maintenance programme."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing fire alarm system?",
+          "paragraphs": [
+            "Existing systems can be assessed for modification, extension or replacement. Any proposed change must consider compatibility, system capacity, continued protection, applicable standards and the potential effects on the building's fire safety strategy."
+          ]
+        },
+        {
+          "title": "What happens if a fire alarm panel displays a fault?",
+          "paragraphs": [
+            "A fault indication can relate to devices, wiring, power supplies, communications or other monitored conditions. It should be investigated promptly through competent maintenance procedures. Silencing a fault indication does not mean the underlying problem has been resolved."
+          ]
+        },
+        {
+          "title": "Are fire alarm systems mandatory in commercial buildings in Nigeria?",
+          "paragraphs": [
+            "Requirements vary according to the building's use, occupancy, size, location and applicable regulatory approvals. Nigerian building regulations and relevant state fire-safety authorities may require particular detection and alarm provisions. The property owner should confirm the requirements with qualified fire-safety professionals and the appropriate authority."
+          ]
+        },
+        {
+          "title": "Which standards apply to fire alarm installation?",
+          "paragraphs": [
+            "Project teams may use BS 5839-1:2025 or NFPA 72 as technical references. A qualified fire safety professional should confirm which standards, editions and Nigerian regulatory requirements apply to the project."
+          ]
+        },
+        {
+          "title": "Can you provide fire alarm certification and compliance approval?",
+          "paragraphs": [
+            "Any required certification, inspection or statutory approval must be provided or issued by an appropriately authorised and competent party. The documentation and authority responsibilities should be confirmed before the project begins. Equipment installation alone does not establish regulatory compliance."
+          ]
+        },
+        {
+          "title": "Can you install fire alarms in warehouses and industrial facilities?",
+          "paragraphs": [
+            "Fire detection and alarm arrangements can be developed for these environments, but device selection must consider the actual risks, operating conditions and building design. High ceilings, dust, heat or specialised processes may require particular detection approaches."
+          ]
+        },
+        {
+          "title": "Do fire alarm systems need maintenance after installation?",
+          "paragraphs": [
+            "Yes. Fire alarm systems require inspection, testing and maintenance according to the applicable safety requirements and manufacturer instructions. An appropriate maintenance plan should form part of operational handover."
+          ]
+        },
+        {
+          "title": "How long does a fire alarm installation project take?",
+          "paragraphs": [
+            "The timeframe depends on design approval, building complexity, equipment availability, cabling, number of devices, interfaces, site access, commissioning and any required authority inspections. A reliable schedule follows confirmation of the approved scope."
+          ]
+        },
+        {
+          "title": "What information is needed for a fire alarm quotation?",
+          "paragraphs": [
+            "Useful details include the property location, building use, number of floors, floor plans, occupancy, existing fire safety design or risk assessment, required approvals and whether an existing alarm system is installed."
+          ]
+        },
+        {
+          "title": "How do we get started with a fire alarm project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with information about your building and the fire alarm requirements. We can review the initial details and identify the specialist assessment, design and implementation arrangements needed for the project."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Fire Alarm & Safety Requirements"
+    },
+    "closing": {
+      "title": "Fire Safety Deserves the Right Design and the Right Expertise.",
+      "paragraphs": [
+        "Whether you're developing a new commercial building, reviewing an existing alarm installation or planning a system upgrade, Integrated Solutions Technology can help you discuss the technical requirements and appropriate next steps with qualified fire-safety specialists."
+      ],
+      "primary": "Discuss Your Fire Alarm Project",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "gates": {
+    "name": "Automated Door & Gate Systems",
+    "hero": {
+      "title": "Smarter Access. Effortless Movement. Greater Control.",
+      "primary": "Book an Automation Consultation",
+      "secondary": "Explore Security Solutions"
+    },
+    "benefits": {
+      "title": "Better Access Begins With the Right Movement.",
+      "paragraphs": [
+        "The right automation system should make everyday movement easier while accounting for the physical environment, usage requirements and safety of people nearby."
+      ],
+      "items": [
+        {
+          "title": "Greater Everyday Convenience",
+          "paragraphs": [
+            "Operate suitable gates and doors using compatible controls without relying entirely on manual opening and closing."
+          ]
+        },
+        {
+          "title": "More Controlled Entry",
+          "paragraphs": [
+            "Combine appropriate automation equipment with supported access credentials, intercoms or authorised entry systems."
+          ]
+        },
+        {
+          "title": "Equipment Matched to Your Property",
+          "paragraphs": [
+            "Select suitable operators based on door or gate construction, dimensions, movement requirements and expected usage."
+          ]
+        },
+        {
+          "title": "Safety Considered From the Start",
+          "paragraphs": [
+            "Plan appropriate sensors, protective devices, emergency arrangements and maintenance requirements around the installation's risks."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Opening Is Different. Every Installation Needs the Right Design.",
+      "paragraphs": [
+        "We help customers assess their requirements and plan suitable automation installations."
+      ],
+      "entries": [
+        {
+          "title": "Site Assessment & Automation Planning",
+          "tagline": "Understand the Entrance Before Choosing the Operator.",
+          "paragraphs": [
+            "The installation begins with a review of the existing door or gate and how people or vehicles use it.",
+            "We assess the opening type, movement path, structural condition, approximate weight, available power, operating frequency and relevant safety hazards.",
+            "This helps determine whether automation is practical, what preparatory work may be required and which equipment specifications should be considered."
+          ],
+          "cta": "Discuss Your Automation Requirements"
+        },
+        {
+          "title": "Automatic Sliding & Swing Gate Systems",
+          "tagline": "Make Vehicle Entry More Convenient and Controlled.",
+          "paragraphs": [
+            "Residential compounds, estates and business premises may benefit from suitably designed motorised gate systems.",
+            "We help assess compatible sliding gate motors, swing gate operators, controllers and supporting accessories according to the gate's construction and operating requirements.",
+            "The proposed installation considers mechanical stability, movement clearances, protective devices, operating controls and suitable power arrangements."
+          ],
+          "cta": "Plan Your Automated Gate Installation"
+        },
+        {
+          "title": "Automatic Pedestrian Doors & Access Integration",
+          "tagline": "Simplify Entry Into Busy Building Spaces.",
+          "paragraphs": [
+            "Automatic pedestrian doors can make selected entrances easier to use, particularly where people move frequently between spaces.",
+            "We help evaluate suitable automatic sliding or swing door operators, activation sensors and compatible access-control interfaces.",
+            "The design must consider pedestrian safety, accessibility, traffic flow, emergency escape and any applicable fire-door or building requirements."
+          ],
+          "cta": "Discuss Automatic Door Solutions"
+        },
+        {
+          "title": "Safety Verification, Operator Setup & Handover",
+          "tagline": "Automation Must Be Checked Before Everyday Use.",
+          "paragraphs": [
+            "After installation, the complete moving system requires appropriate commissioning and safety verification.",
+            "The agreed work should address relevant travel limits, control functions, safety sensors, protective measures, emergency release and operation during power failure.",
+            "Where force limitation is relied upon, suitable objective testing must be carried out by competent personnel using the applicable procedures.",
+            "Handover should include user instructions, emergency procedures and maintenance recommendations."
+          ],
+          "cta": "Discuss Automation Commissioning"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Technology That Fits the Entrance.",
+      "paragraphs": [
+        "Explore suitable automation arrangements for residential and commercial properties."
+      ],
+      "items": [
+        {
+          "title": "Residential Sliding Gate Automation",
+          "paragraphs": [
+            "Motorised sliding gate arrangements for suitable compounds and entrances with adequate movement space and protective measures."
+          ]
+        },
+        {
+          "title": "Automatic Swing Gate Operators",
+          "paragraphs": [
+            "Compatible swing gate equipment selected for appropriate gate weight, geometry, mounting conditions and opening requirements."
+          ]
+        },
+        {
+          "title": "Commercial Automatic Entrance Doors",
+          "paragraphs": [
+            "Powered pedestrian door systems intended to support appropriate movement through offices, retail spaces and other building entrances."
+          ]
+        },
+        {
+          "title": "Access Controls & Safety Devices",
+          "paragraphs": [
+            "Compatible controllers, activation devices, safety sensors and emergency-release arrangements installed as part of the approved system design."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Automated Entry Project"
+    },
+    "faq": {
+      "title": "Your Gate & Door Automation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is an automated gate system?",
+          "paragraphs": [
+            "An automated gate system uses a compatible motor, controller and related components to open and close a suitable gate. Operation may be initiated through authorised remotes, keypads, access-control devices or other supported controls."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install automated gates in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Automated Door & Gate Systems within its Security & Surveillance services. Each project requires assessment of the gate or door, applicable installation capabilities, equipment suitability and safety requirements before implementation."
+          ]
+        },
+        {
+          "title": "How much does automatic gate installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on whether the gate slides or swings, its size and weight, mechanical condition, selected motor, control devices, safety equipment, civil works and available power. A site assessment is needed for a suitable quotation."
+          ]
+        },
+        {
+          "title": "Can you automate my existing manual gate?",
+          "paragraphs": [
+            "Many existing gates can be considered for automation, but not every gate is suitable in its current condition. Hinges, wheels, tracks, supporting structures, alignment, movement clearances and overall mechanical strength may need attention before an operator is fitted."
+          ]
+        },
+        {
+          "title": "Which is better: a sliding gate or a swing gate?",
+          "paragraphs": [
+            "Neither is automatically better. Sliding gates need suitable lateral travel space and supporting infrastructure, while swing gates require adequate opening clearance and compatible hinges or supports. The best option depends on the entrance, terrain, traffic and safety requirements."
+          ]
+        },
+        {
+          "title": "Can automatic gates open with a remote control?",
+          "paragraphs": [
+            "Many compatible systems support handheld radio remotes or other authorised controls. The available operating methods depend on the selected controller and security requirements."
+          ]
+        },
+        {
+          "title": "Can an automatic gate work during a power outage?",
+          "paragraphs": [
+            "Some systems support suitable battery backup arrangements, while others provide manual release for operation when electrical power is unavailable. Backup performance and manual operation depend on the exact equipment and installation."
+          ]
+        },
+        {
+          "title": "What prevents an automatic gate from closing on someone or a vehicle?",
+          "paragraphs": [
+            "A properly assessed powered-gate system may use protective measures such as appropriate safety edges, photoelectric devices, guarding and force limitation. No single sensor arrangement is suitable for every installation. The combined safety design must address foreseeable crushing, trapping and impact hazards."
+          ]
+        },
+        {
+          "title": "Are photocell sensors enough to make an automatic gate safe?",
+          "paragraphs": [
+            "Not necessarily. Photoelectric beams may detect certain obstructions, but their positioning and capabilities can leave other hazards unaddressed. A site-specific risk assessment determines which protective measures are required."
+          ]
+        },
+        {
+          "title": "Can you connect automatic gates to an access control system?",
+          "paragraphs": [
+            "Compatible controllers may support authorised inputs from card readers, keypads, intercoms and other access-control equipment. The design should account for security, electrical compatibility, safe movement and emergency arrangements."
+          ]
+        },
+        {
+          "title": "Can you install automatic doors for offices and commercial buildings?",
+          "paragraphs": [
+            "Suitable automatic sliding or swing pedestrian door systems can be assessed for commercial facilities. The installation must consider traffic flow, accessibility, activation and safety sensors, and relevant building and emergency escape requirements."
+          ]
+        },
+        {
+          "title": "Can automatic pedestrian doors be used on emergency escape routes?",
+          "paragraphs": [
+            "Only where the complete arrangement is appropriate for the escape route and complies with the applicable approved fire and life-safety design. Automatic opening behaviour, backup arrangements and other safeguards require specialist verification."
+          ]
+        },
+        {
+          "title": "Can I operate an automated gate from my phone?",
+          "paragraphs": [
+            "Some compatible systems support smartphone control through suitable connected controllers or applications. Network availability, user permissions, cybersecurity and secure operating arrangements should be assessed before enabling remote operation."
+          ]
+        },
+        {
+          "title": "Can you automate a very heavy gate?",
+          "paragraphs": [
+            "Heavy gates may be automated only if the gate structure, supports, operator capacity and protective arrangements are suitable. Motor selection must follow manufacturer specifications and a competent assessment of the complete installation."
+          ]
+        },
+        {
+          "title": "Do automatic gates require maintenance?",
+          "paragraphs": [
+            "Yes. Moving components, motors, mounting arrangements, safety devices, electrical connections and manual-release mechanisms need appropriate inspection and servicing. Maintenance intervals depend on usage, environmental conditions and manufacturer guidance."
+          ]
+        },
+        {
+          "title": "Can you repair or upgrade an existing automated gate?",
+          "paragraphs": [
+            "Existing automation systems can be assessed for faults, suitable component replacement or upgrades. Older installations may need additional safety improvements rather than motor replacement alone."
+          ]
+        },
+        {
+          "title": "How long does gate automation installation take?",
+          "paragraphs": [
+            "The timeframe depends on the existing structure, mechanical modifications, electrical preparation, equipment availability, installation complexity and commissioning requirements. A realistic schedule follows assessment of the entrance and agreed scope."
+          ]
+        },
+        {
+          "title": "What happens if someone becomes trapped by a moving gate?",
+          "paragraphs": [
+            "The system should have appropriate protective and emergency arrangements established through its risk assessment. Authorised users must understand emergency stopping and release procedures. A gate presenting an immediate trapping hazard should be taken out of use until it can be made safe by competent personnel."
+          ]
+        },
+        {
+          "title": "Are automated gates safe for homes with children?",
+          "paragraphs": [
+            "Powered gates can pose serious crushing and trapping hazards, particularly to children. They must be assessed for foreseeable use and misuse, with suitable guarding, detection, force controls and emergency provisions. Adult supervision does not replace a safe design."
+          ]
+        },
+        {
+          "title": "Do you supply automatic gate motors and accessories?",
+          "paragraphs": [
+            "Compatible motors, controllers, remotes, sensors and other accessories can be considered within the procurement scope, subject to availability, technical suitability and agreed installation requirements."
+          ]
+        },
+        {
+          "title": "What information is needed for an automated gate quotation?",
+          "paragraphs": [
+            "Useful details include your property location, gate type, approximate width and height, existing operating condition, preferred control method, available power and any relevant site restrictions. Photographs may help with an initial assessment."
+          ]
+        },
+        {
+          "title": "How do we get started with an automated door or gate project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of the entrance and the type of automation you need. We can review the initial requirements and identify the site assessment, equipment and specialist work necessary for a suitable proposal."
+          ]
+        }
+      ],
+      "cta": "Book Your Door & Gate Automation Consultation"
+    },
+    "closing": {
+      "title": "A Better Entry Experience Starts With the Right Automation.",
+      "paragraphs": [
+        "Whether you're automating a residential gate, improving vehicle access at a commercial property or introducing automatic pedestrian doors, Integrated Solutions Technology can help you assess the requirements and plan a suitable solution."
+      ],
+      "primary": "Book an Automation Consultation",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  },
+  "mantrap": {
+    "name": "Mantrap Door Installation & Servicing",
+    "hero": {
+      "title": "Controlled Entry for Spaces That Demand More Security.",
+      "primary": "Discuss Your Mantrap Door Project",
+      "secondary": "Explore Access Control Solutions"
+    },
+    "benefits": {
+      "title": "Two Doors. One Controlled Entry Process.",
+      "paragraphs": [
+        "A controlled entrance should manage authorised access and allow occupants to leave safely during an emergency."
+      ],
+      "items": [
+        {
+          "title": "More Controlled Entry",
+          "paragraphs": [
+            "Manage passage between two interlocked doors according to an approved access sequence."
+          ]
+        },
+        {
+          "title": "Stronger Restricted-Area Protection",
+          "paragraphs": [
+            "Add a controlled transition between public or general-access spaces and designated sensitive areas."
+          ]
+        },
+        {
+          "title": "Integration With Access Credentials",
+          "paragraphs": [
+            "Use suitable card readers, PIN systems or other approved verification methods with compatible interlock equipment."
+          ]
+        },
+        {
+          "title": "Clearer Access Procedures",
+          "paragraphs": [
+            "Support defined entry rules, authorised overrides and appropriate event reporting where the selected system allows."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Entry Sequence Needs the Right Controls.",
+      "paragraphs": [
+        "We help organisations assess their requirements and plan appropriate specialist implementation and servicing activities."
+      ],
+      "entries": [
+        {
+          "title": "Mantrap Site Assessment & Security Planning",
+          "tagline": "Understand the Entry Point Before Designing the System.",
+          "paragraphs": [
+            "Controlled-entry requirements depend on the facility, the people using it and the spaces being protected.",
+            "We review the intended location, existing door construction, expected pedestrian flow, access permissions and relevant building conditions.",
+            "The assessment also identifies whether the proposed arrangement affects emergency escape routes, accessibility, fire-rated doors or other building-safety requirements that must be resolved before installation."
+          ],
+          "cta": "Discuss Your Security Entrance Requirements"
+        },
+        {
+          "title": "Interlocking Door Control & Access Integration",
+          "tagline": "Coordinate How Each Door Opens and Closes.",
+          "paragraphs": [
+            "The interlock controller is central to how a mantrap operates.",
+            "We help assess compatible door-position monitoring, locking arrangements, access readers and control interfaces according to the approved system requirements.",
+            "The proposed operating sequence considers authorised entry, door status, access permissions, fault conditions and the appropriate emergency override behaviour."
+          ],
+          "cta": "Explore Mantrap Control Options"
+        },
+        {
+          "title": "Mantrap Door Equipment Installation",
+          "tagline": "Bring the Door Hardware and Control System Together.",
+          "paragraphs": [
+            "A functioning interlock requires suitable physical doors, locks, sensors, wiring and control equipment.",
+            "The installation scope may include compatible door-position sensors, electronic locking hardware, control panels, credential readers and supporting connections.",
+            "Equipment selection and installation must follow the approved design, door manufacturer requirements, accessibility provisions and applicable fire and life-safety arrangements."
+          ],
+          "cta": "Discuss Mantrap Installation"
+        },
+        {
+          "title": "Interlock Testing, Servicing & Handover",
+          "tagline": "Keep Entry Controlled Without Compromising Safe Exit.",
+          "paragraphs": [
+            "A mantrap system requires verification of the complete door sequence, not simply a check that each lock operates.",
+            "Agreed commissioning should address interlock logic, door-position detection, authorised access, fault indications and emergency-release behaviour.",
+            "For existing systems, servicing may involve compatible hardware inspection, controller diagnostics, sensor adjustment and review of approved safety interfaces.",
+            "Testing of fire-alarm and escape functions must involve appropriately competent personnel and follow the building's approved safety strategy."
+          ],
+          "cta": "Discuss Mantrap Testing & Servicing"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "An Organised Transition Into Restricted Spaces.",
+      "paragraphs": [
+        "Explore the physical infrastructure and control equipment used in specialist interlocking-door installations."
+      ],
+      "items": [
+        {
+          "title": "Interlocking Security Door Entrances",
+          "paragraphs": [
+            "Two controlled doors forming a secure vestibule between general-access and restricted areas."
+          ]
+        },
+        {
+          "title": "Data Centre & Server Room Entry",
+          "paragraphs": [
+            "Controlled passage arrangements designed around access to sensitive computing and infrastructure spaces."
+          ]
+        },
+        {
+          "title": "Access Readers & Interlock Controllers",
+          "paragraphs": [
+            "Compatible credential readers, door-status devices and control equipment managing the approved entry sequence."
+          ]
+        },
+        {
+          "title": "Mantrap Servicing & Functional Verification",
+          "paragraphs": [
+            "Inspection and checking of relevant door hardware, interlock functions, access controls and emergency-release arrangements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Mantrap Door Requirements"
+    },
+    "faq": {
+      "title": "Your Mantrap Door Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is a mantrap door system?",
+          "paragraphs": [
+            "A mantrap door system is a controlled passage, commonly formed by two interlocked doors, used to manage access to a restricted area. Under normal security operation, the control system prevents both doors from being released simultaneously."
+          ]
+        },
+        {
+          "title": "How does a mantrap door work?",
+          "paragraphs": [
+            "An authorised person enters through the first door into an intermediate space. The first door closes and reaches the required secured state before the second door is permitted to open. The exact sequence depends on the equipment, configuration and security policy.",
+            "Emergency operation must be designed separately so the interlock does not prevent safe escape."
+          ]
+        },
+        {
+          "title": "What is the difference between a mantrap and a normal access control door?",
+          "paragraphs": [
+            "A conventional access-controlled door determines whether a credential permits entry through one opening. A mantrap also coordinates access through multiple doors, adding a controlled transition before entry into a restricted area."
+          ]
+        },
+        {
+          "title": "Where are mantrap doors commonly installed?",
+          "paragraphs": [
+            "Mantrap systems may be used at data centres, server rooms, financial facilities, high-security offices and other locations requiring additional control over entry into sensitive spaces.",
+            "Their suitability depends on security risk, occupancy, expected traffic and the building's emergency escape arrangements."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide mantrap door installation in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Mantrap Door Installation & Servicing as part of its Security & Surveillance services. The particular equipment, installation responsibilities, specialist expertise and safety requirements must be confirmed for each project."
+          ]
+        },
+        {
+          "title": "How much does mantrap door installation cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the type and condition of the doors, interlock controller, locking devices, credential readers, sensors, power arrangements, construction work and commissioning requirements.",
+            "A site assessment and defined system specification are needed before an accurate quotation can be prepared."
+          ]
+        },
+        {
+          "title": "Can you convert two existing doors into a mantrap system?",
+          "paragraphs": [
+            "It may be possible where the existing doors, frames, spacing, hardware and building layout are suitable.",
+            "Conversion requires assessment of fire-door integrity, accessible movement, emergency escape, door-position monitoring and the interlock requirements. Some locations may need new doors or construction changes."
+          ]
+        },
+        {
+          "title": "Do mantrap doors prevent tailgating?",
+          "paragraphs": [
+            "A basic two-door interlock can make unauthorised following more difficult, but it does not guarantee that only one person enters.",
+            "Enhanced security portals may use occupancy or presence detection and other measures to identify multiple occupants. The required capability depends on the security assessment."
+          ]
+        },
+        {
+          "title": "Can mantrap doors use biometric or card access?",
+          "paragraphs": [
+            "Yes. Compatible systems may use RFID cards, PIN keypads, biometric readers or other approved credentials.",
+            "Biometric authentication also raises sensitive personal data considerations, including lawful processing, access controls and appropriate retention arrangements."
+          ]
+        },
+        {
+          "title": "Can a mantrap integrate with existing access control equipment?",
+          "paragraphs": [
+            "Potentially. Compatibility depends on the installed controllers, communication interfaces, locking hardware and operating requirements.",
+            "A technical review should confirm whether existing components can be retained or need replacement."
+          ]
+        },
+        {
+          "title": "What happens if the power goes out?",
+          "paragraphs": [
+            "The response depends on the approved system design and door hardware. Backup power may support certain functions, while suitable emergency-release or mechanical escape arrangements may be required.",
+            "The system must never rely on a normal security interlock sequence in a way that prevents required emergency escape."
+          ]
+        },
+        {
+          "title": "Can a mantrap be connected to a fire alarm?",
+          "paragraphs": [
+            "Where required by the approved fire and escape strategy, the interlock may need to override its normal security operation and release appropriate doors when the fire alarm activates.",
+            "This interface requires specialist design, installation and verification under applicable life-safety requirements."
+          ]
+        },
+        {
+          "title": "Can somebody become trapped inside a mantrap?",
+          "paragraphs": [
+            "Poor design, inappropriate locking arrangements or equipment faults can create an entrapment risk.",
+            "Emergency exit and override provisions must be assessed and verified before use. The ability to exit safely takes priority over maintaining the normal security sequence."
+          ]
+        },
+        {
+          "title": "Are mantrap doors suitable for emergency exits?",
+          "paragraphs": [
+            "A mantrap should not be installed across an escape route without competent assessment and an approved means-of-escape design.",
+            "Any electronic locking or interlock functions must be compatible with the applicable building, accessibility and fire-safety requirements."
+          ]
+        },
+        {
+          "title": "Do mantrap doors support wheelchair users?",
+          "paragraphs": [
+            "Suitable accessible designs may be possible, depending on vestibule dimensions, clear door widths, turning space, operating controls and user movement requirements.",
+            "Accessibility must be considered during planning rather than added after the equipment is installed."
+          ]
+        },
+        {
+          "title": "Can a mantrap be installed at a data centre entrance?",
+          "paragraphs": [
+            "Yes, where the facility's security requirements and building design support a controlled entry vestibule.",
+            "The arrangement must consider authorised personnel, equipment movement, access events, emergency exits and any relevant fire-alarm interfaces."
+          ]
+        },
+        {
+          "title": "What is a mantrap interlock controller?",
+          "paragraphs": [
+            "An interlock controller coordinates the status and permitted operation of associated doors.",
+            "It may receive information from door-position sensors, credential systems and other approved inputs, then control compatible locking devices according to the configured logic and safety requirements."
+          ]
+        },
+        {
+          "title": "What happens if one mantrap door does not close properly?",
+          "paragraphs": [
+            "The interlock may prevent the second door from being released during normal operation.",
+            "Possible causes include alignment problems, defective closers, door sensors, locking hardware or controller faults. The system requires competent inspection rather than bypassing protective functions without authorisation."
+          ]
+        },
+        {
+          "title": "Can you repair or service an existing mantrap system?",
+          "paragraphs": [
+            "Existing systems can be assessed for appropriate maintenance or repair, subject to equipment compatibility, available documentation, access permissions and qualified technical resources.",
+            "Some faults may require specialist door-hardware or fire-safety expertise."
+          ]
+        },
+        {
+          "title": "How often should mantrap doors be serviced?",
+          "paragraphs": [
+            "Maintenance frequency depends on the door hardware, manufacturer instructions, usage, site conditions and the approved safety requirements.",
+            "Regular servicing should address relevant mechanical components, sensors, interlock behaviour, controls and emergency functions."
+          ]
+        },
+        {
+          "title": "Can mantrap doors be monitored by CCTV?",
+          "paragraphs": [
+            "Compatible CCTV cameras may provide additional visibility around controlled entrances where appropriate.",
+            "Any integration or monitoring arrangement must respect the organisation's security requirements, privacy obligations and applicable recording policies."
+          ]
+        },
+        {
+          "title": "How long does mantrap installation take?",
+          "paragraphs": [
+            "The timeframe depends on the condition of the building and doors, equipment availability, cabling, structural work, access-control integration and specialist commissioning.",
+            "A realistic schedule follows the site assessment and approval of the design."
+          ]
+        },
+        {
+          "title": "What information is needed for a mantrap quotation?",
+          "paragraphs": [
+            "Useful information includes the facility location, proposed entrance, existing door arrangement, floor plans, expected daily users, preferred credential methods, current access-control platform and any fire-safety design documentation."
+          ]
+        },
+        {
+          "title": "How do we get started with mantrap door installation or servicing?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your facility and intended security entrance, or describe the problem with an existing system.",
+            "We can review the initial requirements and discuss the assessment, specialist design and technical work needed for a suitable proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Mantrap Installation or Servicing Project"
+    },
+    "closing": {
+      "title": "Stronger Entry Control Begins With the Right Design.",
+      "paragraphs": [
+        "Whether you're planning a restricted data centre entrance, assessing an existing two-door vestibule or addressing a fault in a mantrap system, Integrated Solutions Technology can help you define the requirements and appropriate next steps."
+      ],
+      "primary": "Discuss Your Mantrap Door Project",
+      "secondary": "Explore Security & Surveillance Solutions"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+.presentation {
+  position: relative;
+  margin-top: clamp(2rem, 4vw, 4rem);
+}
+
+.equipment {
+  width: min(100%, 36rem);
+  margin-inline: auto;
+}
+
+.connectors {
+  display: none;
+}
+
+.principles {
+  max-width: 42rem;
+  margin: 1.75rem auto 0;
+}
+
+.principle {
+  position: relative;
+  padding: 1.125rem 0 1.125rem 1rem;
+  border-top: 1px solid rgb(255 255 255 / 18%);
+}
+
+.principle::before {
+  position: absolute;
+  top: 1.6rem;
+  left: 0;
+  width: .375rem;
+  height: .375rem;
+  border-radius: 50%;
+  background: var(--brand-orange);
+  content: "";
+}
+
+@media (min-width: 64rem) {
+  .equipment {
+    width: 48%;
+  }
+
+  .connectors {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    color: var(--brand-orange);
+    fill: currentColor;
+    stroke: currentColor;
+  }
+
+  .principles {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    grid-template-columns: minmax(0, 21%) minmax(0, 21%);
+    grid-template-rows: 21% 48% 31%;
+    grid-auto-flow: column;
+    align-items: start;
+    justify-content: space-between;
+    max-width: none;
+    margin: 0;
+  }
+
+  .principle {
+    padding: 0;
+    border: 0;
+  }
+
+  .principle::before {
+    display: none;
+  }
+
+  .principle:nth-child(odd) {
+    grid-row: 2;
+  }
+
+  .principle:nth-child(even) {
+    grid-row: 3;
+  }
+
+  .principle:nth-child(n + 3) {
+    grid-column: 2;
+  }
+}

@@ -1,0 +1,277 @@
+.section {
+  --ink: #101b2b;
+  --paper: #faf8f4;
+  --signal: #ff8a35;
+  --gutter: clamp(1.25rem, 4.5vw, 5rem);
+  position: relative;
+  scroll-margin-top: 7rem;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.legacyAnchor {
+  position: absolute;
+  top: 0;
+  scroll-margin-top: 7rem;
+}
+
+.header {
+  width: min(100%, 100rem);
+  margin-inline: auto;
+  padding: clamp(2.5rem, 5vw, 5rem) var(--gutter) clamp(2rem, 4vw, 3.25rem);
+}
+
+.eyebrow {
+  margin: 0;
+  color: #a43d13;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.header h2 {
+  margin: 0.7rem 0 0.65rem;
+  font-size: clamp(2.15rem, 5vw, 4.65rem);
+  font-weight: 650;
+  line-height: 1.07;
+  letter-spacing: -0.045em;
+  text-wrap: balance;
+}
+
+.intro {
+  margin: 0;
+  color: #435062;
+  font-size: clamp(1rem, 1.55vw, 1.3rem);
+}
+
+.explorer {
+  color: #f6f8fb;
+  background: var(--ink);
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: clamp(1rem, 4.5vw, 4.5rem);
+  width: min(calc(100% - 2 * var(--gutter)), 90rem);
+  margin: 0 auto;
+  border-bottom: 1px solid #647084;
+}
+
+.projects button,
+.stages button {
+  color: inherit;
+  cursor: pointer;
+}
+
+.projects button {
+  min-height: 3.75rem;
+  padding: 0.7rem 0;
+  text-align: left;
+  font-size: clamp(0.875rem, 1.65vw, 1.4rem);
+  font-weight: 600;
+}
+
+.projects button[aria-pressed="true"] {
+  box-shadow: inset 0 -4px var(--signal);
+}
+
+.explorer :is(button, a):focus-visible {
+  outline: 2px solid var(--signal);
+  outline-offset: 4px;
+}
+
+.scene {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 2rem;
+  width: min(100%, 100rem);
+  min-height: clamp(34rem, 45vw, 42rem);
+  margin-inline: auto;
+  padding: 2.25rem var(--gutter);
+}
+
+.art {
+  position: absolute;
+  z-index: -1;
+  inset: 0 12% 0 8%;
+  overflow: hidden;
+  mask-image: linear-gradient(to right, transparent, #000 16%, #000 78%, transparent);
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  background-image: var(--journey-image);
+  background-size: cover;
+  background-position: center var(--journey-position);
+  filter: brightness(var(--journey-brightness));
+  opacity: 0;
+  transition: opacity 400ms ease, background-position 600ms ease, filter 600ms ease;
+}
+
+.image[data-active="true"] {
+  opacity: 1;
+}
+
+.stages {
+  position: relative;
+  align-self: start;
+  display: grid;
+  gap: 0.55rem;
+  text-shadow: 0 1px 8px var(--ink);
+}
+
+.stages::before {
+  position: absolute;
+  top: 1.375rem;
+  bottom: 1.375rem;
+  left: 0.47rem;
+  border-left: 1px solid #c3cbd7;
+  content: "";
+}
+
+.stages button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-height: 2.75rem;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.stages button[aria-pressed="true"] {
+  font-weight: 700;
+}
+
+.dot {
+  flex: 0 0 1rem;
+  height: 1rem;
+  border: 2px solid #f6f8fb;
+  border-radius: 50%;
+  background: var(--ink);
+}
+
+.stages button[aria-pressed="true"] .dot {
+  border-color: var(--signal);
+  background: var(--signal);
+}
+
+.stageNumber {
+  font-variant-numeric: tabular-nums;
+}
+
+.card {
+  align-self: end;
+  justify-self: end;
+  width: min(100%, 27rem);
+  padding: clamp(1.125rem, 2.4vw, 1.75rem);
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 14px 40px #060d1860;
+}
+
+.cardCopy {
+  animation: reveal 260ms ease-out;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0.55;
+    transform: translateY(5px);
+  }
+}
+
+.card h3 {
+  margin: 0.65rem 0;
+  font-size: clamp(1.4rem, 2.65vw, 2.25rem);
+  font-weight: 650;
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+}
+
+.description {
+  margin: 0 0 1rem;
+  color: #374354;
+  line-height: 1.6;
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: 2.75rem;
+  color: #953813;
+  font-weight: 650;
+  text-decoration: underline;
+  text-underline-offset: 0.35em;
+}
+
+@media (max-width: 700px) {
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .projects button {
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  .scene {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+    min-height: 0;
+    padding-top: 13.5rem;
+  }
+
+  .art {
+    inset: 0 0 auto;
+    height: 16rem;
+    mask-image: linear-gradient(#000 72%, transparent);
+  }
+
+  .stages {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.25rem;
+    padding: 0.4rem;
+    background: #101b2beb;
+  }
+
+  .stages::before,
+  .stageNumber {
+    display: none;
+  }
+
+  .stages button {
+    justify-content: center;
+    gap: 0.28rem;
+    font-size: 0.76rem;
+  }
+
+  .dot {
+    flex-basis: 0.55rem;
+    height: 0.55rem;
+    border-width: 1px;
+  }
+
+  .card {
+    justify-self: center;
+    width: calc(100% - 0.75rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .image {
+    transition: none;
+  }
+
+  .cardCopy {
+    animation: none;
+  }
+}

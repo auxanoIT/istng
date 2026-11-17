@@ -1,0 +1,1731 @@
+{
+  "servers": {
+    "name": "Enterprise Server Supply & Installation",
+    "hero": {
+      "title": "The Right Server for Your Business. Professionally Supplied and Installed.",
+      "primary": "Request an Enterprise Server Quote",
+      "secondary": "Explore Server Solutions"
+    },
+    "benefits": {
+      "title": "Make the Right Hardware Decision From the Start.",
+      "paragraphs": [
+        "The right server decision begins with understanding what your business needs the hardware to do."
+      ],
+      "items": [
+        {
+          "title": "Hardware Matched to Your Workloads",
+          "paragraphs": [
+            "Select suitable processor, memory, storage and connectivity specifications around the applications and services the server will support."
+          ]
+        },
+        {
+          "title": "Better Procurement Decisions",
+          "paragraphs": [
+            "Review hardware specifications, expansion options, warranty terms and equipment compatibility before committing to a purchase."
+          ]
+        },
+        {
+          "title": "Professional Physical Deployment",
+          "paragraphs": [
+            "Install compatible enterprise servers with attention to mounting, power requirements, ventilation and network connections."
+          ]
+        },
+        {
+          "title": "Room for Future Requirements",
+          "paragraphs": [
+            "Consider additional memory, storage capacity, processing demand and available expansion options when selecting suitable hardware."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Specification. The Right Equipment. The Right Installation.",
+      "paragraphs": [
+        "We help businesses connect hardware selection with practical installation requirements."
+      ],
+      "entries": [
+        {
+          "title": "Server Requirements & Hardware Selection",
+          "tagline": "Start With What Your Business Needs to Run.",
+          "paragraphs": [
+            "Different workloads place different demands on server infrastructure.",
+            "We review your intended applications, processing requirements, memory needs, storage capacity, connectivity and existing IT environment.",
+            "This helps identify suitable server specifications and equipment configurations while considering compatibility, expansion options and budget requirements."
+          ],
+          "cta": "Discuss Your Server Requirements"
+        },
+        {
+          "title": "Enterprise Server Procurement & Supply",
+          "tagline": "Source the Hardware Your Project Actually Needs.",
+          "paragraphs": [
+            "Once your technical requirements are clear, selecting the appropriate equipment becomes easier.",
+            "We help source suitable rack-mounted and tower servers, along with compatible components and accessories according to an agreed specification.",
+            "Our procurement approach considers hardware availability, configuration, manufacturer or supplier warranty terms, licensing requirements and the proposed deployment environment."
+          ],
+          "cta": "Request a Server Supply Quote"
+        },
+        {
+          "title": "Server Installation & Infrastructure Integration",
+          "tagline": "Get Your Enterprise Hardware Properly Installed.",
+          "paragraphs": [
+            "A server must be installed in an environment suitable for its physical and operational requirements.",
+            "We install compatible rack and tower servers, completing the agreed mounting, positioning and physical power and network connections.",
+            "Our approach considers equipment dimensions, rack compatibility, mounting accessories, ventilation, service access and coordination with the existing infrastructure."
+          ],
+          "cta": "Discuss Server Installation"
+        },
+        {
+          "title": "Installation Verification & Technical Handover",
+          "tagline": "Know What's Installed. Know What's Ready for the Next Step.",
+          "paragraphs": [
+            "Server installation should conclude with appropriate checks and clear handover information.",
+            "We review relevant hardware details, mounting arrangements, physical connections and agreed installation requirements.",
+            "Where authorised and included in scope, initial power-on observations and hardware-status checks can also be completed before the server is handed over for operating-system configuration, application deployment or further commissioning."
+          ],
+          "cta": "Discuss Server Deployment Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Computing Infrastructure Built Around Real Business Requirements.",
+      "paragraphs": [
+        "Explore the equipment and deployment activities involved in supplying and installing enterprise server infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Rack-Mounted Enterprise Servers",
+          "paragraphs": [
+            "Compatible rack servers selected and installed for organisations requiring computing capacity within dedicated IT racks or data centre environments."
+          ]
+        },
+        {
+          "title": "Tower Server Solutions",
+          "paragraphs": [
+            "Tower server hardware suitable for selected business environments where a dedicated rack-mounted deployment may not be necessary."
+          ]
+        },
+        {
+          "title": "Server Hardware Components & Accessories",
+          "paragraphs": [
+            "Compatible memory, processors, storage drives, network interfaces, mounting rails and related accessories selected according to the approved equipment specification."
+          ]
+        },
+        {
+          "title": "Server Installation & Readiness Checks",
+          "paragraphs": [
+            "Physical installation, connection verification and agreed initial equipment checks completed before technical handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Enterprise Server Project"
+    },
+    "faq": {
+      "title": "Your Enterprise Server Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is an enterprise server?",
+          "paragraphs": [
+            "An enterprise server is computing hardware designed to run applications, process data and provide services to multiple users, devices or systems. Enterprise servers commonly support features such as error-correcting memory, remote management, redundant components and configurable storage, depending on the model."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology supply enterprise servers in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides enterprise server supply and installation services for businesses and institutions. Available server models, configurations, supply terms and delivery requirements are confirmed against each customer's specification and procurement scope."
+          ]
+        },
+        {
+          "title": "How much does an enterprise server cost in Nigeria?",
+          "paragraphs": [
+            "The price depends on the manufacturer, server model, processor configuration, memory, storage, network interfaces, hardware condition, warranty, licensing and availability. A detailed quotation should identify the exact equipment and included components."
+          ]
+        },
+        {
+          "title": "What information do I need to request a server quotation?",
+          "paragraphs": [
+            "Useful information includes your preferred manufacturer or model, required processor capacity, RAM, storage type and capacity, intended applications, operating system, number of servers, deployment location and warranty requirements. An existing bill of quantities or specification can also be supplied."
+          ]
+        },
+        {
+          "title": "Can you recommend a server if we don't know which model to buy?",
+          "paragraphs": [
+            "Yes. We can review your workloads, capacity requirements, existing infrastructure and budget to help identify suitable hardware specifications before procurement."
+          ]
+        },
+        {
+          "title": "What is the difference between a rack server and a tower server?",
+          "paragraphs": [
+            "A rack server is designed for installation in a compatible equipment rack, while a tower server uses a standalone chassis. Rack servers are often useful where several systems must share organised rack infrastructure. Tower servers may suit smaller installations with adequate space and suitable environmental conditions."
+          ]
+        },
+        {
+          "title": "Which server is best for a small or growing business?",
+          "paragraphs": [
+            "The right server depends on the applications, number of users, required storage, processing demand and availability needs. A small organisation running basic file services may require different hardware from one operating databases, virtual machines or resource-intensive business applications."
+          ]
+        },
+        {
+          "title": "Can you supply Dell PowerEdge or HPE ProLiant servers?",
+          "paragraphs": [
+            "Dell PowerEdge and HPE ProLiant are examples of enterprise server product families that may be considered during specification and sourcing. Availability, authorised supply channels, warranty coverage and actual procurement capability must be confirmed for the requested models."
+          ]
+        },
+        {
+          "title": "Do you supply new or refurbished enterprise servers?",
+          "paragraphs": [
+            "The supply condition should be established during procurement. Any quotation for new, refurbished or previously used equipment must clearly state the condition, included components, applicable warranty and supplier terms."
+          ]
+        },
+        {
+          "title": "Can you supply servers for virtualisation?",
+          "paragraphs": [
+            "Suitable enterprise servers can be selected for virtualisation workloads. Processor compatibility, memory, storage, networking, hypervisor support and applicable software licensing must be assessed before recommending a configuration."
+          ]
+        },
+        {
+          "title": "Can you provide servers for file storage, databases and business applications?",
+          "paragraphs": [
+            "Yes. Hardware can be specified for these types of workloads, subject to application requirements, expected demand, storage performance, reliability needs and compatibility with the intended software environment."
+          ]
+        },
+        {
+          "title": "How much RAM and storage does an enterprise server need?",
+          "paragraphs": [
+            "Requirements depend on the applications and workloads the server will run. Virtualisation, databases and other demanding systems may require substantially different memory and storage configurations. Sizing should be based on expected usage rather than a generic hardware package."
+          ]
+        },
+        {
+          "title": "Can I upgrade the server's memory or storage later?",
+          "paragraphs": [
+            "Many enterprise server platforms support memory, storage or other component upgrades within their technical limits. Available expansion options depend on the model, installed configuration, manufacturer specifications and compatible parts."
+          ]
+        },
+        {
+          "title": "Does the server price include an operating system or software licences?",
+          "paragraphs": [
+            "Not necessarily. Server hardware, operating systems, virtualisation platforms, client access licences and other software may have separate pricing and licensing requirements. The quotation should clearly identify what is included."
+          ]
+        },
+        {
+          "title": "Do enterprise servers require a dedicated server room?",
+          "paragraphs": [
+            "Not every server requires a full server room, but all enterprise hardware needs suitable operating conditions. Power quality, cooling, ventilation, physical security, noise and maintenance access should be considered before installation."
+          ]
+        },
+        {
+          "title": "Can you install an enterprise server in our existing rack?",
+          "paragraphs": [
+            "Yes, where the server and rack are compatible. The installation must account for rack dimensions, mounting rails, weight capacity, available space, power and airflow requirements."
+          ]
+        },
+        {
+          "title": "Can you install a server we purchased from another supplier?",
+          "paragraphs": [
+            "Customer-supplied servers can be considered for installation, subject to equipment condition, compatible accessories, site readiness and agreed responsibilities."
+          ]
+        },
+        {
+          "title": "Does server installation include operating-system configuration?",
+          "paragraphs": [
+            "Not automatically. Physical installation and agreed initial checks are distinct from operating-system deployment, hypervisor configuration, network setup and application installation. These can be discussed as additional services where supported and included in scope."
+          ]
+        },
+        {
+          "title": "Can you install servers without interrupting our existing operations?",
+          "paragraphs": [
+            "Some installation activities can be performed alongside existing operations. However, replacing live systems, changing connections or migrating services may require scheduled interruptions and additional planning. The operational impact should be established before work begins."
+          ]
+        },
+        {
+          "title": "Do you provide server warranty and after-sales support?",
+          "paragraphs": [
+            "Warranty coverage depends on the specific equipment, manufacturer or supplier terms and supply arrangement. Hardware maintenance and technical support requirements can be discussed separately, with the applicable service scope recorded in the quotation."
+          ]
+        },
+        {
+          "title": "How long does it take to supply and install an enterprise server?",
+          "paragraphs": [
+            "The timeframe depends on hardware availability, configuration, procurement requirements, location, site readiness and installation scope. Lead time should be confirmed for the exact specification before a delivery or deployment commitment is made."
+          ]
+        },
+        {
+          "title": "Can you supply several servers for an enterprise rollout?",
+          "paragraphs": [
+            "Multiple-server requirements can be reviewed as part of a defined procurement and deployment project. Hardware quantities, configurations, delivery locations, staging and installation requirements should be established before quotation."
+          ]
+        },
+        {
+          "title": "What should we check before buying a server in Nigeria?",
+          "paragraphs": [
+            "Confirm the workload requirements, hardware specifications, compatibility, equipment condition, supportability, warranty coverage, software licensing, delivery terms and installation needs. Comparing quotations only by model name or price can overlook important configuration differences."
+          ]
+        },
+        {
+          "title": "How do we get started with an enterprise server project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your server specifications, intended workloads, quantity, delivery location and deployment requirements. We can review the information and discuss a suitable supply and installation proposal."
+          ]
+        }
+      ],
+      "cta": "Request Your Enterprise Server Quote"
+    },
+    "closing": {
+      "title": "The Right Server Is an Investment in What Your Business Needs to Run.",
+      "paragraphs": [
+        "Whether you're purchasing your first enterprise server, expanding an existing environment or preparing for a larger infrastructure deployment, Integrated Solutions Technology can help you choose and install hardware suited to your technical requirements."
+      ],
+      "primary": "Request an Enterprise Server Quote",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  },
+  "storage": {
+    "name": "Data Storage Solutions",
+    "hero": {
+      "title": "Your Data Keeps Growing. Your Storage Should Be Ready.",
+      "primary": "Discuss Your Data Storage Requirements",
+      "secondary": "Explore Enterprise Storage Solutions"
+    },
+    "benefits": {
+      "title": "More Than Capacity. Storage That Supports the Way You Work.",
+      "paragraphs": [
+        "Choosing the right storage architecture helps you balance capacity, accessibility and investment."
+      ],
+      "items": [
+        {
+          "title": "Storage Sized for Your Data",
+          "paragraphs": [
+            "Plan suitable usable capacity around current data volumes, expected growth and the space required for normal operation."
+          ]
+        },
+        {
+          "title": "Performance for Your Workloads",
+          "paragraphs": [
+            "Select appropriate storage technologies and connectivity based on application demands, throughput and response-time requirements."
+          ]
+        },
+        {
+          "title": "More Manageable Data Access",
+          "paragraphs": [
+            "Organise storage infrastructure to support the authorised users, servers and applications that need to access business information."
+          ]
+        },
+        {
+          "title": "Flexibility for Future Expansion",
+          "paragraphs": [
+            "Consider additional drives, storage enclosures and supported expansion options before your existing capacity becomes a limitation."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Storage Starts With Understanding Your Data.",
+      "paragraphs": [
+        "We help you evaluate storage requirements, select appropriate infrastructure and prepare the system for integration into your IT environment."
+      ],
+      "entries": [
+        {
+          "title": "Storage Assessment & Capacity Planning",
+          "tagline": "Know What Your Data Needs Before Choosing Hardware.",
+          "paragraphs": [
+            "A storage solution should be based on more than the amount of data you currently hold.",
+            "We review your existing storage environment, data volumes, applications, access requirements, expected growth and relevant performance needs.",
+            "This helps establish suitable capacity, connectivity, resilience requirements and the storage architecture to consider for your organisation."
+          ],
+          "cta": "Discuss Your Storage Requirements"
+        },
+        {
+          "title": "NAS, SAN & Server Storage Solutions",
+          "tagline": "Choose the Architecture That Fits Your Workloads.",
+          "paragraphs": [
+            "Different storage technologies serve different business requirements.",
+            "We help assess suitable NAS systems for shared file access, SAN infrastructure for compatible block-storage workloads, and direct-attached storage for selected server environments.",
+            "Our recommendations consider application compatibility, performance, usable capacity, expansion options and available infrastructure."
+          ],
+          "cta": "Explore Storage System Options"
+        },
+        {
+          "title": "Storage Equipment Supply & Installation",
+          "tagline": "Turn Your Storage Requirements Into Installed Infrastructure.",
+          "paragraphs": [
+            "The right storage hardware needs an installation environment that supports its technical requirements.",
+            "We help source and install suitable storage arrays, NAS appliances, disk enclosures and compatible components according to the agreed specifications.",
+            "Installation considers mounting, connectivity, power requirements, equipment compatibility and integration with the existing server and network infrastructure."
+          ],
+          "cta": "Discuss Storage Installation"
+        },
+        {
+          "title": "Storage Verification & Expansion Support",
+          "tagline": "Know What's Installed. Plan for What Comes Next.",
+          "paragraphs": [
+            "Storage deployment should conclude with appropriate checks and a clear understanding of the installed environment.",
+            "We review relevant equipment status, physical connectivity and agreed storage configuration requirements.",
+            "Where included in scope, we verify accessible storage resources, provide applicable handover documentation and discuss capacity expansion, maintenance or further technical support."
+          ],
+          "cta": "Discuss Storage Deployment Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technology Behind Business Data.",
+      "paragraphs": [
+        "Explore the systems, hardware and technical activities involved in deploying enterprise storage infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Network Attached Storage — NAS",
+          "paragraphs": [
+            "Dedicated storage appliances connected to suitable business networks to support shared file access and centralised data storage."
+          ]
+        },
+        {
+          "title": "Storage Area Network — SAN",
+          "paragraphs": [
+            "Block-storage infrastructure designed to provide compatible servers with access to shared storage resources."
+          ]
+        },
+        {
+          "title": "Enterprise Storage Arrays & Expansion Shelves",
+          "paragraphs": [
+            "Rack-mounted storage equipment, drive enclosures and supporting components installed for the intended capacity and performance requirements."
+          ]
+        },
+        {
+          "title": "Storage Installation & Connectivity",
+          "paragraphs": [
+            "Professional mounting, physical cabling, compatible network or storage-fabric connections and relevant installation checks."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Enterprise Storage Project"
+    },
+    "faq": {
+      "title": "Your Enterprise Data Storage Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are enterprise data storage solutions?",
+          "paragraphs": [
+            "Enterprise data storage solutions are hardware and supporting technologies used to store and make organisational data available to authorised users, applications and computing systems. They may include NAS devices, SAN arrays, direct-attached storage and other storage platforms, depending on the organisation's requirements."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide enterprise data storage solutions in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers data storage solutions as part of its Server, Storage & Hardware services. Projects can include storage requirements assessment, equipment sourcing, physical installation and agreed deployment support."
+          ]
+        },
+        {
+          "title": "What is the difference between NAS and SAN storage?",
+          "paragraphs": [
+            "Network Attached Storage (NAS) generally provides file-level access over an IP network, making it useful for shared files and similar workloads.",
+            "A Storage Area Network (SAN) provides block-level storage access to compatible servers through technologies such as Fibre Channel or iSCSI. SAN architectures are commonly used for enterprise applications and virtualisation environments that require shared block storage.",
+            "The right choice depends on your applications, performance requirements, complexity and budget."
+          ]
+        },
+        {
+          "title": "What is Direct-Attached Storage (DAS)?",
+          "paragraphs": [
+            "Direct-Attached Storage is storage connected directly to a server or computer rather than accessed through a separate shared storage network. It may be suitable for workloads that do not require centralised storage access across multiple servers."
+          ]
+        },
+        {
+          "title": "Which storage solution is best for a small business?",
+          "paragraphs": [
+            "A small business may benefit from a suitable NAS system for shared files and centralised storage. However, the right solution depends on the number of users, types of data, required capacity, performance needs, access controls and backup requirements."
+          ]
+        },
+        {
+          "title": "Can you supply and install NAS storage in Nigeria?",
+          "paragraphs": [
+            "Suitable NAS equipment can be considered as part of a storage project, subject to manufacturer and model availability, network compatibility and the agreed installation scope. Requirements such as storage capacity, user access and backup arrangements should be established before procurement."
+          ]
+        },
+        {
+          "title": "Can you provide SAN storage for enterprise servers?",
+          "paragraphs": [
+            "SAN infrastructure can be assessed where shared block storage is required. The design must consider compatible servers, storage controllers, host adapters, switching, connection protocols and software support."
+          ]
+        },
+        {
+          "title": "How much does enterprise data storage cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on storage architecture, usable capacity, HDD or SSD technology, performance, redundancy, network connectivity, licensing, warranty and installation requirements.",
+            "A detailed quotation should identify the exact storage configuration and what is included."
+          ]
+        },
+        {
+          "title": "How much storage capacity does my business need?",
+          "paragraphs": [
+            "Capacity requirements depend on your existing data, expected growth, application needs, retention policies and protection requirements.",
+            "The amount of usable storage may be lower than the total raw drive capacity because of redundancy, system overhead and configuration."
+          ]
+        },
+        {
+          "title": "What is the difference between raw storage and usable storage?",
+          "paragraphs": [
+            "Raw capacity is the combined nominal capacity of the installed drives. Usable capacity is the storage available after accounting for the selected protection arrangement, system overhead and other configuration factors.",
+            "A quotation should make this distinction clear."
+          ]
+        },
+        {
+          "title": "Should we choose SSD or HDD storage?",
+          "paragraphs": [
+            "Solid-state drives (SSDs) generally offer lower access latency and higher random I/O performance, while hard disk drives (HDDs) may offer a more economical approach to large-capacity storage.",
+            "The right choice depends on performance targets, workload characteristics, endurance requirements and budget."
+          ]
+        },
+        {
+          "title": "Can NAS storage support multiple employees?",
+          "paragraphs": [
+            "Yes. Suitable NAS systems can provide shared file access for authorised users across a compatible network. Performance depends on the storage equipment, network bandwidth, number of users and the applications involved."
+          ]
+        },
+        {
+          "title": "Can enterprise storage support virtual machines?",
+          "paragraphs": [
+            "Yes. Compatible storage systems can support virtualisation environments, including shared storage for virtual machines. The required architecture depends on the hypervisor, storage protocol, availability requirements and workload performance."
+          ]
+        },
+        {
+          "title": "Is RAID the same as a backup?",
+          "paragraphs": [
+            "No. RAID is a storage arrangement that may provide redundancy against certain drive failures, depending on its configuration.",
+            "RAID does not replace independent backups and cannot protect against every cause of data loss, such as accidental deletion, ransomware or site-wide incidents."
+          ]
+        },
+        {
+          "title": "Can you expand an existing storage system?",
+          "paragraphs": [
+            "In many cases, yes. Expansion may involve additional compatible drives, shelves or storage systems. The options depend on the existing platform, available expansion capacity, software support and manufacturer specifications."
+          ]
+        },
+        {
+          "title": "Can you upgrade storage without taking servers offline?",
+          "paragraphs": [
+            "Some storage platforms support particular online expansion or maintenance activities. Others may require scheduled interruptions.",
+            "Any changes to operational storage should be assessed, backed up where appropriate and planned around the equipment's supported procedures and business requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between storage redundancy and disaster recovery?",
+          "paragraphs": [
+            "Storage redundancy helps maintain access during certain component failures. Disaster recovery is a broader capability for restoring systems and data after significant disruptions.",
+            "Disaster recovery may require separate backups, replication, recovery infrastructure and tested procedures."
+          ]
+        },
+        {
+          "title": "Can enterprise storage be connected to existing network switches?",
+          "paragraphs": [
+            "Potentially. Compatibility depends on the storage protocol, required bandwidth, switch capabilities and the network design. Some storage systems use dedicated connections or a specialised storage fabric."
+          ]
+        },
+        {
+          "title": "Can you install storage equipment purchased from another supplier?",
+          "paragraphs": [
+            "Customer-supplied equipment can be reviewed for installation, subject to its condition, compatibility, available accessories, manufacturer support and the agreed project requirements."
+          ]
+        },
+        {
+          "title": "How long does storage installation take?",
+          "paragraphs": [
+            "The timeframe depends on equipment availability, system size, rack and connectivity readiness, storage configuration, data migration requirements and verification scope.",
+            "The installation schedule should be established after reviewing the project specifications."
+          ]
+        },
+        {
+          "title": "Do you provide data migration when replacing storage systems?",
+          "paragraphs": [
+            "Data migration may require separate planning, application coordination, backup validation, downtime arrangements and technical execution.",
+            "It should not be assumed to be included in physical storage installation. Any migration requirement must be explicitly defined and confirmed before the project begins."
+          ]
+        },
+        {
+          "title": "Can you help with storage security and user access?",
+          "paragraphs": [
+            "Storage platforms may support access controls, encryption and other security capabilities. The appropriate configuration depends on the product, licensing and customer requirements.",
+            "Specific security implementation activities should be included explicitly in the agreed project scope."
+          ]
+        },
+        {
+          "title": "Do you supply enterprise storage drives and accessories?",
+          "paragraphs": [
+            "Compatible drives, expansion components, connectivity accessories and other storage-related hardware can be considered within the procurement scope, subject to availability and supported equipment specifications."
+          ]
+        },
+        {
+          "title": "What information is needed for a storage quotation?",
+          "paragraphs": [
+            "Useful details include your location, current storage capacity, expected growth, number of users or servers, intended applications, preferred storage architecture, performance needs, equipment preferences and installation requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with an enterprise storage project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your current infrastructure, data storage challenges and capacity or performance requirements.",
+            "We can review your needs and discuss the appropriate storage options, procurement requirements and deployment scope."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Data Storage Requirements"
+    },
+    "closing": {
+      "title": "Your Business Data Is Growing. Build Storage That Can Keep Up.",
+      "paragraphs": [
+        "Whether you're centralising business files, expanding server storage or deploying shared storage infrastructure, Integrated Solutions Technology can help you identify and install a solution suited to your workloads and future requirements."
+      ],
+      "primary": "Discuss Your Storage Project",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  },
+  "procurement": {
+    "name": "IT Hardware & Equipment Procurement",
+    "hero": {
+      "title": "The Right Technology. Sourced for Your Business.",
+      "primary": "Request an IT Equipment Quote",
+      "secondary": "Explore Our Hardware Solutions"
+    },
+    "benefits": {
+      "title": "Better Technology Decisions Begin Before You Place an Order.",
+      "paragraphs": [
+        "A well-managed procurement process helps your organisation make informed decisions before committing its budget."
+      ],
+      "items": [
+        {
+          "title": "Equipment That Matches Your Needs",
+          "paragraphs": [
+            "Review specifications against your intended applications, users and infrastructure before selecting suitable hardware."
+          ]
+        },
+        {
+          "title": "Clearer Purchasing Decisions",
+          "paragraphs": [
+            "Compare equipment configurations, quantities, inclusions and supply terms through properly defined quotations."
+          ]
+        },
+        {
+          "title": "Less Supplier Coordination",
+          "paragraphs": [
+            "Bring multiple hardware requirements into a more organised sourcing and procurement process."
+          ]
+        },
+        {
+          "title": "Better Preparation for Deployment",
+          "paragraphs": [
+            "Consider compatibility, required accessories and installation needs before equipment arrives at your facility."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Source What You Need. Understand What You're Buying.",
+      "paragraphs": [
+        "We help organisations define their requirements, review available equipment options and coordinate approved hardware procurement."
+      ],
+      "entries": [
+        {
+          "title": "Hardware Requirements & Specification Review",
+          "tagline": "Start With a Clear Equipment Requirement.",
+          "paragraphs": [
+            "Whether you're buying one specialised device or equipping an entire department, the specifications matter.",
+            "We review your requested equipment, intended applications, preferred models, quantities and existing infrastructure.",
+            "Where necessary, we help identify relevant compatibility considerations, required accessories and specification gaps before sourcing begins."
+          ],
+          "cta": "Discuss Your Hardware Requirements"
+        },
+        {
+          "title": "Corporate IT Equipment Sourcing",
+          "tagline": "Find Suitable Equipment for the Job.",
+          "paragraphs": [
+            "Organisations need access to technology that fits their operational and technical requirements.",
+            "We help source suitable business computers, workstations, servers, storage devices, networking hardware, peripherals and associated IT accessories.",
+            "Equipment selection considers the agreed specification, availability, condition, compatibility and applicable supplier or manufacturer terms."
+          ],
+          "cta": "Request an Equipment Sourcing Quote"
+        },
+        {
+          "title": "Bulk Procurement & Quotation Coordination",
+          "tagline": "Make Multi-Item Purchasing Easier to Manage.",
+          "paragraphs": [
+            "Large equipment requests can involve different models, departments, quantities and procurement requirements.",
+            "We review itemised hardware lists, bills of quantities and approved specifications to help prepare suitable sourcing proposals.",
+            "The process considers equipment quantities, pricing, availability, alternatives requiring approval and any relevant purchasing documentation."
+          ],
+          "cta": "Submit Your Procurement List"
+        },
+        {
+          "title": "Supply Coordination & Procurement Handover",
+          "tagline": "Know What Was Ordered. Know What Was Supplied.",
+          "paragraphs": [
+            "Hardware procurement should end with clear records of the equipment delivered.",
+            "We coordinate agreed supply requirements and review relevant model details, quantities, accessories and delivery documentation.",
+            "Where included in the procurement scope, applicable equipment identifiers, warranty information and handover records are provided to support your organisation's asset management and subsequent deployment."
+          ],
+          "cta": "Discuss Your Equipment Supply Project"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Individual Devices to Enterprise Infrastructure.",
+      "paragraphs": [
+        "Explore the hardware categories involved in supporting modern workplaces and IT environments."
+      ],
+      "items": [
+        {
+          "title": "Business Laptops, Desktops & Workstations",
+          "paragraphs": [
+            "Computing equipment selected to support employees, professional applications and organisational productivity."
+          ]
+        },
+        {
+          "title": "Enterprise Servers & Storage Hardware",
+          "paragraphs": [
+            "Compatible computing and storage equipment sourced according to defined infrastructure requirements."
+          ]
+        },
+        {
+          "title": "Network & Connectivity Equipment",
+          "paragraphs": [
+            "Switches, routers, wireless access points and related networking hardware for approved business infrastructure projects."
+          ]
+        },
+        {
+          "title": "IT Accessories, Components & Peripherals",
+          "paragraphs": [
+            "Monitors, docking stations, keyboards, storage components, network accessories and other equipment required for business operations."
+          ]
+        }
+      ],
+      "cta": "Request Your IT Equipment Quote"
+    },
+    "faq": {
+      "title": "Your Corporate IT Procurement Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is IT hardware procurement?",
+          "paragraphs": [
+            "IT hardware procurement is the process of identifying, sourcing, purchasing and coordinating the supply of technology equipment. It can include specification review, supplier quotations, order coordination, equipment verification and procurement documentation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology supply IT hardware in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides IT Hardware & Equipment Procurement services for businesses and institutions. Requests can cover suitable business computers, servers, storage systems, networking equipment, accessories and other hardware within the agreed sourcing scope."
+          ]
+        },
+        {
+          "title": "What types of IT equipment can you procure?",
+          "paragraphs": [
+            "Equipment requests may include laptops, desktops, workstations, enterprise servers, storage devices, network switches, routers, wireless access points, monitors, computer components and relevant IT peripherals. Availability is confirmed against each specific request."
+          ]
+        },
+        {
+          "title": "Can you supply laptops and desktop computers in bulk?",
+          "paragraphs": [
+            "Bulk laptop and desktop requirements can be reviewed based on the requested models, specifications, quantities, equipment condition and delivery needs. Larger orders may require additional sourcing coordination and confirmed lead times."
+          ]
+        },
+        {
+          "title": "Can you help us choose the right computers for our employees?",
+          "paragraphs": [
+            "Yes. Hardware specifications can be reviewed against the intended roles, applications, performance requirements and budget. Different departments may require different computing configurations."
+          ]
+        },
+        {
+          "title": "Can we submit a bill of quantities for an IT equipment quotation?",
+          "paragraphs": [
+            "Yes. A bill of quantities, equipment schedule or specification document is a useful starting point for procurement. It helps clarify the required items, quantities, technical details and any approved alternatives."
+          ]
+        },
+        {
+          "title": "Can you source equipment to an exact manufacturer and model specification?",
+          "paragraphs": [
+            "Exact-model procurement requests can be reviewed. Availability depends on the product, configuration, regional supply conditions and manufacturer support status. Any proposed alternative should be identified clearly and approved before procurement."
+          ]
+        },
+        {
+          "title": "Can you supply hardware from brands such as Dell, HP, Lenovo or Cisco?",
+          "paragraphs": [
+            "Products from these manufacturers may be considered when sourcing equipment, subject to availability and the required specifications. The ability to supply particular models and any applicable reseller or warranty arrangements must be confirmed for each quotation."
+          ]
+        },
+        {
+          "title": "Do you supply genuine and new IT equipment?",
+          "paragraphs": [
+            "Equipment condition and sourcing requirements should be clearly agreed before ordering. Quotations should specify whether items are new, refurbished or otherwise classified, together with relevant supplier and warranty details. Unapproved substitutions should not be made."
+          ]
+        },
+        {
+          "title": "Can you procure refurbished or fairly used business computers?",
+          "paragraphs": [
+            "Where refurbished equipment is requested and sourcing is available, the quotation should state its condition, configuration, testing expectations and applicable warranty terms. Refurbished hardware should not be presented as new."
+          ]
+        },
+        {
+          "title": "How much does corporate IT hardware procurement cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the requested equipment, specifications, quantities, availability, supply conditions, exchange-rate exposure, delivery requirements and applicable taxes. An itemised quotation is the appropriate way to establish the cost of a defined procurement request."
+          ]
+        },
+        {
+          "title": "Can you provide competitive quotations for multiple IT equipment items?",
+          "paragraphs": [
+            "Yes. A consolidated procurement request can be reviewed to help prepare an itemised quotation for available equipment. The quotation should clearly distinguish unit pricing, quantities, configuration details and relevant additional charges."
+          ]
+        },
+        {
+          "title": "Do your quotations include VAT and delivery?",
+          "paragraphs": [
+            "Tax and delivery treatment should be stated in each quotation. Customers should confirm whether prices include applicable VAT, transportation, installation or other project-specific costs before approving an order."
+          ]
+        },
+        {
+          "title": "Do you accept purchase orders or local purchase orders?",
+          "paragraphs": [
+            "Purchase-order arrangements can be discussed according to the organisation's procurement process and the agreed commercial terms. Acceptance of an LPO, credit terms or deferred payment should not be assumed until formally confirmed."
+          ]
+        },
+        {
+          "title": "Can you supply hardware for an entire new office?",
+          "paragraphs": [
+            "An office equipment requirement may include business computers, monitors, printers, network equipment, accessories and supporting infrastructure. A consolidated equipment schedule helps define the sourcing and delivery scope."
+          ]
+        },
+        {
+          "title": "Can you procure IT equipment for schools and institutions?",
+          "paragraphs": [
+            "Institutional procurement requirements can be reviewed for computer laboratories, administration departments, teaching environments and other approved uses. Technical specifications, quantities and documentation requirements should be established before sourcing."
+          ]
+        },
+        {
+          "title": "Can you supply equipment for government or corporate tenders?",
+          "paragraphs": [
+            "Tender-based procurement requirements can be assessed using the supplied technical specifications, bill of quantities and commercial conditions. Participation depends on the applicable eligibility, documentation, sourcing and contractual requirements."
+          ]
+        },
+        {
+          "title": "What happens if the exact equipment model is unavailable?",
+          "paragraphs": [
+            "Where a requested item is unavailable, a suitable alternative may be proposed for review. Any difference in model, configuration, performance, warranty or price should be explained before the customer approves the substitution."
+          ]
+        },
+        {
+          "title": "How do you handle hardware compatibility?",
+          "paragraphs": [
+            "Compatibility is reviewed against the information supplied about existing systems, intended applications and required interfaces. More complex environments may require a separate technical assessment before hardware selection is finalised."
+          ]
+        },
+        {
+          "title": "Do the products come with a warranty?",
+          "paragraphs": [
+            "Warranty coverage depends on the specific manufacturer, product, equipment condition and supply arrangement. The applicable warranty period, provider, exclusions and claim procedure should be identified in the quotation or accompanying documentation."
+          ]
+        },
+        {
+          "title": "Can you coordinate equipment delivery to different office locations?",
+          "paragraphs": [
+            "Multi-location delivery requirements can be reviewed as part of the procurement scope. Available coverage, transportation arrangements, delivery charges and scheduling must be confirmed before a commitment is made."
+          ]
+        },
+        {
+          "title": "How long does IT equipment procurement take?",
+          "paragraphs": [
+            "Lead time depends on availability, quantity, exact specifications, order approval, sourcing arrangements and delivery location. Stock availability and expected delivery dates should be confirmed for the specific order."
+          ]
+        },
+        {
+          "title": "Do you provide installation after supplying the equipment?",
+          "paragraphs": [
+            "Integrated Solutions Technology also provides related installation and IT technical services. Installation, configuration, software setup or deployment should be explicitly included in the project scope where required."
+          ]
+        },
+        {
+          "title": "Can you help with repeat purchases and hardware standardisation?",
+          "paragraphs": [
+            "A defined equipment standard can make repeat purchasing and future replacements easier to manage. We can review approved models and specifications as part of ongoing procurement requirements, subject to product availability."
+          ]
+        },
+        {
+          "title": "What documents should we expect after purchasing IT equipment?",
+          "paragraphs": [
+            "Depending on the agreed transaction, documentation may include a quotation, invoice, delivery note, itemised equipment information and relevant warranty records. Additional asset registers or serial-number schedules should be specified when required."
+          ]
+        },
+        {
+          "title": "What information do you need to prepare an IT hardware quotation?",
+          "paragraphs": [
+            "Provide the equipment type, manufacturer or model preference, required technical specifications, quantity, condition preference, delivery location, installation requirements and any procurement deadline."
+          ]
+        },
+        {
+          "title": "How do we request IT hardware procurement services?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your hardware requirements or upload your equipment list. We can review the specifications, identify the relevant sourcing requirements and discuss a suitable procurement quotation."
+          ]
+        }
+      ],
+      "cta": "Submit Your IT Equipment Requirements"
+    },
+    "closing": {
+      "title": "Your Team Has Work to Do. Give Them the Right Equipment.",
+      "paragraphs": [
+        "Whether you're procuring computers for a growing workforce, sourcing equipment for an infrastructure project or coordinating a multi-item hardware purchase, Integrated Solutions Technology can help you approach procurement with clearer specifications and better organisation."
+      ],
+      "primary": "Request an IT Equipment Quote",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  },
+  "configuration": {
+    "name": "Server Configuration & Upgrades",
+    "hero": {
+      "title": "Get More From the Servers Your Business Relies On.",
+      "primary": "Discuss Your Server Requirements",
+      "secondary": "Explore Server & Hardware Solutions"
+    },
+    "benefits": {
+      "title": "Your Next Server Improvement May Not Require a Complete Replacement.",
+      "paragraphs": [
+        "The right assessment helps determine what should be reconfigured, upgraded or replaced."
+      ],
+      "items": [
+        {
+          "title": "Improve Server Capacity",
+          "paragraphs": [
+            "Expand compatible memory, storage and other hardware resources to accommodate changing workload requirements."
+          ]
+        },
+        {
+          "title": "Support Better System Performance",
+          "paragraphs": [
+            "Review relevant server configurations and hardware limitations to identify suitable performance improvements."
+          ]
+        },
+        {
+          "title": "Maintain Platform Compatibility",
+          "paragraphs": [
+            "Evaluate supported operating systems, firmware, drivers and components before implementing important changes."
+          ]
+        },
+        {
+          "title": "Plan Changes With Greater Control",
+          "paragraphs": [
+            "Coordinate upgrades with appropriate backups, maintenance arrangements, verification checks and documented handover."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Understand the Existing System. Make the Right Changes.",
+      "paragraphs": [
+        "We help organisations assess existing servers, identify appropriate changes and implement agreed improvements with attention to compatibility and operational requirements."
+      ],
+      "entries": [
+        {
+          "title": "Server Assessment & Configuration Review",
+          "tagline": "Know What's Running Before You Change It.",
+          "paragraphs": [
+            "Every server environment has different responsibilities, dependencies and capacity requirements.",
+            "We review relevant hardware specifications, installed components, operating-system information, server roles, utilisation concerns and reported performance issues.",
+            "This helps identify possible configuration problems, hardware limitations and upgrade opportunities that should be considered before implementation."
+          ],
+          "cta": "Request a Server Configuration Review"
+        },
+        {
+          "title": "Server Operating System & Platform Configuration",
+          "tagline": "Prepare Your Server for the Work It Needs to Perform.",
+          "paragraphs": [
+            "A server needs suitable system settings to support its intended applications and services.",
+            "We review and implement agreed operating-system and platform configurations, subject to software compatibility, licensing and authorised access.",
+            "Depending on the project, this may include initial operating-system setup, network settings, storage presentation, supported server roles and relevant management configurations."
+          ],
+          "cta": "Discuss Server Configuration"
+        },
+        {
+          "title": "Server Memory, Storage & Hardware Upgrades",
+          "tagline": "Expand Capacity Without Replacing What Still Works.",
+          "paragraphs": [
+            "As applications and workloads grow, suitable hardware upgrades may extend the usefulness of an existing server.",
+            "We assess compatible memory, storage drives, network interfaces and other supported components against the server model and current configuration.",
+            "The recommended upgrades consider manufacturer specifications, available expansion capacity, required performance and the practical impact of installation."
+          ],
+          "cta": "Plan Your Server Hardware Upgrade"
+        },
+        {
+          "title": "Firmware, Change Verification & Handover",
+          "tagline": "Make Changes With Compatibility and Continuity in Mind.",
+          "paragraphs": [
+            "Server firmware and configuration changes require careful coordination.",
+            "We review relevant software and firmware requirements, manufacturer-supported procedures, backup readiness and maintenance constraints before implementing approved changes.",
+            "After the work, we perform appropriate hardware and system checks against the agreed scope and provide relevant configuration or upgrade records for handover."
+          ],
+          "cta": "Discuss Server Upgrade Implementation"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Better Performance Starts With the Right Technical Work.",
+      "paragraphs": [
+        "Explore the hardware and configuration activities involved in maintaining and improving business server environments."
+      ],
+      "items": [
+        {
+          "title": "Server Configuration & Administration",
+          "paragraphs": [
+            "Reviewing appropriate operating-system settings, server roles and management interfaces for the intended workload."
+          ]
+        },
+        {
+          "title": "Enterprise Server Memory Upgrades",
+          "paragraphs": [
+            "Installing compatible memory components according to supported hardware configurations and manufacturer population requirements."
+          ]
+        },
+        {
+          "title": "Server Storage & Component Expansion",
+          "paragraphs": [
+            "Reviewing and installing suitable storage drives, interfaces and hardware accessories to address changing capacity requirements."
+          ]
+        },
+        {
+          "title": "Firmware Maintenance & Verification",
+          "paragraphs": [
+            "Performing approved firmware or system updates and reviewing relevant hardware status and configuration information."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Server Upgrade Project"
+    },
+    "faq": {
+      "title": "Your Enterprise Server Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is server configuration?",
+          "paragraphs": [
+            "Server configuration involves setting up and managing the software, hardware settings and system parameters required for a server to perform its intended functions. This may include operating-system setup, network settings, storage configuration, server roles and management access."
+          ]
+        },
+        {
+          "title": "What is a server upgrade?",
+          "paragraphs": [
+            "A server upgrade improves or changes an existing server's hardware or software to meet new requirements. Examples include adding compatible RAM, expanding storage, updating firmware or moving to a supported operating-system version."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide server configuration and upgrade services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers server configuration and upgrade services for business and enterprise environments. Projects are assessed according to the server model, existing configuration, required changes and technical scope."
+          ]
+        },
+        {
+          "title": "How much does server configuration or upgrading cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the server type, required hardware components, software licences, configuration complexity, installation conditions and verification requirements. An assessment of the existing environment helps establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "Can you upgrade the RAM in an existing enterprise server?",
+          "paragraphs": [
+            "Many enterprise servers support memory upgrades, subject to the model's specifications, available memory slots, processor configuration and supported memory types. Compatibility must be checked before purchasing and installing additional modules."
+          ]
+        },
+        {
+          "title": "Can you upgrade server hard drives to SSDs?",
+          "paragraphs": [
+            "It may be possible to install compatible SSDs or change the storage configuration, depending on the server model, drive bays, controller support and existing data arrangement. Any replacement affecting stored data requires suitable backup and migration planning."
+          ]
+        },
+        {
+          "title": "Can you expand the storage capacity of an existing server?",
+          "paragraphs": [
+            "Yes, where the hardware and storage configuration support expansion. Options may include compatible drives, additional enclosures or separate storage systems. The implementation depends on controller capabilities, available capacity and data protection requirements."
+          ]
+        },
+        {
+          "title": "Can you configure Windows Server or Linux?",
+          "paragraphs": [
+            "Windows Server and Linux-based environments require different skills, licensing arrangements and supported procedures. The particular distribution, version, server role and configuration requirements should be confirmed before agreeing to implementation."
+          ]
+        },
+        {
+          "title": "Can you upgrade an old version of Windows Server?",
+          "paragraphs": [
+            "A Windows Server upgrade may be possible if the existing edition, target version, hardware, applications and server roles meet the supported upgrade requirements. Some environments may require migration to a new installation rather than an in-place upgrade."
+          ]
+        },
+        {
+          "title": "What is the difference between an operating-system upgrade and server migration?",
+          "paragraphs": [
+            "An operating-system upgrade changes the software platform on an existing server installation where supported. A migration transfers applications, services or data to another environment or installation. The appropriate method depends on compatibility, risk and operational requirements."
+          ]
+        },
+        {
+          "title": "Can you configure a server for virtualisation?",
+          "paragraphs": [
+            "A suitable physical server can be prepared for a compatible virtualisation platform, subject to processor features, memory, storage, networking and hypervisor requirements. Hypervisor licensing and the intended virtual-machine workloads must also be considered."
+          ]
+        },
+        {
+          "title": "Can firmware updates improve server reliability?",
+          "paragraphs": [
+            "Supported firmware updates may address specific issues, compatibility requirements or security vulnerabilities. However, an update should be selected based on the server model, manufacturer's release information and existing system condition—not on the assumption that every update will improve performance."
+          ]
+        },
+        {
+          "title": "What is the difference between BIOS, firmware and drivers?",
+          "paragraphs": [
+            "BIOS or UEFI firmware supports low-level system initialisation and hardware control. Other device firmware operates components such as storage controllers and network adapters. Drivers allow the operating system to communicate with supported hardware. Each has different compatibility and update requirements."
+          ]
+        },
+        {
+          "title": "Can server upgrades be performed without downtime?",
+          "paragraphs": [
+            "Some maintenance tasks may be possible while a server remains operational, depending on the equipment and workload. Many hardware changes, firmware updates and operating-system upgrades require restarts or planned service interruptions. Downtime expectations should be agreed in advance."
+          ]
+        },
+        {
+          "title": "Do you back up the server before performing an upgrade?",
+          "paragraphs": [
+            "Backup requirements should be established before any change that could affect operating systems, configurations or data. Appropriate backup verification, recovery arrangements and responsibilities must be included in the agreed project plan."
+          ]
+        },
+        {
+          "title": "Can you configure a server purchased from another supplier?",
+          "paragraphs": [
+            "Customer-supplied servers can be assessed for configuration, subject to their condition, hardware compatibility, required software licences, administrative access and available technical support."
+          ]
+        },
+        {
+          "title": "Can you work on Dell PowerEdge and HPE ProLiant servers?",
+          "paragraphs": [
+            "Servers from these product families may be assessed for configuration or hardware upgrade work. Support for a particular model or generation depends on the required change, compatible components, manufacturer guidance and available expertise."
+          ]
+        },
+        {
+          "title": "How do I know whether to upgrade or replace my server?",
+          "paragraphs": [
+            "Important factors include server age, manufacturer support status, current capacity, component availability, application compatibility, expected growth and the cost of proposed improvements. An assessment can help determine whether an upgrade offers suitable value or a replacement is more appropriate."
+          ]
+        },
+        {
+          "title": "Can you troubleshoot a server that has become slow?",
+          "paragraphs": [
+            "Server performance problems may involve insufficient memory, storage latency, processor demand, software issues or connected infrastructure. A review helps identify possible causes before recommending changes."
+          ]
+        },
+        {
+          "title": "How long does a server upgrade take?",
+          "paragraphs": [
+            "The timeframe depends on the type of upgrade, hardware availability, operating-system requirements, backup readiness, configuration complexity and acceptable maintenance window. The schedule should be established after reviewing the existing environment."
+          ]
+        },
+        {
+          "title": "Will we receive documentation after the configuration or upgrade?",
+          "paragraphs": [
+            "Relevant documentation can be included in the agreed scope. This may cover installed components, applicable system settings, version changes, performed checks and outstanding recommendations."
+          ]
+        },
+        {
+          "title": "What information do you need for a server configuration quotation?",
+          "paragraphs": [
+            "Useful details include your facility location, server manufacturer and model, installed operating system, current hardware specifications, required changes, running applications and any restrictions on downtime."
+          ]
+        },
+        {
+          "title": "How do we get started with a server configuration or upgrade project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your current server environment and the improvements you want to achieve. We can review the requirements and discuss the appropriate assessment and implementation scope."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Server Configuration & Upgrade Requirements"
+    },
+    "closing": {
+      "title": "Your Server Still Has a Job to Do. Let's Make Sure It's Ready.",
+      "paragraphs": [
+        "Whether you're expanding hardware capacity, improving server configuration or planning an operating-system upgrade, Integrated Solutions Technology can help you assess the options and implement suitable changes."
+      ],
+      "primary": "Discuss Your Server Upgrade",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  },
+  "repair": {
+    "name": "Hardware Maintenance & Repair",
+    "hero": {
+      "title": "When Your Hardware Fails, Your Business Shouldn't Have to Stop.",
+      "primary": "Request Hardware Technical Support",
+      "secondary": "Explore IT Hardware Services"
+    },
+    "benefits": {
+      "title": "Find the Cause. Fix What Makes Sense. Keep Your Infrastructure Maintainable.",
+      "paragraphs": [
+        "A structured maintenance approach helps organisations identify problems earlier, reduce unnecessary replacement decisions and plan repairs with greater control."
+      ],
+      "items": [
+        {
+          "title": "More Accurate Fault Diagnosis",
+          "paragraphs": [
+            "Investigate equipment symptoms and relevant diagnostic information before recommending a repair or component replacement."
+          ]
+        },
+        {
+          "title": "Reduced Avoidable Disruption",
+          "paragraphs": [
+            "Address identified hardware problems through planned corrective work and appropriate maintenance arrangements."
+          ]
+        },
+        {
+          "title": "Better Equipment Lifecycle Decisions",
+          "paragraphs": [
+            "Understand whether equipment should be repaired, upgraded or replaced based on its condition, supportability and business requirements."
+          ]
+        },
+        {
+          "title": "Clearer Maintenance Records",
+          "paragraphs": [
+            "Document agreed findings, replaced components and completed checks to support future troubleshooting and equipment management."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Hardware Problems Deserve More Than Guesswork.",
+      "paragraphs": [
+        "We help businesses assess faults, plan appropriate interventions and verify the results of agreed maintenance work."
+      ],
+      "entries": [
+        {
+          "title": "Hardware Diagnostics & Fault Assessment",
+          "tagline": "Understand the Fault Before Choosing a Repair.",
+          "paragraphs": [
+            "A hardware failure may involve memory, storage, power supplies, cooling components, network interfaces or other system hardware.",
+            "We review equipment symptoms, available diagnostic indicators, event logs and relevant physical conditions.",
+            "Where appropriate, manufacturer-supported diagnostic tools and checks help identify suspected component faults and determine the next technical steps."
+          ],
+          "cta": "Request Hardware Fault Assessment"
+        },
+        {
+          "title": "Hardware Repair & Component Replacement",
+          "tagline": "Replace the Right Component. Restore the Right Function.",
+          "paragraphs": [
+            "Once a hardware fault has been assessed, suitable corrective work can be planned.",
+            "We review repair options for supported servers, computers and related IT equipment, including replacement of compatible drives, memory modules, power supplies, cooling components and other serviceable parts.",
+            "Repair feasibility depends on the equipment model, component availability, physical condition and applicable manufacturer procedures."
+          ],
+          "cta": "Discuss Hardware Repair"
+        },
+        {
+          "title": "Preventive Hardware Maintenance",
+          "tagline": "Identify Equipment Concerns Before They Become Bigger Problems.",
+          "paragraphs": [
+            "Planned maintenance helps organisations review the physical condition and operating status of important IT equipment.",
+            "We assess relevant hardware health indicators, cooling conditions, physical connections, component alerts and other maintenance concerns.",
+            "Recommended actions are based on the equipment's condition, manufacturer guidance and the agreed maintenance scope."
+          ],
+          "cta": "Plan Hardware Maintenance"
+        },
+        {
+          "title": "Post-Repair Checks & Maintenance Handover",
+          "tagline": "Know What Was Repaired. Know What Still Needs Attention.",
+          "paragraphs": [
+            "A repair should be followed by appropriate checks, not simply the replacement of a part.",
+            "We review relevant hardware status, component recognition and agreed equipment functions after maintenance or repair.",
+            "The handover can include the fault findings, corrective actions, installed replacement parts, verification results and any remaining recommendations."
+          ],
+          "cta": "Discuss Hardware Maintenance Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Hands-On Work Behind Dependable IT Infrastructure.",
+      "paragraphs": [
+        "Explore the diagnostics, component replacement and maintenance activities involved in supporting business hardware."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Server Diagnostics",
+          "paragraphs": [
+            "Reviewing server health indicators, hardware error information and appropriate diagnostic results to investigate reported faults."
+          ]
+        },
+        {
+          "title": "IT Hardware Component Replacement",
+          "paragraphs": [
+            "Installing suitable replacement drives, memory, cooling components and other supported hardware parts according to equipment requirements."
+          ]
+        },
+        {
+          "title": "Preventive Equipment Inspection",
+          "paragraphs": [
+            "Reviewing relevant hardware conditions, accessible connections, cooling arrangements and manufacturer-reported equipment health."
+          ]
+        },
+        {
+          "title": "Repair Verification & Documentation",
+          "paragraphs": [
+            "Checking agreed equipment functions and recording maintenance findings, completed work and outstanding issues."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Hardware Maintenance Requirements"
+    },
+    "faq": {
+      "title": "Your Business Hardware Maintenance Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is IT hardware maintenance and repair?",
+          "paragraphs": [
+            "IT hardware maintenance and repair involves inspecting, diagnosing, servicing and correcting faults in physical technology equipment. It may include hardware diagnostics, component replacement, preventive inspections and verification of completed repair work."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide IT hardware repair services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides hardware maintenance and repair as part of its Server, Storage & Hardware services. Support for particular equipment types and models is determined by the reported fault, available technical capability and agreed project scope."
+          ]
+        },
+        {
+          "title": "What types of business IT equipment can be assessed for repair?",
+          "paragraphs": [
+            "Relevant equipment may include enterprise servers, business desktop computers, workstations, storage hardware and selected network devices. Repair options depend on the product, condition, available replacement components and manufacturer support."
+          ]
+        },
+        {
+          "title": "Do you repair enterprise servers?",
+          "paragraphs": [
+            "Enterprise servers can be assessed for hardware-related faults such as memory errors, drive problems, power issues and cooling failures. The appropriate repair depends on the specific server model, diagnostic findings and supported replacement procedures."
+          ]
+        },
+        {
+          "title": "Can you repair a server that will not power on?",
+          "paragraphs": [
+            "A server that fails to power on may have a power-supply problem, internal component fault or another hardware issue. Diagnosis should begin with safe checks and appropriate manufacturer-supported procedures before any part is replaced."
+          ]
+        },
+        {
+          "title": "Can you replace a faulty server hard drive?",
+          "paragraphs": [
+            "A compatible drive may be replaced where the equipment supports the procedure and the correct component is available. However, drive replacement can affect RAID arrays and stored data. The storage configuration and recovery requirements must be reviewed before work begins."
+          ]
+        },
+        {
+          "title": "Can you fix server memory errors?",
+          "paragraphs": [
+            "Memory errors can be investigated using hardware event information and appropriate diagnostics. Depending on the findings, corrective work may involve configuration review, a supported firmware procedure or replacement of an affected memory module."
+          ]
+        },
+        {
+          "title": "Can you repair overheating servers or computers?",
+          "paragraphs": [
+            "Overheating can have several causes, including obstructed airflow, failed fans, unsuitable environmental conditions and component problems. The cause should be identified before maintenance or replacement work is recommended."
+          ]
+        },
+        {
+          "title": "What is preventive hardware maintenance?",
+          "paragraphs": [
+            "Preventive hardware maintenance involves planned checks intended to identify equipment concerns before they lead to more serious failures. Activities may include reviewing hardware alerts, inspecting accessible components, assessing cooling arrangements and checking physical connections."
+          ]
+        },
+        {
+          "title": "How often should business hardware be maintained?",
+          "paragraphs": [
+            "The appropriate maintenance schedule depends on equipment importance, operating environment, workload, manufacturer recommendations and support arrangements. Critical infrastructure may need more frequent health reviews than equipment used for less demanding tasks."
+          ]
+        },
+        {
+          "title": "Can you repair equipment without interrupting business operations?",
+          "paragraphs": [
+            "Some inspections can be completed without shutting down equipment. Other activities, including certain diagnostics and component replacements, require planned downtime. The expected operational impact should be assessed before work begins."
+          ]
+        },
+        {
+          "title": "Does hardware repair include data recovery?",
+          "paragraphs": [
+            "Not automatically. Repairing a hardware component is different from recovering missing or damaged data. Data-recovery requirements need separate assessment, and successful recovery cannot be guaranteed."
+          ]
+        },
+        {
+          "title": "Will repairing a server affect its stored data?",
+          "paragraphs": [
+            "Some repairs may not directly involve stored data, while others can introduce data-loss risk. Before carrying out relevant work, the existing storage configuration, backup status and recovery responsibilities should be reviewed."
+          ]
+        },
+        {
+          "title": "Can you source replacement parts for business IT equipment?",
+          "paragraphs": [
+            "Compatible replacement components can be considered as part of an agreed maintenance or repair project. Availability, product condition, warranty terms and compatibility should be confirmed before procurement."
+          ]
+        },
+        {
+          "title": "Can you repair equipment that is no longer under warranty?",
+          "paragraphs": [
+            "Out-of-warranty equipment can be assessed for possible repair. However, replacement components may be unavailable or uneconomical for certain older products. The repair decision should consider equipment condition and remaining service life."
+          ]
+        },
+        {
+          "title": "Is it better to repair or replace ageing IT equipment?",
+          "paragraphs": [
+            "The decision depends on repair cost, equipment age, manufacturer support, reliability, spare-part availability and current business requirements. Repair may be suitable for a serviceable component fault, while replacement may be more practical when multiple limitations exist."
+          ]
+        },
+        {
+          "title": "How much does IT hardware repair cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the equipment type, reported fault, diagnostic work, replacement components, site access and repair complexity. A technical assessment helps establish the likely work and an appropriate quotation."
+          ]
+        },
+        {
+          "title": "How long does a hardware repair take?",
+          "paragraphs": [
+            "The timeframe depends on diagnosis, component availability, repair complexity, authorised maintenance windows and testing requirements. An accurate completion estimate is normally possible only after the fault and repair scope are understood."
+          ]
+        },
+        {
+          "title": "Can you provide onsite hardware maintenance?",
+          "paragraphs": [
+            "Onsite maintenance requirements can be reviewed based on the equipment, site location, required work and available technical resources. Some repairs may require specialist facilities or manufacturer-authorised service arrangements."
+          ]
+        },
+        {
+          "title": "Can you maintain equipment installed by another company?",
+          "paragraphs": [
+            "Existing third-party equipment can be considered for assessment, subject to its condition, technical access, warranty restrictions and the availability of suitable support procedures."
+          ]
+        },
+        {
+          "title": "Can you work on Dell, HPE or Lenovo enterprise equipment?",
+          "paragraphs": [
+            "Equipment from these manufacturers may be assessed, but support must be confirmed for the exact model, generation and fault. Manufacturer-authorised service status should never be assumed unless specifically verified."
+          ]
+        },
+        {
+          "title": "Do you offer emergency hardware repair or 24/7 support?",
+          "paragraphs": [
+            "Response arrangements depend on the support agreement, available resources and location. Emergency attendance, guaranteed response times and round-the-clock support are not automatically included in a standard repair request."
+          ]
+        },
+        {
+          "title": "Will we receive a maintenance or repair report?",
+          "paragraphs": [
+            "Agreed documentation may include the reported symptoms, diagnostic findings, replaced parts, corrective actions, verification checks and outstanding recommendations."
+          ]
+        },
+        {
+          "title": "What information is needed to request hardware repair?",
+          "paragraphs": [
+            "Useful information includes your location, equipment manufacturer and model, serial or asset reference, fault symptoms, error messages, current operating status and any restrictions on downtime."
+          ]
+        },
+        {
+          "title": "How do we request hardware maintenance or repair?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of the affected equipment and the problem you are experiencing. We can review the information and discuss the appropriate assessment, maintenance or repair requirements."
+          ]
+        }
+      ],
+      "cta": "Request Hardware Maintenance & Repair Support"
+    },
+    "closing": {
+      "title": "Faulty Equipment Needs the Right Attention. Not More Guesswork.",
+      "paragraphs": [
+        "Whether you're investigating a failing server, replacing damaged components or planning preventive maintenance for business hardware, Integrated Solutions Technology can help you assess the problem and determine suitable corrective action."
+      ],
+      "primary": "Request Hardware Technical Support",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  },
+  "accessories": {
+    "name": "Rack Accessories & Consumables Supply",
+    "hero": {
+      "title": "Every Rack Needs the Right Supporting Components.",
+      "primary": "Request a Rack Accessories Quote",
+      "secondary": "Explore Hardware Solutions"
+    },
+    "benefits": {
+      "title": "Small Components. Important Responsibilities.",
+      "paragraphs": [
+        "Selecting the right accessories helps your team avoid unnecessary installation complications."
+      ],
+      "items": [
+        {
+          "title": "Secure Equipment Mounting",
+          "paragraphs": [
+            "Choose compatible rails, shelves, mounting brackets and fixings suited to the equipment and rack specifications."
+          ]
+        },
+        {
+          "title": "More Organised Connections",
+          "paragraphs": [
+            "Use appropriate cable managers, patch cords and supporting accessories to keep network connections accessible and manageable."
+          ]
+        },
+        {
+          "title": "Better Airflow Management",
+          "paragraphs": [
+            "Select suitable blanking panels and airflow accessories according to the rack's cooling arrangement."
+          ]
+        },
+        {
+          "title": "Easier Maintenance & Expansion",
+          "paragraphs": [
+            "Keep essential installation components available for equipment additions, replacement work and planned infrastructure changes."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Accessory for the Right Installation.",
+      "paragraphs": [
+        "We help organisations identify suitable products and source the supporting components required for their infrastructure projects."
+      ],
+      "entries": [
+        {
+          "title": "Rack Shelves, Rails & Mounting Hardware",
+          "tagline": "Support Your Equipment With Compatible Components.",
+          "paragraphs": [
+            "Servers, network switches and other devices need suitable mounting arrangements.",
+            "We help source appropriate rack shelves, sliding or fixed rails, mounting brackets, cage nuts, screws and related installation hardware.",
+            "Selection considers rack dimensions, mounting-hole design, equipment weight, supported load capacity and the manufacturer's specified requirements."
+          ],
+          "cta": "Request Rack Mounting Accessories"
+        },
+        {
+          "title": "Cable Management & Connectivity Accessories",
+          "tagline": "Keep Your Network Connections Organised.",
+          "paragraphs": [
+            "Well-managed cables make it easier to identify ports, service equipment and carry out approved changes.",
+            "We help source horizontal and vertical cable managers, cable-management rings, compatible patch cords, suitable fastening accessories and related connectivity components.",
+            "Product selection considers cable type, length, routing requirements, connector compatibility and the installation environment."
+          ],
+          "cta": "Request Cable Management Accessories"
+        },
+        {
+          "title": "Blanking Panels, Airflow & Rack Power Accessories",
+          "tagline": "Complete Your Rack With the Right Supporting Components.",
+          "paragraphs": [
+            "Unused rack spaces, unsuitable cable openings and poorly planned power connections can complicate infrastructure management.",
+            "We help identify appropriate blanking panels, brush strips, PDU mounting accessories and compatible rack power-distribution products.",
+            "Selection should reflect the rack's airflow design, equipment needs, electrical ratings and applicable installation requirements."
+          ],
+          "cta": "Discuss Rack Power & Airflow Accessories"
+        },
+        {
+          "title": "Consumables Sourcing & Bulk Procurement",
+          "tagline": "Get the Components Your Project Needs in One Request.",
+          "paragraphs": [
+            "Infrastructure projects often require numerous smaller items that are easy to overlook during planning.",
+            "We review accessory lists, manufacturer part numbers, bills of quantities and required quantities to help prepare an organised procurement quotation.",
+            "Where applicable, we identify compatibility questions, confirm sourcing requirements and coordinate agreed supply documentation."
+          ],
+          "cta": "Submit Your Rack Accessories List"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Essential Accessories. Practical Applications.",
+      "paragraphs": [
+        "Explore the supporting components used in professional network cabinets, server racks and IT equipment installations."
+      ],
+      "items": [
+        {
+          "title": "Server Rack Shelves & Mounting Rails",
+          "paragraphs": [
+            "Compatible fixed shelves, adjustable supports, rail kits and mounting hardware for suitable rack-mounted equipment."
+          ]
+        },
+        {
+          "title": "Network Rack Cable Managers",
+          "paragraphs": [
+            "Horizontal and vertical cable-management accessories designed to guide and organise compatible data and power connections."
+          ]
+        },
+        {
+          "title": "Rack Blanking Panels & Accessories",
+          "paragraphs": [
+            "Suitable panels and rack components used to cover unused spaces and support the intended enclosure arrangement."
+          ]
+        },
+        {
+          "title": "Patch Cords, Fixings & Installation Consumables",
+          "paragraphs": [
+            "Compatible Ethernet patch cords, cage nuts, mounting screws, cable-management fasteners and other essential installation items."
+          ]
+        }
+      ],
+      "cta": "Request an Accessories Quotation"
+    },
+    "faq": {
+      "title": "Your Rack Accessories Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are server rack accessories?",
+          "paragraphs": [
+            "Server rack accessories are supporting components used to mount, connect, organise, protect and maintain equipment in server racks and network cabinets. Examples include shelves, rail kits, cable managers, blanking panels, mounting hardware and rack power-distribution accessories."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology supply rack accessories in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers rack accessories and consumables supply as part of its Server, Storage & Hardware services. Specific products, quantities, brands and availability are confirmed through the procurement process."
+          ]
+        },
+        {
+          "title": "What types of network rack accessories can you source?",
+          "paragraphs": [
+            "Requests may include rack shelves, mounting rails, cage nuts, screws, horizontal and vertical cable managers, blanking panels, patch cords, PDU mounting accessories and related installation consumables."
+          ]
+        },
+        {
+          "title": "How much do server rack accessories cost in Nigeria?",
+          "paragraphs": [
+            "Prices depend on the accessory type, manufacturer, dimensions, load rating, material, product specifications, quantities and availability. An itemised quotation provides a more reliable price than a general estimate."
+          ]
+        },
+        {
+          "title": "Can you supply accessories for an existing server rack?",
+          "paragraphs": [
+            "Yes, compatible accessories can be sourced for existing racks where the make, model and required dimensions are known. Some products are designed for specific rack systems, while others fit a wider range of compatible cabinets."
+          ]
+        },
+        {
+          "title": "What information is needed to choose the correct rack shelf?",
+          "paragraphs": [
+            "Important details include rack width, available mounting depth, shelf type, equipment dimensions, weight, ventilation needs and whether the rack supports two-post or four-post mounting."
+          ]
+        },
+        {
+          "title": "What is the difference between a fixed and sliding rack shelf?",
+          "paragraphs": [
+            "A fixed shelf remains in position after installation. A sliding shelf can extend outward to provide easier access to supported equipment. The appropriate choice depends on the equipment weight, available rack depth, maintenance requirements and shelf specifications."
+          ]
+        },
+        {
+          "title": "Are all server rack rails compatible with every server?",
+          "paragraphs": [
+            "No. Server rail kits may be specific to a manufacturer, product family or exact model. Rack depth, mounting-hole type and rail design must also be checked before purchasing."
+          ]
+        },
+        {
+          "title": "What are cage nuts used for in a server rack?",
+          "paragraphs": [
+            "Cage nuts provide threaded mounting points in compatible rack rails, commonly those with square mounting holes. They work with appropriate screws to secure equipment or accessories. The size and type must match the installation requirements."
+          ]
+        },
+        {
+          "title": "What is a rack cable manager?",
+          "paragraphs": [
+            "A rack cable manager is an accessory that guides, supports or organises cables in a network cabinet or server rack. It may be installed horizontally or vertically depending on the rack layout and cable quantities."
+          ]
+        },
+        {
+          "title": "Why are blanking panels used in server racks?",
+          "paragraphs": [
+            "Blanking panels cover unused rack spaces. In suitable enclosure and cooling designs, they help reduce unwanted airflow mixing or recirculation through empty equipment openings."
+          ]
+        },
+        {
+          "title": "Should I buy solid or ventilated blanking panels?",
+          "paragraphs": [
+            "The choice depends on the rack's cooling arrangement and intended use. Solid panels are commonly selected for airflow separation in front-to-back cooled environments, while ventilated panels may suit other requirements. They should not be treated as interchangeable without reviewing the cooling design."
+          ]
+        },
+        {
+          "title": "Do you supply server rack power distribution units?",
+          "paragraphs": [
+            "Rack PDUs and related accessories can be considered within the procurement scope. Selection requires checking input voltage, plug type, current rating, outlet types, power capacity and installation compatibility."
+          ]
+        },
+        {
+          "title": "Can you supply Ethernet patch cords in different lengths?",
+          "paragraphs": [
+            "Suitable patch cords can be sourced according to the required cable category, connector type, length and installation needs. The quotation should specify these details clearly."
+          ]
+        },
+        {
+          "title": "What is the difference between Cat6 and Cat6A patch cords?",
+          "paragraphs": [
+            "Cat6 and Cat6A patch cords have different performance specifications. Cat6A is designed for higher-frequency operation and can support appropriate 10 Gigabit Ethernet cabling channels when used with compatible infrastructure. The correct choice depends on the network's technical requirements."
+          ]
+        },
+        {
+          "title": "Can you supply rack accessories for Dell, HPE or APC equipment?",
+          "paragraphs": [
+            "Products for these equipment and rack families may be considered during sourcing. Compatibility, manufacturer part numbers, supply availability and applicable warranty arrangements must be confirmed before quotation or purchase."
+          ]
+        },
+        {
+          "title": "Can you help identify an accessory if I don't know its part number?",
+          "paragraphs": [
+            "Yes. Details such as the rack model, equipment model, photographs, dimensions and intended application can help identify a potentially suitable component. Compatibility should be verified before ordering."
+          ]
+        },
+        {
+          "title": "Can you supply rack accessories in bulk?",
+          "paragraphs": [
+            "Bulk requirements can be reviewed using an itemised list or bill of quantities. Availability, packaging quantities, pricing and delivery arrangements depend on the requested products and suppliers."
+          ]
+        },
+        {
+          "title": "Do you accept a bill of quantities for rack accessories?",
+          "paragraphs": [
+            "Yes. An itemised bill of quantities is useful for specifying product descriptions, model numbers, quantities, sizes and acceptable alternatives."
+          ]
+        },
+        {
+          "title": "Can you supply accessories for data centre expansion projects?",
+          "paragraphs": [
+            "Data centre rack-accessory requirements can be assessed alongside the project's equipment, cabinet specifications and implementation plan. The scope may cover mounting, cable management, airflow-related accessories and suitable consumables."
+          ]
+        },
+        {
+          "title": "Can you install the accessories you supply?",
+          "paragraphs": [
+            "Installation requirements can be discussed as a separate or combined service where supported. The quotation should clearly identify whether the request is for supply only or supply and installation."
+          ]
+        },
+        {
+          "title": "How long does delivery take?",
+          "paragraphs": [
+            "Delivery time depends on product availability, sourcing requirements, order quantity and location. Expected lead times should be confirmed for the specific accessories before an order is approved."
+          ]
+        },
+        {
+          "title": "Are rack accessories covered by a warranty?",
+          "paragraphs": [
+            "Warranty terms depend on the product, manufacturer, condition and supply arrangement. The applicable coverage should be identified in the quotation or supporting product documentation."
+          ]
+        },
+        {
+          "title": "What if the requested rack accessory is unavailable?",
+          "paragraphs": [
+            "An alternative product may be considered if it meets the relevant specifications. Differences in compatibility, dimensions, load capacity, material or electrical ratings should be explained and approved before substitution."
+          ]
+        },
+        {
+          "title": "What details should I send to request a quotation?",
+          "paragraphs": [
+            "Provide the accessory name, manufacturer or part number where available, rack or equipment model, technical specifications, quantity and delivery location. Photographs or an existing BOQ may also help."
+          ]
+        },
+        {
+          "title": "How do I request rack accessories from Integrated Solutions Technology?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your accessory list or required specifications. We can review the request, identify relevant compatibility considerations and discuss available sourcing options."
+          ]
+        }
+      ],
+      "cta": "Submit Your Rack Accessories Requirements"
+    },
+    "closing": {
+      "title": "The Right Components Make the Whole Installation Work Better.",
+      "paragraphs": [
+        "Whether you're installing new equipment, reorganising an existing cabinet or preparing for an infrastructure expansion, Integrated Solutions Technology can help you source suitable rack accessories and supporting consumables."
+      ],
+      "primary": "Request a Rack Accessories Quote",
+      "secondary": "Explore Server, Storage & Hardware Solutions"
+    }
+  }
+}

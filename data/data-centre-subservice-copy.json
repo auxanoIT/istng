@@ -1,0 +1,1412 @@
+{
+  "planning": {
+    "name": "Data Centre Design & Infrastructure Planning",
+    "hero": {
+      "title": "Better Infrastructure Begins With Better Planning.",
+      "primary": "Discuss Your Data Centre Project",
+      "secondary": "Explore Our Infrastructure Services"
+    },
+    "benefits": {
+      "title": "Get the Foundation Right Before Equipment Goes In.",
+      "paragraphs": [
+        "A structured approach helps you make informed decisions before committing to installation."
+      ],
+      "items": [
+        {
+          "title": "Make Better Use of Available Space",
+          "paragraphs": [
+            "Plan equipment layouts, rack positions and maintenance access around your facility's physical requirements."
+          ]
+        },
+        {
+          "title": "Prepare for Power & Cooling Needs",
+          "paragraphs": [
+            "Identify electrical capacity, backup power and environmental requirements that must be addressed by the appropriate engineering specialists."
+          ]
+        },
+        {
+          "title": "Simplify Infrastructure Management",
+          "paragraphs": [
+            "Organised equipment layouts and cable pathways make the environment easier to maintain, inspect and upgrade."
+          ]
+        },
+        {
+          "title": "Plan for Future Expansion",
+          "paragraphs": [
+            "Consider additional racks, growing workloads and changing infrastructure requirements before available space and capacity become limiting factors."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Decision Matters Before Deployment Begins.",
+      "paragraphs": [
+        "We help organisations define their requirements and develop a coordinated approach to infrastructure implementation."
+      ],
+      "entries": [
+        {
+          "title": "Facility & Requirements Assessment",
+          "tagline": "Understand the Environment Before Making the Investment.",
+          "paragraphs": [
+            "Every data centre project begins with understanding the systems the facility needs to support.",
+            "We review available space, intended equipment, operating requirements, existing infrastructure and anticipated capacity needs.",
+            "This provides a clearer picture of the facility's current readiness, potential constraints and the technical considerations that should guide the proposed infrastructure plan."
+          ],
+          "cta": "Discuss Your Facility Requirements"
+        },
+        {
+          "title": "Rack Layout & Equipment Planning",
+          "tagline": "Give Every System the Space It Needs.",
+          "paragraphs": [
+            "A well-planned equipment layout helps make installation, maintenance and future expansion more manageable.",
+            "We develop practical rack and equipment arrangements around server dimensions, storage systems, network equipment, cable pathways and required access.",
+            "The objective is to use available space effectively while considering equipment compatibility, maintainability and the facility's operating requirements."
+          ],
+          "cta": "Plan Your Infrastructure Layout"
+        },
+        {
+          "title": "Power, Cooling & Connectivity Coordination",
+          "tagline": "Plan the Supporting Systems Before Deployment.",
+          "paragraphs": [
+            "Enterprise computing equipment depends on suitable electrical power, environmental conditions and network connectivity.",
+            "We review the infrastructure requirements associated with equipment loads, power distribution, cooling, network connections and supporting cable routes.",
+            "Where specialist electrical, mechanical or fire-protection designs are required, these must be coordinated with appropriately qualified professionals before implementation."
+          ],
+          "cta": "Discuss Your Technical Requirements"
+        },
+        {
+          "title": "Deployment Readiness & Expansion Planning",
+          "tagline": "A Practical Plan for Today. Room for Tomorrow.",
+          "paragraphs": [
+            "The best infrastructure plan considers both the initial deployment and the changes that may follow.",
+            "We help identify equipment installation requirements, infrastructure dependencies, implementation priorities and opportunities for future capacity expansion.",
+            "The resulting plan provides a clearer basis for coordinating equipment procurement, installation activities and readiness checks before deployment begins."
+          ],
+          "cta": "Discuss Your Data Centre Deployment"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "See the Details Behind a Well-Planned IT Environment.",
+      "paragraphs": [
+        "Explore the planning considerations, equipment arrangements and technical environments that support professional data centre deployment."
+      ],
+      "items": [
+        {
+          "title": "Data Centre Facility Assessment",
+          "paragraphs": [
+            "Reviewing available technical space, access arrangements and existing infrastructure to identify the requirements and constraints of the proposed project."
+          ]
+        },
+        {
+          "title": "Server Rack & Equipment Layout",
+          "paragraphs": [
+            "Planning rack positions, equipment distribution and service clearances around computing requirements and practical maintenance access."
+          ]
+        },
+        {
+          "title": "Network & Cable Pathway Planning",
+          "paragraphs": [
+            "Organising suitable network distribution points, cable routes and supporting connections before equipment installation."
+          ]
+        },
+        {
+          "title": "Infrastructure Readiness Review",
+          "paragraphs": [
+            "Checking whether the agreed physical infrastructure and necessary supporting systems are prepared for the planned deployment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Infrastructure Planning Project"
+    },
+    "faq": {
+      "title": "Your Data Centre Planning Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is data centre design and infrastructure planning?",
+          "paragraphs": [
+            "Data centre design and infrastructure planning involves defining the physical and technical requirements of a facility before equipment deployment. It includes considerations such as available space, equipment layout, power capacity, cooling, network connectivity, physical security and future expansion."
+          ]
+        },
+        {
+          "title": "Why is proper data centre planning important?",
+          "paragraphs": [
+            "Proper planning helps organisations identify infrastructure constraints before installation, organise equipment more effectively and reduce the likelihood of costly changes during deployment. It also provides a clearer basis for maintenance and future expansion."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide data centre design and planning services?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides data centre and IT infrastructure planning services, including requirements assessment, rack and equipment layout planning, connectivity considerations and deployment preparation. Specialist facility engineering requirements are coordinated according to the agreed project scope."
+          ]
+        },
+        {
+          "title": "Can you help us plan a new data centre or server room?",
+          "paragraphs": [
+            "Yes. We can help assess the intended equipment, available space, infrastructure requirements and deployment objectives to establish a suitable implementation approach."
+          ]
+        },
+        {
+          "title": "Can you assess an existing data centre before expansion?",
+          "paragraphs": [
+            "Yes. Existing infrastructure can be reviewed to identify available space, equipment organisation, connectivity requirements and constraints that may affect expansion. Electrical and cooling capacity must also be assessed by appropriately qualified specialists where required."
+          ]
+        },
+        {
+          "title": "How do you determine the number of server racks required?",
+          "paragraphs": [
+            "Rack requirements depend on equipment quantities, physical dimensions, rack-unit capacity, power demand, cooling needs, cable management and future expansion plans. Rack count should be established from the proposed equipment and facility requirements rather than floor space alone."
+          ]
+        },
+        {
+          "title": "Do you include power and cooling in data centre infrastructure planning?",
+          "paragraphs": [
+            "Power availability and cooling requirements are important considerations in infrastructure planning. Detailed electrical and mechanical system design, where needed, must be undertaken or verified by suitably qualified professionals within the agreed project scope."
+          ]
+        },
+        {
+          "title": "Can you help with structured cabling and network infrastructure planning?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology also provides network and structured cabling solutions, which can support the planning of network equipment, distribution points, fibre connections and cable pathways within an IT facility."
+          ]
+        },
+        {
+          "title": "Can you help plan for future data centre expansion?",
+          "paragraphs": [
+            "Yes. Expansion planning can consider additional equipment, available rack capacity, space requirements, cable routes and supporting infrastructure. The practical options depend on the facility's existing technical constraints."
+          ]
+        },
+        {
+          "title": "What information is needed to begin a data centre planning project?",
+          "paragraphs": [
+            "Useful information includes your project location, proposed facility size, equipment inventory or requirements, expected rack capacity, existing electrical and cooling arrangements, connectivity needs and future growth plans."
+          ]
+        },
+        {
+          "title": "How much does data centre infrastructure planning cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the facility size, complexity, existing infrastructure, required assessments, technical documentation and the level of specialist design involved. A project discussion helps define the scope before a quotation is prepared."
+          ]
+        },
+        {
+          "title": "How long does data centre design and infrastructure planning take?",
+          "paragraphs": [
+            "The timeframe depends on the project scope, availability of facility information, technical complexity, required assessments and coordination with other engineering disciplines. A defined project brief helps establish an appropriate planning schedule."
+          ]
+        },
+        {
+          "title": "Do you follow recognised data centre infrastructure standards?",
+          "paragraphs": [
+            "Recognised standards and project requirements may inform infrastructure planning, including relevant telecommunications and facility design considerations. Any specific compliance requirement, certification or formal design standard must be explicitly established and verified within the project scope."
+          ]
+        },
+        {
+          "title": "Can you help move from planning to equipment deployment?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology's wider data centre services include server room setup, rack-and-stack, equipment installation and infrastructure verification. These services can be considered as part of the overall project implementation plan."
+          ]
+        },
+        {
+          "title": "How do we start a data centre design and planning project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your facility location, existing or proposed infrastructure details, equipment requirements and project objectives. We can discuss your needs and identify the next steps towards a suitable infrastructure assessment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Data Centre Planning Requirements"
+    },
+    "closing": {
+      "title": "The Infrastructure You Need Tomorrow Starts With the Decisions You Make Today.",
+      "paragraphs": [
+        "Whether you're establishing a new data centre, upgrading an existing server room or preparing for enterprise equipment deployment, Integrated Solutions Technology can help you plan the right foundation for your technology environment."
+      ],
+      "primary": "Discuss Your Infrastructure Project",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  },
+  "server-room": {
+    "name": "Server Room Setup & Deployment",
+    "hero": {
+      "title": "A Better Server Room. A Stronger Foundation for Your Business.",
+      "primary": "Discuss Your Server Room Project",
+      "secondary": "Explore Server Room Solutions"
+    },
+    "benefits": {
+      "title": "The Right Environment Makes Your Technology Easier to Manage.",
+      "paragraphs": [
+        "A professionally organised server room helps bring structure, accessibility and clarity to your technology environment."
+      ],
+      "items": [
+        {
+          "title": "Organised Equipment Infrastructure",
+          "paragraphs": [
+            "Proper rack arrangements and equipment positioning create a more manageable environment for your servers, storage and networking systems."
+          ]
+        },
+        {
+          "title": "Better Maintenance Access",
+          "paragraphs": [
+            "Thoughtful equipment placement, cable management and appropriate clearances make inspection, troubleshooting and maintenance easier."
+          ]
+        },
+        {
+          "title": "Prepared for Supporting Systems",
+          "paragraphs": [
+            "Server room deployment considers the electrical supply, cooling, connectivity and environmental requirements associated with the intended equipment."
+          ]
+        },
+        {
+          "title": "Ready for Future Requirements",
+          "paragraphs": [
+            "A well-planned server room can make it easier to accommodate additional equipment, new connections and changing business needs."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Component in Its Place. Every Connection Considered.",
+      "paragraphs": [
+        "We help organisations establish suitable environments for enterprise equipment while considering physical space, connectivity, power requirements and future maintenance."
+      ],
+      "entries": [
+        {
+          "title": "Site Readiness & Infrastructure Assessment",
+          "tagline": "Make Sure the Space Is Ready for Your Technology.",
+          "paragraphs": [
+            "Before installing equipment, the proposed server room must be assessed against the systems it is expected to accommodate.",
+            "We review available space, equipment requirements, existing infrastructure, access conditions and relevant supporting facilities.",
+            "This helps identify the preparations needed before deployment, including rack positioning, cable routes and requirements for appropriately designed power and cooling infrastructure."
+          ],
+          "cta": "Discuss Your Server Room Requirements"
+        },
+        {
+          "title": "Server Rack & Cabling Installation",
+          "tagline": "Create Order Before the Equipment Goes In.",
+          "paragraphs": [
+            "A well-organised server room begins with suitable equipment racks and properly planned connections.",
+            "We install compatible server racks, rack accessories and supporting cable management infrastructure according to the agreed layout.",
+            "Our approach considers equipment dimensions, rack capacity, cable pathways and appropriate access for maintenance and future modifications."
+          ],
+          "cta": "Plan Your Server Room Setup"
+        },
+        {
+          "title": "Equipment Deployment & Integration",
+          "tagline": "Turn Your Server Room Into a Working IT Environment.",
+          "paragraphs": [
+            "Once the supporting infrastructure is prepared, enterprise equipment can be installed and connected.",
+            "We deploy suitable servers, storage devices, network switches and related rack-mounted equipment according to the approved project requirements.",
+            "Installation activities include equipment positioning, mounting, cable organisation and agreed power and network connections."
+          ],
+          "cta": "Discuss Your Equipment Deployment"
+        },
+        {
+          "title": "Verification, Handover & Support",
+          "tagline": "Ready for Your Team. Prepared for Everyday Operations.",
+          "paragraphs": [
+            "A server room should be checked before being handed over for operational use.",
+            "We verify relevant equipment installation, cable connections, rack organisation and agreed infrastructure requirements.",
+            "Following completion, we provide applicable installation information and operational guidance to help your team understand and manage the deployed environment."
+          ],
+          "cta": "Explore Infrastructure Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Technical Space to Organised Infrastructure.",
+      "paragraphs": [
+        "Explore the equipment arrangements and installation activities involved in establishing a professional server room."
+      ],
+      "items": [
+        {
+          "title": "Server Rack Installation",
+          "paragraphs": [
+            "Enterprise equipment racks positioned and installed to accommodate compatible servers, storage and networking equipment."
+          ]
+        },
+        {
+          "title": "Structured Cabling & Cable Management",
+          "paragraphs": [
+            "Copper and fibre network cabling organised through suitable pathways, patch panels and cable management accessories."
+          ]
+        },
+        {
+          "title": "Server & Network Equipment Deployment",
+          "paragraphs": [
+            "Rack-mounted computing and networking devices installed with attention to equipment positioning, connection requirements and maintenance access."
+          ]
+        },
+        {
+          "title": "Server Room Inspection & Handover",
+          "paragraphs": [
+            "Reviewing completed installations, equipment arrangements and relevant connections before operational handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Server Room Deployment"
+    },
+    "faq": {
+      "title": "Your Server Room Setup Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is involved in setting up a server room?",
+          "paragraphs": [
+            "Server room setup involves preparing a suitable technical space for servers, storage systems and network equipment. Depending on the requirements, this may include rack installation, cabling, equipment deployment, power and cooling coordination, physical security considerations and infrastructure testing."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide server room installation in Nigeria?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology provides server room setup and deployment services, including equipment racks, physical infrastructure, structured cabling coordination, equipment installation and relevant deployment support."
+          ]
+        },
+        {
+          "title": "How much does server room setup cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on room size, equipment requirements, rack quantities, cabling, power and cooling needs, existing infrastructure conditions and installation complexity. A site assessment helps establish the project scope and a suitable quotation."
+          ]
+        },
+        {
+          "title": "What size of room do I need for a server room?",
+          "paragraphs": [
+            "The required space depends on the number and size of equipment racks, the equipment being installed, maintenance clearances, cooling arrangements and future expansion requirements. A suitable layout should be established before selecting or preparing the room."
+          ]
+        },
+        {
+          "title": "Can you convert an existing office space into a server room?",
+          "paragraphs": [
+            "An existing space may be suitable, but it must first be assessed for equipment loading, electrical supply, cooling, access, security and other environmental requirements. Some spaces may need significant modifications before they can safely accommodate IT equipment."
+          ]
+        },
+        {
+          "title": "Do server rooms require dedicated cooling?",
+          "paragraphs": [
+            "Server and network equipment generate heat during operation. Appropriate cooling and airflow management are important for maintaining suitable operating conditions. The required cooling arrangement depends on equipment heat output, room conditions and manufacturer requirements."
+          ]
+        },
+        {
+          "title": "What type of server racks should be installed?",
+          "paragraphs": [
+            "Rack selection depends on the equipment's physical dimensions, mounting requirements, weight, cable connections, airflow needs and available space. Suitable rack width, depth, height and load capacity should be confirmed before procurement and installation."
+          ]
+        },
+        {
+          "title": "Do you install servers and network switches inside the racks?",
+          "paragraphs": [
+            "Yes. Our server room deployment services include the physical installation of suitable servers, network switches, storage devices and other compatible rack-mounted equipment according to the project scope."
+          ]
+        },
+        {
+          "title": "Can you provide structured cabling for our server room?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology also provides network and structured cabling services, including suitable copper and fibre connections, patch panels and cable management infrastructure."
+          ]
+        },
+        {
+          "title": "Can you set up a server room for a small business?",
+          "paragraphs": [
+            "Yes. Server rooms can be planned for different scales of operation, from compact business IT environments to larger enterprise facilities. The recommended infrastructure depends on equipment requirements, available space and operating conditions."
+          ]
+        },
+        {
+          "title": "Does a server room need backup power?",
+          "paragraphs": [
+            "Backup power requirements depend on how critical the equipment is and the continuity objectives of the organisation. Suitable UPS systems, electrical distribution and other backup arrangements may be necessary and should be planned with qualified electrical specialists."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing server room?",
+          "paragraphs": [
+            "Yes. Existing server rooms can be assessed for rack reorganisation, cabling improvements, equipment installation and other infrastructure changes. The upgrade approach depends on the existing environment and operational requirements."
+          ]
+        },
+        {
+          "title": "How long does it take to set up a server room?",
+          "paragraphs": [
+            "The timeframe depends on room readiness, equipment availability, infrastructure requirements, electrical and cooling work, installation complexity and testing activities. A defined project scope helps establish an appropriate deployment schedule."
+          ]
+        },
+        {
+          "title": "What is the difference between a server room and a data centre?",
+          "paragraphs": [
+            "A server room is generally a dedicated space housing an organisation's IT equipment. A data centre may involve a larger or more specialised facility with extensive computing infrastructure and supporting systems. Both require suitable planning, although their scale and operational requirements can differ significantly."
+          ]
+        },
+        {
+          "title": "Can you help with server room maintenance after installation?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides related IT infrastructure maintenance and technical support services. The available arrangements depend on the installed equipment and agreed support requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with a server room setup project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your facility location, available room dimensions, intended equipment and project requirements. Our team can discuss the proposed deployment and determine the next steps towards a site assessment and implementation plan."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Server Room Requirements"
+    },
+    "closing": {
+      "title": "A Better IT Environment Starts With the Right Setup.",
+      "paragraphs": [
+        "Whether you're establishing a new server room, preparing for enterprise equipment deployment or improving an existing technical space, Integrated Solutions Technology can help you create an organised infrastructure environment built around your operational needs."
+      ],
+      "primary": "Discuss Your Server Room Project",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  },
+  "rack-and-stack": {
+    "name": "Rack-and-Stack Services",
+    "hero": {
+      "title": "Your Equipment Has Arrived. Let's Get It Deployment-Ready.",
+      "primary": "Discuss Your Rack-and-Stack Project",
+      "secondary": "Explore Our Deployment Services"
+    },
+    "benefits": {
+      "title": "Installed Properly. Connected Clearly. Easier to Manage.",
+      "paragraphs": [
+        "Professional rack-and-stack execution brings structure to the physical installation, making the environment easier for your engineers to verify, operate and maintain."
+      ],
+      "items": [
+        {
+          "title": "Secure Equipment Installation",
+          "paragraphs": [
+            "Position and mount compatible equipment with attention to rack capacity, manufacturer requirements and safe handling."
+          ]
+        },
+        {
+          "title": "Organised Power & Network Connections",
+          "paragraphs": [
+            "Keep approved power and data connections clearly routed, identifiable and accessible for future maintenance."
+          ]
+        },
+        {
+          "title": "Less Pressure on Your IT Team",
+          "paragraphs": [
+            "Use onsite installation support while your internal or remote engineers focus on configuration, migration and operational decisions."
+          ]
+        },
+        {
+          "title": "Clearer Deployment Handover",
+          "paragraphs": [
+            "Confirm the agreed physical installation work and provide the records your team needs to take the next step."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Device in Position. Every Connection Accounted For.",
+      "paragraphs": [
+        "Our rack-and-stack approach is designed around your approved equipment schedule, rack layout, connection requirements and site procedures."
+      ],
+      "entries": [
+        {
+          "title": "Equipment Staging & Rack Preparation",
+          "tagline": "Get the Details Right Before Installation Begins.",
+          "paragraphs": [
+            "A successful deployment starts with confirming that the equipment, mounting accessories and installation space are ready.",
+            "We review the agreed hardware list, rack positions, available rack space and relevant mounting requirements.",
+            "Where included in the project scope, we check supplied equipment and accessories before installation, helping identify missing components, visible damage or site constraints that could delay deployment."
+          ],
+          "cta": "Discuss Your Deployment Requirements"
+        },
+        {
+          "title": "Server & Hardware Rack Mounting",
+          "tagline": "Install Enterprise Equipment Where It Belongs.",
+          "paragraphs": [
+            "Rack-mounted hardware needs more than an available space in the cabinet.",
+            "We install compatible servers, storage devices, switches, firewalls and related equipment according to the agreed rack elevation and manufacturer instructions.",
+            "Installation considers rail kits, equipment dimensions, weight distribution, airflow, service access and secure mounting to create an organised environment for subsequent technical work."
+          ],
+          "cta": "Plan Your Equipment Installation"
+        },
+        {
+          "title": "Power, Cabling & Port Connections",
+          "tagline": "Make Every Connection Easier to Identify and Support.",
+          "paragraphs": [
+            "Poor cable organisation can turn a straightforward infrastructure change into unnecessary troubleshooting.",
+            "We complete agreed rack-level power and network connections, using appropriate routing, cable management and identification methods.",
+            "Our work follows the approved port map and connection schedule, helping your team maintain a clearer view of how installed equipment is connected."
+          ],
+          "cta": "Discuss Your Cabling Requirements"
+        },
+        {
+          "title": "Physical Verification & Handover",
+          "tagline": "Installed Is the Beginning. Verification Completes the Job.",
+          "paragraphs": [
+            "Before a deployment is handed over, the completed work should be checked against the agreed requirements.",
+            "We review equipment positioning, mounting, cable connections, identification and relevant installation conditions.",
+            "Where authorised and included in scope, basic power-on and equipment-status checks can also be performed. Agreed installation records and outstanding issues are then communicated to your team for the next stage of deployment."
+          ],
+          "cta": "Discuss Deployment Verification"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Work Behind an Organised Rack.",
+      "paragraphs": [
+        "Explore the physical installation activities that prepare enterprise infrastructure for configuration and operation."
+      ],
+      "items": [
+        {
+          "title": "Server & Storage Rack Mounting",
+          "paragraphs": [
+            "Enterprise servers and storage systems installed using compatible mounting rails and approved rack positions."
+          ]
+        },
+        {
+          "title": "Network & Security Appliance Installation",
+          "paragraphs": [
+            "Switches, routers, firewalls and other suitable devices mounted within enterprise IT racks."
+          ]
+        },
+        {
+          "title": "Rack-Level Cabling & Organisation",
+          "paragraphs": [
+            "Power and data cables arranged through appropriate management pathways, with connections identified according to the agreed installation requirements."
+          ]
+        },
+        {
+          "title": "Installation Verification & Handover",
+          "paragraphs": [
+            "Completed rack installations checked against deployment instructions, with relevant equipment and connection details prepared for handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Rack-and-Stack Requirements"
+    },
+    "faq": {
+      "title": "Your Rack-and-Stack Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is rack-and-stack in a data centre?",
+          "paragraphs": [
+            "Rack-and-stack is the physical installation of IT equipment into data centre racks or server cabinets. It typically involves mounting servers, storage systems and network devices, arranging power and network cables, identifying connections and checking the completed physical installation."
+          ]
+        },
+        {
+          "title": "What equipment can be included in rack-and-stack services?",
+          "paragraphs": [
+            "Rack-and-stack services can include compatible rack-mounted servers, storage arrays, network switches, routers, firewalls, PDUs and related equipment. The specific installation requirements depend on the hardware models, rack specifications and agreed scope."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide rack-and-stack services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides rack-and-stack and related data centre infrastructure deployment services for organisations requiring onsite equipment mounting, physical connections and installation support. Project availability and site requirements are confirmed during consultation."
+          ]
+        },
+        {
+          "title": "Can you install equipment in an existing operational data centre?",
+          "paragraphs": [
+            "Work inside an operational data centre can be considered, subject to facility access, change-control procedures, approved work windows and the effect on existing equipment. Any activity that could interrupt live systems must be assessed and authorised before execution."
+          ]
+        },
+        {
+          "title": "Can you install servers supplied by our company or an international vendor?",
+          "paragraphs": [
+            "Customer-supplied equipment can be considered for installation, subject to the agreed scope, equipment condition, suitable mounting accessories and site requirements. Hardware details should be shared before deployment."
+          ]
+        },
+        {
+          "title": "Do we need to provide a rack elevation diagram?",
+          "paragraphs": [
+            "An approved rack elevation is helpful because it identifies where each device should be installed. If one is unavailable, the rack layout and equipment requirements should be agreed before installation begins."
+          ]
+        },
+        {
+          "title": "Do rack-and-stack services include cable connections and labelling?",
+          "paragraphs": [
+            "Rack-level cable routing, connection and identification can be included in the agreed scope. The deployment should establish which power ports, network interfaces, cable types and labelling conventions are required."
+          ]
+        },
+        {
+          "title": "Can you work with our remote engineering team?",
+          "paragraphs": [
+            "Onsite installation can be coordinated with a customer's remote engineers or technical project team. This is useful when the organisation has already completed its system design and needs local hands to carry out approved physical deployment tasks."
+          ]
+        },
+        {
+          "title": "Do rack-and-stack services include server configuration?",
+          "paragraphs": [
+            "Rack-and-stack primarily concerns physical equipment installation and connection. Operating system installation, network configuration, firmware changes and other logical tasks are separate activities unless specifically included in the project scope."
+          ]
+        },
+        {
+          "title": "What happens after the equipment is installed?",
+          "paragraphs": [
+            "The agreed installation can be checked for mounting, connection accuracy and relevant physical readiness. Where authorised, basic power-on or status checks may be performed. The customer or designated engineering team can then proceed with configuration, commissioning or additional verification."
+          ]
+        },
+        {
+          "title": "How much do rack-and-stack services cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the equipment quantities and types, number of racks, site location, mounting complexity, cabling requirements, installation schedule and scope of verification. A hardware list and deployment brief help establish a more accurate quotation."
+          ]
+        },
+        {
+          "title": "How long does a rack-and-stack deployment take?",
+          "paragraphs": [
+            "The duration depends on equipment quantities, site readiness, hardware complexity, access arrangements and any approved change windows. A single-rack installation may require substantially less work than a multi-rack or multi-site deployment."
+          ]
+        },
+        {
+          "title": "Can you support a single equipment installation or a larger rollout?",
+          "paragraphs": [
+            "Both smaller installations and larger deployment requirements can be reviewed. The implementation approach depends on the number of devices, locations, installation conditions and available resources."
+          ]
+        },
+        {
+          "title": "What information should we provide when requesting a quotation?",
+          "paragraphs": [
+            "Share your site location, hardware models and quantities, rack details, mounting accessories, equipment layout, required power and network connections, preferred installation window and any facility access restrictions."
+          ]
+        },
+        {
+          "title": "Can you support equipment changes after deployment?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology also offers Equipment Moves, Adds & Changes as a separate data centre service for organisations modifying or expanding existing infrastructure."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Rack-and-Stack Deployment"
+    },
+    "closing": {
+      "title": "Your Hardware Is Ready. Make Sure Your Installation Is Too.",
+      "paragraphs": [
+        "Whether you're installing new servers, expanding a data centre rack or coordinating a hardware rollout from another location, Integrated Solutions Technology can help turn your approved deployment plan into organised, installed infrastructure."
+      ],
+      "primary": "Discuss Your Rack-and-Stack Project",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  },
+  "equipment-installation": {
+    "name": "Data Centre Equipment Installation",
+    "hero": {
+      "title": "Your Infrastructure Is Ready for Deployment. Let's Make Every Installation Count.",
+      "primary": "Discuss Your Equipment Installation",
+      "secondary": "Explore Data Centre Services"
+    },
+    "benefits": {
+      "title": "The Right Equipment Needs the Right Installation.",
+      "paragraphs": [
+        "Professional equipment installation helps ensure that each component is positioned, connected and prepared according to its intended role."
+      ],
+      "items": [
+        {
+          "title": "Equipment Installed to Specification",
+          "paragraphs": [
+            "Install compatible hardware with attention to manufacturer requirements, approved locations and physical installation conditions."
+          ]
+        },
+        {
+          "title": "Clear Power & Network Connectivity",
+          "paragraphs": [
+            "Organise required connections so your technical team can identify equipment interfaces and proceed with configuration."
+          ]
+        },
+        {
+          "title": "Coordinated Deployment Activities",
+          "paragraphs": [
+            "Align installation work with approved project schedules, site procedures and the teams responsible for related infrastructure tasks."
+          ]
+        },
+        {
+          "title": "Easier Verification & Handover",
+          "paragraphs": [
+            "Check the agreed physical installation work and provide useful information for the next stage of deployment."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Device Has a Purpose. Every Installation Has a Plan.",
+      "paragraphs": [
+        "We help organisations carry out onsite installation activities while accounting for hardware specifications, available infrastructure and approved deployment procedures."
+      ],
+      "entries": [
+        {
+          "title": "Equipment & Site Readiness",
+          "tagline": "Confirm What Is Needed Before Installation Begins.",
+          "paragraphs": [
+            "An efficient deployment starts by confirming that the required equipment and supporting infrastructure are ready.",
+            "We review the agreed equipment inventory, installation location, mounting accessories, available rack space and relevant power and connectivity requirements.",
+            "Where included in the scope, we identify visible equipment issues or missing installation components so they can be addressed before work proceeds."
+          ],
+          "cta": "Discuss Your Equipment Requirements"
+        },
+        {
+          "title": "Enterprise Equipment Installation",
+          "tagline": "Put the Right Hardware in the Right Environment.",
+          "paragraphs": [
+            "Different types of enterprise equipment have different installation requirements.",
+            "We install suitable servers, storage systems, network switches, routers, security appliances and associated IT hardware according to the approved project specifications.",
+            "Our approach considers equipment dimensions, mounting requirements, physical access, airflow and the installation conditions needed for appropriate operation."
+          ],
+          "cta": "Plan Your Equipment Installation"
+        },
+        {
+          "title": "Power, Network & Infrastructure Integration",
+          "tagline": "Connect Your Equipment to the Infrastructure Around It.",
+          "paragraphs": [
+            "Installing hardware is only one part of preparing it for deployment.",
+            "We complete agreed physical power and data connections, organise relevant cabling and coordinate connectivity requirements with the existing infrastructure.",
+            "Connections are completed according to approved equipment documentation and site procedures, creating a clearer foundation for subsequent configuration and system integration."
+          ],
+          "cta": "Discuss Your Integration Requirements"
+        },
+        {
+          "title": "Installation Verification & Handover",
+          "tagline": "Know What's Installed Before Moving to Configuration.",
+          "paragraphs": [
+            "Completed installation work should be reviewed against the agreed deployment requirements.",
+            "We check relevant equipment positioning, mounting, physical connections and identification details.",
+            "Where authorised and included in scope, basic power-on checks and equipment-status observations can be carried out before handover to the responsible technical team."
+          ],
+          "cta": "Discuss Deployment Verification"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Enterprise Hardware to Installed Infrastructure.",
+      "paragraphs": [
+        "Explore the equipment and technical installation activities involved in preparing a data centre for operation."
+      ],
+      "items": [
+        {
+          "title": "Server & Compute Equipment Installation",
+          "paragraphs": [
+            "Physical deployment of compatible enterprise servers and computing equipment into appropriate racks and technical environments."
+          ]
+        },
+        {
+          "title": "Storage Infrastructure Installation",
+          "paragraphs": [
+            "Installation of suitable storage arrays, expansion shelves and related equipment according to the agreed design and manufacturer requirements."
+          ]
+        },
+        {
+          "title": "Network & Security Appliance Installation",
+          "paragraphs": [
+            "Deployment of switches, routers, firewalls and other suitable network appliances into existing or newly prepared infrastructure."
+          ]
+        },
+        {
+          "title": "Equipment Connectivity & Handover",
+          "paragraphs": [
+            "Organisation of approved equipment connections and verification of relevant installation requirements before technical handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Data Centre Equipment Project"
+    },
+    "faq": {
+      "title": "Your Data Centre Equipment Installation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is data centre equipment installation?",
+          "paragraphs": [
+            "Data centre equipment installation involves physically deploying IT hardware into a suitable data centre or server room environment. It can include equipment positioning, mounting, power and network connections, cable identification and agreed checks before the next stage of deployment."
+          ]
+        },
+        {
+          "title": "What types of equipment can be installed in a data centre?",
+          "paragraphs": [
+            "Common equipment includes enterprise servers, storage arrays, network switches, routers, firewalls, power distribution units and other compatible IT devices. Installation requirements vary by equipment type, manufacturer specifications and project scope."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide data centre equipment installation in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides onsite data centre and IT equipment installation services for organisations deploying or expanding enterprise infrastructure. The specific equipment, installation activities and project requirements are confirmed during consultation."
+          ]
+        },
+        {
+          "title": "What is the difference between rack-and-stack and data centre equipment installation?",
+          "paragraphs": [
+            "Rack-and-stack focuses mainly on physically mounting, arranging and connecting equipment within racks. Data centre equipment installation is a broader service that can include different hardware types, equipment-specific installation requirements, physical integration and deployment preparation. Actual scope depends on the project agreement."
+          ]
+        },
+        {
+          "title": "Can you install equipment supplied by our company or an international vendor?",
+          "paragraphs": [
+            "Customer-supplied or vendor-supplied hardware can be considered for installation, subject to the equipment specifications, availability of suitable accessories and agreed site requirements. Hardware details should be reviewed before scheduling deployment."
+          ]
+        },
+        {
+          "title": "Can you install servers, storage devices and network switches in the same project?",
+          "paragraphs": [
+            "Yes. A project may involve multiple types of enterprise equipment, provided the technical requirements, installation sequence and responsibilities are defined."
+          ]
+        },
+        {
+          "title": "Can you install new equipment in an existing operational data centre?",
+          "paragraphs": [
+            "Installation within an operational environment may be possible, subject to available infrastructure, approved access, maintenance windows and change-control procedures. Work affecting existing equipment requires appropriate authorisation and coordination."
+          ]
+        },
+        {
+          "title": "Do your equipment installation services include power and network cabling?",
+          "paragraphs": [
+            "Agreed rack-level power and network connections can form part of equipment installation. Additional structured cabling, fibre installation or electrical infrastructure work should be defined separately where required."
+          ]
+        },
+        {
+          "title": "Can you install firewalls and other network security appliances?",
+          "paragraphs": [
+            "Compatible firewalls and security appliances can be physically installed as part of an agreed deployment. Firewall policy configuration, licensing and network security setup are separate activities unless specifically included in the project scope."
+          ]
+        },
+        {
+          "title": "Does equipment installation include server configuration?",
+          "paragraphs": [
+            "Not automatically. Physical installation prepares hardware for use, while server configuration involves activities such as firmware settings, operating systems, network parameters and other software or platform requirements. These activities must be explicitly included if needed."
+          ]
+        },
+        {
+          "title": "Can equipment be tested after installation?",
+          "paragraphs": [
+            "Yes. Appropriate physical installation checks and authorised basic operational checks can be included. More extensive connectivity testing, system validation and formal commissioning should be defined within the agreed verification scope."
+          ]
+        },
+        {
+          "title": "How much does data centre equipment installation cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on equipment quantities, device types, installation complexity, site location, access conditions, cabling requirements and the extent of verification needed. Sharing an equipment schedule and deployment brief helps establish a suitable quotation."
+          ]
+        },
+        {
+          "title": "How long does data centre equipment installation take?",
+          "paragraphs": [
+            "The timeframe depends on equipment quantities, installation requirements, hardware availability, site readiness and any approved maintenance windows. A defined equipment list helps establish an appropriate installation schedule."
+          ]
+        },
+        {
+          "title": "Can you work with our internal IT department or remote engineers?",
+          "paragraphs": [
+            "Onsite deployment work can be coordinated with the customer's IT team, vendor representatives or remote engineers. This helps ensure physical installation activities follow the approved technical instructions and project responsibilities."
+          ]
+        },
+        {
+          "title": "What information do you need before an equipment installation project?",
+          "paragraphs": [
+            "Useful details include the installation location, hardware models and quantities, rack or cabinet information, required mounting accessories, power and network connection details, access requirements and preferred installation window."
+          ]
+        },
+        {
+          "title": "What happens after the equipment is installed?",
+          "paragraphs": [
+            "The completed work can be reviewed against the agreed installation requirements, with relevant equipment details and outstanding issues communicated to the responsible team. Configuration, further testing and operational acceptance then proceed according to the wider project scope."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Equipment Installation Requirements"
+    },
+    "closing": {
+      "title": "Make Your Next Infrastructure Installation More Organised.",
+      "paragraphs": [
+        "Whether you're introducing new enterprise servers, expanding storage capacity or deploying network and security hardware, Integrated Solutions Technology can help coordinate the physical installation and prepare your equipment for the next stage of operation."
+      ],
+      "primary": "Discuss Your Equipment Installation Project",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  },
+  "testing": {
+    "name": "Infrastructure Testing & Verification",
+    "hero": {
+      "title": "Installation Complete. But Is Your Infrastructure Ready?",
+      "primary": "Discuss Your Infrastructure Testing Needs",
+      "secondary": "Explore Data Centre Services"
+    },
+    "benefits": {
+      "title": "Small Installation Errors Can Become Bigger Operational Problems.",
+      "paragraphs": [
+        "A structured verification process helps identify problems before infrastructure is accepted for use."
+      ],
+      "items": [
+        {
+          "title": "Identify Issues Before Handover",
+          "paragraphs": [
+            "Detect relevant installation discrepancies, connection problems and equipment faults before the next deployment stage."
+          ]
+        },
+        {
+          "title": "Confirm Installation Requirements",
+          "paragraphs": [
+            "Check that installed equipment, rack arrangements and physical connections align with the approved project instructions."
+          ]
+        },
+        {
+          "title": "Reduce Avoidable Rework",
+          "paragraphs": [
+            "Address identified issues while installation details, equipment locations and technical teams are still accessible."
+          ]
+        },
+        {
+          "title": "Improve Infrastructure Documentation",
+          "paragraphs": [
+            "Provide clearer information about completed checks, identified exceptions and the status of the installed environment."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Connection Matters. Every Check Has a Purpose.",
+      "paragraphs": [
+        "Our approach focuses on relevant physical inspection, connectivity verification, equipment checks and clear reporting."
+      ],
+      "entries": [
+        {
+          "title": "Physical Infrastructure Inspection",
+          "tagline": "Start With What Has Been Installed.",
+          "paragraphs": [
+            "The first step is checking the physical condition and arrangement of the deployed infrastructure.",
+            "We review relevant rack-mounted equipment, mounting arrangements, cable organisation, identification and accessible connections against the agreed installation requirements.",
+            "This helps identify visible installation discrepancies, missing components and physical conditions that may need attention before further testing."
+          ],
+          "cta": "Request an Infrastructure Inspection"
+        },
+        {
+          "title": "Cabling & Connectivity Verification",
+          "tagline": "Know Where Your Connections Lead.",
+          "paragraphs": [
+            "A connection that looks complete may still be incorrectly terminated, labelled or connected to the wrong destination.",
+            "We review agreed power and network connections and perform appropriate connectivity checks based on the installed infrastructure and available testing scope.",
+            "Where specialist copper or fibre qualification or certification is required, the specific testing method, equipment and reporting requirements must be defined before work begins."
+          ],
+          "cta": "Discuss Your Connectivity Testing"
+        },
+        {
+          "title": "Equipment & Installation Checks",
+          "tagline": "Check the Hardware Before the Next Stage Begins.",
+          "paragraphs": [
+            "Newly installed servers, storage devices and network appliances should be reviewed before being handed over for configuration or operation.",
+            "We verify relevant equipment identification, installation conditions, physical interfaces and agreed connection requirements.",
+            "Where authorised, basic power-on observations and equipment-status checks may be included to identify apparent faults or conditions requiring further technical investigation."
+          ],
+          "cta": "Discuss Equipment Verification"
+        },
+        {
+          "title": "Issue Reporting & Handover Verification",
+          "tagline": "Clear Findings. Clear Next Steps.",
+          "paragraphs": [
+            "Testing is most useful when the results help your team make an informed decision.",
+            "We communicate completed checks, identified discrepancies and outstanding requirements according to the agreed verification scope.",
+            "Where corrective work is authorised, relevant items can be rechecked before the final installation status is recorded and handed over to the responsible team."
+          ],
+          "cta": "Discuss Infrastructure Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technical Checks Behind Deployment Readiness.",
+      "paragraphs": [
+        "Explore the inspections, testing activities and documentation involved in reviewing installed data centre infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Rack & Equipment Inspection",
+          "paragraphs": [
+            "Reviewing equipment positions, physical mounting, rack organisation and accessible installation details against approved deployment requirements."
+          ]
+        },
+        {
+          "title": "Network Cable & Port Verification",
+          "paragraphs": [
+            "Checking relevant copper and fibre connections, cable identification and port destinations using appropriate methods for the agreed testing scope."
+          ]
+        },
+        {
+          "title": "Equipment Status & Connectivity Checks",
+          "paragraphs": [
+            "Reviewing authorised equipment-status information and relevant connections to identify apparent installation or connectivity issues."
+          ]
+        },
+        {
+          "title": "Test Records & Installation Handover",
+          "paragraphs": [
+            "Documenting agreed checks, identified exceptions and completion information to support technical acceptance and future maintenance."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Verification Requirements"
+    },
+    "faq": {
+      "title": "Your Infrastructure Testing Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is data centre infrastructure testing and verification?",
+          "paragraphs": [
+            "Data centre infrastructure testing and verification involves checking installed equipment, physical connections and relevant infrastructure conditions against defined project requirements. The purpose is to identify discrepancies and establish whether the agreed installation checks have been completed before handover."
+          ]
+        },
+        {
+          "title": "Why is infrastructure testing necessary after equipment installation?",
+          "paragraphs": [
+            "Equipment can be physically installed without every connection, setting or supporting requirement being correct. Verification helps identify installation issues early and provides clearer information for configuration, commissioning and operational acceptance."
+          ]
+        },
+        {
+          "title": "What does infrastructure verification typically include?",
+          "paragraphs": [
+            "Depending on the project, it may include rack inspections, equipment identification, cable checks, power and network connection verification, authorised basic equipment-status checks and documentation of findings. The exact activities depend on the agreed testing plan."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide data centre infrastructure testing in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers infrastructure testing and verification as part of its data centre and IT infrastructure services. The specific checks, required instruments and reporting deliverables should be agreed before a project begins."
+          ]
+        },
+        {
+          "title": "What is the difference between infrastructure verification and commissioning?",
+          "paragraphs": [
+            "Verification checks whether defined installation requirements have been met. Commissioning may involve a broader process of demonstrating that systems operate as intended, including functional, integrated or performance testing. The two activities can overlap, but they are not interchangeable."
+          ]
+        },
+        {
+          "title": "Can you test newly installed servers and network equipment?",
+          "paragraphs": [
+            "Relevant physical installation checks, connection verification and authorised basic equipment-status checks can be included. Advanced server diagnostics, firmware validation, network configuration and application-level testing require separate technical requirements and agreed scope."
+          ]
+        },
+        {
+          "title": "Can you verify network cabling and fibre optic connections?",
+          "paragraphs": [
+            "Yes, appropriate connectivity verification can be included where the required methods and equipment are available. More extensive copper or fibre qualification and formal certification must be separately specified because they require different testing procedures and instruments."
+          ]
+        },
+        {
+          "title": "What is the difference between cable verification and cable certification?",
+          "paragraphs": [
+            "Cable verification checks basic connectivity, such as whether conductors or fibre paths are correctly connected. Certification uses specified test equipment and measurement procedures to assess compliance with an applicable cabling standard. A basic connectivity test does not establish formal standards compliance."
+          ]
+        },
+        {
+          "title": "Can you identify incorrectly labelled or connected network ports?",
+          "paragraphs": [
+            "Port mapping and connection checks can help identify discrepancies between physical connections and approved documentation. The level of verification depends on the available port schedule, access and agreed test procedures."
+          ]
+        },
+        {
+          "title": "Can you test infrastructure that was installed by another contractor?",
+          "paragraphs": [
+            "Existing third-party installations may be reviewed, subject to site access, available documentation, equipment condition and a clearly defined verification scope. Any limitations should be identified before testing begins."
+          ]
+        },
+        {
+          "title": "Can infrastructure testing be performed in a live data centre?",
+          "paragraphs": [
+            "Some non-intrusive inspections and checks may be possible while systems remain operational. Activities involving disconnection, power changes or intrusive testing require appropriate change control, risk assessment and authorisation."
+          ]
+        },
+        {
+          "title": "Do you provide test reports after verification?",
+          "paragraphs": [
+            "The agreed deliverables can include records of completed checks, observations, exceptions and relevant installation details. Formal certification reports, specialist measurements and independent acceptance documents must be explicitly included where required."
+          ]
+        },
+        {
+          "title": "What happens if infrastructure fails a verification check?",
+          "paragraphs": [
+            "The issue should be identified and documented, with recommended next steps based on the findings. Corrective work may then be authorised, followed by appropriate re-verification of the affected item."
+          ]
+        },
+        {
+          "title": "Can you verify the infrastructure before our equipment vendor begins configuration?",
+          "paragraphs": [
+            "Yes. Physical infrastructure checks can be carried out before the next deployment stage to help confirm that the agreed mounting, connections and installation conditions have been reviewed."
+          ]
+        },
+        {
+          "title": "How much does infrastructure testing cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the number of racks and devices, quantity and type of connections, testing methods, site location, access conditions, reporting requirements and whether specialist instruments are needed. A defined test scope helps establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "How long does infrastructure testing take?",
+          "paragraphs": [
+            "The duration depends on the size of the installation, the number of checks required, available documentation, site conditions and any issues discovered. A clear test plan helps determine an appropriate schedule."
+          ]
+        },
+        {
+          "title": "What information is needed to request infrastructure testing?",
+          "paragraphs": [
+            "Useful information includes the site location, equipment inventory, rack layout, cable schedules, relevant installation drawings, required test criteria, operational restrictions and preferred completion date."
+          ]
+        },
+        {
+          "title": "How do we get started with infrastructure verification?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your installed infrastructure, the checks you need and the stage your deployment has reached. We can help define the verification requirements and next steps."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Infrastructure Verification Project"
+    },
+    "closing": {
+      "title": "Don't Leave Deployment Readiness to Assumptions.",
+      "paragraphs": [
+        "Whether you're completing a new data centre installation, reviewing a contractor's work or preparing equipment for technical handover, Integrated Solutions Technology can help you assess the installed infrastructure and identify what needs attention."
+      ],
+      "primary": "Discuss Your Infrastructure Testing Needs",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  },
+  "moves": {
+    "name": "Equipment Moves, Adds & Changes",
+    "hero": {
+      "title": "Your Infrastructure Needs to Change. Your Operations Need to Continue.",
+      "primary": "Discuss Your Infrastructure Change",
+      "secondary": "Explore Data Centre Services"
+    },
+    "benefits": {
+      "title": "Make the Change You Need Without Losing Track of What Matters.",
+      "paragraphs": [
+        "A structured approach helps make these changes more manageable."
+      ],
+      "items": [
+        {
+          "title": "Reduce Avoidable Disruption",
+          "paragraphs": [
+            "Plan physical changes around operational dependencies, approved work windows and appropriate technical precautions."
+          ]
+        },
+        {
+          "title": "Keep Infrastructure Organised",
+          "paragraphs": [
+            "Maintain clear rack arrangements, cable routing and equipment identification as hardware is moved or added."
+          ]
+        },
+        {
+          "title": "Support Business Growth",
+          "paragraphs": [
+            "Accommodate new equipment and changing infrastructure requirements without unnecessarily rebuilding the entire environment."
+          ]
+        },
+        {
+          "title": "Keep Records Aligned With Reality",
+          "paragraphs": [
+            "Update the relevant equipment locations, rack information and connection records as part of the agreed change process."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Move It. Add It. Change It. Know Exactly What's Been Done.",
+      "paragraphs": [
+        "Our approach helps organisations carry out approved physical infrastructure changes with clear responsibilities and an organised handover."
+      ],
+      "entries": [
+        {
+          "title": "Equipment Moves & Relocation",
+          "tagline": "Move Equipment With a Clear Plan for Reconnection.",
+          "paragraphs": [
+            "Relocating enterprise hardware requires more than disconnecting one device and installing it somewhere else.",
+            "We review the equipment to be moved, existing connections, destination requirements and approved change procedures before physical relocation.",
+            "The agreed work may include equipment removal, suitable handling, remounting and reconnection, with attention to identifying the correct devices and preserving connection information."
+          ],
+          "cta": "Discuss Your Equipment Relocation"
+        },
+        {
+          "title": "New Equipment Adds & Expansion",
+          "tagline": "Add New Hardware Without Losing Infrastructure Organisation.",
+          "paragraphs": [
+            "As your organisation grows, additional servers, storage devices and network equipment may need to be introduced into existing racks.",
+            "We assess relevant rack space, equipment mounting requirements, power availability and connectivity arrangements before installation.",
+            "The objective is to integrate compatible new hardware into the existing physical environment while maintaining suitable organisation and service access."
+          ],
+          "cta": "Plan Your Equipment Expansion"
+        },
+        {
+          "title": "Equipment Changes & Rack Reconfiguration",
+          "tagline": "Adapt Your Infrastructure to New Requirements.",
+          "paragraphs": [
+            "Hardware replacement, rack reorganisation and changes to physical connectivity are common parts of maintaining enterprise IT environments.",
+            "We help carry out approved equipment swaps, rack-level modifications, cabling changes and related physical adjustments.",
+            "Where existing systems may be affected, the work is coordinated with the responsible technical team and carried out according to the agreed change procedure."
+          ],
+          "cta": "Discuss Your Infrastructure Changes"
+        },
+        {
+          "title": "Post-Change Verification & Documentation",
+          "tagline": "Know What Changed. Know What Needs Attention.",
+          "paragraphs": [
+            "After equipment is moved, added or modified, the resulting installation should be checked against the approved requirements.",
+            "We verify relevant mounting arrangements, physical connections, equipment identification and agreed installation conditions.",
+            "Completed work, updated equipment details and any outstanding issues are then recorded for the responsible team, supporting a clearer transition back to normal operations."
+          ],
+          "cta": "Discuss Change Verification"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Details Behind Every Successful Change.",
+      "paragraphs": [
+        "Explore the physical activities involved in updating and reorganising enterprise IT environments."
+      ],
+      "items": [
+        {
+          "title": "Server & Hardware Relocation",
+          "paragraphs": [
+            "Careful removal, handling, repositioning and reinstallation of compatible equipment according to an approved relocation plan."
+          ]
+        },
+        {
+          "title": "New Equipment Installation",
+          "paragraphs": [
+            "Adding servers, storage systems, network switches and associated hardware to suitable existing rack infrastructure."
+          ]
+        },
+        {
+          "title": "Rack Reconfiguration & Cable Changes",
+          "paragraphs": [
+            "Adjusting equipment positions, replacing suitable hardware and organising affected power or data connections."
+          ]
+        },
+        {
+          "title": "Change Verification & Updated Records",
+          "paragraphs": [
+            "Reviewing completed modifications and updating agreed equipment inventories, rack layouts and connection information."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Data Centre Change Requirements"
+    },
+    "faq": {
+      "title": "Your Data Centre Change Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are Equipment Moves, Adds & Changes in a data centre?",
+          "paragraphs": [
+            "Equipment Moves, Adds & Changes, commonly called MAC services, involve relocating, adding, replacing or modifying IT equipment within an existing infrastructure environment. Activities may include server moves, new hardware installation, rack reorganisation, cabling modifications and related physical changes."
+          ]
+        },
+        {
+          "title": "What is the difference between MAC services and rack-and-stack?",
+          "paragraphs": [
+            "Rack-and-stack primarily involves mounting and connecting equipment within racks. MAC services focus on making changes to an existing environment, often requiring additional consideration of live equipment, established connections, change approvals and operational dependencies."
+          ]
+        },
+        {
+          "title": "Can equipment be moved within an operational data centre?",
+          "paragraphs": [
+            "Yes, some equipment moves can be performed within an operational facility. However, moving an active device may require shutdowns, service migration or approved maintenance windows. The appropriate procedure depends on the equipment, connected systems and operational risk."
+          ]
+        },
+        {
+          "title": "Can you relocate servers from one rack to another?",
+          "paragraphs": [
+            "Server relocation can be included in an agreed MAC project. Before moving equipment, its identity, connections, mounting requirements, destination readiness and operational dependencies should be confirmed."
+          ]
+        },
+        {
+          "title": "Can you move equipment between two data centres or locations?",
+          "paragraphs": [
+            "Physical equipment relocation between facilities can be assessed as a project requirement. Transportation arrangements, equipment protection, insurance, chain of custody, shutdown procedures and technical migration responsibilities must be clearly defined before work begins."
+          ]
+        },
+        {
+          "title": "Can you add new servers and switches to existing racks?",
+          "paragraphs": [
+            "Yes, where the existing infrastructure is suitable. Rack space, equipment weight, available power, cooling, connectivity and manufacturer requirements should be checked before new equipment is installed."
+          ]
+        },
+        {
+          "title": "Can you replace an old network switch or firewall?",
+          "paragraphs": [
+            "Physical equipment replacement can be included in MAC services. Network configuration, firewall policies, licensing and logical migration activities require separate technical planning and must be explicitly included where needed."
+          ]
+        },
+        {
+          "title": "Can you help with rack reorganisation and cable management?",
+          "paragraphs": [
+            "Yes. MAC activities can involve agreed equipment rearrangement, rack-level cabling changes, improved physical organisation and updates to identification or connection records."
+          ]
+        },
+        {
+          "title": "Will an equipment change cause downtime?",
+          "paragraphs": [
+            "Some activities may be performed without interrupting unaffected systems, while others require planned service outages. Potential downtime depends on equipment dependencies, redundancy, change procedures and the nature of the work. Zero downtime should not be assumed."
+          ]
+        },
+        {
+          "title": "Do you provide support during planned maintenance windows?",
+          "paragraphs": [
+            "Changes can be planned around approved work windows and site access requirements. The availability of evening, weekend or other restricted-hour support should be confirmed when defining the project scope."
+          ]
+        },
+        {
+          "title": "Can you work with our remote IT or engineering team?",
+          "paragraphs": [
+            "Onsite physical change activities can be coordinated with a customer's remote engineers or infrastructure team. The project should clearly define who authorises each activity and who is responsible for configuration, validation and service restoration."
+          ]
+        },
+        {
+          "title": "What checks are carried out before moving equipment?",
+          "paragraphs": [
+            "Relevant checks may include equipment identification, existing rack positions, cable and port records, shutdown requirements, destination readiness and any dependencies that could affect the change."
+          ]
+        },
+        {
+          "title": "What happens if something goes wrong during a change?",
+          "paragraphs": [
+            "The response should follow the agreed escalation and recovery procedures. For changes affecting live services, responsibilities, stop-work conditions and feasible rollback steps should be established before execution."
+          ]
+        },
+        {
+          "title": "Do you update rack diagrams and equipment records after changes?",
+          "paragraphs": [
+            "Relevant documentation updates can be included in the agreed scope, such as revised equipment locations, rack elevations, cable labels, port maps and records of completed work."
+          ]
+        },
+        {
+          "title": "Can you support multiple equipment changes during one project?",
+          "paragraphs": [
+            "Yes. Multiple moves, additions and modifications can be grouped into a coordinated project, with appropriate sequencing and change approvals."
+          ]
+        },
+        {
+          "title": "How much do data centre MAC services cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on equipment quantities, complexity, site location, available documentation, operational restrictions, installation requirements and whether work must take place during a specific maintenance window. A clearly defined change list helps establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "How long does a data centre equipment move take?",
+          "paragraphs": [
+            "The timeframe depends on the equipment involved, location of the destination rack or facility, required shutdowns, connection complexity, site access and verification requirements. The schedule should be agreed after reviewing the change scope."
+          ]
+        },
+        {
+          "title": "What information should we provide to request MAC services?",
+          "paragraphs": [
+            "Useful information includes the facility location, current equipment inventory, proposed moves or additions, rack diagrams, connection schedules, operational restrictions, preferred maintenance window and the technical contact responsible for approving the changes."
+          ]
+        },
+        {
+          "title": "How do we get started with an equipment move, addition or change?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with a description of the infrastructure changes you need. We can review the requirements and discuss the appropriate assessment, implementation scope and next steps."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Equipment Moves, Adds & Changes"
+    },
+    "closing": {
+      "title": "Your Technology Will Evolve. Keep Your Infrastructure Ready.",
+      "paragraphs": [
+        "Whether you're relocating servers, adding new hardware or reorganising an existing data centre, Integrated Solutions Technology can help you plan and execute the physical changes with greater control and clearer documentation."
+      ],
+      "primary": "Discuss Your Infrastructure Change",
+      "secondary": "Explore Data Centre Solutions"
+    }
+  }
+}

@@ -1,0 +1,1124 @@
+{
+  "commercial-solar": {
+    "name": "Commercial Solar Installation",
+    "hero": {
+      "title": "Power Your Business. Reduce Energy Costs. Keep Moving Forward.",
+      "paragraphs": [
+        "Unreliable electricity and rising generator expenses shouldn't hold your business back.",
+        "Integrated Solutions Technology designs and installs commercial solar power systems for offices, retail businesses, hotels, schools and other commercial properties. We combine solar panels, hybrid inverters and battery storage to help you manage energy expenses, reduce generator dependence and support everyday operations."
+      ],
+      "primary": "Discuss Your Commercial Solar Project",
+      "secondary": "Explore Our Solar Solutions"
+    },
+    "benefits": {
+      "title": "Better Energy Decisions. Stronger Business Operations.",
+      "paragraphs": [
+        "Your business needs dependable electricity to serve customers, support employees and maintain productive operations. A properly designed commercial solar installation can help reduce the impact of unreliable power while giving you greater control over energy spending."
+      ],
+      "items": [
+        {
+          "title": "Reduce Operating Expenses",
+          "paragraphs": [
+            "Use solar-generated electricity to reduce generator operating hours and help manage fuel and electricity costs."
+          ]
+        },
+        {
+          "title": "Support Business Continuity",
+          "paragraphs": [
+            "Keep suitable business equipment and essential systems operating during power interruptions with appropriately sized backup capacity."
+          ]
+        },
+        {
+          "title": "Improve Your Working Environment",
+          "paragraphs": [
+            "Reduce generator noise and support a more comfortable environment for employees, customers and daily business activities."
+          ]
+        },
+        {
+          "title": "Plan for Business Growth",
+          "paragraphs": [
+            "Invest in a solar energy system designed around your current electricity requirements, with future expansion considered where practical."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Power Solution Starts With Understanding Your Operations.",
+      "paragraphs": [
+        "Commercial buildings have different energy demands. A retail store, hotel and corporate office may require very different system capacities, backup arrangements and installation approaches.",
+        "We help you make informed decisions at every stage, from understanding your electricity consumption to commissioning your completed solar installation."
+      ],
+      "entries": [
+        {
+          "title": "Commercial Energy Assessment",
+          "tagline": "Understand Your Energy Demand Before Investing.",
+          "paragraphs": [
+            "Every business uses electricity differently, and the right solar solution begins with knowing how your power is consumed.",
+            "We assess your operating hours, electrical loads, existing supply arrangements and essential equipment to understand your energy requirements.",
+            "This helps us recommend a system that supports your priorities while avoiding unnecessary equipment capacity."
+          ],
+          "cta": "Discuss Your Energy Requirements"
+        },
+        {
+          "title": "Solar System Design & Planning",
+          "tagline": "A Solar Solution Designed Around Your Business.",
+          "paragraphs": [
+            "Your commercial solar system should match both your electricity needs and the conditions of your property.",
+            "We plan the appropriate combination of solar panels, inverter capacity, battery storage and supporting electrical infrastructure, considering available installation space, equipment compatibility and future requirements.",
+            "The goal is a practical energy solution aligned with your operations and investment priorities."
+          ],
+          "cta": "Plan Your Commercial Solar System"
+        },
+        {
+          "title": "Professional Solar Installation",
+          "tagline": "From System Design to Professional Deployment.",
+          "paragraphs": [
+            "A successful commercial solar installation requires careful coordination, suitable equipment and proper technical execution.",
+            "Our team installs solar panels, inverters, battery storage and supporting electrical components in line with the agreed system design and applicable safety requirements.",
+            "We consider equipment placement, integration with existing electrical infrastructure and the operating needs of your facility throughout installation."
+          ],
+          "cta": "Discuss Your Solar Installation"
+        },
+        {
+          "title": "Testing, Handover & Support",
+          "tagline": "Confidence in Your Energy System Beyond Installation.",
+          "paragraphs": [
+            "A completed solar installation should be tested before it becomes part of your daily operations.",
+            "We verify relevant connections, inverter operation, battery charging and intended backup functionality before guiding your team through the system's operation.",
+            "Ongoing maintenance and technical assistance help you manage your solar infrastructure over time."
+          ],
+          "cta": "Explore Solar Maintenance & Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Real Infrastructure. Practical Energy Solutions.",
+      "paragraphs": [
+        "Explore the equipment, installation processes and energy systems involved in professional commercial solar projects."
+      ],
+      "items": [
+        {
+          "title": "Commercial Rooftop Solar Installation",
+          "paragraphs": [
+            "Solar photovoltaic panels installed on suitable commercial rooftops to generate electricity from available sunlight."
+          ]
+        },
+        {
+          "title": "Hybrid Inverter & Battery Storage",
+          "paragraphs": [
+            "Professionally installed inverter and battery equipment designed to manage solar generation, stored energy and compatible backup sources."
+          ]
+        },
+        {
+          "title": "Solar Installation & Integration",
+          "paragraphs": [
+            "Technical installation of mounting structures, panels, electrical connections and supporting infrastructure."
+          ]
+        },
+        {
+          "title": "System Inspection & Commissioning",
+          "paragraphs": [
+            "Verification of installed equipment, electrical connections and system operation before handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Commercial Solar Requirements"
+    },
+    "faq": {
+      "title": "Your Commercial Solar Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "How much does commercial solar installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on your business's electricity consumption, operating hours, required system capacity, battery storage, installation conditions and existing electrical infrastructure. A commercial energy assessment helps establish suitable equipment requirements and provides a basis for an accurate quotation."
+          ]
+        },
+        {
+          "title": "Can solar power run an entire office or commercial building?",
+          "paragraphs": [
+            "Yes, a properly designed commercial solar system can supply an entire building or selected electrical loads, depending on its capacity. Businesses with high energy demand may use solar alongside grid electricity, battery storage or compatible generators."
+          ]
+        },
+        {
+          "title": "Can commercial solar reduce our generator fuel expenses?",
+          "paragraphs": [
+            "Yes. Solar generation can reduce the amount of electricity your business needs from fuel-powered generators, helping lower generator operating hours and associated fuel consumption. Actual savings depend on energy use, system performance and operating conditions."
+          ]
+        },
+        {
+          "title": "Can solar power support air conditioners, computers and refrigeration equipment?",
+          "paragraphs": [
+            "Yes, provided the system is designed for the required electrical loads. Air conditioners, refrigeration systems and equipment with high starting currents must be considered during system sizing."
+          ]
+        },
+        {
+          "title": "Will commercial solar work during a power outage?",
+          "paragraphs": [
+            "A suitable hybrid or off-grid system can supply designated business loads during a grid outage when sufficient solar generation or battery energy is available. Conventional grid-tied systems without appropriate backup capability generally cannot operate during an outage."
+          ]
+        },
+        {
+          "title": "How much space is required for commercial solar panels?",
+          "paragraphs": [
+            "The required space depends on the proposed solar capacity, panel specifications, roof conditions, shading and mounting arrangement. A site assessment helps determine whether the available rooftop or ground area is suitable."
+          ]
+        },
+        {
+          "title": "How long does commercial solar installation take?",
+          "paragraphs": [
+            "The installation schedule depends on system size, site readiness, equipment availability, electrical integration requirements and project complexity. A review of your facility helps establish an appropriate timeline."
+          ]
+        },
+        {
+          "title": "Can we install solar without stopping business operations?",
+          "paragraphs": [
+            "Some installation activities may be planned around normal business operations. However, electrical integration, testing or changeover work may require scheduled interruptions. The installation plan should identify these requirements in advance."
+          ]
+        },
+        {
+          "title": "Can our commercial solar system be expanded later?",
+          "paragraphs": [
+            "In many cases, yes. Expansion depends on inverter capacity, equipment compatibility, available installation space and the existing system design. Anticipated future demand should be considered during initial planning."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide commercial solar maintenance?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides solar maintenance and technical support services, including appropriate equipment inspection, troubleshooting and system performance checks."
+          ]
+        },
+        {
+          "title": "How do we get started with a commercial solar project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your business location, electricity requirements, operating hours and existing power arrangements. We can discuss your needs, determine whether a site assessment is required and guide you towards a suitable solar proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Commercial Solar Project"
+    },
+    "closing": {
+      "title": "Your Business Deserves a Better Energy Strategy.",
+      "paragraphs": [
+        "Whether you're looking to reduce generator expenses, improve power availability or invest in a long-term commercial solar solution, Integrated Solutions Technology can help you plan a system around your operational requirements."
+      ],
+      "primary": "Discuss Your Commercial Solar Requirements",
+      "secondary": "Explore All Solar Solutions"
+    }
+  },
+  "industrial-solar": {
+    "name": "Industrial Solar Solutions",
+    "hero": {
+      "title": "Power Your Operations. Take Control of Energy Costs.",
+      "paragraphs": [
+        "Industrial operations demand dependable electricity, but rising fuel expenses and unreliable grid supply can place significant pressure on operating budgets.",
+        "Integrated Solutions Technology designs and installs industrial solar power systems for manufacturing facilities, factories, warehouses and other industrial properties. We help businesses integrate solar energy into their existing power infrastructure to reduce generator dependence, manage energy costs and support operational efficiency."
+      ],
+      "primary": "Discuss Your Industrial Solar Project",
+      "secondary": "Explore Our Solar Solutions"
+    },
+    "benefits": {
+      "title": "Smarter Energy for More Efficient Industrial Operations.",
+      "paragraphs": [
+        "From production equipment and ventilation systems to warehouses, lighting and administrative facilities, industrial businesses depend on electricity throughout their operations.",
+        "A properly designed industrial solar installation can help you make better use of available sunlight while reducing reliance on expensive conventional power sources."
+      ],
+      "items": [
+        {
+          "title": "Reduce Generator Fuel Consumption",
+          "paragraphs": [
+            "Use solar-generated electricity to supplement your existing power supply and reduce generator operating hours where system conditions permit."
+          ]
+        },
+        {
+          "title": "Manage Industrial Energy Expenses",
+          "paragraphs": [
+            "Reduce dependence on purchased electricity and generator fuel through solar generation designed around your facility's energy consumption."
+          ]
+        },
+        {
+          "title": "Support Essential Operations",
+          "paragraphs": [
+            "Integrate suitable solar and backup systems to support selected industrial loads, administrative facilities and other operational requirements."
+          ]
+        },
+        {
+          "title": "Plan for Future Energy Demand",
+          "paragraphs": [
+            "Consider production growth, additional equipment and changing electricity requirements when developing your industrial solar energy strategy."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Industrial Facility Has Different Energy Demands.",
+      "paragraphs": [
+        "A manufacturing plant, processing facility and large warehouse may operate very differently, even when their electricity consumption appears similar.",
+        "Industrial solar projects require careful assessment of operating hours, equipment loads, existing electrical infrastructure and available installation space.",
+        "Our approach is designed to help you move from understanding your facility's electricity requirements to implementing a practical solar energy solution."
+      ],
+      "entries": [
+        {
+          "title": "Industrial Energy Assessment",
+          "tagline": "Understand Your Energy Demand Before Making the Investment.",
+          "paragraphs": [
+            "A successful industrial solar project begins with knowing how electricity is used throughout your facility.",
+            "We assess relevant equipment loads, daily consumption, operating schedules and existing power sources to understand your energy requirements.",
+            "This helps identify suitable opportunities for solar generation, appropriate system capacity and the electrical loads that may benefit most from solar integration."
+          ],
+          "cta": "Discuss Your Energy Requirements"
+        },
+        {
+          "title": "Solar System Design & Planning",
+          "tagline": "The Right Solar Solution Starts With the Right Design.",
+          "paragraphs": [
+            "Industrial energy systems need to be planned around real operating conditions, not generic equipment packages.",
+            "We develop suitable solar configurations considering panel capacity, inverter requirements, battery storage where necessary, installation space and integration with existing power infrastructure.",
+            "The proposed solution takes account of operational priorities, electrical compatibility and future capacity requirements."
+          ],
+          "cta": "Plan Your Industrial Solar System"
+        },
+        {
+          "title": "Professional Installation & Integration",
+          "tagline": "From Energy Planning to Industrial Deployment.",
+          "paragraphs": [
+            "Installing solar infrastructure at an operational facility requires careful coordination and technical planning.",
+            "Our installation approach covers suitable panel mounting, inverter and battery equipment, electrical protection and integration with the facility's existing electricity systems.",
+            "We consider site access, installation safety and operational scheduling to help minimise avoidable disruption during project execution."
+          ],
+          "cta": "Discuss Your Industrial Solar Installation"
+        },
+        {
+          "title": "Testing, Handover & Support",
+          "tagline": "Checked for Performance. Prepared for Operation.",
+          "paragraphs": [
+            "Industrial solar infrastructure should be inspected and tested before it is placed into regular service.",
+            "We verify relevant electrical connections, inverter operation, applicable battery charging functions and the agreed system integration requirements.",
+            "Following commissioning, we provide operational guidance and discuss maintenance and technical support arrangements to help your team manage the installation."
+          ],
+          "cta": "Explore Solar Maintenance & Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Solar Infrastructure Built Around Industrial Environments.",
+      "paragraphs": [
+        "Explore the equipment, technical processes and installation arrangements involved in industrial solar energy projects."
+      ],
+      "items": [
+        {
+          "title": "Factory Rooftop Solar Installation",
+          "paragraphs": [
+            "Solar photovoltaic panels arranged across suitable factory rooftops to generate electricity for compatible industrial and supporting loads."
+          ]
+        },
+        {
+          "title": "Warehouse & Industrial Facility Solar",
+          "paragraphs": [
+            "Solar installations designed around available roof or ground space, facility conditions and electricity demand."
+          ]
+        },
+        {
+          "title": "Industrial Inverter & Battery Systems",
+          "paragraphs": [
+            "Compatible power conversion and energy storage equipment installed in suitable technical spaces to support the intended system configuration."
+          ]
+        },
+        {
+          "title": "Electrical Integration & Commissioning",
+          "paragraphs": [
+            "Professional installation, electrical connections and system verification carried out according to the agreed infrastructure requirements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Industrial Solar Requirements"
+    },
+    "faq": {
+      "title": "Your Industrial Solar Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "How much does industrial solar installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on your facility's energy consumption, required solar capacity, equipment specifications, battery storage requirements, installation conditions and integration with existing electrical infrastructure. An industrial energy assessment helps establish the appropriate system scope and quotation."
+          ]
+        },
+        {
+          "title": "Can solar power run an entire factory?",
+          "paragraphs": [
+            "Solar power can supply part or all of a factory's electrical demand if the system is designed with sufficient generation and supporting capacity. However, many industrial facilities have high-load equipment that may require continued grid or generator support. The suitable arrangement depends on actual load measurements and operating conditions."
+          ]
+        },
+        {
+          "title": "Can industrial solar reduce diesel generator expenses?",
+          "paragraphs": [
+            "Yes. Solar generation can reduce the amount of electricity a facility needs from diesel generators, potentially lowering fuel consumption and operating expenses. The financial benefit depends on system capacity, electricity usage, generator operation and available sunlight."
+          ]
+        },
+        {
+          "title": "Can solar power heavy industrial machinery?",
+          "paragraphs": [
+            "Some industrial equipment can operate on appropriately designed solar power systems. However, heavy machinery may have substantial running loads, starting currents or other electrical requirements. These must be assessed before determining whether solar can support the equipment directly or supplement another power source."
+          ]
+        },
+        {
+          "title": "Can we integrate solar with our existing generators and grid supply?",
+          "paragraphs": [
+            "Yes. Suitable industrial solar and hybrid power systems can be designed to work alongside compatible grid and generator infrastructure. The integration approach depends on existing electrical equipment, protection arrangements and operational requirements."
+          ]
+        },
+        {
+          "title": "How much rooftop space is required for an industrial solar installation?",
+          "paragraphs": [
+            "Space requirements depend on the desired solar capacity, panel specifications, roof layout, structural suitability, shading and maintenance access. A technical site assessment helps determine whether the available rooftop is appropriate or whether another installation location should be considered."
+          ]
+        },
+        {
+          "title": "Can solar installation take place while our factory is operating?",
+          "paragraphs": [
+            "Some activities can be scheduled while a facility remains operational. However, electrical integration, equipment changeovers or commissioning may require planned shutdowns or restricted access. Installation scheduling should be coordinated with the facility's operational and safety requirements."
+          ]
+        },
+        {
+          "title": "Do industrial solar systems require battery storage?",
+          "paragraphs": [
+            "Not always. Some industrial solar systems are designed primarily to offset daytime electricity consumption, while others use batteries for energy storage or backup. Whether storage is necessary depends on the facility's operating requirements and the intended system configuration."
+          ]
+        },
+        {
+          "title": "How long does industrial solar installation take?",
+          "paragraphs": [
+            "The timeframe depends on the size and complexity of the installation, equipment availability, site readiness, structural requirements, electrical integration and commissioning activities. A project assessment helps establish a realistic implementation schedule."
+          ]
+        },
+        {
+          "title": "How do we know whether industrial solar is financially worthwhile?",
+          "paragraphs": [
+            "A useful assessment compares your facility's electricity consumption, existing energy costs, expected solar generation, system investment and ongoing maintenance expenses. This helps estimate potential savings and financial payback under clearly stated assumptions."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide industrial solar maintenance?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides solar maintenance and technical support services. The scope can include appropriate inspections, equipment checks, troubleshooting and performance-related maintenance according to the installation and agreed service arrangements."
+          ]
+        },
+        {
+          "title": "How do we get started with an industrial solar project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your facility location, electricity consumption information, operating hours, existing power arrangements and project objectives. We can discuss the requirements and determine the next steps towards a site assessment and suitable solar proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Industrial Solar Project"
+    },
+    "closing": {
+      "title": "Better Energy Planning Starts With Understanding Your Facility.",
+      "paragraphs": [
+        "Whether you're exploring solar for a manufacturing plant, planning a factory rooftop installation or looking to reduce diesel generator dependence, Integrated Solutions Technology can help you assess your requirements and develop a suitable industrial solar solution."
+      ],
+      "primary": "Discuss Your Industrial Solar Requirements",
+      "secondary": "Explore All Solar Solutions"
+    }
+  },
+  "hybrid-solar-systems": {
+    "name": "Hybrid Solar & Inverter Systems",
+    "hero": {
+      "title": "Smarter Power. Greater Flexibility. Less Dependence on the Grid.",
+      "paragraphs": [
+        "Why rely on just one electricity source when your energy system can make better use of several?",
+        "Integrated Solutions Technology designs and installs hybrid solar and inverter systems that combine solar generation, battery storage and compatible grid or generator supply. We help homes and businesses manage electricity needs, reduce generator dependence and maintain suitable backup power when the grid is unavailable."
+      ],
+      "primary": "Discuss Your Hybrid Solar Requirements",
+      "secondary": "Explore Hybrid Power Solutions"
+    },
+    "benefits": {
+      "title": "Make Better Use of Every Available Power Source.",
+      "paragraphs": [
+        "Electricity availability can change throughout the day. Solar generation depends on sunlight, battery storage has limited capacity, and grid electricity may not always be available.",
+        "A properly configured hybrid solar system helps manage these different sources to support your energy requirements."
+      ],
+      "items": [
+        {
+          "title": "More Reliable Backup Options",
+          "paragraphs": [
+            "Use stored battery energy and available solar generation to support designated appliances and equipment during grid interruptions."
+          ]
+        },
+        {
+          "title": "Reduced Generator Dependence",
+          "paragraphs": [
+            "Make better use of solar electricity and battery storage to reduce generator operating hours where system conditions permit."
+          ]
+        },
+        {
+          "title": "Smarter Energy Management",
+          "paragraphs": [
+            "Allow a compatible hybrid inverter to manage power sources, battery charging and electricity supply according to its configuration."
+          ]
+        },
+        {
+          "title": "Flexible System Planning",
+          "paragraphs": [
+            "Choose a system designed around your current electricity requirements, with suitable provisions for future expansion where practical."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Power Source Has a Role. We Help Them Work Together.",
+      "paragraphs": [
+        "Hybrid solar systems are designed to manage electricity from different sources, but their performance depends on selecting compatible equipment and configuring the system correctly.",
+        "We approach each project by understanding your electricity requirements, backup expectations and existing power infrastructure."
+      ],
+      "entries": [
+        {
+          "title": "Energy Assessment & Power Requirements",
+          "tagline": "Understand What Your Hybrid System Needs to Support.",
+          "paragraphs": [
+            "The right hybrid inverter system begins with understanding how electricity is used in your home or business.",
+            "We assess your connected appliances, daily energy consumption, peak loads, existing grid supply and backup expectations.",
+            "This helps determine suitable inverter capacity, battery storage requirements and the role solar generation should play in your electricity supply."
+          ],
+          "cta": "Discuss Your Power Requirements"
+        },
+        {
+          "title": "Hybrid Inverter & Battery Design",
+          "tagline": "The Right Components. One Connected Power System.",
+          "paragraphs": [
+            "A hybrid solar installation requires careful coordination between the inverter, battery storage, solar panels and other compatible electricity sources.",
+            "We plan the system around your required power capacity, battery backup duration, equipment specifications and existing electrical infrastructure.",
+            "Our approach considers equipment compatibility, charging requirements, electrical protection and future energy needs."
+          ],
+          "cta": "Plan Your Hybrid Solar System"
+        },
+        {
+          "title": "Professional Installation & Integration",
+          "tagline": "Bring Your Power Sources Together With Confidence.",
+          "paragraphs": [
+            "The quality of a hybrid installation depends on correct equipment placement, electrical connections and system configuration.",
+            "We install suitable hybrid inverters, battery storage, solar panels and supporting electrical components according to the agreed system design.",
+            "Where applicable, we integrate the system with compatible grid and generator arrangements, with attention to safety and operational requirements."
+          ],
+          "cta": "Discuss Your Hybrid Installation"
+        },
+        {
+          "title": "Testing, Configuration & Support",
+          "tagline": "Configured for Your Needs. Checked Before Handover.",
+          "paragraphs": [
+            "A hybrid system should be configured and tested before regular use.",
+            "We check relevant electrical connections, inverter operation, battery charging and the intended operation of available power sources.",
+            "Following handover, we guide you through system operation and discuss appropriate maintenance and technical support."
+          ],
+          "cta": "Explore Solar Maintenance & Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technology Behind Flexible Electricity Supply.",
+      "paragraphs": [
+        "Explore how hybrid solar equipment is installed and integrated to support electricity needs across homes and business environments."
+      ],
+      "items": [
+        {
+          "title": "Hybrid Solar Inverter Installation",
+          "paragraphs": [
+            "Wall-mounted hybrid inverters installed in suitable indoor technical areas to manage compatible solar generation, battery storage and available electricity sources."
+          ]
+        },
+        {
+          "title": "Lithium Battery Storage Systems",
+          "paragraphs": [
+            "Stationary battery storage equipment installed and configured to provide stored energy for later use."
+          ]
+        },
+        {
+          "title": "Solar Panel & Inverter Integration",
+          "paragraphs": [
+            "Photovoltaic panels connected through suitable electrical infrastructure to compatible hybrid inverter systems."
+          ]
+        },
+        {
+          "title": "Power Distribution & System Configuration",
+          "paragraphs": [
+            "Appropriate electrical protection, distribution connections and system configuration supporting safe operation and the intended power management arrangement."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Hybrid Solar Project"
+    },
+    "faq": {
+      "title": "Your Hybrid Solar Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is a hybrid solar inverter system?",
+          "paragraphs": [
+            "A hybrid solar inverter system combines compatible solar generation, battery storage and one or more additional electricity sources, such as the national grid or a generator. It manages how electricity is supplied to connected loads and how batteries are charged, according to the equipment's capabilities and configuration."
+          ]
+        },
+        {
+          "title": "How does a hybrid solar system work during the day and at night?",
+          "paragraphs": [
+            "During daylight hours, solar panels generate electricity that can supply connected loads and, when sufficient energy is available, charge the batteries. At night, stored battery energy may supply the loads. Grid or generator power can provide additional electricity where supported and configured."
+          ]
+        },
+        {
+          "title": "Will a hybrid inverter work when NEPA takes the light?",
+          "paragraphs": [
+            "A properly installed hybrid inverter with sufficient battery storage and the required backup functionality can supply designated appliances during a grid outage. Actual backup availability depends on the inverter configuration, battery charge and connected electrical loads."
+          ]
+        },
+        {
+          "title": "What is the difference between a hybrid inverter and a regular solar inverter?",
+          "paragraphs": [
+            "A hybrid inverter typically combines solar power conversion with battery charging and energy management capabilities. Other inverter types may be designed primarily for grid-connected solar generation or standalone battery backup. The specific differences depend on the equipment and its supported functions."
+          ]
+        },
+        {
+          "title": "Can I use a hybrid inverter without solar panels?",
+          "paragraphs": [
+            "Some hybrid inverter models can operate with compatible batteries and grid electricity before solar panels are added. This depends on the manufacturer's specifications and system configuration. Not every hybrid inverter supports the same operating arrangements."
+          ]
+        },
+        {
+          "title": "Can I connect my existing generator to a hybrid solar system?",
+          "paragraphs": [
+            "Many hybrid inverters support generator integration, but compatibility is not automatic. The generator's specifications, inverter capabilities, transfer arrangements and electrical protection requirements must be assessed before connection."
+          ]
+        },
+        {
+          "title": "How do I know what size of hybrid inverter I need?",
+          "paragraphs": [
+            "The correct inverter size depends on the appliances and equipment you want to power, their simultaneous power demand, starting currents and future requirements. Battery capacity and solar generation must also be considered when designing the complete system."
+          ]
+        },
+        {
+          "title": "How long can a hybrid inverter power my home or business?",
+          "paragraphs": [
+            "Backup duration depends primarily on available battery energy, inverter efficiency and the electricity consumed by connected appliances. A larger inverter alone does not guarantee longer backup time."
+          ]
+        },
+        {
+          "title": "Is a 5kW hybrid inverter enough for a house?",
+          "paragraphs": [
+            "A 5kW inverter may be suitable for some households, but not all. Its suitability depends on simultaneous electrical loads, appliance starting requirements and how the system is intended to operate. Battery storage and solar panel capacity must be sized separately."
+          ]
+        },
+        {
+          "title": "Do hybrid solar systems work during the rainy season?",
+          "paragraphs": [
+            "Yes. Solar panels can generate electricity during cloudy and rainy conditions, although output is generally lower than under strong sunlight. Available battery storage and compatible grid or generator sources can help manage periods of reduced solar generation."
+          ]
+        },
+        {
+          "title": "Do I need batteries for a hybrid solar system?",
+          "paragraphs": [
+            "Battery requirements depend on the inverter model and intended operating arrangement. If backup power during grid outages is a priority, suitable battery storage is normally required."
+          ]
+        },
+        {
+          "title": "Can I upgrade an existing inverter system to hybrid solar?",
+          "paragraphs": [
+            "In some cases, an existing installation can be upgraded or modified. The options depend on inverter compatibility, battery technology, wiring, electrical protection and the condition of the current equipment. An assessment is recommended before making changes."
+          ]
+        },
+        {
+          "title": "How much does hybrid solar inverter installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on inverter capacity, solar panel requirements, battery technology and capacity, existing electrical infrastructure, equipment specifications and installation complexity. An energy assessment helps establish a suitable configuration and quotation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide hybrid inverter maintenance?",
+          "paragraphs": [
+            "Yes. Our solar maintenance services include suitable inverter and battery system inspections, troubleshooting and technical support according to the equipment and agreed service scope."
+          ]
+        },
+        {
+          "title": "How do I get started with a hybrid solar installation?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your property location, appliances, electricity usage and existing power arrangements. We can discuss your backup requirements and identify the next steps towards a suitable hybrid system proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Hybrid Solar Requirements"
+    },
+    "closing": {
+      "title": "Better Power Begins With the Right Combination.",
+      "paragraphs": [
+        "Whether you're installing a new hybrid solar system, adding battery backup or upgrading an existing inverter, Integrated Solutions Technology can help you identify a solution designed around your electricity needs."
+      ],
+      "primary": "Discuss Your Hybrid Solar Project",
+      "secondary": "Explore All Solar Solutions"
+    }
+  },
+  "battery-storage": {
+    "name": "Solar Battery Storage Solutions",
+    "hero": {
+      "title": "Store More Energy. Stay Powered When It Matters.",
+      "paragraphs": [
+        "The electricity your solar panels generate during the day can still be useful after the sun goes down.",
+        "Integrated Solutions Technology provides solar battery storage solutions for homes, businesses and institutions, helping customers store energy for later use, reduce generator dependence and support essential appliances during power interruptions.",
+        "From lithium battery selection to installation and integration with compatible inverter systems, we help you find storage capacity suited to your electricity needs."
+      ],
+      "primary": "Discuss Your Battery Storage Needs",
+      "secondary": "Explore Battery Storage Solutions"
+    },
+    "benefits": {
+      "title": "Make Better Use of the Energy Available to You.",
+      "paragraphs": [
+        "Solar panels generate electricity when sunlight is available, but your energy needs don't end when daylight fades.",
+        "With properly sized battery storage, you can retain energy for later use and make your power system more flexible."
+      ],
+      "items": [
+        {
+          "title": "Backup Power When the Grid Fails",
+          "paragraphs": [
+            "Support essential appliances and equipment during electricity interruptions with sufficient stored energy and compatible inverter capacity."
+          ]
+        },
+        {
+          "title": "Energy Beyond Daylight Hours",
+          "paragraphs": [
+            "Use stored solar electricity during the evening or at night, depending on your battery charge and electricity consumption."
+          ]
+        },
+        {
+          "title": "Reduced Generator Dependence",
+          "paragraphs": [
+            "Make better use of battery backup to reduce generator operating hours where sufficient stored energy is available."
+          ]
+        },
+        {
+          "title": "Storage Designed Around Your Needs",
+          "paragraphs": [
+            "Choose battery capacity based on your daily consumption, desired backup duration, equipment compatibility and future requirements."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Battery Is About More Than Capacity.",
+      "paragraphs": [
+        "A solar battery should not be selected simply because it has a large capacity or an attractive price.",
+        "How long it can power your appliances depends on the electricity those appliances consume, the battery's usable energy and the efficiency of the connected system.",
+        "We help you understand these requirements before selecting and installing a suitable energy storage solution."
+      ],
+      "entries": [
+        {
+          "title": "Energy Storage Assessment",
+          "tagline": "Understand How Much Backup Energy You Really Need.",
+          "paragraphs": [
+            "Every household and business has different electricity usage patterns and backup expectations.",
+            "We assess the appliances you want to support, their energy consumption, expected operating hours and existing inverter system.",
+            "This helps determine an appropriate storage capacity while identifying any equipment or compatibility requirements that should be addressed before installation."
+          ],
+          "cta": "Discuss Your Storage Requirements"
+        },
+        {
+          "title": "Battery Selection & System Design",
+          "tagline": "Choose Storage That Works With Your Power System.",
+          "paragraphs": [
+            "Battery capacity is important, but compatibility and operating requirements matter just as much.",
+            "We help identify suitable battery technology, usable storage capacity, charging requirements and integration arrangements for your solar or inverter system.",
+            "Our approach considers equipment specifications, battery management, electrical protection and future expansion where practical."
+          ],
+          "cta": "Plan Your Battery Storage System"
+        },
+        {
+          "title": "Professional Battery Installation",
+          "tagline": "Stored Energy, Properly Installed and Integrated.",
+          "paragraphs": [
+            "Safe and dependable battery storage begins with correct equipment placement and installation.",
+            "We install suitable battery systems in appropriate technical areas, with attention to manufacturer requirements, electrical connections, protection devices and compatible inverter integration.",
+            "Our installation approach considers operating conditions, equipment accessibility and the intended use of the storage system."
+          ],
+          "cta": "Discuss Your Battery Installation"
+        },
+        {
+          "title": "Testing, Monitoring & Support",
+          "tagline": "Know Your Storage System Is Ready for Use.",
+          "paragraphs": [
+            "Battery installation should be followed by appropriate configuration and verification.",
+            "We check relevant connections, charging behaviour, battery communication where supported and the intended backup functionality.",
+            "We also guide customers through monitoring their available energy, understanding system alerts and recognising when technical assistance may be required."
+          ],
+          "cta": "Explore Battery Maintenance & Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technology That Keeps Energy Available.",
+      "paragraphs": [
+        "Explore the components and professional installation arrangements involved in dependable solar battery storage."
+      ],
+      "items": [
+        {
+          "title": "Lithium Battery Storage Installation",
+          "paragraphs": [
+            "Modern lithium battery systems installed in suitable technical environments to provide stored electricity for compatible solar and inverter installations."
+          ]
+        },
+        {
+          "title": "Hybrid Inverter & Battery Integration",
+          "paragraphs": [
+            "Battery storage connected to compatible hybrid inverters to support charging, energy management and backup operation."
+          ]
+        },
+        {
+          "title": "Battery System Configuration",
+          "paragraphs": [
+            "Appropriate equipment settings, battery communication and electrical connections configured around the supported operating requirements."
+          ]
+        },
+        {
+          "title": "Storage Inspection & System Verification",
+          "paragraphs": [
+            "Technical checks of battery equipment, connections, charging performance and system status before handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Energy Storage Project"
+    },
+    "faq": {
+      "title": "Your Solar Battery Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "How much does solar battery storage cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on battery technology, usable storage capacity, manufacturer specifications, inverter compatibility, installation requirements and supporting electrical equipment. A storage assessment helps determine the appropriate capacity and provides a basis for a suitable quotation."
+          ]
+        },
+        {
+          "title": "How many batteries do I need for my home?",
+          "paragraphs": [
+            "The number depends on the usable capacity of each battery, the appliances you want to power and how long you need backup electricity. Battery quantity alone does not determine backup duration because battery models have different capacities and specifications."
+          ]
+        },
+        {
+          "title": "How long can a 5kWh lithium battery power a house?",
+          "paragraphs": [
+            "Backup duration depends on the power consumed by connected appliances, usable battery capacity and system efficiency. For illustration, a battery delivering 4kWh of usable energy could theoretically support a constant 500W load for around eight hours. Actual performance varies with operating conditions and equipment specifications."
+          ]
+        },
+        {
+          "title": "What is the difference between lithium and lead-acid solar batteries?",
+          "paragraphs": [
+            "Lithium batteries generally offer higher usable capacity, longer cycle life and lower routine maintenance requirements, although specifications vary. Lead-acid batteries may have a lower initial purchase cost but typically require more attention and provide less usable energy for a comparable rated capacity."
+          ]
+        },
+        {
+          "title": "Can solar batteries power my home throughout the night?",
+          "paragraphs": [
+            "Yes, if sufficient usable energy is stored to support your overnight electricity consumption. The required capacity depends on the appliances operating, their power demand and the number of backup hours you need."
+          ]
+        },
+        {
+          "title": "Can I install a lithium battery with my existing inverter?",
+          "paragraphs": [
+            "Possibly. Compatibility depends on the inverter's supported battery chemistry, operating voltage, charging requirements and communication arrangements. The inverter and battery specifications should be checked before installation."
+          ]
+        },
+        {
+          "title": "Can I add more batteries to my existing solar system?",
+          "paragraphs": [
+            "In some cases, yes. Expansion depends on battery compatibility, manufacturer requirements, system configuration and available inverter capacity. Batteries should not be connected together without confirming that the arrangement is supported."
+          ]
+        },
+        {
+          "title": "Will my solar battery charge during the rainy season?",
+          "paragraphs": [
+            "Yes, solar panels can generate electricity in cloudy and rainy conditions, although their output is generally lower than in strong sunshine. Charging performance depends on available solar generation, system configuration and electricity consumption."
+          ]
+        },
+        {
+          "title": "Can I charge a solar battery using NEPA or a generator?",
+          "paragraphs": [
+            "Many compatible inverter and battery systems support charging from grid electricity or a generator. The available options depend on the equipment and its configured operating modes."
+          ]
+        },
+        {
+          "title": "How long do lithium solar batteries last?",
+          "paragraphs": [
+            "Lithium battery lifespan depends on battery chemistry, cycle usage, operating temperature, depth of discharge and manufacturer specifications. Manufacturer cycle-life and warranty information should be considered when comparing products."
+          ]
+        },
+        {
+          "title": "Do solar batteries require maintenance?",
+          "paragraphs": [
+            "Yes, although modern lithium batteries typically require less routine maintenance than traditional lead-acid batteries. Appropriate operating temperatures, clean and dry equipment areas, performance monitoring and periodic professional inspections help support long-term operation."
+          ]
+        },
+        {
+          "title": "Where should solar batteries be installed?",
+          "paragraphs": [
+            "Battery systems should be installed in locations suitable for their specifications and safety requirements, with appropriate protection from moisture, excessive heat and physical damage. Installation should follow manufacturer instructions and applicable electrical safety requirements."
+          ]
+        },
+        {
+          "title": "Can solar battery storage reduce generator fuel costs?",
+          "paragraphs": [
+            "Yes. When sufficient stored energy is available, battery backup can reduce the need to operate a generator. Actual fuel savings depend on your electricity use, charging sources, battery capacity and operating patterns."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide battery replacement and upgrades?",
+          "paragraphs": [
+            "Existing storage systems can be assessed to determine suitable replacement or expansion options. Any proposed upgrade depends on equipment compatibility, installation conditions and the requirements of the complete power system."
+          ]
+        },
+        {
+          "title": "How do I get a solar battery storage quotation?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your location, existing inverter details, appliances, electricity consumption and preferred backup duration. We can review the information and recommend the next steps towards a suitable battery storage proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Battery Storage Requirements"
+    },
+    "closing": {
+      "title": "The Right Battery Makes Your Power System Work Better for You.",
+      "paragraphs": [
+        "Whether you're adding storage to a new solar installation, upgrading your existing battery bank or looking for longer backup hours, Integrated Solutions Technology can help you identify a solution designed around your energy requirements."
+      ],
+      "primary": "Discuss Your Battery Storage Needs",
+      "secondary": "Explore All Solar Solutions"
+    }
+  },
+  "solar-maintenance": {
+    "name": "Solar Maintenance & System Upgrades",
+    "hero": {
+      "title": "Keep Your Solar System Performing. Get More From Your Investment.",
+      "paragraphs": [
+        "Your solar system should continue meeting your energy needs long after installation.",
+        "Integrated Solutions Technology provides solar maintenance, troubleshooting and system upgrade solutions for homes, businesses and institutions. From inverter and battery checks to performance assessments and capacity expansion, we help you identify problems, improve existing installations and maintain reliable system operation."
+      ],
+      "primary": "Request Solar System Support",
+      "secondary": "Explore Maintenance & Upgrade Services"
+    },
+    "benefits": {
+      "title": "Good Solar Performance Doesn't End With Installation.",
+      "paragraphs": [
+        "Solar power systems generally require less routine maintenance than fuel-powered generators, but they still need appropriate care.",
+        "Dust accumulation, ageing batteries, electrical faults and changing energy requirements can affect how well a system performs.",
+        "Professional inspection and maintenance help you understand your system's condition, address developing issues and make informed decisions about upgrades."
+      ],
+      "items": [
+        {
+          "title": "Maintain Reliable Performance",
+          "paragraphs": [
+            "Regular system checks help identify conditions that may affect solar generation, battery charging and inverter operation."
+          ]
+        },
+        {
+          "title": "Identify Problems Early",
+          "paragraphs": [
+            "Timely inspection and troubleshooting can reveal equipment faults or installation issues before they lead to more serious disruptions."
+          ]
+        },
+        {
+          "title": "Protect Equipment Life",
+          "paragraphs": [
+            "Appropriate maintenance, suitable operating conditions and manufacturer-recommended care help support the service life of your solar equipment."
+          ]
+        },
+        {
+          "title": "Adapt to Changing Energy Needs",
+          "paragraphs": [
+            "System assessments help determine whether additional panels, battery storage or compatible equipment upgrades are appropriate."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Understand the Problem. Restore Performance. Plan What Comes Next.",
+      "paragraphs": [
+        "A solar system may need attention because its output has declined, its battery backup no longer lasts as expected or its equipment is developing faults.",
+        "Sometimes the system is functioning correctly but no longer has enough capacity for the owner's electricity requirements.",
+        "We begin by understanding the existing installation and identifying the most suitable way forward."
+      ],
+      "entries": [
+        {
+          "title": "Solar System Inspection & Assessment",
+          "tagline": "Know the Condition of Your Solar System.",
+          "paragraphs": [
+            "A proper inspection helps identify what is working, what needs attention and whether the installed equipment still meets your requirements.",
+            "We review relevant solar panels, inverter operation, battery condition, electrical connections, protection equipment and available performance information.",
+            "Our findings help establish whether maintenance, repair, reconfiguration or an upgrade should be considered."
+          ],
+          "cta": "Request a Solar System Assessment"
+        },
+        {
+          "title": "Solar Maintenance & Troubleshooting",
+          "tagline": "Find the Cause. Take the Right Corrective Action.",
+          "paragraphs": [
+            "Reduced solar output, unexpected inverter shutdowns and poor battery charging can have several possible causes.",
+            "We investigate relevant equipment faults, system alerts, connections and operating conditions to help identify the source of the problem.",
+            "Where appropriate, we recommend maintenance, compatible component replacement or corrective work based on the system's condition and specifications."
+          ],
+          "cta": "Discuss Your Solar System Problem"
+        },
+        {
+          "title": "Solar System Upgrades & Expansion",
+          "tagline": "When Your Energy Needs Grow, Your System May Need to Grow Too.",
+          "paragraphs": [
+            "New appliances, longer operating hours and increasing electricity consumption can place additional demand on an existing installation.",
+            "We assess your current equipment and energy requirements to determine whether additional solar panels, battery storage or inverter upgrades are suitable.",
+            "Our recommendations consider compatibility, available capacity, installation conditions and the long-term practicality of the proposed changes."
+          ],
+          "cta": "Explore Solar System Upgrades"
+        },
+        {
+          "title": "Performance Verification & Ongoing Support",
+          "tagline": "Confidence in Your System After the Work Is Done.",
+          "paragraphs": [
+            "Maintenance or upgrade work should be followed by appropriate checks to confirm that the agreed requirements have been addressed.",
+            "We verify relevant equipment operation, battery charging, inverter performance and system functionality according to the completed work.",
+            "We also provide practical guidance on monitoring, maintenance needs and recognising signs that additional technical attention may be required."
+          ],
+          "cta": "Discuss Solar Maintenance Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technical Care Behind Long-Term Solar Performance.",
+      "paragraphs": [
+        "Explore the inspection, maintenance and upgrade activities that help solar systems continue meeting their intended energy requirements."
+      ],
+      "items": [
+        {
+          "title": "Solar Panel Inspection & Cleaning",
+          "paragraphs": [
+            "Checking photovoltaic panels for visible damage, shading, dirt accumulation and conditions that may reduce solar generation, with appropriate cleaning where required."
+          ]
+        },
+        {
+          "title": "Inverter Diagnostics & Maintenance",
+          "paragraphs": [
+            "Reviewing inverter operating information, fault indicators, installation conditions and relevant electrical connections to identify potential performance issues."
+          ]
+        },
+        {
+          "title": "Battery Health Assessment & Upgrades",
+          "paragraphs": [
+            "Assessing compatible battery systems, charging behaviour, available capacity and replacement or expansion requirements."
+          ]
+        },
+        {
+          "title": "System Testing & Performance Verification",
+          "paragraphs": [
+            "Conducting appropriate checks after maintenance or upgrade work to verify equipment operation and the agreed system functions."
+          ]
+        }
+      ],
+      "cta": "Request Solar Maintenance Support"
+    },
+    "faq": {
+      "title": "Your Solar Maintenance & Upgrade Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "How often should a solar power system be serviced?",
+          "paragraphs": [
+            "Maintenance frequency depends on equipment specifications, installation conditions, environmental exposure and usage. Periodic professional inspections are advisable, while visible faults or significant performance changes should be investigated promptly. Manufacturer recommendations should guide the maintenance schedule."
+          ]
+        },
+        {
+          "title": "How do I know if my solar system needs maintenance?",
+          "paragraphs": [
+            "Possible warning signs include reduced solar generation, frequent inverter error messages, batteries charging unusually slowly, shortened backup duration or unexpected system shutdowns. These symptoms can have different causes, so a technical assessment is recommended."
+          ]
+        },
+        {
+          "title": "Why are my solar batteries no longer lasting as long as before?",
+          "paragraphs": [
+            "Reduced backup duration may result from battery ageing, increased electricity consumption, charging problems, operating settings or equipment faults. Checking battery condition, available capacity and connected loads helps determine the cause."
+          ]
+        },
+        {
+          "title": "Can I add more solar panels to my existing system?",
+          "paragraphs": [
+            "In many cases, yes. However, expansion depends on inverter specifications, available solar input capacity, panel compatibility, installation space and electrical protection requirements. The existing installation should be assessed before adding panels."
+          ]
+        },
+        {
+          "title": "Can I upgrade my inverter without replacing the entire solar system?",
+          "paragraphs": [
+            "Sometimes. An inverter upgrade may be possible if the proposed equipment is compatible with the solar array, batteries, electrical infrastructure and intended loads. Some installations may require additional modifications."
+          ]
+        },
+        {
+          "title": "Can I replace lead-acid batteries with lithium batteries?",
+          "paragraphs": [
+            "It may be possible, but the new battery must be compatible with the inverter's voltage, charging characteristics and supported battery management requirements. Changing battery technology without a proper compatibility assessment can create performance and safety problems."
+          ]
+        },
+        {
+          "title": "Do solar panels need cleaning in Nigeria?",
+          "paragraphs": [
+            "Yes, when dirt or debris affects their performance. Dust, Harmattan conditions, leaves and bird droppings can reduce the sunlight reaching the panels. Cleaning should follow manufacturer guidance and appropriate safety procedures, particularly for rooftop installations."
+          ]
+        },
+        {
+          "title": "How much does solar system maintenance cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the size and condition of the installation, the type of inspection or fault, site access, required replacement components and the scope of work. A system assessment helps identify the work needed and provide a suitable quotation."
+          ]
+        },
+        {
+          "title": "Why is my solar inverter showing an error or shutting down?",
+          "paragraphs": [
+            "Inverter faults may relate to battery conditions, electrical loads, charging problems, temperature, wiring or internal equipment issues. The fault information and system configuration should be reviewed by a competent technician before corrective work is carried out."
+          ]
+        },
+        {
+          "title": "Can a poorly installed solar system be corrected?",
+          "paragraphs": [
+            "Some installation problems can be addressed through assessment, suitable corrective work and component replacement. The necessary changes depend on the condition of the installation and whether the existing equipment can be used safely."
+          ]
+        },
+        {
+          "title": "Is it better to repair or replace an ageing solar battery?",
+          "paragraphs": [
+            "The decision depends on battery technology, condition, manufacturer support, available capacity, repairability and replacement cost. A professional assessment helps determine the practical and safe option."
+          ]
+        },
+        {
+          "title": "Can I increase my solar system's backup duration?",
+          "paragraphs": [
+            "Potentially. Longer backup may require additional compatible battery storage, changes to electricity consumption or improvements to charging capacity. The existing inverter and battery configuration must support the proposed changes."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology maintain solar systems installed by other companies?",
+          "paragraphs": [
+            "Existing third-party installations can be reviewed to determine their condition, equipment compatibility and the maintenance or upgrade work required. The ability to service a particular system depends on its equipment, accessibility and technical condition."
+          ]
+        },
+        {
+          "title": "Will maintenance improve my solar system's electricity generation?",
+          "paragraphs": [
+            "Maintenance can help restore lost performance when problems such as dirt accumulation, connection faults or equipment issues are responsible. It cannot increase solar generation beyond the physical and operating limits of the installed system."
+          ]
+        },
+        {
+          "title": "How do I request solar maintenance or an upgrade?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your location, existing system details, equipment specifications and a description of the problem or upgrade you want. Our team can review the information and advise on the next steps towards an assessment."
+          ]
+        }
+      ],
+      "cta": "Request Solar Maintenance & Upgrade Support"
+    },
+    "closing": {
+      "title": "Your Solar System Has More to Give. Let's Keep It Performing.",
+      "paragraphs": [
+        "Whether your system needs servicing, your inverter is developing faults or your electricity requirements have increased, Integrated Solutions Technology can help assess the installation and recommend the right next step."
+      ],
+      "primary": "Request Solar System Support",
+      "secondary": "Explore All Solar Solutions"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.cta {
+  background: var(--brand-orange);
+  color: var(--brand-navy);
+}
+
+.cta:hover {
+  background: var(--brand-orange-hover);
+  color: var(--brand-navy);
+}
+
+.cta:focus-visible {
+  outline: 3px solid var(--brand-navy);
+  outline-offset: 4px;
+}

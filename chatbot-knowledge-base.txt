@@ -1,0 +1,67 @@
+Integrated Solutions Technology — WEBSITE ENQUIRY KNOWLEDGE BASE
+Updated 8 October 2026
+
+Company: Integrated Solutions Technology Technology Limited
+Website: https://istng.com
+Email: ask@istng.com
+Address: 26A Adeshina Street, Obafemi Awolowo Way, Ikeja, Lagos
+Enquiry destination: /book-consultation
+
+Integrated Solutions Technology is an onsite infrastructure services provider, not a colocation operator.
+Service pillars:
+- Data Centre Deployment: /services/data-centre-deployment
+- Smart Hands & Technical Support: /services/smart-hands-technical-support
+- Server, Storage & Hardware: /services/server-storage-hardware
+- Network Infrastructure & Connectivity: /services/network-infrastructure-connectivity
+- Data Centre Security & Safety: /services/data-centre-security-safety
+- Infrastructure Audit & Optimisation: /services/infrastructure-audit-optimisation
+- Data Centre Project & Lifecycle Management: /services/data-centre-project-lifecycle-management
+
+ANSWERING RULES
+Use the approved FAQ answers below and the current website's service-specific scope.
+Do not promise availability, response times, 24/7 coverage, zero downtime, prices, warranties, certifications or regulatory approval without a confirmed engagement.
+Do not request passwords or sensitive infrastructure credentials in an initial enquiry.
+For pricing, urgent work, unsupported platforms or specialist safety questions, direct the visitor to the consultation page or company email.
+Use client-supplied Integrated Solutions project records from data/integrated-case-studies.json and matching Sanity case studies. Do not use the former Integrated Solutions Technology projects as Integrated Solutions evidence. Do not invent testimonials, savings, runtimes or customer results. Portfolio photographs illustrate related equipment and are not verified images of individual client sites.
+Never say a form was submitted or an appointment was booked unless the actual submission succeeded.
+
+GENERAL FAQS
+Who does Integrated Solutions Technology work with?
+Integrated Solutions Technology supports data centre operators, enterprise IT teams, OEMs, managed service providers, system integrators and international teams that need onsite technical execution in Nigeria. We work to an agreed scope while the client's technical owners retain control of their environment.
+
+What services does Integrated Solutions Technology provide?
+Our seven service pillars cover data centre deployment; Smart Hands and technical support; servers, storage and hardware; network infrastructure and connectivity; security and safety systems; infrastructure audit and optimisation; and project and lifecycle management. Supply, installation, configuration and ongoing support are agreed separately where needed.
+
+Are you a data centre operator or an onsite services provider?
+Integrated Solutions Technology is an onsite infrastructure services business, not a colocation facility operator. We support work in the customer's approved data centre, server room or enterprise environment. Hosting, rack rental, internet transit and facility operations are not implied by our deployment services.
+
+Can you work with our remote engineers or existing IT team?
+Yes. Your team can provide approved work instructions, rack layouts, equipment details and configuration requirements. We agree the onsite tasks, technical contacts, communication method and approval process before starting. Changes outside the agreed scope require approval.
+
+Can you assess our existing infrastructure before recommending work?
+Yes. An agreed assessment can review racks, cabling, equipment identification, physical connections and available records. Findings can help define remediation, installation or expansion work. An infrastructure assessment is not automatically a cybersecurity penetration test or a regulatory certification.
+
+Can work be carried out in a live environment?
+Work can be planned around operational environments, subject to site access rules, dependencies and approved change procedures. Tasks that could interrupt service need an agreed work window, responsible technical contact and recovery approach. Zero downtime should not be assumed.
+
+Where is Integrated Solutions Technology based, and can you support sites outside Lagos?
+Our address is 26A Adeshina Street, Obafemi Awolowo Way, Ikeja, Lagos. We support infrastructure projects across Nigeria, with travel, site access, scheduling and delivery arrangements confirmed for each location. International teams can engage us for work on infrastructure located in Nigeria.
+
+Do you provide urgent, out-of-hours or recurring support?
+Planned maintenance and recurring onsite support can be scoped around your equipment and operating requirements. For urgent or out-of-hours work, share the site, affected equipment, symptoms and requested time. Availability, response arrangements and any service-level commitments must be confirmed; 24/7 coverage is not automatic.
+
+What records will we receive after the work?
+Completion records are agreed before execution. Depending on the task, they may include equipment positions, connection or labelling updates, completed checks, permitted photographs and outstanding issues. Your technical owner reviews the evidence against the agreed acceptance criteria; completion of a physical task is not the same as full application or business acceptance.
+
+What information do you need to quote and schedule a project?
+Share the site location, equipment models and quantities, required tasks, available drawings or records, access restrictions and preferred work window. Pricing and timing depend on the confirmed scope, parts, logistics and site readiness. Do not send passwords or sensitive infrastructure credentials in an initial enquiry.
+
+How do I discuss a requirement with Integrated Solutions Technology?
+Use the Book Consultation page or email ask@istng.com with a short project brief. Tell us whether you need deployment, support, hardware, networking, security, an assessment or lifecycle assistance. We can then clarify the scope and next steps before work is scheduled.
+
+SERVICE-SPECIFIC FAQ SOURCE
+The detailed questions and answers are maintained in:
+- data/service-pillars-content.json (seven pillars)
+- data/subservice-production.json (29 sub-services)
+- lib/service-seo.ts (other service pages)
+Publish or import those records separately if your external chatbot requires its own knowledge upload.

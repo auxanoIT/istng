@@ -1,0 +1,422 @@
+{
+  "hero": {
+    "title": "Reliable Solar Power. Designed Around Your Needs.",
+    "paragraphs": [
+      "Solar and battery systems designed for homes, businesses and industrial sites across Nigeria."
+    ],
+    "ctas": [
+      "Discuss Your Solar Project",
+      "Explore Our Solar Solutions"
+    ]
+  },
+  "reliability": {
+    "title": "We assess how you use power before recommending a system.",
+    "paragraphs": [],
+    "items": [
+      {
+        "title": "Right-Sized Capacity",
+        "paragraphs": [
+          "Match your system to your actual power use."
+        ]
+      },
+      {
+        "title": "Integrated Power Systems",
+        "paragraphs": [
+          "Make solar, batteries and backup work together."
+        ]
+      },
+      {
+        "title": "Professional Installation",
+        "paragraphs": [
+          "Install and configure equipment for safe operation."
+        ]
+      },
+      {
+        "title": "Long-Term Performance",
+        "paragraphs": [
+          "Plan for maintenance and future expansion."
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "title": "More Control Over Your Power. More Confidence in Every Day.",
+    "paragraphs": [],
+    "items": [
+      {
+        "title": "Reduce Generator Dependence",
+        "paragraphs": [
+          "Use solar power to cut generator runtime and fuel use."
+        ]
+      },
+      {
+        "title": "Improve Power Availability",
+        "paragraphs": [
+          "Pair solar with battery storage to keep essential equipment running during outages."
+        ]
+      },
+      {
+        "title": "Manage Long-Term Energy Costs",
+        "paragraphs": [
+          "Use less grid electricity and generator fuel to help manage ongoing energy costs."
+        ]
+      },
+      {
+        "title": "Enjoy Quieter Operations",
+        "paragraphs": [
+          "Run your generator less often for a quieter home or workplace."
+        ]
+      },
+      {
+        "title": "Support Everyday Productivity",
+        "paragraphs": [
+          "Keep everyday work and household routines going by powering the equipment you depend on."
+        ]
+      },
+      {
+        "title": "Plan for Future Growth",
+        "paragraphs": [
+          "Plan for new appliances, equipment and changing power needs from the start."
+        ]
+      }
+    ]
+  },
+  "services": {
+    "title": "The Right Solar Solution for Every Energy Requirement.",
+    "paragraphs": [
+      "Whether you're powering a family home, managing a commercial property or planning energy infrastructure for an industrial facility, we help you identify and implement a solution suited to your needs."
+    ],
+    "items": [
+      {
+        "title": "Residential Solar Installation",
+        "tagline": "Make Reliable Power Part of Everyday Living.",
+        "paragraphs": [
+          "Your home depends on electricity for lighting, refrigeration, internet connectivity, entertainment and everyday comfort.",
+          "We design and install residential solar systems around your household's electricity consumption, essential appliances and preferred backup duration.",
+          "From solar panels and hybrid inverters to battery storage and system configuration, we help you make an informed investment in dependable home energy."
+        ],
+        "ctas": [
+          "Explore Residential Solar Installation"
+        ]
+      },
+      {
+        "title": "Commercial Solar Installation",
+        "tagline": "Keep Your Business Moving With Smarter Energy.",
+        "paragraphs": [
+          "Electricity interruptions and generator expenses can affect business productivity, customer experience and operating costs.",
+          "We provide commercial solar solutions for offices, retail businesses, hotels, schools, healthcare facilities and other commercial properties.",
+          "Each system is planned around the building's electricity demand, operating hours and existing power infrastructure."
+        ],
+        "ctas": [
+          "Explore Commercial Solar Installation"
+        ]
+      },
+      {
+        "title": "Industrial Solar Solutions",
+        "tagline": "Power Solutions Built Around Industrial Demands.",
+        "paragraphs": [
+          "Manufacturing facilities, warehouses and industrial operations require careful energy planning to support equipment, production processes and daily operations.",
+          "We develop industrial solar solutions that can supplement existing electricity sources, reduce generator dependence and support selected operational loads.",
+          "From site assessment and system planning to installation and integration, our approach considers energy demand, existing infrastructure and future capacity requirements."
+        ],
+        "ctas": [
+          "Explore Industrial Solar Solutions"
+        ]
+      },
+      {
+        "title": "Hybrid Solar & Inverter Systems",
+        "tagline": "Flexible Power From More Than One Source.",
+        "paragraphs": [
+          "A hybrid solar system brings together solar generation, inverter technology, battery storage and compatible grid or generator supply.",
+          "This allows energy from different sources to be managed according to the system configuration and available power.",
+          "We help customers select and install hybrid inverter systems suited to their electricity requirements, backup expectations and existing infrastructure."
+        ],
+        "ctas": [
+          "Explore Hybrid Solar Systems"
+        ]
+      },
+      {
+        "title": "Solar Battery Storage Solutions",
+        "tagline": "Store Energy for When You Need It.",
+        "paragraphs": [
+          "Solar panels generate electricity during daylight hours, but your energy needs continue after sunset.",
+          "Battery storage makes it possible to use stored electricity at night or during grid interruptions, subject to available charge and system capacity.",
+          "We provide battery storage solutions designed to work with compatible inverters and meet your energy requirements."
+        ],
+        "ctas": [
+          "Explore Solar Battery Storage"
+        ]
+      },
+      {
+        "title": "Solar Maintenance & System Upgrades",
+        "tagline": "Protect Your Solar Investment for the Long Term.",
+        "paragraphs": [
+          "A solar installation requires appropriate care to maintain effective performance.",
+          "We provide solar system inspection, maintenance, troubleshooting and upgrade support to help identify developing issues and keep equipment operating as intended.",
+          "Where your energy requirements have changed, we can assess your existing installation and recommend suitable improvements or expansion options."
+        ],
+        "ctas": [
+          "Explore Solar Maintenance & Upgrades"
+        ]
+      }
+    ]
+  },
+  "system": {
+    "title": "From Sunlight to Usable Power. See How It Works.",
+    "paragraphs": [
+      "Solar energy becomes more valuable when you understand how electricity is generated, stored and used throughout the day.",
+      "Explore how a suitably configured solar system can support your building under different electricity conditions."
+    ],
+    "items": [
+      {
+        "title": "DAYTIME",
+        "tagline": "Make the Most of Available Sunlight.",
+        "paragraphs": [
+          "During daylight hours, solar panels generate electricity that can be converted by the inverter to power your building. Depending on your system design and electricity demand, surplus solar energy may also charge the battery."
+        ]
+      },
+      {
+        "title": "NIGHT-TIME",
+        "tagline": "Stored Energy When the Sun Goes Down.",
+        "paragraphs": [
+          "At night, solar generation stops. A system equipped with sufficient battery storage can supply electricity to your connected appliances and equipment, depending on the energy available."
+        ]
+      },
+      {
+        "title": "POWER OUTAGE",
+        "tagline": "Backup Power When the Grid Is Unavailable.",
+        "paragraphs": [
+          "With a properly configured hybrid or off-grid system, available solar generation and stored battery energy can support designated electrical loads during a grid outage."
+        ]
+      }
+    ],
+    "ctas": [
+      "Discuss Your Solar Requirements"
+    ]
+  },
+  "environments": {
+    "title": "Different Energy Needs. Solutions Designed Around Each One.",
+    "paragraphs": [
+      "We help plan solar solutions around the way different properties and organisations use energy."
+    ],
+    "items": [
+      {
+        "title": "Homes & Residential Properties",
+        "paragraphs": [
+          "Support everyday appliances, lighting, refrigeration, home offices and household comfort with a solar system planned around your family's electricity needs."
+        ],
+        "ctas": [
+          "Explore Residential Solar"
+        ]
+      },
+      {
+        "title": "Offices & Growing Businesses",
+        "paragraphs": [
+          "Keep computers, internet equipment, lighting and other essential business systems operating with an energy solution matched to your working environment."
+        ],
+        "ctas": [
+          "Explore Business Solar"
+        ]
+      },
+      {
+        "title": "Manufacturing & Industrial Facilities",
+        "paragraphs": [
+          "Supplement existing electricity sources and support suitable operational loads through carefully planned industrial solar infrastructure."
+        ],
+        "ctas": [
+          "Explore Industrial Solar"
+        ]
+      },
+      {
+        "title": "Schools & Educational Institutions",
+        "paragraphs": [
+          "Support classrooms, administrative offices, ICT facilities, lighting and essential educational activities with a suitable solar and backup solution."
+        ],
+        "ctas": [
+          "Discuss Institutional Solar"
+        ]
+      },
+      {
+        "title": "Healthcare Facilities",
+        "paragraphs": [
+          "Plan energy systems around the electricity needs of medical equipment, refrigeration, lighting, communication systems and other essential operations, with appropriate backup arrangements."
+        ],
+        "ctas": [
+          "Discuss Healthcare Energy Needs"
+        ]
+      },
+      {
+        "title": "Hospitality, Retail & Commercial Properties",
+        "paragraphs": [
+          "Support refrigeration, lighting, customer-facing services and daily business activities while working towards more manageable energy expenses."
+        ],
+        "ctas": [
+          "Explore Commercial Solar"
+        ]
+      }
+    ]
+  },
+  "decisions": {
+    "eyebrow": "MAKING THE RIGHT ENERGY DECISION",
+    "title": "When Your Power Needs Change, Your Energy Strategy Should Too.",
+    "paragraphs": [
+      "There are many reasons to consider solar power. The important question is whether the proposed system will address your actual electricity requirements and provide practical long-term value."
+    ],
+    "items": [
+      {
+        "title": "Your Generator Is Becoming Expensive to Run",
+        "paragraphs": [
+          "Frequent generator use can result in significant spending on fuel, servicing and repairs. A suitable solar system may reduce generator operating hours and associated costs."
+        ]
+      },
+      {
+        "title": "Power Interruptions Are Affecting Your Activities",
+        "paragraphs": [
+          "If unreliable electricity is interrupting business operations or essential household activities, a properly sized solar and battery solution may provide useful backup capacity."
+        ]
+      },
+      {
+        "title": "Your Electricity Demand Is Increasing",
+        "paragraphs": [
+          "New equipment, additional appliances and business expansion can change how much power you need. An energy assessment helps determine whether solar can meet part or all of that demand."
+        ]
+      },
+      {
+        "title": "You're Building or Upgrading a Property",
+        "paragraphs": [
+          "Planning solar infrastructure during construction or renovation can make it easier to consider installation space, electrical integration and future energy requirements."
+        ]
+      },
+      {
+        "title": "You Need Power Where Grid Access Is Limited",
+        "paragraphs": [
+          "Off-grid solar systems may provide a practical electricity solution for properties, farms and facilities without dependable access to the national grid."
+        ]
+      },
+      {
+        "title": "Your Existing Solar System No Longer Meets Your Needs",
+        "paragraphs": [
+          "An undersized system, ageing battery storage or changing energy consumption may justify an inspection, upgrade or redesign."
+        ]
+      }
+    ],
+    "ctas": [
+      "Find the Right Solar Solution"
+    ]
+  },
+  "related": {
+    "title": "Power Your Property. Support Everything That Runs Within It.",
+    "paragraphs": [
+      "We provide reliable solar power alongside networking, IT infrastructure and security services."
+    ],
+    "items": [
+      {
+        "title": "Network & Structured Cabling",
+        "paragraphs": [
+          "Build organised network connectivity and cabling infrastructure for homes, offices and business environments."
+        ],
+        "ctas": [
+          "Explore Network Solutions"
+        ]
+      },
+      {
+        "title": "Server, Storage & IT Infrastructure",
+        "paragraphs": [
+          "Support business computing, data storage and technical infrastructure with appropriate equipment and professional deployment."
+        ],
+        "ctas": [
+          "Explore Enterprise IT Solutions"
+        ]
+      },
+      {
+        "title": "Security & Surveillance",
+        "paragraphs": [
+          "Protect visibility across your property with CCTV and surveillance solutions designed around your monitoring requirements."
+        ],
+        "ctas": [
+          "Explore Security Solutions"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+    "title": "Everything You Need to Know Before Going Solar.",
+    "paragraphs": [],
+    "items": [
+      {
+        "title": "How much does solar installation cost in Nigeria?",
+        "paragraphs": [
+          "The cost depends on the size of the system, your electricity consumption, the inverter and battery capacity, solar panel requirements and installation conditions. An energy assessment helps determine the equipment needed and provides a basis for an accurate quotation."
+        ]
+      },
+      {
+        "title": "What size of solar system do I need for my home or business?",
+        "paragraphs": [
+          "The right size depends on your appliances, daily electricity consumption, peak loads and required backup duration. A professional load assessment helps identify a suitable system rather than relying on the number of rooms or building size alone."
+        ]
+      },
+      {
+        "title": "Can solar power run air conditioners and heavy appliances?",
+        "paragraphs": [
+          "Yes, provided the system has sufficient inverter, solar and battery capacity for those appliances. Equipment with high running loads or starting currents requires careful system sizing."
+        ]
+      },
+      {
+        "title": "Will solar power work during the rainy season?",
+        "paragraphs": [
+          "Yes. Solar panels can generate electricity in cloudy and rainy conditions, although production is generally lower than during strong sunshine. The system design should consider seasonal changes in solar generation."
+        ]
+      },
+      {
+        "title": "What is the difference between hybrid, off-grid and grid-tied solar systems?",
+        "paragraphs": [
+          "A hybrid system combines solar generation with battery storage and can integrate with the grid or other backup sources. An off-grid system operates independently of the electricity grid. A grid-tied system uses solar alongside grid electricity and typically requires additional backup equipment to operate during a grid outage."
+        ]
+      },
+      {
+        "title": "Can I use solar power alongside my existing generator?",
+        "paragraphs": [
+          "Yes. Some hybrid inverter systems support generator integration. Compatibility, switching arrangements and system configuration must be assessed before installation."
+        ]
+      },
+      {
+        "title": "How long do solar panels and batteries last?",
+        "paragraphs": [
+          "Quality solar panels are commonly designed for a service life of approximately 25–30 years, although performance gradually changes over time. Battery lifespan depends on the battery technology, usage, operating conditions and manufacturer specifications."
+        ]
+      },
+      {
+        "title": "Can I expand my solar system later?",
+        "paragraphs": [
+          "In many cases, yes. However, expansion depends on inverter capacity, equipment compatibility, available installation space and the existing electrical configuration. Future needs should ideally be considered during the initial design."
+        ]
+      },
+      {
+        "title": "Does a solar system require maintenance?",
+        "paragraphs": [
+          "Yes. Solar systems benefit from periodic inspection, performance monitoring, equipment checks and appropriate panel cleaning. Maintenance requirements depend on the installation environment and equipment specifications."
+        ]
+      },
+      {
+        "title": "How do I get started with Integrated Solutions Technology?",
+        "paragraphs": [
+          "Contact us with your property location, electricity needs and the appliances or equipment you intend to power. We can discuss your requirements, determine whether a site assessment is necessary and recommend the next steps towards a suitable solar solution."
+        ]
+      }
+    ],
+    "ctas": [
+      "Discuss Your Solar Project"
+    ]
+  },
+  "closing": {
+    "title": "Your Path to Better Power Starts With the Right Plan.",
+    "paragraphs": [
+      "We’ll help you find the right solar solution for your home, business or industrial site."
+    ],
+    "ctas": [
+      "Discuss Your Requirements",
+      "Explore Solar Solutions"
+    ]
+  }
+}

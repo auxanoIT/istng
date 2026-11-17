@@ -1,0 +1,315 @@
+.section {
+  --cable-track: #af9c8c;
+  --cable-idle: #ead9c9;
+  --cable-live: #f47b25;
+  --cable-edge: #a95025;
+  padding-block: clamp(4rem, 7vw, 7rem);
+  scroll-margin-top: 6rem;
+  background: linear-gradient(
+    180deg,
+    var(--brand-white) 0%,
+    #fcf7ef 18%,
+    #fcf1e7 36%,
+    #eaf2f7 55%,
+    #f0f5ee 74%,
+    #e9f1f8 92%,
+    var(--brand-white) 100%
+  );
+  color: var(--brand-navy);
+}
+
+.section[data-scroll-motion] {
+  background: linear-gradient(
+    180deg,
+    var(--brand-white),
+    var(--journey-wash) 12% 94%,
+    var(--brand-white)
+  );
+}
+
+.header {
+  max-width: 62rem;
+  margin-bottom: clamp(3rem, 6vw, 5rem);
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin: 0 0 1rem;
+  color: var(--brand-orange-text);
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .14em;
+}
+
+.eyebrow::before {
+  content: "";
+  width: 2rem;
+  height: 2px;
+  background: var(--brand-orange);
+}
+
+.header h2 {
+  max-width: 25ch;
+  margin: 0;
+  font-size: clamp(2rem, 4.3vw, 4.1rem);
+  font-weight: 600;
+  letter-spacing: -.052em;
+  line-height: 1.09;
+  text-wrap: balance;
+}
+
+.intro {
+  max-width: 49rem;
+  margin: 1.25rem 0 0;
+  color: var(--brand-support);
+  font-size: clamp(.96rem, 1.5vw, 1.13rem);
+  line-height: 1.7;
+}
+
+.journey {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chapter {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(3.25rem, 6vw, 6rem) minmax(0, 1fr);
+  grid-template-areas: "visual waypoint copy";
+  align-items: center;
+}
+
+.stop:nth-child(even) .chapter {
+  grid-template-areas: "copy waypoint visual";
+}
+
+.waypoint {
+  position: relative;
+  grid-area: waypoint;
+  display: grid;
+  place-items: center;
+  align-self: stretch;
+}
+
+.cableStem {
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: calc(50% - 2.5px);
+  width: 5px;
+}
+
+.stop:first-child .cableStem { inset-block-start: 50%; }
+.stop:last-child .cableStem { inset-block-end: 50%; }
+
+.cableStem::before,
+.cableStem::after {
+  position: absolute;
+  inset: 0;
+  border-inline: 1px solid var(--cable-edge);
+  background: var(--cable-live);
+  content: "";
+}
+
+.cableStem::after { display: none; }
+
+.section[data-scroll-motion] .cableStem::before {
+  border-color: var(--cable-track);
+  background: var(--cable-idle);
+}
+
+.section[data-scroll-motion] .cableStem::after {
+  display: block;
+  transform: scaleY(var(--cable-fill, 0));
+  transform-origin: top;
+}
+
+.waypoint span {
+  position: relative;
+  display: grid;
+  width: 2.55rem;
+  height: 2.55rem;
+  place-items: center;
+  border: 2px solid var(--cable-edge);
+  border-radius: 50%;
+  background: var(--brand-white);
+  font-size: .86rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.section[data-scroll-motion] [data-waypoint] {
+  border-color: var(--cable-track);
+}
+
+.section[data-scroll-motion] [data-reached] {
+  border-color: var(--cable-edge);
+  background: var(--brand-orange);
+}
+
+.visual {
+  grid-area: visual;
+  min-width: 0;
+  mix-blend-mode: multiply;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.copy {
+  grid-area: copy;
+  min-width: 0;
+  padding-block: .75rem;
+}
+
+.audience {
+  margin: 0 0 .6rem;
+  font-size: clamp(.85rem, 1.2vw, 1rem);
+  font-weight: 600;
+}
+
+.copy h3 {
+  margin: 0 0 1rem;
+  font-size: clamp(1.55rem, 2.7vw, 2.7rem);
+  font-weight: 600;
+  letter-spacing: -.044em;
+  line-height: 1.16;
+  text-wrap: balance;
+}
+
+.description {
+  margin: .65rem 0 0;
+  color: var(--brand-support);
+  font-size: .96rem;
+  line-height: 1.65;
+}
+
+.benefitLabel {
+  margin: 1.05rem 0 .5rem;
+  font-size: .85rem;
+  font-weight: 650;
+}
+
+.benefits {
+  display: grid;
+  gap: .38rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.benefits li {
+  display: flex;
+  align-items: flex-start;
+  gap: .5rem;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+
+.benefits svg {
+  flex: none;
+  margin-top: .12rem;
+  color: var(--brand-orange-text);
+}
+
+.connector {
+  height: clamp(3.25rem, 8vw, 7rem);
+}
+
+.connector svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.stop:nth-child(even) .connector svg { transform: scaleX(-1); }
+
+.connector path {
+  fill: none;
+  stroke-linecap: round;
+}
+
+.cableJacket { stroke: var(--cable-edge); stroke-width: 5px; }
+.cableCore { stroke: var(--cable-live); stroke-width: 3px; }
+.cableCurrent { display: none; }
+
+.section[data-scroll-motion] .cableJacket { stroke: var(--cable-track); }
+.section[data-scroll-motion] .cableCore { stroke: var(--cable-idle); }
+
+.section[data-scroll-motion] .cableCurrent {
+  display: block;
+  stroke: var(--cable-live);
+  stroke-linecap: butt;
+  stroke-width: 5px;
+  stroke-dasharray: 1;
+  stroke-dashoffset: calc(1 - var(--cable-fill, 0));
+}
+
+@media (max-width: 899px) {
+  .chapter,
+  .stop:nth-child(even) .chapter {
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    grid-template-areas: "waypoint visual" "waypoint copy";
+    column-gap: .7rem;
+  }
+
+  .waypoint { place-items: start center; }
+
+  .waypoint span {
+    width: 2rem;
+    height: 2rem;
+    margin-top: .75rem;
+    font-size: .73rem;
+  }
+
+  .stop:first-child .cableStem { inset-block-start: 1.75rem; }
+  .stop:last-child .cableStem { inset-block-end: auto; height: 1.75rem; }
+
+  .visual { max-width: 36rem; }
+
+  .connector {
+    position: relative;
+    height: 3rem;
+  }
+
+  .connector svg { display: none; }
+
+  .connector::before {
+    position: absolute;
+    inset-block: 0;
+    left: calc(1.125rem - 2.5px);
+    width: 5px;
+    border-inline: 1px solid var(--cable-edge);
+    background: var(--cable-live);
+    content: "";
+  }
+
+  .section[data-scroll-motion] .connector::before {
+    border-color: var(--cable-track);
+    background: var(--cable-idle);
+  }
+
+  .section[data-scroll-motion] .connector::after {
+    position: absolute;
+    inset-block: 0;
+    left: calc(1.125rem - 2.5px);
+    width: 5px;
+    background: var(--cable-live);
+    content: "";
+    transform: scaleY(var(--cable-fill, 0));
+    transform-origin: top;
+  }
+}
+
+@media (max-width: 420px) {
+  .chapter,
+  .stop:nth-child(even) .chapter { column-gap: .55rem; }
+
+  .description { font-size: .9rem; }
+}

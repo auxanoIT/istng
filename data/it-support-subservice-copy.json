@@ -1,0 +1,2740 @@
+{
+  "consulting": {
+    "name": "IT Consulting & Infrastructure Assessment",
+    "hero": {
+      "title": "Better IT Decisions Begin With a Clearer Picture.",
+      "primary": "Book an IT Infrastructure Consultation",
+      "secondary": "Explore IT Support Solutions"
+    },
+    "benefits": {
+      "title": "The Right Technology Decision Starts With the Right Questions.",
+      "paragraphs": [
+        "An assessment of your existing infrastructure helps identify what to keep, improve, upgrade or replace."
+      ],
+      "items": [
+        {
+          "title": "Understand Your Current Infrastructure",
+          "paragraphs": [
+            "Build a clearer picture of the servers, network devices, storage and supporting systems your organisation depends on."
+          ]
+        },
+        {
+          "title": "Identify Performance & Capacity Gaps",
+          "paragraphs": [
+            "Recognise infrastructure limitations that may affect connectivity, application performance or future growth."
+          ]
+        },
+        {
+          "title": "Prioritise Important Improvements",
+          "paragraphs": [
+            "Distinguish urgent operational concerns from longer-term opportunities to modernise your technology environment."
+          ]
+        },
+        {
+          "title": "Make More Informed IT Investments",
+          "paragraphs": [
+            "Use documented findings and practical recommendations to guide equipment procurement, upgrades and project planning."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Understand the Environment. Identify the Gaps. Plan What Comes Next.",
+      "paragraphs": [
+        "We work with your team to define the assessment scope, review relevant infrastructure and develop recommendations based on the findings."
+      ],
+      "entries": [
+        {
+          "title": "IT Environment Discovery & Requirements Review",
+          "tagline": "Start With the Business, Not the Equipment List.",
+          "paragraphs": [
+            "Every organisation has different operational priorities.",
+            "We discuss your business activities, current IT challenges, existing support arrangements and planned changes.",
+            "The assessment establishes which systems and locations are in scope, what information is available and which technical or operational concerns require closer attention."
+          ],
+          "cta": "Discuss Your IT Assessment Requirements"
+        },
+        {
+          "title": "Network, Server & Infrastructure Assessment",
+          "tagline": "See How Your Existing Technology Fits Together.",
+          "paragraphs": [
+            "Reliable IT operations depend on the relationship between network connectivity, computing systems, storage and supporting infrastructure.",
+            "We review relevant servers, network equipment, cabling, wireless environments, storage arrangements and associated physical infrastructure.",
+            "The findings can help identify capacity limitations, ageing components, documentation gaps, configuration concerns and opportunities for infrastructure improvement."
+          ],
+          "cta": "Request an Infrastructure Assessment"
+        },
+        {
+          "title": "Infrastructure Risk & Readiness Review",
+          "tagline": "Understand the Weak Points Before They Become Bigger Problems.",
+          "paragraphs": [
+            "Infrastructure assessments should consider not only current performance but also operational dependencies and potential failure points.",
+            "We review relevant equipment support status, backup arrangements, physical infrastructure conditions and known operational concerns within the agreed scope.",
+            "This helps highlight areas requiring further specialist assessment, corrective maintenance, improved resilience or more detailed planning."
+          ],
+          "cta": "Discuss IT Infrastructure Risks"
+        },
+        {
+          "title": "Recommendations & Technology Roadmap",
+          "tagline": "Turn Assessment Findings Into Actionable Next Steps.",
+          "paragraphs": [
+            "An assessment should give your organisation a clearer basis for deciding what to do next.",
+            "We organise findings into practical recommendations, identifying relevant improvement priorities, dependencies and potential implementation options.",
+            "Where included in scope, the resulting roadmap can support procurement planning, infrastructure upgrades, phased implementation and discussions about future technical support."
+          ],
+          "cta": "Plan Your IT Improvement Roadmap"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Understand the Systems Behind Your Operations.",
+      "paragraphs": [
+        "Explore the infrastructure environments and assessment activities that support informed technology decisions."
+      ],
+      "items": [
+        {
+          "title": "Network & Connectivity Assessment",
+          "paragraphs": [
+            "Reviewing appropriate network equipment, connections and infrastructure arrangements to understand existing connectivity."
+          ]
+        },
+        {
+          "title": "Server Room & Data Centre Review",
+          "paragraphs": [
+            "Assessing relevant server racks, computing equipment, storage systems and supporting infrastructure within the agreed assessment scope."
+          ]
+        },
+        {
+          "title": "IT Equipment & Asset Review",
+          "paragraphs": [
+            "Documenting relevant technology assets, equipment specifications, locations and support considerations."
+          ]
+        },
+        {
+          "title": "Infrastructure Findings & Recommendations",
+          "paragraphs": [
+            "Organising assessment observations into understandable technical findings and proposed next steps."
+          ]
+        }
+      ],
+      "cta": "Book Your Infrastructure Consultation"
+    },
+    "faq": {
+      "title": "Your IT Infrastructure Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is an IT infrastructure assessment?",
+          "paragraphs": [
+            "An IT infrastructure assessment is a structured review of an organisation's existing technology environment. It helps identify relevant assets, technical limitations, operational concerns and opportunities for improvement.",
+            "The scope may include networks, servers, storage, software platforms, equipment rooms and supporting infrastructure."
+          ]
+        },
+        {
+          "title": "What is the difference between IT consulting and an infrastructure assessment?",
+          "paragraphs": [
+            "IT consulting provides professional guidance on technology decisions, requirements and improvement strategies.",
+            "An infrastructure assessment is a more focused review of an existing environment, usually producing findings and recommendations that can inform future decisions.",
+            "The two services are often combined."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide IT infrastructure consulting in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers IT Consulting & Infrastructure Assessment as part of its IT Services & Technical Support division.",
+            "Engagements can be structured around existing infrastructure, current operational challenges and planned technology investments."
+          ]
+        },
+        {
+          "title": "How much does an IT infrastructure assessment cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the number of sites, equipment quantities, systems being reviewed, technical complexity, required access and expected deliverables.",
+            "A single-office infrastructure review will typically involve a different scope from a detailed assessment of multiple enterprise locations."
+          ]
+        },
+        {
+          "title": "What infrastructure can be assessed?",
+          "paragraphs": [
+            "The agreed review may cover network switches and routers, wireless equipment, servers, storage, structured cabling, server rooms, hardware condition and relevant IT support arrangements.",
+            "The assessment boundaries should be established before work begins."
+          ]
+        },
+        {
+          "title": "Can you assess our IT infrastructure before we purchase new equipment?",
+          "paragraphs": [
+            "Yes. Reviewing your current environment can help clarify what additional equipment is necessary, which existing components may remain useful and whether there are compatibility or capacity concerns.",
+            "This can provide a better basis for preparing an equipment specification or procurement request."
+          ]
+        },
+        {
+          "title": "Can you assess an existing office network?",
+          "paragraphs": [
+            "An office network assessment may review the network architecture, relevant equipment, reported performance concerns, connectivity arrangements and available documentation.",
+            "Specialist network testing, traffic analysis or formal cable certification should be separately specified if required."
+          ]
+        },
+        {
+          "title": "Can you inspect an existing server room?",
+          "paragraphs": [
+            "A server room assessment can consider the installed equipment, rack arrangements, cabling, available capacity and relevant supporting infrastructure.",
+            "Electrical safety, cooling engineering and other specialist evaluations must be handled by appropriately competent professionals where required."
+          ]
+        },
+        {
+          "title": "Can an infrastructure assessment identify why our network is slow?",
+          "paragraphs": [
+            "An assessment may help identify likely causes, such as equipment capacity, configuration concerns or unsuitable connectivity arrangements.",
+            "However, confirming a specific fault may require additional diagnostic testing or access to systems outside the initial assessment scope."
+          ]
+        },
+        {
+          "title": "Do you assess hardware that is reaching the end of its support life?",
+          "paragraphs": [
+            "Yes. Equipment models and available manufacturer support information can be reviewed to identify components that may require replacement or closer attention.",
+            "The assessment should consider the operational importance of each device, not simply its age."
+          ]
+        },
+        {
+          "title": "Does an IT infrastructure assessment include cybersecurity testing?",
+          "paragraphs": [
+            "Not automatically.",
+            "A general infrastructure assessment may highlight visible security-related concerns, but penetration testing, formal vulnerability scanning, security compliance audits and other specialised cybersecurity services require their own defined scope and authorisation."
+          ]
+        },
+        {
+          "title": "Can you review our backup and disaster recovery arrangements?",
+          "paragraphs": [
+            "Existing backup arrangements and relevant recovery documentation can be included in an assessment.",
+            "However, reviewing a backup configuration does not prove that data can be recovered. Recovery testing, data integrity verification and disaster recovery exercises must be specifically defined where required."
+          ]
+        },
+        {
+          "title": "Can you assess IT infrastructure across multiple office locations?",
+          "paragraphs": [
+            "Multi-site assessments can be planned according to the number of locations, available technical information, local access conditions and required deliverables.",
+            "The proposed approach may combine remote information gathering with agreed onsite inspections where practical."
+          ]
+        },
+        {
+          "title": "Will the assessment interrupt our business operations?",
+          "paragraphs": [
+            "Many assessment activities can begin with documentation review, interviews and non-intrusive inspection.",
+            "Activities that require configuration changes, disruptive diagnostics or equipment disconnection should be separately authorised and scheduled."
+          ]
+        },
+        {
+          "title": "Do we need to provide access to our servers and network equipment?",
+          "paragraphs": [
+            "The access required depends on the assessment objectives.",
+            "Relevant diagrams, equipment inventories, configuration summaries, system reports and authorised read-only access may be useful. Administrative credentials should be handled securely and only when necessary for approved work."
+          ]
+        },
+        {
+          "title": "What will we receive after an IT infrastructure assessment?",
+          "paragraphs": [
+            "Agreed deliverables may include an infrastructure summary, relevant asset records, identified concerns, improvement recommendations and a prioritised implementation roadmap.",
+            "The depth of documentation should be confirmed before the engagement begins."
+          ]
+        },
+        {
+          "title": "Can you help us decide whether to upgrade or replace equipment?",
+          "paragraphs": [
+            "Yes. The assessment can compare the condition, suitability, capacity and supportability of existing equipment against current requirements.",
+            "Recommendations may include retaining suitable assets, upgrading selected components or planning replacement where justified."
+          ]
+        },
+        {
+          "title": "Can an assessment help us plan an office expansion?",
+          "paragraphs": [
+            "Yes. IT planning for an expanded office may consider additional users, workstations, network points, wireless coverage, server capacity and other technology requirements.",
+            "The assessment can provide inputs for a separate design and implementation project."
+          ]
+        },
+        {
+          "title": "How long does an IT infrastructure assessment take?",
+          "paragraphs": [
+            "The timeframe depends on assessment depth, number of locations, complexity of the environment, documentation availability and access to relevant personnel and systems.",
+            "A defined scope helps establish a practical schedule."
+          ]
+        },
+        {
+          "title": "Can you work alongside our internal IT department?",
+          "paragraphs": [
+            "Yes. The assessment can be structured around information and access provided by the organisation's authorised IT personnel.",
+            "This approach can help validate the current environment, clarify improvement priorities and support internal planning."
+          ]
+        },
+        {
+          "title": "What is the difference between an IT infrastructure assessment and an IT audit?",
+          "paragraphs": [
+            "An infrastructure assessment generally focuses on the current technical environment and improvement opportunities.",
+            "An IT audit may evaluate whether specified controls, processes or practices meet defined criteria, often within a formal governance or assurance framework.",
+            "A general infrastructure assessment should not be presented as a certified compliance audit."
+          ]
+        },
+        {
+          "title": "Can you implement the improvements recommended after an assessment?",
+          "paragraphs": [
+            "Integrated Solutions Technology also offers network design, server and storage services, infrastructure upgrades, hardware procurement and technical project implementation.",
+            "The recommended work can be considered as a separate implementation project following review and approval of the assessment findings."
+          ]
+        },
+        {
+          "title": "How do we prepare for an IT consulting engagement?",
+          "paragraphs": [
+            "Useful information includes your business location, number of users and sites, major applications, known technology problems, existing infrastructure documentation and planned business or IT changes.",
+            "You do not need a complete equipment inventory to begin the initial consultation."
+          ]
+        },
+        {
+          "title": "How do we get started with an IT infrastructure assessment?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with a description of your current environment, business concerns and what you want to achieve.",
+            "We can discuss the requirements, define the appropriate assessment boundaries and identify the next steps towards a consulting proposal."
+          ]
+        }
+      ],
+      "cta": "Book Your IT Infrastructure Consultation"
+    },
+    "closing": {
+      "title": "Know Where Your Infrastructure Stands. Plan Where It Needs to Go.",
+      "paragraphs": [
+        "Whether you're preparing for business growth, investigating persistent IT problems or considering a major technology investment, Integrated Solutions Technology can help you understand your current environment and develop a clearer path forward."
+      ],
+      "primary": "Book an IT Infrastructure Consultation",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "managed": {
+    "name": "Managed IT Support & Maintenance",
+    "hero": {
+      "title": "Keep Your Business Moving. We'll Help Keep IT Working.",
+      "primary": "Discuss a Managed IT Support Plan",
+      "secondary": "Explore IT Support Services"
+    },
+    "benefits": {
+      "title": "IT Support Shouldn't Begin Only When Something Breaks.",
+      "paragraphs": [
+        "A managed approach creates a clearer process for handling problems, reviewing system condition and planning necessary improvements."
+      ],
+      "items": [
+        {
+          "title": "A Clearer Support Process",
+          "paragraphs": [
+            "Give employees and authorised contacts a defined way to report problems, request assistance and receive updates."
+          ]
+        },
+        {
+          "title": "More Consistent Maintenance",
+          "paragraphs": [
+            "Schedule appropriate equipment inspections, health checks and maintenance activities within the agreed service plan."
+          ]
+        },
+        {
+          "title": "Better Infrastructure Visibility",
+          "paragraphs": [
+            "Review relevant server, network and equipment information to identify conditions requiring attention."
+          ]
+        },
+        {
+          "title": "Support That Fits Your Operations",
+          "paragraphs": [
+            "Define covered equipment, service hours, support responsibilities and escalation arrangements around your organisation's requirements."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "A Structured Approach to Supporting Your Business.",
+      "paragraphs": [
+        "We help organisations establish an appropriate support scope and coordinate ongoing technical activities according to agreed responsibilities."
+      ],
+      "entries": [
+        {
+          "title": "IT Support Onboarding & Environment Review",
+          "tagline": "Understand the Systems Before Supporting Them.",
+          "paragraphs": [
+            "Every managed support relationship should begin with a clear understanding of the technology environment.",
+            "We review the relevant users, devices, servers, network equipment, existing support arrangements and reported technical challenges.",
+            "This helps establish the equipment and services to be covered, authorised contacts, access requirements, known issues and appropriate support priorities."
+          ],
+          "cta": "Discuss Your IT Support Requirements"
+        },
+        {
+          "title": "Help Desk & Technical Issue Management",
+          "tagline": "Give Your Team a Clear Way to Request Help.",
+          "paragraphs": [
+            "IT problems can affect productivity when employees are unsure who to contact or how an issue will be handled.",
+            "We support an agreed process for receiving, recording, assessing and escalating technical requests.",
+            "Depending on the contract, support may address workstation problems, business software issues, connectivity faults, printer difficulties and other defined technical concerns through suitable remote or onsite arrangements."
+          ],
+          "cta": "Explore Managed IT Support"
+        },
+        {
+          "title": "Preventive Maintenance & Infrastructure Health",
+          "tagline": "Pay Attention to the Equipment Your Business Depends On.",
+          "paragraphs": [
+            "Regular maintenance helps organisations identify developing problems and make better decisions about equipment condition.",
+            "We review agreed infrastructure components and relevant system-health information through scheduled checks or supported monitoring arrangements.",
+            "Activities may include appropriate equipment inspections, hardware alert reviews, update planning and identification of recurring technical concerns."
+          ],
+          "cta": "Discuss IT Maintenance Planning"
+        },
+        {
+          "title": "Service Reporting, Escalation & Improvement",
+          "tagline": "Know What's Happening Across Your IT Environment.",
+          "paragraphs": [
+            "A managed support arrangement should provide a clearer understanding of the work being performed.",
+            "We track agreed support activities, identify unresolved issues and communicate relevant maintenance findings.",
+            "Where included in scope, periodic service reviews can highlight recurring problems, equipment limitations and recommended improvements, helping your organisation plan future support and infrastructure investment."
+          ],
+          "cta": "Discuss a Managed Support Agreement"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Practical Support for the Technology Behind Your Work.",
+      "paragraphs": [
+        "Explore the people, equipment and technical activities involved in maintaining an organisation's IT environment."
+      ],
+      "items": [
+        {
+          "title": "Business User IT Support",
+          "paragraphs": [
+            "Assisting authorised employees with relevant workstation, connectivity, peripheral and software issues."
+          ]
+        },
+        {
+          "title": "Server & Network Health Reviews",
+          "paragraphs": [
+            "Reviewing agreed infrastructure components and available system status information to identify potential operational concerns."
+          ]
+        },
+        {
+          "title": "Preventive Equipment Maintenance",
+          "paragraphs": [
+            "Performing scheduled technical checks and appropriate maintenance on supported business IT equipment."
+          ]
+        },
+        {
+          "title": "Support Documentation & Reporting",
+          "paragraphs": [
+            "Maintaining relevant issue records, equipment information, service updates and agreed technical recommendations."
+          ]
+        }
+      ],
+      "cta": "Discuss Your IT Support Needs"
+    },
+    "faq": {
+      "title": "Your Managed IT Support Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are managed IT support services?",
+          "paragraphs": [
+            "Managed IT support services provide an organisation with ongoing technical assistance and maintenance under an agreed service arrangement.",
+            "The scope may include user support, infrastructure health checks, device maintenance, issue management, technical reporting and other specified activities."
+          ]
+        },
+        {
+          "title": "What is the difference between managed IT support and traditional IT support?",
+          "paragraphs": [
+            "Traditional break-fix support generally responds to individual technical problems as they arise.",
+            "Managed IT support establishes an ongoing relationship with defined responsibilities, recurring activities, support processes and service expectations. The exact services depend on the agreement."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology offer managed IT services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides Managed IT Support & Maintenance as part of its IT Services & Technical Support division.",
+            "Support arrangements can be discussed according to an organisation's infrastructure, number of users, operating requirements and preferred service scope."
+          ]
+        },
+        {
+          "title": "How much does managed IT support cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the number of users and devices, infrastructure complexity, support hours, required maintenance activities, onsite attendance, locations and agreed service levels.",
+            "A support plan should be quoted against a clearly defined environment and scope rather than an assumed universal price."
+          ]
+        },
+        {
+          "title": "Can you manage IT support for a small business?",
+          "paragraphs": [
+            "A managed support arrangement can be considered for a small business that needs consistent technical assistance without maintaining a full internal IT department.",
+            "The appropriate service depends on the organisation's users, equipment, applications and support requirements."
+          ]
+        },
+        {
+          "title": "Can you support a business with an existing internal IT team?",
+          "paragraphs": [
+            "Yes. Managed support can be arranged to complement an internal IT team through clearly assigned responsibilities.",
+            "For example, the internal team may manage daily administration while external specialists handle agreed infrastructure tasks or particular technical escalations."
+          ]
+        },
+        {
+          "title": "What IT equipment can be covered by a managed support agreement?",
+          "paragraphs": [
+            "Covered equipment may include business computers, selected servers, network switches, routers, wireless access points, storage devices and compatible peripherals.",
+            "The exact supported models, systems and exclusions should be documented in the agreement."
+          ]
+        },
+        {
+          "title": "Does managed IT support include help desk services?",
+          "paragraphs": [
+            "Help desk assistance can be included where agreed.",
+            "The support process should define how users submit requests, which issues are covered, who is authorised to request service and how different priorities are handled."
+          ]
+        },
+        {
+          "title": "Can employees receive remote IT support?",
+          "paragraphs": [
+            "Remote assistance may be suitable for certain software, configuration and troubleshooting tasks.",
+            "It requires appropriate connectivity, approved remote-access methods and suitable security controls. Physical equipment faults may still require onsite attendance."
+          ]
+        },
+        {
+          "title": "Do you provide onsite IT support in Lagos and other Nigerian cities?",
+          "paragraphs": [
+            "Onsite coverage can be discussed according to the property location, required service, technician availability and agreed response arrangements.",
+            "Support in a particular city, recurring visit schedules and travel charges should be confirmed before the contract begins."
+          ]
+        },
+        {
+          "title": "Does managed IT support include 24/7 monitoring?",
+          "paragraphs": [
+            "Not automatically.",
+            "Continuous monitoring requires appropriate tools, coverage arrangements, alert handling and personnel availability. Any 24/7 service or out-of-hours response must be explicitly included in the agreement."
+          ]
+        },
+        {
+          "title": "What is preventive IT maintenance?",
+          "paragraphs": [
+            "Preventive IT maintenance involves scheduled activities intended to identify equipment or system concerns before they develop into more serious operational problems.",
+            "Activities may include hardware condition checks, software-update reviews, relevant system-health inspections and maintenance of documented infrastructure."
+          ]
+        },
+        {
+          "title": "Do you provide server and network monitoring?",
+          "paragraphs": [
+            "Monitoring may be included for supported systems where suitable tools, access permissions and response arrangements are available.",
+            "The agreement should specify what is monitored, how alerts are handled and whether monitoring occurs during business hours or continuously."
+          ]
+        },
+        {
+          "title": "Can managed IT support help reduce downtime?",
+          "paragraphs": [
+            "Proactive checks and structured issue handling may help identify and address some problems earlier.",
+            "However, managed support cannot eliminate all failures or guarantee uninterrupted operation. Outcomes depend on the equipment, infrastructure, service scope and underlying technical conditions."
+          ]
+        },
+        {
+          "title": "What happens when an employee reports an IT problem?",
+          "paragraphs": [
+            "The agreed support process should explain how a request is received, recorded, prioritised and assigned.",
+            "The team then investigates the issue, communicates relevant updates and either resolves it within scope or escalates it according to the support arrangement."
+          ]
+        },
+        {
+          "title": "What is a service level agreement (SLA)?",
+          "paragraphs": [
+            "A service level agreement defines measurable expectations for the support service.",
+            "It may specify service hours, incident priorities, response targets, escalation procedures, reporting commitments and responsibilities.",
+            "The SLA should clearly explain what is covered and what happens when a target cannot be met."
+          ]
+        },
+        {
+          "title": "What is the difference between response time and resolution time?",
+          "paragraphs": [
+            "Response time measures how long it takes to begin responding to a reported issue according to the service agreement.",
+            "Resolution time concerns how long it takes to resolve the problem or provide an acceptable workaround.",
+            "An initial response does not mean that the issue has been fixed."
+          ]
+        },
+        {
+          "title": "Do you offer monthly or annual IT maintenance contracts?",
+          "paragraphs": [
+            "Recurring support arrangements can be discussed according to the required service.",
+            "Contract duration, payment structure, review periods, renewal terms and termination provisions should be specified in the final agreement rather than assumed."
+          ]
+        },
+        {
+          "title": "Does managed support include software updates and patch management?",
+          "paragraphs": [
+            "Update planning and implementation may be included for agreed systems.",
+            "Supported platforms, maintenance windows, application compatibility, testing and recovery arrangements should be reviewed before changes are made."
+          ]
+        },
+        {
+          "title": "Can you manage user accounts and employee access?",
+          "paragraphs": [
+            "Certain user-account administration activities can be included for supported systems when authorised.",
+            "Requests should follow agreed identity-verification procedures, approval rules and access-management responsibilities."
+          ]
+        },
+        {
+          "title": "Are antivirus, cybersecurity and firewall management included?",
+          "paragraphs": [
+            "Not necessarily.",
+            "General IT support and specialised security operations are different service scopes. Endpoint protection, firewall administration, vulnerability management and incident response should be defined explicitly if required."
+          ]
+        },
+        {
+          "title": "Does managed IT support include data backup and recovery?",
+          "paragraphs": [
+            "Backup monitoring, administration or recovery testing may be included only where expressly agreed.",
+            "The contract should identify the backup platform, protected data, ownership responsibilities, retention requirements, testing arrangements and recovery expectations.",
+            "A backup status indicator alone does not prove that data can be restored successfully."
+          ]
+        },
+        {
+          "title": "Are hardware replacement and spare parts included?",
+          "paragraphs": [
+            "Routine support fees do not automatically include replacement equipment, spare parts or manufacturer charges.",
+            "The agreement should distinguish covered labour from separately quoted components, procurement and major replacement work."
+          ]
+        },
+        {
+          "title": "Can you support multiple office locations?",
+          "paragraphs": [
+            "Multi-site support arrangements can be assessed based on the number of locations, supported equipment, onsite coverage and required service levels.",
+            "Remote and physical support responsibilities should be clearly defined for each location."
+          ]
+        },
+        {
+          "title": "How do you protect access to our IT systems?",
+          "paragraphs": [
+            "Any support access should be authorised and appropriate to the task.",
+            "The service arrangement should define credential handling, remote-access controls, user privileges, logging requirements and the responsibilities of both parties."
+          ]
+        },
+        {
+          "title": "Will we receive periodic IT maintenance reports?",
+          "paragraphs": [
+            "Agreed reporting may include support requests, completed maintenance, unresolved problems, infrastructure observations and recommendations.",
+            "The reporting format and frequency should be stated in the managed support agreement."
+          ]
+        },
+        {
+          "title": "What is not normally included in a managed IT maintenance agreement?",
+          "paragraphs": [
+            "Major infrastructure projects, equipment procurement, office relocations, new system deployments and extensive migrations may require separate proposals.",
+            "The final contract should specify the exclusions, additional charges and approval process for work outside the recurring service scope."
+          ]
+        },
+        {
+          "title": "How do we get started with managed IT support?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your business location, approximate number of employees, devices and sites, major systems and current support challenges.",
+            "We can review the environment and discuss a suitable support scope, service arrangement and quotation."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Managed IT Support Requirements"
+    },
+    "closing": {
+      "title": "Your Business Needs Technology It Can Depend On.",
+      "paragraphs": [
+        "Whether you're looking for ongoing technical support, structured maintenance or assistance managing a growing IT environment, Integrated Solutions Technology can help you define an IT support arrangement that fits your operations."
+      ],
+      "primary": "Discuss a Managed IT Support Plan",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "onsite": {
+    "name": "Onsite IT Technical Support",
+    "hero": {
+      "title": "Some IT Problems Need Someone on the Ground.",
+      "primary": "Request Onsite IT Support",
+      "secondary": "Explore IT Support Services"
+    },
+    "benefits": {
+      "title": "Real Equipment. Real Locations. Practical Technical Support.",
+      "paragraphs": [
+        "Onsite support helps bridge the gap between remote assistance and the physical work needed to maintain your IT environment."
+      ],
+      "items": [
+        {
+          "title": "Direct Equipment Inspection",
+          "paragraphs": [
+            "Examine relevant hardware, network connections and physical infrastructure that cannot be adequately assessed remotely."
+          ]
+        },
+        {
+          "title": "Practical Fault Troubleshooting",
+          "paragraphs": [
+            "Investigate reported problems at the location where employees and equipment are experiencing them."
+          ]
+        },
+        {
+          "title": "Support for Equipment Changes",
+          "paragraphs": [
+            "Assist with approved hardware installations, replacements and connection changes according to the agreed task."
+          ]
+        },
+        {
+          "title": "Clear Technical Handover",
+          "paragraphs": [
+            "Record completed work, relevant verification results and any outstanding issues requiring further attention."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Technical Work. At the Right Location.",
+      "paragraphs": [
+        "We help businesses define suitable support requirements and coordinate hands-on technical activities within an agreed scope."
+      ],
+      "entries": [
+        {
+          "title": "Onsite Fault Assessment & Troubleshooting",
+          "tagline": "Investigate Problems Where They Occur.",
+          "paragraphs": [
+            "Some IT faults require direct access to the equipment and environment.",
+            "We inspect relevant workstations, peripherals, network devices and physical connections to investigate the symptoms reported by users or IT personnel.",
+            "Depending on the issue, appropriate diagnostic checks help identify possible causes, determine the corrective work required and establish whether specialist support or replacement equipment is needed."
+          ],
+          "cta": "Request an Onsite Technical Assessment"
+        },
+        {
+          "title": "Workstation & Business Equipment Support",
+          "tagline": "Help Employees Get Their Equipment Working Again.",
+          "paragraphs": [
+            "Day-to-day operations rely on functioning computers and connected office equipment.",
+            "We provide agreed onsite assistance for business desktops, laptops, printers, compatible peripherals and related workplace technology.",
+            "Support may include suitable hardware checks, connection troubleshooting, approved component replacement and assistance with defined workstation setup tasks."
+          ],
+          "cta": "Discuss Office IT Support"
+        },
+        {
+          "title": "Network & Infrastructure Field Support",
+          "tagline": "Get Hands-On Assistance With Network Equipment.",
+          "paragraphs": [
+            "Network problems sometimes require someone to inspect the physical infrastructure.",
+            "We assist with agreed onsite tasks involving compatible switches, routers, wireless access points, network cabinets and relevant cabling connections.",
+            "The work may include physical inspection, connection tracing, authorised equipment replacement or implementation of instructions supplied by the responsible network team."
+          ],
+          "cta": "Discuss Network Field Support"
+        },
+        {
+          "title": "Site Visit Verification & Technical Reporting",
+          "tagline": "Know What Was Done Before the Visit Is Closed.",
+          "paragraphs": [
+            "A technician visit should conclude with a clear record of the work performed.",
+            "We review relevant equipment operation and connection status against the agreed task requirements, coordinating with authorised IT contacts where necessary.",
+            "The handover may include fault findings, actions completed, equipment identifiers, verification outcomes and any remaining issues that need follow-up."
+          ],
+          "cta": "Discuss Onsite Support Arrangements"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Technical Assistance Where the Equipment Lives.",
+      "paragraphs": [
+        "Explore the hands-on activities involved in supporting business IT environments."
+      ],
+      "items": [
+        {
+          "title": "Office Workstation Troubleshooting",
+          "paragraphs": [
+            "Technicians inspecting business computers, peripherals and local connections to investigate reported problems."
+          ]
+        },
+        {
+          "title": "Network Equipment Inspection",
+          "paragraphs": [
+            "Reviewing switches, routers, network cabinets and compatible connections at the customer's premises."
+          ]
+        },
+        {
+          "title": "Hardware Replacement & Setup",
+          "paragraphs": [
+            "Installing approved replacement components or compatible equipment according to defined technical requirements."
+          ]
+        },
+        {
+          "title": "Onsite Testing & Handover",
+          "paragraphs": [
+            "Performing appropriate post-work checks and documenting relevant results for the customer's IT team."
+          ]
+        }
+      ],
+      "cta": "Request an Onsite Technician Visit"
+    },
+    "faq": {
+      "title": "Your Onsite IT Support Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is onsite IT technical support?",
+          "paragraphs": [
+            "Onsite IT technical support involves a technician attending a customer's premises to investigate or perform agreed work on computers, network equipment and other IT infrastructure.",
+            "It is particularly useful when a problem requires physical access, equipment handling or inspection that cannot be completed remotely."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide onsite IT support in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Onsite IT Technical Support within its IT Services & Technical Support division.",
+            "The availability of technician attendance depends on the site location, equipment, required technical skills and agreed support arrangements."
+          ]
+        },
+        {
+          "title": "How much does onsite IT support cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the location, task complexity, equipment involved, visit duration, specialist requirements and whether replacement parts are needed.",
+            "Travel, diagnostics, labour, components and additional visits should be clearly identified in the quotation where applicable."
+          ]
+        },
+        {
+          "title": "Can I request an IT technician to visit my office?",
+          "paragraphs": [
+            "Yes. An onsite support request can be reviewed using your office location, reported problem, affected equipment and preferred access arrangements.",
+            "Attendance must be confirmed after the technical scope and scheduling requirements have been assessed."
+          ]
+        },
+        {
+          "title": "What types of IT problems require onsite support?",
+          "paragraphs": [
+            "Examples include hardware faults, disconnected network equipment, faulty physical connections, printer issues, equipment installation and tasks requiring direct inspection of devices or infrastructure.",
+            "Some issues can still be resolved remotely, so initial troubleshooting may help determine whether a visit is necessary."
+          ]
+        },
+        {
+          "title": "Can you troubleshoot computers that are not working properly?",
+          "paragraphs": [
+            "Business desktops and laptops can be assessed for suitable hardware, operating-system, peripheral or connectivity problems.",
+            "The specific support available depends on the equipment condition, administrator permissions, software compatibility and required corrective work."
+          ]
+        },
+        {
+          "title": "Can you provide onsite printer troubleshooting?",
+          "paragraphs": [
+            "Compatible office printers can be assessed for relevant connection, configuration and basic equipment problems.",
+            "Specialised mechanical repair, parts replacement or manufacturer-specific servicing should be confirmed separately where required."
+          ]
+        },
+        {
+          "title": "Can you help when our office network stops working?",
+          "paragraphs": [
+            "Onsite support may help identify physical network faults, device status problems or local connectivity issues.",
+            "More complex routing, firewall, server or provider-side problems may require specialist network troubleshooting or coordination with the relevant service provider."
+          ]
+        },
+        {
+          "title": "Can you install or replace network switches and routers?",
+          "paragraphs": [
+            "Approved physical installation or replacement of compatible network equipment can be included in a defined onsite task.",
+            "Configuration transfer, service cutover and advanced network changes must be separately agreed where necessary."
+          ]
+        },
+        {
+          "title": "Can you replace faulty computer hardware onsite?",
+          "paragraphs": [
+            "Suitable components may be replaced where the equipment supports the procedure, compatible parts are available and the task can be completed safely at the premises.",
+            "Some repairs may require specialist facilities or manufacturer-authorised servicing."
+          ]
+        },
+        {
+          "title": "Can you help install new office computers?",
+          "paragraphs": [
+            "Yes. Onsite support can include agreed workstation placement, peripheral connections and suitable initial setup activities.",
+            "Operating-system deployment, software installation, domain joining and data migration should be included explicitly if required."
+          ]
+        },
+        {
+          "title": "Can you support an office relocation or equipment move?",
+          "paragraphs": [
+            "Physical IT equipment disconnection, reconnection and setup may be considered as part of an approved relocation task.",
+            "Larger equipment moves and infrastructure relocation projects require additional planning, inventory, protection and testing arrangements."
+          ]
+        },
+        {
+          "title": "Can you work with our remote IT department?",
+          "paragraphs": [
+            "Yes. A local technician may perform authorised physical tasks while an internal or external IT team provides technical direction remotely.",
+            "The task instructions, communication method, access permissions and verification responsibilities should be agreed before attendance."
+          ]
+        },
+        {
+          "title": "What is the difference between onsite IT support and smart hands support?",
+          "paragraphs": [
+            "Onsite IT support may involve local troubleshooting and technician-led assessment.",
+            "Smart hands support generally focuses on specific physical tasks carried out under the instructions of a remote technical team.",
+            "The distinction depends on the agreed authority, skill requirements and scope of work."
+          ]
+        },
+        {
+          "title": "Can you provide a technician for a single visit?",
+          "paragraphs": [
+            "One-off onsite support requests can be considered without assuming that the customer needs an ongoing managed IT agreement.",
+            "The visit scope, charges, location and availability should be agreed in advance."
+          ]
+        },
+        {
+          "title": "Do you provide ongoing onsite support contracts?",
+          "paragraphs": [
+            "Recurring visits or scheduled technical support can be discussed according to the organisation's needs.",
+            "Service hours, visit frequency, supported equipment and response arrangements must be confirmed in the agreement."
+          ]
+        },
+        {
+          "title": "Can you support offices outside Lagos?",
+          "paragraphs": [
+            "Requests for other Nigerian locations can be reviewed according to available resources, travel requirements, local access and project scope.",
+            "Coverage of any particular city should be confirmed before scheduling."
+          ]
+        },
+        {
+          "title": "Do you offer same-day or emergency onsite IT support?",
+          "paragraphs": [
+            "Urgent support requests can be assessed, but same-day attendance, emergency dispatch and guaranteed response times depend on confirmed availability and contractual arrangements.",
+            "These should not be assumed as standard services."
+          ]
+        },
+        {
+          "title": "What information do you need before sending a technician?",
+          "paragraphs": [
+            "Useful information includes the site location, onsite contact, affected equipment, reported symptoms, previous troubleshooting, business impact and any site-access requirements.",
+            "Equipment model numbers, fault photographs and details of available replacement parts may also help."
+          ]
+        },
+        {
+          "title": "Do we need to provide equipment passwords before the visit?",
+          "paragraphs": [
+            "Access to systems should be granted through approved and secure procedures.",
+            "Passwords should not be sent in an ordinary service request or shared unnecessarily. Administrative access should be authorised and limited to the work being performed."
+          ]
+        },
+        {
+          "title": "Can the technician work while our office remains open?",
+          "paragraphs": [
+            "Many onsite tasks can be performed during business operations.",
+            "However, equipment replacement, network connection changes and certain tests may affect users or services. Potential disruption should be discussed before the work begins."
+          ]
+        },
+        {
+          "title": "What if the technician cannot resolve the problem during the visit?",
+          "paragraphs": [
+            "The findings should be documented, including what was checked, what remains unresolved and whether additional parts, specialist assistance or further investigation are required.",
+            "Any additional work or return visit should follow the agreed approval process."
+          ]
+        },
+        {
+          "title": "Are spare parts included in the onsite support fee?",
+          "paragraphs": [
+            "Not automatically. Parts, replacement devices, software licences and specialist materials may be priced separately.",
+            "The quotation should distinguish technical labour from equipment and procurement charges."
+          ]
+        },
+        {
+          "title": "Will the technician provide a service report?",
+          "paragraphs": [
+            "Where included in the agreed service, the report may describe the affected equipment, work performed, findings, relevant tests and outstanding recommendations.",
+            "Equipment serial numbers and before-and-after photographs may be included where appropriate and authorised."
+          ]
+        },
+        {
+          "title": "Can an onsite technician help with server room equipment?",
+          "paragraphs": [
+            "Suitable physical support tasks may be performed in server rooms or communication cabinets, subject to access permission, equipment compatibility and the required technical expertise.",
+            "Critical infrastructure changes should follow appropriate change-control procedures and coordination with the responsible IT team."
+          ]
+        },
+        {
+          "title": "How long does an onsite IT support visit take?",
+          "paragraphs": [
+            "The duration depends on the fault, equipment involved, available access, replacement parts and complexity of the agreed work.",
+            "Some problems can be addressed during a short visit, while others require further investigation or a separate technical project."
+          ]
+        },
+        {
+          "title": "How do we request onsite IT technical support?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your site location, affected equipment, reported problem and preferred visit requirements.",
+            "We can review the information and discuss the appropriate technician skills, task scope and attendance arrangements."
+          ]
+        }
+      ],
+      "cta": "Request Onsite IT Technical Support"
+    },
+    "closing": {
+      "title": "When Remote Support Isn't Enough, Get Hands-On Assistance.",
+      "paragraphs": [
+        "Whether you're dealing with faulty workplace equipment, disconnected network hardware or a task requiring a technician at your premises, Integrated Solutions Technology can help you define the work and arrange suitable onsite technical support."
+      ],
+      "primary": "Request an Onsite Technician",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "upgrades": {
+    "name": "IT Infrastructure Upgrades",
+    "hero": {
+      "title": "Your Business Has Evolved. Your Infrastructure Should Too.",
+      "primary": "Discuss Your Infrastructure Upgrade",
+      "secondary": "Explore IT Services & Technical Support"
+    },
+    "benefits": {
+      "title": "Better Infrastructure Starts With Smarter Improvements.",
+      "paragraphs": [
+        "A structured upgrade approach helps your organisation understand the options before committing to major changes."
+      ],
+      "items": [
+        {
+          "title": "Improve Infrastructure Capacity",
+          "paragraphs": [
+            "Address equipment limitations that may affect current workloads, network traffic, connected users or storage requirements."
+          ]
+        },
+        {
+          "title": "Make Better Use of Existing Assets",
+          "paragraphs": [
+            "Identify equipment that remains suitable and focus investment on components that genuinely require improvement."
+          ]
+        },
+        {
+          "title": "Reduce Unplanned Change Risks",
+          "paragraphs": [
+            "Review compatibility, dependencies, maintenance windows and recovery arrangements before implementing significant upgrades."
+          ]
+        },
+        {
+          "title": "Prepare for Business Growth",
+          "paragraphs": [
+            "Develop infrastructure that better supports planned expansion, additional locations and changing operational demands."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Modernisation That Begins With a Plan.",
+      "paragraphs": [
+        "We plan network, server and storage upgrades together so each change supports the wider IT environment."
+      ],
+      "entries": [
+        {
+          "title": "Infrastructure Review & Upgrade Planning",
+          "tagline": "Know What Needs to Change Before Making the Change.",
+          "paragraphs": [
+            "Every upgrade should begin with a clear understanding of the existing environment and the result your organisation wants to achieve.",
+            "We review the relevant equipment, current limitations, technical requirements and available documentation.",
+            "This helps identify appropriate upgrade options, compatibility questions, operational dependencies and a proposed implementation sequence."
+          ],
+          "cta": "Request an Infrastructure Upgrade Assessment"
+        },
+        {
+          "title": "Network & Connectivity Upgrades",
+          "tagline": "Improve the Infrastructure That Connects Your Business.",
+          "paragraphs": [
+            "As organisations grow, existing network equipment may struggle to support additional users, applications or connected devices.",
+            "We help assess suitable upgrades to switches, routers, wireless access points and supporting network infrastructure.",
+            "The work may include compatible equipment replacement, approved configuration changes and appropriate connectivity verification within the defined project scope."
+          ],
+          "cta": "Discuss Network Infrastructure Upgrades"
+        },
+        {
+          "title": "Server, Storage & Hardware Modernisation",
+          "tagline": "Give Critical Systems the Capacity They Need.",
+          "paragraphs": [
+            "Business workloads can outgrow existing computing and storage resources.",
+            "We help assess opportunities to upgrade compatible server components, expand storage capacity or replace unsuitable enterprise hardware.",
+            "Planning considers workload requirements, supported configurations, software compatibility, data protection, hardware availability and the dependencies that may affect implementation."
+          ],
+          "cta": "Plan Your Server & Storage Upgrade"
+        },
+        {
+          "title": "Phased Implementation, Testing & Handover",
+          "tagline": "Make the Change. Verify the Outcome.",
+          "paragraphs": [
+            "Infrastructure upgrades should follow a defined implementation plan, especially when business-critical systems are involved.",
+            "We coordinate agreed installation and configuration activities around approved change windows, technical dependencies and relevant backup or recovery arrangements.",
+            "After implementation, the affected systems are checked against the agreed acceptance criteria.",
+            "The handover can include relevant configuration records, equipment details, completed work and outstanding recommendations."
+          ],
+          "cta": "Discuss Upgrade Implementation"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Practical Improvements to the Systems Behind Your Business.",
+      "paragraphs": [
+        "Explore the equipment and technical work involved in updating an existing IT environment."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Network Equipment Upgrades",
+          "paragraphs": [
+            "Replacing suitable switches, routers and supporting network devices to address defined connectivity and capacity requirements."
+          ]
+        },
+        {
+          "title": "Server Hardware Modernisation",
+          "paragraphs": [
+            "Upgrading compatible server components or deploying replacement equipment according to an approved technical plan."
+          ]
+        },
+        {
+          "title": "Storage Capacity Expansion",
+          "paragraphs": [
+            "Adding or replacing appropriate storage resources to support changing data and workload requirements."
+          ]
+        },
+        {
+          "title": "Infrastructure Installation & Verification",
+          "paragraphs": [
+            "Implementing agreed equipment changes, checking affected services and documenting the updated environment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your IT Upgrade Project"
+    },
+    "faq": {
+      "title": "Your Infrastructure Upgrade Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is an IT infrastructure upgrade?",
+          "paragraphs": [
+            "An IT infrastructure upgrade involves improving or replacing existing technology components to meet defined business or technical requirements.",
+            "This may include network equipment, servers, storage, physical connections, supporting hardware or related configurations."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide IT infrastructure upgrades in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers IT Infrastructure Upgrades as part of its IT Services & Technical Support division.",
+            "Projects can be considered for existing business networks, servers, storage systems and supporting infrastructure according to the agreed technical scope."
+          ]
+        },
+        {
+          "title": "How much does an IT infrastructure upgrade cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the existing environment, equipment requirements, project complexity, software licensing, installation work, migration needs and required testing.",
+            "A focused hardware upgrade may cost significantly less than a complete infrastructure replacement. An assessment helps establish an appropriate budget."
+          ]
+        },
+        {
+          "title": "How do I know when my business needs an infrastructure upgrade?",
+          "paragraphs": [
+            "Common reasons include insufficient capacity, ageing or unsupported equipment, recurring performance problems, increasing user demands and planned business expansion.",
+            "An assessment can help determine whether an upgrade is justified or whether maintenance or configuration improvements would be more appropriate."
+          ]
+        },
+        {
+          "title": "What is the difference between an IT infrastructure upgrade and a new installation?",
+          "paragraphs": [
+            "A new installation generally establishes infrastructure where it does not already exist.",
+            "An upgrade improves or replaces parts of an existing environment while accounting for current equipment, users, applications and operational dependencies."
+          ]
+        },
+        {
+          "title": "Can you upgrade our office network without replacing everything?",
+          "paragraphs": [
+            "Possibly. Existing infrastructure can be assessed to identify components that remain suitable and those requiring replacement.",
+            "Compatibility, performance requirements and the condition of supporting cabling or equipment must be considered."
+          ]
+        },
+        {
+          "title": "Can you upgrade existing network switches and routers?",
+          "paragraphs": [
+            "Yes, suitable network equipment upgrades can be planned around capacity, connectivity, compatibility and required features.",
+            "Changes should consider existing configurations, connected devices, network dependencies and approved maintenance arrangements."
+          ]
+        },
+        {
+          "title": "Can you improve our existing Wi-Fi infrastructure?",
+          "paragraphs": [
+            "An existing wireless environment can be assessed for suitable equipment and configuration improvements.",
+            "Coverage, interference, user density and network capacity may influence whether additional access points, replacement equipment or other changes are needed."
+          ]
+        },
+        {
+          "title": "Can you upgrade a server instead of buying a new one?",
+          "paragraphs": [
+            "Some enterprise servers support additional memory, compatible processors, storage drives or other approved components.",
+            "The available upgrade options depend on the server model, manufacturer support, hardware limitations and workload requirements."
+          ]
+        },
+        {
+          "title": "When should a company replace an ageing server?",
+          "paragraphs": [
+            "Replacement may be justified when a server no longer meets performance or capacity needs, has limited manufacturer support or cannot reliably support required software.",
+            "The business importance of the workload and the risks of retaining the equipment should inform the decision."
+          ]
+        },
+        {
+          "title": "Can you expand our existing storage capacity?",
+          "paragraphs": [
+            "Storage expansion may be possible through supported drives, storage arrays or other compatible solutions.",
+            "Existing architecture, available capacity, data protection requirements, system support and application needs must be reviewed before changes are made."
+          ]
+        },
+        {
+          "title": "Will an infrastructure upgrade interrupt business operations?",
+          "paragraphs": [
+            "Some upgrades can be completed with limited disruption, while others require planned downtime.",
+            "The impact depends on system architecture, available redundancy, equipment changes and the migration approach. Any expected interruption should be communicated and approved beforehand."
+          ]
+        },
+        {
+          "title": "Can upgrades be carried out after business hours?",
+          "paragraphs": [
+            "Work may be scheduled within an agreed maintenance window where suitable personnel, access and technical resources are available.",
+            "Evening or weekend execution is not automatically included and should be confirmed in the project agreement."
+          ]
+        },
+        {
+          "title": "What is a phased IT infrastructure upgrade?",
+          "paragraphs": [
+            "A phased upgrade divides a larger modernisation project into planned stages.",
+            "For example, an organisation may address network equipment first, then server capacity, followed by storage improvements. The sequence must account for dependencies between systems."
+          ]
+        },
+        {
+          "title": "Can you upgrade our infrastructure across multiple office locations?",
+          "paragraphs": [
+            "Multi-site upgrade projects can be planned according to the locations, equipment, connectivity dependencies and implementation requirements.",
+            "The approach may involve staged deployments and coordinated verification at each site."
+          ]
+        },
+        {
+          "title": "Do you assess compatibility before installing new hardware?",
+          "paragraphs": [
+            "Compatibility assessment is an important part of upgrade planning.",
+            "Relevant checks may include hardware specifications, network interfaces, software support, equipment dimensions, power demands and manufacturer requirements."
+          ]
+        },
+        {
+          "title": "Can you migrate data from an old server to a new one?",
+          "paragraphs": [
+            "Data or workload migration may be included as a separately defined project activity when the required technical expertise and resources are available.",
+            "Migration planning should address data integrity, application dependencies, backup arrangements, testing, cutover and recovery requirements."
+          ]
+        },
+        {
+          "title": "How do you reduce the risks associated with infrastructure upgrades?",
+          "paragraphs": [
+            "A controlled upgrade plan typically considers the existing configuration, business dependencies, compatibility, approval procedures, available backups, implementation sequence and post-change checks.",
+            "Where appropriate, a rollback or recovery plan should be established before significant changes begin."
+          ]
+        },
+        {
+          "title": "What is a rollback plan?",
+          "paragraphs": [
+            "A rollback plan describes how to reverse or recover from a change if the implementation fails or creates unacceptable problems.",
+            "Not every physical or data-related change is fully reversible, so recovery limitations and decision points must be understood before execution."
+          ]
+        },
+        {
+          "title": "Can upgrades improve the security of our IT infrastructure?",
+          "paragraphs": [
+            "Replacing unsupported equipment and reviewing relevant configurations may help address certain security risks.",
+            "However, an infrastructure upgrade is not automatically a cybersecurity assessment or a guarantee of protection. Specific security testing and controls should be separately defined where required."
+          ]
+        },
+        {
+          "title": "Do upgrades include the purchase of new equipment?",
+          "paragraphs": [
+            "Hardware sourcing can be considered as part of an agreed upgrade project.",
+            "Product models, quantities, licensing, availability, warranties and commercial terms should be confirmed in the quotation."
+          ]
+        },
+        {
+          "title": "Can we keep our existing applications after a server upgrade?",
+          "paragraphs": [
+            "That depends on the applications, operating systems, licensing and hardware or virtualisation requirements.",
+            "Compatibility and vendor support must be reviewed before assuming that an existing workload will function on replacement infrastructure."
+          ]
+        },
+        {
+          "title": "Will we receive updated network and infrastructure documentation?",
+          "paragraphs": [
+            "Agreed handover documentation may include installed equipment details, relevant configuration changes, updated diagrams, verification results and outstanding technical recommendations.",
+            "The required documentation should be identified in the project scope."
+          ]
+        },
+        {
+          "title": "Do you provide support after completing an infrastructure upgrade?",
+          "paragraphs": [
+            "Post-upgrade assistance can be discussed as part of the implementation agreement or a separate support arrangement.",
+            "The duration, covered tasks, issue-handling process and any ongoing maintenance commitments should be confirmed in writing."
+          ]
+        },
+        {
+          "title": "How long does an IT infrastructure upgrade take?",
+          "paragraphs": [
+            "The duration depends on the number of systems, available equipment, site access, migration complexity, planned downtime and testing requirements.",
+            "A defined technical scope is necessary before establishing a reliable schedule."
+          ]
+        },
+        {
+          "title": "What information do you need to prepare an infrastructure upgrade quotation?",
+          "paragraphs": [
+            "Useful information includes the business location, current equipment, reported limitations, number of users, existing infrastructure diagrams, planned growth and any required implementation windows.",
+            "An equipment inventory or technical assessment report can also help."
+          ]
+        },
+        {
+          "title": "How do we get started with an IT infrastructure upgrade?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with a description of your existing infrastructure and what you want to improve.",
+            "We can review the requirements, discuss relevant technical dependencies and identify the appropriate assessment and project planning steps."
+          ]
+        }
+      ],
+      "cta": "Discuss Your IT Infrastructure Upgrade"
+    },
+    "closing": {
+      "title": "Upgrade With Purpose. Prepare for What's Next.",
+      "paragraphs": [
+        "Whether you're replacing ageing network equipment, expanding server capacity or planning a wider infrastructure modernisation, Integrated Solutions Technology can help you assess the options and develop a practical upgrade approach."
+      ],
+      "primary": "Discuss Your Infrastructure Upgrade",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "projects": {
+    "name": "IT Project Implementation & Support",
+    "hero": {
+      "title": "From Project Plan to Working Infrastructure.",
+      "primary": "Discuss Your IT Implementation Project",
+      "secondary": "Explore IT Services & Technical Support"
+    },
+    "benefits": {
+      "title": "A Successful Deployment Needs Everything to Work Together.",
+      "paragraphs": [
+        "A structured implementation approach helps bring the people, equipment and technical tasks together around a defined result."
+      ],
+      "items": [
+        {
+          "title": "Clearer Project Execution",
+          "paragraphs": [
+            "Establish the required work, responsibilities, dependencies and milestones before implementation begins."
+          ]
+        },
+        {
+          "title": "Better Technical Coordination",
+          "paragraphs": [
+            "Align relevant equipment delivery, site readiness, technical teams and authorised configuration activities."
+          ]
+        },
+        {
+          "title": "Controlled System Changes",
+          "paragraphs": [
+            "Plan installation and cutover activities with appropriate approvals, operational impact reviews and recovery considerations."
+          ]
+        },
+        {
+          "title": "Verified Project Outcomes",
+          "paragraphs": [
+            "Check completed work against agreed requirements and provide relevant documentation for operational handover."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right People. The Right Sequence. A Defined Outcome.",
+      "paragraphs": [
+        "We help organisations organise implementation activities around approved requirements, coordinate the work and establish appropriate verification and handover procedures."
+      ],
+      "entries": [
+        {
+          "title": "Implementation Scoping & Project Readiness",
+          "tagline": "Prepare the Environment Before Deployment Begins.",
+          "paragraphs": [
+            "Implementation starts with confirming the approved technical requirements and whether the environment is ready for the planned work.",
+            "We review relevant equipment specifications, site conditions, access arrangements, supporting infrastructure and available project documentation.",
+            "This helps identify outstanding prerequisites, required approvals, technical dependencies and appropriate implementation milestones."
+          ],
+          "cta": "Discuss Project Readiness"
+        },
+        {
+          "title": "Technical Deployment & Installation",
+          "tagline": "Turn Approved Designs Into Operational Systems.",
+          "paragraphs": [
+            "Technology projects may involve physical installation, equipment configuration and coordination across several infrastructure components.",
+            "We support agreed deployment activities involving compatible network devices, servers, storage systems and supporting IT equipment.",
+            "Work is carried out according to the approved technical scope, equipment requirements, site conditions and applicable change-control procedures."
+          ],
+          "cta": "Plan Your IT Deployment"
+        },
+        {
+          "title": "Implementation Coordination & Change Support",
+          "tagline": "Keep the Technical Work Aligned.",
+          "paragraphs": [
+            "Infrastructure projects often involve customer IT teams, equipment suppliers, service providers and other technical stakeholders.",
+            "We help coordinate relevant tasks, access arrangements, implementation sequences and technical communication within the agreed project scope.",
+            "Where existing services may be affected, the implementation plan should address authorised maintenance windows, dependencies, escalation and appropriate recovery arrangements."
+          ],
+          "cta": "Discuss Technical Project Coordination"
+        },
+        {
+          "title": "Acceptance Testing & Project Handover",
+          "tagline": "Confirm What Was Delivered and What Happens Next.",
+          "paragraphs": [
+            "A completed installation should be verified against the agreed project requirements.",
+            "We support relevant equipment checks, connectivity testing, configuration verification and review of defined acceptance criteria.",
+            "Where included in scope, handover documentation may record installed equipment, relevant configuration details, test results, outstanding issues and operational responsibilities."
+          ],
+          "cta": "Discuss Testing & Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Technical Planning to Completed Deployment.",
+      "paragraphs": [
+        "Explore the practical installation and coordination activities involved in delivering IT infrastructure projects."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Network Deployment",
+          "paragraphs": [
+            "Installing and configuring suitable network infrastructure according to approved connectivity and equipment requirements."
+          ]
+        },
+        {
+          "title": "Server & Storage Implementation",
+          "paragraphs": [
+            "Deploying compatible enterprise computing and storage equipment within the agreed infrastructure environment."
+          ]
+        },
+        {
+          "title": "Multi-Site IT Equipment Rollouts",
+          "paragraphs": [
+            "Coordinating appropriate installation tasks and verification activities across multiple business locations."
+          ]
+        },
+        {
+          "title": "Infrastructure Testing & Handover",
+          "paragraphs": [
+            "Checking completed work, recording relevant results and preparing operational documentation for the receiving team."
+          ]
+        }
+      ],
+      "cta": "Discuss Your IT Project"
+    },
+    "faq": {
+      "title": "Your IT Project Implementation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is IT project implementation?",
+          "paragraphs": [
+            "IT project implementation is the process of carrying out an approved technology project to deliver a defined technical outcome.",
+            "Activities may include project preparation, equipment installation, configuration, technical coordination, verification and operational handover."
+          ]
+        },
+        {
+          "title": "What is the difference between IT project planning and implementation?",
+          "paragraphs": [
+            "Planning defines what the project should deliver, how it will be approached and what resources and approvals are needed.",
+            "Implementation carries out the approved work and verifies that the resulting infrastructure meets the agreed requirements."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide IT project implementation in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers IT Project Implementation & Support within its IT Services & Technical Support division.",
+            "Project requirements can be reviewed for suitable deployment, installation, coordination, verification and handover activities."
+          ]
+        },
+        {
+          "title": "What types of IT projects can you help implement?",
+          "paragraphs": [
+            "Projects may involve network infrastructure, enterprise servers, storage systems, equipment deployment, infrastructure modernisation and related technical work.",
+            "The exact delivery scope depends on the technology, required expertise, site conditions and approved project requirements."
+          ]
+        },
+        {
+          "title": "How much does IT project implementation cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the equipment and systems involved, number of locations, installation complexity, technical resources, required configurations and testing.",
+            "A complete project scope and bill of quantities help establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "Can you implement a project designed by another IT consultant?",
+          "paragraphs": [
+            "An externally prepared technical design can be reviewed to determine whether it is sufficiently complete and suitable for implementation.",
+            "Any missing requirements, compatibility concerns or conflicting specifications should be resolved and approved before work begins."
+          ]
+        },
+        {
+          "title": "Can you manage the entire IT implementation project?",
+          "paragraphs": [
+            "Project coordination and implementation responsibilities can be discussed according to the required scope.",
+            "A project may involve equipment procurement, site preparation, installation, configuration, testing and stakeholder coordination. The final agreement should clearly identify which activities Integrated Solutions Technology is responsible for delivering."
+          ]
+        },
+        {
+          "title": "Can you install equipment purchased from another supplier?",
+          "paragraphs": [
+            "Customer-supplied equipment may be considered where suitable technical specifications, licensing, installation materials and manufacturer documentation are available.",
+            "The responsibilities for product condition, missing components, compatibility and warranties should be agreed beforehand."
+          ]
+        },
+        {
+          "title": "What is included in an IT project implementation plan?",
+          "paragraphs": [
+            "Depending on the project, the plan may address technical requirements, work packages, site prerequisites, responsibilities, dependencies, resources, schedule, approved change windows, risks and acceptance criteria.",
+            "The detail should reflect the project's complexity and business impact."
+          ]
+        },
+        {
+          "title": "Can you deploy network switches, routers and wireless access points?",
+          "paragraphs": [
+            "Compatible network equipment installation and configuration can be considered within the approved deployment scope.",
+            "Network design, routing requirements, existing configuration, security settings and connectivity dependencies must be reviewed before implementation."
+          ]
+        },
+        {
+          "title": "Can you implement new enterprise servers and storage systems?",
+          "paragraphs": [
+            "Server and storage deployment activities can be planned according to the equipment specifications, workload requirements and supporting infrastructure.",
+            "Operating-system installation, virtualisation, migration, application setup and specialist configuration work should be separately identified where required."
+          ]
+        },
+        {
+          "title": "Can you implement IT infrastructure across multiple branches?",
+          "paragraphs": [
+            "Multi-site deployments can be considered according to the locations, equipment requirements, technical resources and implementation schedule.",
+            "A rollout plan may define site readiness, installation sequence, local contacts and acceptance checks for each location."
+          ]
+        },
+        {
+          "title": "Can an IT project be implemented while our business remains operational?",
+          "paragraphs": [
+            "Some tasks can be carried out without interrupting existing services, while other activities require approved downtime or temporary changes.",
+            "Operational impact depends on the architecture and implementation method. A project should not be described as zero-downtime unless the solution and implementation approach genuinely support that outcome."
+          ]
+        },
+        {
+          "title": "Do you provide after-hours or weekend implementation?",
+          "paragraphs": [
+            "Work outside ordinary business hours may be considered where the technical requirements, site access, personnel availability and commercial arrangements allow.",
+            "Any special working hours should be agreed in the project schedule."
+          ]
+        },
+        {
+          "title": "What is a project cutover?",
+          "paragraphs": [
+            "Cutover is the controlled transition from an existing system or operating arrangement to the newly implemented one.",
+            "It may involve configuration changes, traffic migration, data transfer or equipment replacement.",
+            "Cutover planning should define responsibilities, verification checks and appropriate recovery actions if the new arrangement does not perform as expected."
+          ]
+        },
+        {
+          "title": "What happens if an implementation does not go according to plan?",
+          "paragraphs": [
+            "The project team should assess the issue against the approved change and escalation procedures.",
+            "Depending on the problem, the appropriate response may involve corrective work, pausing the deployment or carrying out a planned recovery action.",
+            "Not every infrastructure change can be reversed instantly, so limitations should be understood before implementation."
+          ]
+        },
+        {
+          "title": "Can you help coordinate with equipment vendors and internet service providers?",
+          "paragraphs": [
+            "Technical coordination with relevant suppliers and providers may be included where needed.",
+            "The responsibilities, external dependencies and authority to request or approve changes should be established as part of the project scope."
+          ]
+        },
+        {
+          "title": "Do you support projects led by our internal IT team?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology can be considered for defined installation, deployment, coordination or verification tasks under the direction of an authorised internal project team.",
+            "The division of responsibilities should be documented before work begins."
+          ]
+        },
+        {
+          "title": "Do you provide technical engineers for specific project activities?",
+          "paragraphs": [
+            "Technical deployment resources can be discussed according to the required skills, task complexity, site location and availability.",
+            "The agreed service should define whether personnel are performing independent technical work or executing instructions from another responsible engineer."
+          ]
+        },
+        {
+          "title": "What is infrastructure acceptance testing?",
+          "paragraphs": [
+            "Acceptance testing checks whether agreed technical deliverables satisfy the project's defined requirements.",
+            "Depending on scope, this may include connectivity checks, equipment functionality, configuration verification and review of relevant technical records.",
+            "Formal performance, resilience or security testing must be explicitly included if required."
+          ]
+        },
+        {
+          "title": "What documentation should be provided after implementation?",
+          "paragraphs": [
+            "Documentation may include installed equipment lists, relevant configuration details, updated diagrams, test results, outstanding issues and operating instructions.",
+            "The exact handover package should be defined in the approved project scope."
+          ]
+        },
+        {
+          "title": "What is the difference between project handover and project completion?",
+          "paragraphs": [
+            "Handover transfers the agreed deliverables and relevant operational information to the receiving team.",
+            "Project completion also involves confirming the status of outstanding contractual activities and formal acceptance or closure requirements.",
+            "A project may require a defined process for resolving minor outstanding items after handover."
+          ]
+        },
+        {
+          "title": "Can you provide support immediately after deployment?",
+          "paragraphs": [
+            "An agreed post-implementation support period may be included to address specified issues associated with the new installation.",
+            "The support window, coverage hours, escalation process and excluded activities should be stated in the contract."
+          ]
+        },
+        {
+          "title": "Does project implementation include ongoing IT maintenance?",
+          "paragraphs": [
+            "Not automatically.",
+            "Implementation is generally a defined project with specific deliverables, while managed IT support provides recurring assistance under a separate agreement.",
+            "A transition to ongoing support can be discussed during handover."
+          ]
+        },
+        {
+          "title": "Can you provide project status reports?",
+          "paragraphs": [
+            "Status reporting may be included according to the project requirements.",
+            "A useful report can identify completed activities, upcoming milestones, dependencies, issues, decisions and changes affecting the agreed scope."
+          ]
+        },
+        {
+          "title": "How do you manage changes requested during an IT project?",
+          "paragraphs": [
+            "New requirements or changes to approved specifications should be reviewed for their effect on equipment, cost, schedule, technical dependencies and acceptance criteria.",
+            "Material changes should be approved before implementation."
+          ]
+        },
+        {
+          "title": "How long does an IT infrastructure implementation project take?",
+          "paragraphs": [
+            "Project duration depends on the scope, equipment availability, number of locations, technical dependencies, site readiness, access permissions and required verification.",
+            "An implementation schedule should follow confirmation of the approved deliverables and prerequisites."
+          ]
+        },
+        {
+          "title": "What information do you need to prepare an IT project quotation?",
+          "paragraphs": [
+            "Useful information includes the project location, technical scope, equipment list, existing infrastructure, proposed architecture, required completion dates and whether installation, configuration, testing and documentation are needed.",
+            "Available drawings, bills of quantities and approved designs are also helpful."
+          ]
+        },
+        {
+          "title": "How do we get started with an IT project implementation?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your project requirements or available technical documentation.",
+            "We can review the proposed work, identify important delivery considerations and discuss the appropriate implementation scope and quotation."
+          ]
+        }
+      ],
+      "cta": "Discuss Your IT Implementation Project"
+    },
+    "closing": {
+      "title": "A Clear Plan Deserves a Well-Executed Deployment.",
+      "paragraphs": [
+        "Whether you're deploying new infrastructure, coordinating a technology rollout or preparing for a critical system change, Integrated Solutions Technology can help you organise the technical work and move towards a verified, operational result."
+      ],
+      "primary": "Discuss Your IT Implementation Project",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "smartHands": {
+    "name": "Smart Hands & Remote-Team Support",
+    "hero": {
+      "title": "Your Remote IT Team. Our Hands on the Ground.",
+      "primary": "Request Smart Hands Support",
+      "secondary": "Explore IT Technical Services"
+    },
+    "benefits": {
+      "title": "Your Engineers Can't Be Everywhere. Your Infrastructure Still Needs Attention.",
+      "paragraphs": [
+        "Smart hands support provides a practical way to connect remote technical expertise with authorised onsite execution."
+      ],
+      "items": [
+        {
+          "title": "Physical Assistance Without Every Site Visit",
+          "paragraphs": [
+            "Arrange defined equipment checks and hands-on activities without requiring your remote engineers to travel for each task."
+          ]
+        },
+        {
+          "title": "Execution Under Your Technical Instructions",
+          "paragraphs": [
+            "Have approved physical tasks carried out according to your team's runbooks, port schedules and instructions."
+          ]
+        },
+        {
+          "title": "Better Visibility Into Remote Equipment",
+          "paragraphs": [
+            "Obtain agreed observations, device identifiers, status readings and photographs where permitted."
+          ]
+        },
+        {
+          "title": "Clearer Task Completion Records",
+          "paragraphs": [
+            "Receive relevant information about the actions performed, verification steps and any issues requiring escalation."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Physical Tasks Your Remote Team Needs Done.",
+      "paragraphs": [
+        "For higher-risk changes, appropriate change approval, maintenance windows and recovery arrangements should be established before execution."
+      ],
+      "entries": [
+        {
+          "title": "Remote Eyes & Equipment Inspection",
+          "tagline": "Get a Clearer View of Equipment You Can't Physically See.",
+          "paragraphs": [
+            "Not every infrastructure concern requires an immediate repair.",
+            "Sometimes your remote team needs confirmation of a device indicator, cable connection, equipment label or the physical condition of a rack.",
+            "We carry out authorised visual checks and report relevant observations, equipment identifiers and photographs where site policies permit.",
+            "Examples of supported requests:",
+            "Identify equipment using approved rack and device references.",
+            "Observe relevant status lights and visible fault indications.",
+            "Verify labels, physical connections and installed component details.",
+            "Provide permitted photographs for remote technical review."
+          ],
+          "cta": "Request Remote Equipment Inspection"
+        },
+        {
+          "title": "Rack, Cabling & Hardware Tasks",
+          "tagline": "Get Approved Physical Changes Completed at the Rack.",
+          "paragraphs": [
+            "Network and server infrastructure often requires hands-on work that cannot be completed through remote access.",
+            "We assist with defined rack-level tasks such as approved cable tracing, patch-cord changes, equipment mounting and compatible hardware replacement.",
+            "Tasks are performed according to authorised instructions, equipment specifications and relevant site safety requirements.",
+            "Examples of supported requests:",
+            "Trace and identify specified cables and ports.",
+            "Install or replace approved patch cords.",
+            "Assist with compatible equipment mounting or removal.",
+            "Replace suitable components where the procedure and technician capability have been confirmed."
+          ],
+          "cta": "Discuss Rack & Hardware Tasks"
+        },
+        {
+          "title": "Remote-Guided Troubleshooting & Change Support",
+          "tagline": "Your Engineers Lead. Our Technician Executes the Physical Steps.",
+          "paragraphs": [
+            "Some incidents require close coordination between the person investigating the system remotely and the person standing beside the equipment.",
+            "We provide suitable onsite technical assistance for agreed diagnostic or change procedures under the direction of an authorised engineer.",
+            "Activities may include observing device status, connecting approved console equipment, checking physical connections or performing a specifically authorised restart.",
+            "Disruptive actions are not performed without the required permissions and safeguards."
+          ],
+          "cta": "Request Remote-Guided Technical Support"
+        },
+        {
+          "title": "Task Documentation & Technical Handover",
+          "tagline": "Know What Was Done, What Changed and What Remains.",
+          "paragraphs": [
+            "Remote teams depend on accurate information from the site.",
+            "After the task, we report relevant actions, equipment identifiers, physical changes, available verification results and unresolved observations.",
+            "Where agreed, handover information may include before-and-after photographs, cable references, serial numbers, task notes and confirmation from the remote technical contact."
+          ],
+          "cta": "Discuss Smart Hands Reporting"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Technical Support Where Your Equipment Is Located.",
+      "paragraphs": [
+        "Explore the practical activities involved in carrying out authorised onsite tasks for remote IT teams."
+      ],
+      "items": [
+        {
+          "title": "Data Centre Rack Inspection",
+          "paragraphs": [
+            "A technician checking relevant devices, rack positions and equipment indicators under the direction of an authorised infrastructure team."
+          ]
+        },
+        {
+          "title": "Network Cable Tracing & Patching",
+          "paragraphs": [
+            "Identifying specified cable connections and carrying out approved patching changes using the provided port schedule."
+          ]
+        },
+        {
+          "title": "Server & Hardware Assistance",
+          "paragraphs": [
+            "Supporting compatible equipment installation, component replacement and physical inspection according to approved task instructions."
+          ]
+        },
+        {
+          "title": "Remote Engineer Coordination",
+          "paragraphs": [
+            "An onsite technician communicating findings to remote engineers and recording the agreed work for technical handover."
+          ]
+        }
+      ],
+      "cta": "Request Smart Hands Assistance"
+    },
+    "faq": {
+      "title": "Your Smart Hands Support Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are smart hands services?",
+          "paragraphs": [
+            "Smart hands services provide physical technical assistance at a data centre, server room or IT facility on behalf of an organisation whose engineers are not onsite.",
+            "Tasks may involve equipment inspection, cabling, hardware handling, guided troubleshooting and documented execution of approved instructions."
+          ]
+        },
+        {
+          "title": "What is the difference between smart hands and remote hands?",
+          "paragraphs": [
+            "The terms are sometimes used interchangeably.",
+            "In many service models, remote hands refers to straightforward physical tasks such as checking indicators or performing an authorised cable reseat. Smart hands may involve more technically demanding work, including hardware installation, component replacement and guided troubleshooting.",
+            "The actual scope and skill level should be confirmed with the provider."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide smart hands support in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Smart Hands & Remote-Team Support within its IT Services & Technical Support division.",
+            "Requests can be reviewed according to the site location, access requirements, equipment involved, technical instructions and available resources."
+          ]
+        },
+        {
+          "title": "Who needs smart hands support?",
+          "paragraphs": [
+            "Typical customers include enterprise IT departments, data centre customers, managed service providers, network operators and businesses with centrally managed infrastructure.",
+            "It can also be useful for international IT teams that need authorised physical assistance at equipment locations in Nigeria."
+          ]
+        },
+        {
+          "title": "How much do smart hands services cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the task, required technician skills, site location, access conditions, work duration, equipment handling requirements and any specialised tools or materials.",
+            "Charges may be agreed for a defined task, scheduled visit or another documented service arrangement."
+          ]
+        },
+        {
+          "title": "Can your technician work under instructions from our remote engineers?",
+          "paragraphs": [
+            "Yes. A smart hands engagement can be structured around instructions from an authorised remote technical contact.",
+            "The task should identify the equipment, permitted actions, expected outcome, communication method and escalation process before work begins."
+          ]
+        },
+        {
+          "title": "Can you support our equipment in a data centre?",
+          "paragraphs": [
+            "Data centre smart hands requests can be considered where the facility permits third-party technician access and the work is technically suitable.",
+            "Site-specific authorisation, induction, access approval and operating procedures must be completed before attendance."
+          ]
+        },
+        {
+          "title": "Do you have access to every data centre in Lagos?",
+          "paragraphs": [
+            "Access to a data centre cannot be assumed.",
+            "Each facility has its own access controls, security requirements and third-party working procedures. Entry and work authorisation must be confirmed for the specific site."
+          ]
+        },
+        {
+          "title": "Can you check the status lights on a server or network switch?",
+          "paragraphs": [
+            "Yes, visual device checks are common smart hands tasks.",
+            "A technician can record the relevant indicator states and report them to the authorised remote team. Interpretation and further action should follow the agreed responsibilities."
+          ]
+        },
+        {
+          "title": "Can you trace and identify network cables?",
+          "paragraphs": [
+            "Approved cable tracing and port identification can be included in a defined task.",
+            "The request should specify the rack, devices, ports and any required labelling or documentation. Existing active connections must not be changed without appropriate authorisation."
+          ]
+        },
+        {
+          "title": "Can you move a patch cable from one switch port to another?",
+          "paragraphs": [
+            "An authorised patch change can be considered where the source port, destination port, cable requirements and change approval are clearly defined.",
+            "The potential impact on connected systems should be assessed before work starts."
+          ]
+        },
+        {
+          "title": "Can you install or replace rack-mounted equipment?",
+          "paragraphs": [
+            "Suitable rack-and-stack assistance may be provided for compatible equipment where the rack, mounting hardware, load requirements and installation procedure have been confirmed.",
+            "Heavy equipment, electrical work and other specialist tasks may require additional personnel or appropriately qualified professionals."
+          ]
+        },
+        {
+          "title": "Can you replace failed server drives, power supplies or memory?",
+          "paragraphs": [
+            "Component replacement may be possible where the hardware supports the procedure and compatible parts are available.",
+            "The technician must follow the exact manufacturer requirements and approved instructions. Hot-swappable and non-hot-swappable components require different handling procedures."
+          ]
+        },
+        {
+          "title": "Can your technician power-cycle a server or network device?",
+          "paragraphs": [
+            "A power cycle may be performed only when the exact device and action have been authorised.",
+            "Because restarting infrastructure can interrupt services or affect data, the instruction should include relevant change approval, timing and verification requirements."
+          ]
+        },
+        {
+          "title": "Can you assist with console access or a crash cart?",
+          "paragraphs": [
+            "Compatible console access equipment may be connected as part of an authorised task.",
+            "The remote engineer remains responsible for activities outside the agreed physical support scope, and access must follow the organisation's security policies."
+          ]
+        },
+        {
+          "title": "Can your technician perform network or server configuration?",
+          "paragraphs": [
+            "Smart hands support does not automatically include independent network or server administration.",
+            "Configuration work requires the necessary technical expertise, permissions and an explicitly approved scope. Remote-guided physical assistance and independent configuration services should be quoted separately where appropriate."
+          ]
+        },
+        {
+          "title": "Can you help with fibre optic connections?",
+          "paragraphs": [
+            "Approved fibre patching, connection identification and inspection may be considered where the technician has the required skills and tools.",
+            "Fibre cleaning, testing, termination and repair have specific technical and safety requirements and should be performed only by competent personnel."
+          ]
+        },
+        {
+          "title": "Can you assist with new equipment deployment?",
+          "paragraphs": [
+            "Yes. Smart hands tasks can support a wider deployment by providing suitable onsite mounting, cable connection, equipment identification and physical verification.",
+            "Project design, configuration, acceptance criteria and coordination responsibilities must remain clearly assigned."
+          ]
+        },
+        {
+          "title": "Can you help with equipment moves, adds and changes?",
+          "paragraphs": [
+            "Defined physical changes may be supported within an approved task or larger project.",
+            "The work should identify the equipment, intended location, dependencies, required materials, authorisation and expected verification."
+          ]
+        },
+        {
+          "title": "Can you receive equipment deliveries and prepare returns?",
+          "paragraphs": [
+            "Equipment receiving, inventory checks, packaging or returns assistance may be discussed if permitted by the facility and included in the service scope.",
+            "Storage, transport, custody and liability arrangements should be agreed in advance."
+          ]
+        },
+        {
+          "title": "Can you support multiple data centre or office locations?",
+          "paragraphs": [
+            "Multi-location requests can be reviewed according to the sites, required tasks, access permissions, travel needs and available technical resources.",
+            "Coverage and scheduling should be confirmed for each location."
+          ]
+        },
+        {
+          "title": "Do you offer 24/7 or emergency smart hands support?",
+          "paragraphs": [
+            "Continuous coverage and emergency attendance are not automatically included.",
+            "Support hours, technician availability, response targets and out-of-hours arrangements must be specifically confirmed in the service agreement."
+          ]
+        },
+        {
+          "title": "What information should we provide when requesting smart hands support?",
+          "paragraphs": [
+            "Provide the facility and rack location, equipment identifiers, exact action required, authorised technical contact, access arrangements and relevant change approval.",
+            "Where available, include a runbook, port schedule, rack elevation, photographs or expected verification results."
+          ]
+        },
+        {
+          "title": "Do you need administrator passwords to perform smart hands tasks?",
+          "paragraphs": [
+            "Not necessarily. Many physical tasks do not require administrative credentials.",
+            "Where system access is essential, credentials should be handled through approved secure procedures, with access limited to the authorised activity."
+          ]
+        },
+        {
+          "title": "Will the technician take photographs of the equipment?",
+          "paragraphs": [
+            "Photographs may be provided where they are relevant to the task and permitted by the facility and customer security policies.",
+            "The request should specify what evidence is required and how it should be transmitted and retained."
+          ]
+        },
+        {
+          "title": "What happens if the equipment or site does not match our instructions?",
+          "paragraphs": [
+            "The technician should stop the affected activity, report the discrepancy and obtain clarification before proceeding.",
+            "Unapproved substitutions, port changes, power actions or configuration changes should not be made simply to complete the task."
+          ]
+        },
+        {
+          "title": "How do you protect business operations during smart hands work?",
+          "paragraphs": [
+            "Relevant safeguards may include equipment identification, task authorisation, approved maintenance windows, physical safety procedures, communication with the remote engineer and confirmation before disruptive actions.",
+            "The safeguards depend on the specific task and its potential business impact."
+          ]
+        },
+        {
+          "title": "Will we receive a report after the task?",
+          "paragraphs": [
+            "An agreed completion report may include work performed, equipment identifiers, observations, approved changes, verification results and outstanding issues.",
+            "Photo evidence and detailed asset records should be specified where required."
+          ]
+        },
+        {
+          "title": "Can smart hands replace our internal IT team?",
+          "paragraphs": [
+            "Smart hands primarily provides local physical assistance. It is not a complete substitute for the organisation's technical ownership, system administration, architecture and change management.",
+            "It works best when the responsible team and onsite technician have clearly defined roles."
+          ]
+        },
+        {
+          "title": "What is the difference between smart hands support and onsite IT technical support?",
+          "paragraphs": [
+            "General onsite IT support may involve the visiting technician independently investigating a problem.",
+            "Smart hands support is typically more closely directed by a remote team and focused on specific physical actions, observations and handover requirements."
+          ]
+        },
+        {
+          "title": "How quickly can a smart hands visit be arranged?",
+          "paragraphs": [
+            "Scheduling depends on the location, access approval, required skills, technician availability and task urgency.",
+            "A response or attendance time should be confirmed for the particular request rather than assumed."
+          ]
+        },
+        {
+          "title": "How do we request smart hands support?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with the facility location, equipment details, required physical task and remote technical contact.",
+            "We can review the instructions, confirm the relevant prerequisites and discuss an appropriate service scope and quotation."
+          ]
+        }
+      ],
+      "cta": "Request Smart Hands & Remote-Team Support"
+    },
+    "closing": {
+      "title": "Your Engineers Lead. We Help Get the Onsite Work Done.",
+      "paragraphs": [
+        "Whether your infrastructure team is across the city or across the world, physical equipment tasks still need authorised people at the site.",
+        "Integrated Solutions Technology helps organisations bridge that gap through clearly defined smart hands and remote-team support."
+      ],
+      "primary": "Request Smart Hands Support",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "handover": {
+    "name": "Installation Documentation & Project Handover",
+    "hero": {
+      "title": "The Installation Is Complete. The Knowledge Should Stay.",
+      "primary": "Discuss Your Documentation Requirements",
+      "secondary": "Explore IT Implementation Services"
+    },
+    "benefits": {
+      "title": "Your IT Team Shouldn't Have to Guess What Was Installed.",
+      "paragraphs": [
+        "A structured handover gives the receiving team a clearer view of the installed infrastructure and the information required to manage it."
+      ],
+      "items": [
+        {
+          "title": "Know What You Own",
+          "paragraphs": [
+            "Maintain relevant records of installed equipment, models, serial numbers, locations and other agreed asset details."
+          ]
+        },
+        {
+          "title": "Trace Important Connections",
+          "paragraphs": [
+            "Use consistent labels, cable schedules and port maps to understand how compatible network and infrastructure components connect."
+          ]
+        },
+        {
+          "title": "Simplify Future Maintenance",
+          "paragraphs": [
+            "Give technical teams access to relevant diagrams, configuration records and test results when investigating issues or planning changes."
+          ]
+        },
+        {
+          "title": "Close Projects With Greater Clarity",
+          "paragraphs": [
+            "Record completed work, verified outcomes, outstanding items and the responsibilities transferred at handover."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Make the Infrastructure Understandable Beyond the Project Team.",
+      "paragraphs": [
+        "We help prepare and organise technical records according to the project scope, available evidence and the receiving organisation's documentation requirements."
+      ],
+      "entries": [
+        {
+          "title": "As-Built Drawings & Infrastructure Records",
+          "tagline": "Document What Was Actually Installed.",
+          "paragraphs": [
+            "Approved designs describe what a project intends to deliver. As-built records describe the completed installation.",
+            "We help prepare relevant diagrams and infrastructure records using verified installation information, approved changes and available site documentation.",
+            "Depending on the project, this may include network topology diagrams, rack elevations, equipment layouts and suitable cable-route information."
+          ],
+          "cta": "Discuss As-Built Documentation"
+        },
+        {
+          "title": "Equipment Inventory, Labelling & Port Mapping",
+          "tagline": "Make Every Relevant Component Easier to Identify.",
+          "paragraphs": [
+            "Infrastructure records are more useful when they connect identifiable equipment and ports to their actual locations.",
+            "We organise agreed equipment information, asset identifiers, rack positions, cable labels and port schedules.",
+            "Where included in scope, physical labels and associated records can be checked for consistency against the installed environment."
+          ],
+          "cta": "Discuss Asset & Port Documentation"
+        },
+        {
+          "title": "Test Records & Configuration Handover",
+          "tagline": "Preserve the Information Behind the Technical Work.",
+          "paragraphs": [
+            "The results of installation and verification should remain available to the people responsible for ongoing support.",
+            "We help compile relevant test records, installed equipment details, approved configuration summaries and other agreed technical information.",
+            "Sensitive information, such as administrator credentials, private keys or confidential network details, must be transferred through appropriate secure procedures rather than included indiscriminately in general project documents."
+          ],
+          "cta": "Discuss Technical Handover Records"
+        },
+        {
+          "title": "Project Closeout & Operational Handover",
+          "tagline": "Give the Receiving Team a Clear Basis for Taking Ownership.",
+          "paragraphs": [
+            "A structured handover helps distinguish completed deliverables from outstanding work.",
+            "We help organise agreed documentation, verification evidence, remaining action items and operational recommendations.",
+            "Where included in the project scope, the handover may involve a walkthrough with the customer's IT team and a defined review or acceptance process."
+          ],
+          "cta": "Discuss Project Handover Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Clear Documentation. Better Infrastructure Visibility.",
+      "paragraphs": [
+        "Explore the technical records and handover materials that support ongoing infrastructure management."
+      ],
+      "items": [
+        {
+          "title": "As-Built Network & Infrastructure Diagrams",
+          "paragraphs": [
+            "Diagrams showing the documented arrangement of relevant equipment and network connections after installation."
+          ]
+        },
+        {
+          "title": "Rack Elevations & Equipment Inventories",
+          "paragraphs": [
+            "Records identifying agreed rack-mounted equipment, model information, rack positions and associated asset details."
+          ]
+        },
+        {
+          "title": "Cable Labels & Port Mapping Schedules",
+          "paragraphs": [
+            "Consistent identifiers and records connecting relevant cables, ports, patch panels and destination devices."
+          ]
+        },
+        {
+          "title": "Test Results & Project Handover Packs",
+          "paragraphs": [
+            "Organised verification evidence, technical summaries, agreed outstanding items and supporting operational records."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Project Documentation"
+    },
+    "faq": {
+      "title": "Your Infrastructure Documentation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is IT installation documentation?",
+          "paragraphs": [
+            "IT installation documentation is the collection of technical information that describes equipment, connections, configurations and relevant verification results for an installed technology environment.",
+            "The specific records depend on the infrastructure and agreed project deliverables."
+          ]
+        },
+        {
+          "title": "What is project handover in IT infrastructure?",
+          "paragraphs": [
+            "Project handover is the process of transferring agreed technical deliverables, relevant documentation and operational information to the organisation or team responsible for the completed infrastructure.",
+            "It may include a review of the installed systems, test results, outstanding items and support responsibilities."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide IT installation documentation in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Installation Documentation & Project Handover within its IT Services & Technical Support division.",
+            "Documentation requirements can be discussed for network, server, storage, data centre and other relevant infrastructure projects."
+          ]
+        },
+        {
+          "title": "How much does IT installation documentation cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the number of devices, cables and locations, the complexity of the infrastructure, available existing records and the required document formats.",
+            "Documenting a newly completed installation is often a different scope from reconstructing records for an older, poorly documented environment."
+          ]
+        },
+        {
+          "title": "What are as-built drawings?",
+          "paragraphs": [
+            "As-built drawings describe the installation as it was completed, including relevant changes from the approved design.",
+            "Depending on scope, they may show equipment locations, network connections, cable pathways, rack arrangements and other verified infrastructure details."
+          ]
+        },
+        {
+          "title": "What is the difference between design drawings and as-built drawings?",
+          "paragraphs": [
+            "Design drawings describe the proposed installation.",
+            "As-built drawings are prepared or updated using verified information about the completed work, including approved changes made during implementation."
+          ]
+        },
+        {
+          "title": "Can you document an existing network that has no diagrams?",
+          "paragraphs": [
+            "An existing environment can be assessed for the information needed to create suitable documentation.",
+            "The work may involve equipment inventory, connection tracing, authorised configuration review and validation of the resulting records.",
+            "The accuracy of the final documentation depends on the access and verification activities included in scope."
+          ]
+        },
+        {
+          "title": "What is a network topology diagram?",
+          "paragraphs": [
+            "A network topology diagram represents the relevant devices and connections within a network.",
+            "Depending on the intended use, it may show physical links, logical relationships, network segments or other approved technical information."
+          ]
+        },
+        {
+          "title": "What is a rack elevation diagram?",
+          "paragraphs": [
+            "A rack elevation diagram shows the documented positions of equipment and accessories within a server or network rack.",
+            "It commonly uses rack-unit positions to identify installed equipment and available space."
+          ]
+        },
+        {
+          "title": "What is cable and port mapping?",
+          "paragraphs": [
+            "Cable and port mapping creates records linking identified cables and ports to their relevant endpoints.",
+            "This can help technical teams trace connections, investigate faults and plan approved equipment changes."
+          ]
+        },
+        {
+          "title": "Why is cable labelling important?",
+          "paragraphs": [
+            "Consistent cable identifiers make it easier to relate physical connections to infrastructure records.",
+            "This can reduce uncertainty when troubleshooting or carrying out authorised moves, additions and changes."
+          ]
+        },
+        {
+          "title": "Can you document existing patch panels and network switches?",
+          "paragraphs": [
+            "Yes, relevant patch panels, switch ports and physical connections can be included in an agreed mapping exercise.",
+            "The scope should clarify whether records will be based on visible labels, existing documentation, physical tracing or additional testing."
+          ]
+        },
+        {
+          "title": "What information should an IT equipment inventory contain?",
+          "paragraphs": [
+            "An inventory may include device type, manufacturer, model, serial number, asset identifier, physical location and other agreed information.",
+            "Additional fields may cover installation dates, support status or ownership where reliable information is available."
+          ]
+        },
+        {
+          "title": "Can you prepare documentation for a server room?",
+          "paragraphs": [
+            "Server room documentation may include rack elevations, equipment inventories, relevant connection diagrams, cable schedules and supporting technical records.",
+            "Electrical distribution, mechanical cooling and other specialist records should be prepared or verified by appropriately competent professionals where required."
+          ]
+        },
+        {
+          "title": "Can you provide network configuration backups?",
+          "paragraphs": [
+            "Configuration exports and backups may be included for supported devices when the organisation authorises the activity and the required access is available.",
+            "Compatibility, backup integrity, confidentiality and secure storage arrangements must be considered."
+          ]
+        },
+        {
+          "title": "Should IT documentation contain passwords?",
+          "paragraphs": [
+            "General infrastructure documentation should not contain unprotected passwords, private keys or other sensitive credentials.",
+            "Necessary access information should be transferred and managed through approved secure mechanisms, with suitable permissions and accountability."
+          ]
+        },
+        {
+          "title": "Can you provide testing and commissioning reports?",
+          "paragraphs": [
+            "Relevant installation test records and commissioning documentation can be compiled where the tests were included in the approved scope and supporting evidence is available.",
+            "A report should identify the actual tests performed rather than imply that unperformed verification activities have been completed."
+          ]
+        },
+        {
+          "title": "Does documentation prove that an installation meets a technical standard?",
+          "paragraphs": [
+            "Not by itself.",
+            "Accurate records help demonstrate what was installed and what was tested, but formal compliance claims require the applicable standard, appropriate testing, competent assessment and relevant evidence."
+          ]
+        },
+        {
+          "title": "What is TIA-606?",
+          "paragraphs": [
+            "TIA-606 is a telecommunications infrastructure administration standard covering identifiers, records, labels and related documentation practices.",
+            "Its relevance to a particular project should be established in the approved specification. Using a labelling convention does not automatically establish compliance with the full standard."
+          ]
+        },
+        {
+          "title": "Can documentation be prepared in Excel, PDF or editable formats?",
+          "paragraphs": [
+            "The required format can be agreed with the customer.",
+            "Equipment schedules and port maps may be maintained in spreadsheets, while diagrams and project reports may be supplied in suitable PDF or editable formats, depending on the available tools and deliverables."
+          ]
+        },
+        {
+          "title": "Can you document installations completed by another contractor?",
+          "paragraphs": [
+            "Third-party installations can be considered for documentation, subject to site access, available technical information and permission to inspect or test the infrastructure.",
+            "Incomplete records may require additional verification to avoid creating inaccurate as-built information."
+          ]
+        },
+        {
+          "title": "How are undocumented cable connections verified?",
+          "paragraphs": [
+            "Verification methods depend on the cable type and environment.",
+            "They may include visual inspection, authorised tracing, existing identifier checks and appropriate test equipment. Active connections should not be disconnected or changed without permission."
+          ]
+        },
+        {
+          "title": "Can you update documentation after equipment changes?",
+          "paragraphs": [
+            "Documentation updates may be included when equipment is added, replaced, relocated or reconfigured.",
+            "Maintaining records throughout the infrastructure lifecycle is preferable to allowing the original handover package to become outdated."
+          ]
+        },
+        {
+          "title": "What is a project punch list?",
+          "paragraphs": [
+            "A punch list records outstanding or incomplete items that must be resolved, reviewed or formally accepted according to the project agreement.",
+            "It helps separate completed deliverables from remaining corrective or closeout activities."
+          ]
+        },
+        {
+          "title": "Does project handover include training?",
+          "paragraphs": [
+            "A technical walkthrough or operational guidance may be included where agreed.",
+            "Formal administrator training, manufacturer certification or extensive knowledge-transfer programmes require a separately defined scope."
+          ]
+        },
+        {
+          "title": "Who owns the project documentation after handover?",
+          "paragraphs": [
+            "Ownership, permitted use, confidentiality and rights to editable files should be specified in the project agreement.",
+            "This is especially important where documentation includes proprietary templates, third-party materials or sensitive infrastructure information."
+          ]
+        },
+        {
+          "title": "How should infrastructure documentation be stored?",
+          "paragraphs": [
+            "Documentation should be kept in an appropriately controlled location with defined access permissions, backup arrangements and a process for managing revisions.",
+            "Sensitive network diagrams and system configurations should not be made publicly accessible."
+          ]
+        },
+        {
+          "title": "Can you provide documentation for multiple locations?",
+          "paragraphs": [
+            "Multi-site documentation can be structured around an agreed location hierarchy, asset identifiers, naming conventions and consistent records.",
+            "The required site visits, verification activities and document structure should be defined for each location."
+          ]
+        },
+        {
+          "title": "How long does project documentation take?",
+          "paragraphs": [
+            "The timeframe depends on the size of the infrastructure, document detail, available records, site access and verification required.",
+            "Documentation prepared alongside an installation may be easier to complete than records reconstructed long after project delivery."
+          ]
+        },
+        {
+          "title": "What information do you need to prepare a documentation quotation?",
+          "paragraphs": [
+            "Useful information includes the site location, infrastructure type, approximate equipment count, available diagrams, cabling quantities and required deliverables.",
+            "Any existing project scope, BOQ, equipment inventory or test records may also help."
+          ]
+        },
+        {
+          "title": "How do we get started with IT installation documentation or project handover?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of the installation or existing infrastructure and the documents you require.",
+            "We can review the available information and discuss the verification activities, documentation formats and appropriate project scope."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Documentation & Handover Requirements"
+    },
+    "closing": {
+      "title": "Every Good Installation Deserves a Clear Record.",
+      "paragraphs": [
+        "Whether you're completing a new IT deployment, preparing technical records for your operations team or trying to understand an existing infrastructure environment, Integrated Solutions Technology can help you organise the documentation needed for informed maintenance and future changes."
+      ],
+      "primary": "Discuss Your Project Handover",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  },
+  "firewall": {
+    "name": "Firewall Supply, Installation & Licensing",
+    "hero": {
+      "title": "Secure Your Network. Control What Connects.",
+      "primary": "Request a Firewall Consultation",
+      "secondary": "Explore IT Infrastructure Solutions"
+    },
+    "benefits": {
+      "title": "Protect the Connections Your Business Depends On.",
+      "paragraphs": [
+        "A properly planned solution helps your business control permitted connections and manage relevant network security functions."
+      ],
+      "items": [
+        {
+          "title": "Control Network Traffic",
+          "paragraphs": [
+            "Apply approved rules to permit necessary communications and restrict unwanted connections between defined network areas."
+          ]
+        },
+        {
+          "title": "Match Security to Your Environment",
+          "paragraphs": [
+            "Select suitable hardware or virtual appliances according to users, connectivity, traffic requirements and intended features."
+          ]
+        },
+        {
+          "title": "Maintain Licensed Capabilities",
+          "paragraphs": [
+            "Understand which subscriptions, security services and manufacturer support entitlements are required for the chosen solution."
+          ]
+        },
+        {
+          "title": "Plan for Long-Term Operations",
+          "paragraphs": [
+            "Document essential configurations, review renewal requirements and establish appropriate maintenance responsibilities."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Firewall. The Right Configuration. The Right Entitlements.",
+      "paragraphs": [
+        "We help organisations assess firewall requirements, source suitable equipment and define the installation, licensing and technical activities needed for an approved deployment."
+      ],
+      "entries": [
+        {
+          "title": "Firewall Requirements & Product Selection",
+          "tagline": "Choose the Firewall Your Network Actually Needs.",
+          "paragraphs": [
+            "Firewall selection involves more than the number of network ports or advertised throughput.",
+            "We review the relevant network environment, internet connectivity, number of users, expected traffic, required security services and available infrastructure.",
+            "The assessment helps identify suitable firewall models, deployment options, interface requirements, capacity considerations and relevant licensing or support needs."
+          ],
+          "cta": "Discuss Firewall Selection"
+        },
+        {
+          "title": "Firewall Procurement & Licensing",
+          "tagline": "Understand What You're Buying and What It Includes.",
+          "paragraphs": [
+            "Enterprise firewall purchases may involve hardware, support contracts, security subscriptions and additional licensed features.",
+            "We help customers review suitable procurement requirements, product specifications and available subscription options.",
+            "For existing equipment, we can review relevant model information, serial numbers, entitlement details and renewal requirements before preparing an appropriate quotation."
+          ],
+          "cta": "Request a Firewall & Licence Quote"
+        },
+        {
+          "title": "Firewall Installation & Policy Configuration",
+          "tagline": "Deploy Network Security With the Right Controls.",
+          "paragraphs": [
+            "A firewall must be installed and configured for the organisation's approved network requirements.",
+            "We support suitable physical or virtual deployment activities, interface configuration and implementation of authorised traffic-control policies.",
+            "Depending on the agreed scope and selected platform, this may involve network-zone arrangements, routing, supported VPN features, administrative access controls and appropriate logging settings.",
+            "Changes to an operating network should follow approved implementation and recovery procedures."
+          ],
+          "cta": "Discuss Firewall Installation"
+        },
+        {
+          "title": "Licence Activation, Verification & Handover",
+          "tagline": "Confirm the Equipment and Services Are Ready for Use.",
+          "paragraphs": [
+            "After deployment, the relevant configuration and licensed capabilities should be checked against the agreed requirements.",
+            "We review applicable device registration, subscription activation, licence status and approved connectivity functions.",
+            "Verification may include relevant rule behaviour, internet access, authorised network communications, administrative controls and expected logging functions.",
+            "The handover can include configuration records, licence information, renewal dates and agreed maintenance recommendations."
+          ],
+          "cta": "Discuss Firewall Setup & Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Security Infrastructure Built Around Your Network.",
+      "paragraphs": [
+        "Explore the equipment, interfaces and technical activities involved in deploying enterprise firewalls."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Firewall Appliances",
+          "paragraphs": [
+            "Suitable dedicated network-security appliances selected for approved performance, connectivity and security requirements."
+          ]
+        },
+        {
+          "title": "Firewall Installation & Network Integration",
+          "paragraphs": [
+            "Firewalls installed in compatible network environments with relevant interfaces, cabling and supporting equipment."
+          ]
+        },
+        {
+          "title": "Firewall Policy & Security Configuration",
+          "paragraphs": [
+            "Approved firewall rules and management settings configured around defined users, applications and network zones."
+          ]
+        },
+        {
+          "title": "Firewall Licensing & Subscription Management",
+          "paragraphs": [
+            "Relevant product entitlements, security-service subscriptions and support information organised for ongoing administration."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Firewall Requirements"
+    },
+    "faq": {
+      "title": "Your Enterprise Firewall Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is a network firewall?",
+          "paragraphs": [
+            "A network firewall is a hardware or software security control used to manage traffic between defined networks or systems according to configured rules.",
+            "Depending on the product, it may also provide additional capabilities such as application awareness, intrusion prevention, VPN connectivity and security logging."
+          ]
+        },
+        {
+          "title": "What is a next-generation firewall?",
+          "paragraphs": [
+            "A next-generation firewall (NGFW) extends conventional traffic filtering with additional capabilities that may include application identification, intrusion prevention and advanced security services.",
+            "The available features, performance and licensing requirements differ by manufacturer and product model."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology supply enterprise firewalls in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers Firewall Supply, Installation & Licensing within its IT Services & Technical Support division.",
+            "Specific firewall models, manufacturers, licence options and equipment availability should be confirmed during the procurement process."
+          ]
+        },
+        {
+          "title": "How much does an enterprise firewall cost in Nigeria?",
+          "paragraphs": [
+            "Firewall pricing depends on the manufacturer, model, performance capacity, number of interfaces, required security services, support level and subscription duration.",
+            "A quotation should identify the appliance cost separately from applicable licences, subscriptions, installation and other services."
+          ]
+        },
+        {
+          "title": "Can you supply firewalls from Fortinet, Sophos, Cisco or Palo Alto Networks?",
+          "paragraphs": [
+            "Products from these manufacturers may be considered where suitable for the customer's requirements.",
+            "Actual sourcing capability, availability, model compatibility and commercial terms must be confirmed. Manufacturer-authorised reseller or partner status should not be assumed."
+          ]
+        },
+        {
+          "title": "How do I choose the right firewall for my business?",
+          "paragraphs": [
+            "Selection should consider your network design, internet bandwidth, expected traffic, user count, connected sites, required security functions and future capacity.",
+            "It is also important to evaluate performance with the intended security features enabled rather than relying only on headline firewall throughput figures."
+          ]
+        },
+        {
+          "title": "What is the difference between a firewall appliance and a virtual firewall?",
+          "paragraphs": [
+            "A physical firewall appliance runs on dedicated hardware.",
+            "A virtual firewall runs as software within a supported virtualisation or cloud environment. The appropriate choice depends on infrastructure architecture, performance requirements, licensing and operational responsibilities."
+          ]
+        },
+        {
+          "title": "Do small businesses need enterprise firewalls?",
+          "paragraphs": [
+            "Smaller organisations may benefit from suitable business-grade firewalls when they need defined access controls, supported security services, remote connectivity or network segmentation.",
+            "The correct solution depends on the environment and risk requirements, not simply the size of the business."
+          ]
+        },
+        {
+          "title": "What is the difference between a router and a firewall?",
+          "paragraphs": [
+            "A router primarily directs traffic between networks. A firewall applies security policies to control permitted traffic.",
+            "Some products combine routing and firewall capabilities, but the available security features and administrative controls vary."
+          ]
+        },
+        {
+          "title": "Can you install a firewall on an existing office network?",
+          "paragraphs": [
+            "Yes, where the proposed equipment is suitable for the existing infrastructure.",
+            "The installation plan should review current routing, addressing, connections, security requirements and the potential effect on users and applications."
+          ]
+        },
+        {
+          "title": "Does firewall installation require internet downtime?",
+          "paragraphs": [
+            "Some deployments can be staged to reduce disruption, while others require an approved cutover window.",
+            "The actual interruption depends on the network architecture, redundancy, configuration and migration approach. Uninterrupted service should not be guaranteed without a verified design."
+          ]
+        },
+        {
+          "title": "What are firewall rules or security policies?",
+          "paragraphs": [
+            "Firewall rules define how particular traffic is handled based on criteria supported by the platform.",
+            "These may include source and destination networks, services, applications, users or security zones.",
+            "Policies should permit necessary business communications while restricting unnecessary access."
+          ]
+        },
+        {
+          "title": "Can a firewall help separate guest Wi-Fi from the office network?",
+          "paragraphs": [
+            "Yes. A properly designed network can use firewall policies and suitable network segmentation to restrict communications between guest, employee and other designated networks.",
+            "The complete arrangement may also depend on compatible switches, wireless equipment and routing configurations."
+          ]
+        },
+        {
+          "title": "Can a firewall support secure connections between company branches?",
+          "paragraphs": [
+            "Many enterprise firewalls support compatible site-to-site VPN arrangements.",
+            "Implementation depends on network connectivity, platform support, security requirements, addressing and the agreed configuration."
+          ]
+        },
+        {
+          "title": "Can employees connect securely to office systems while working remotely?",
+          "paragraphs": [
+            "Supported firewalls may provide remote-access VPN capabilities or integrate with other appropriate access solutions.",
+            "The specific features, authentication requirements, endpoint controls and licensing must be assessed for the selected platform."
+          ]
+        },
+        {
+          "title": "What is included in a firewall licence?",
+          "paragraphs": [
+            "There is no universal firewall licence package.",
+            "Depending on the vendor, subscriptions or entitlements may cover security updates, threat-prevention capabilities, filtering services, cloud-based features, technical support or management functions.",
+            "The exact product codes and services should be confirmed before purchase."
+          ]
+        },
+        {
+          "title": "Is a firewall licence the same as a manufacturer support contract?",
+          "paragraphs": [
+            "Not always.",
+            "Some manufacturers distinguish support contracts from security-service subscriptions, while others sell bundled packages.",
+            "The quotation should identify the actual entitlements and their terms."
+          ]
+        },
+        {
+          "title": "What happens when a firewall security subscription expires?",
+          "paragraphs": [
+            "The consequences depend on the manufacturer and subscription.",
+            "Some firewall functions may continue while specific security updates or cloud services become unavailable. Other features may stop operating or become restricted.",
+            "The effect should be checked against the exact device, firmware version and licence terms."
+          ]
+        },
+        {
+          "title": "Can I renew the licence on an existing firewall?",
+          "paragraphs": [
+            "Renewal may be possible for supported products where the relevant manufacturer entitlements remain available.",
+            "The device model, serial number, registered account, existing subscriptions and renewal eligibility should be reviewed before quotation."
+          ]
+        },
+        {
+          "title": "What information is needed for a firewall licence renewal quote?",
+          "paragraphs": [
+            "Useful information includes the manufacturer, exact model, serial number, current licence or service details and preferred subscription term.",
+            "The customer's registered support account may also be relevant.",
+            "Sensitive account credentials should not be shared through an ordinary quotation form."
+          ]
+        },
+        {
+          "title": "Can you supply firewall licences without supplying new hardware?",
+          "paragraphs": [
+            "Licence-only or subscription renewal requests may be considered for compatible, eligible devices.",
+            "Availability depends on the manufacturer, product lifecycle, account ownership and applicable commercial arrangements."
+          ]
+        },
+        {
+          "title": "Can you help activate a firewall subscription?",
+          "paragraphs": [
+            "Activation assistance may be included in the agreed scope.",
+            "The process depends on the manufacturer's registration procedures, device status, support account and entitlement requirements."
+          ]
+        },
+        {
+          "title": "Can you transfer an existing firewall licence to a replacement device?",
+          "paragraphs": [
+            "Licence transfer is not universally permitted.",
+            "Eligibility depends on the manufacturer's policy, product type, registration status and contractual terms. Transfer options must be confirmed before assuming that existing entitlements can be reused."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing firewall instead of replacing it?",
+          "paragraphs": [
+            "Some existing firewalls can benefit from supported software updates, configuration changes or additional licensed capabilities.",
+            "Replacement may be more appropriate when performance is inadequate, required features are unavailable or manufacturer support is ending."
+          ]
+        },
+        {
+          "title": "Can you migrate configuration from one firewall to another?",
+          "paragraphs": [
+            "Configuration migration may be included as a separately defined technical activity.",
+            "Compatibility, policy behaviour, network interfaces, VPN arrangements, software versions and rollback requirements must be reviewed before implementation."
+          ]
+        },
+        {
+          "title": "Can a firewall prevent every cyberattack?",
+          "paragraphs": [
+            "No. A firewall is one part of a broader cybersecurity programme.",
+            "It cannot eliminate every risk involving compromised credentials, malicious software, misconfiguration, unprotected endpoints or other attack methods."
+          ]
+        },
+        {
+          "title": "Does firewall installation include penetration testing?",
+          "paragraphs": [
+            "Not automatically.",
+            "Firewall deployment verification and formal penetration testing are different activities. Independent security assessment, vulnerability scanning or penetration testing must be explicitly defined and authorised if required."
+          ]
+        },
+        {
+          "title": "Do you configure firewall logging and alerts?",
+          "paragraphs": [
+            "Suitable logging or alert configuration may be included where supported by the selected platform.",
+            "Log retention, storage location, monitoring arrangements, privacy obligations and alert response should be agreed separately."
+          ]
+        },
+        {
+          "title": "Does firewall installation include ongoing security monitoring?",
+          "paragraphs": [
+            "Not automatically.",
+            "Installing a firewall does not create a managed security operations service. Continuous threat monitoring, incident response and managed firewall administration require defined capabilities, processes and contractual arrangements."
+          ]
+        },
+        {
+          "title": "Can you provide firewall maintenance and updates?",
+          "paragraphs": [
+            "Appropriate maintenance or update assistance can be discussed for supported equipment.",
+            "The scope should define firmware management, policy review, configuration backup, licence administration, change approvals and relevant support arrangements."
+          ]
+        },
+        {
+          "title": "How long does firewall installation take?",
+          "paragraphs": [
+            "The timeframe depends on the existing network, device type, configuration complexity, required VPNs, security policies, migration needs and testing.",
+            "A deployment plan should follow assessment of the environment and approved technical scope."
+          ]
+        },
+        {
+          "title": "What do you need to prepare a firewall quotation?",
+          "paragraphs": [
+            "Useful details include the organisation's location, existing network, approximate number of users, internet bandwidth, required ports, connected branches, preferred manufacturer and intended security features.",
+            "Existing firewall details, network diagrams and licence information may also help."
+          ]
+        },
+        {
+          "title": "How do we get started with a firewall project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your network environment, firewall requirements and whether you need new equipment, installation or licence renewal.",
+            "We can review the technical and procurement requirements and discuss the appropriate solution and quotation."
+          ]
+        }
+      ],
+      "cta": "Request a Firewall & Licensing Consultation"
+    },
+    "closing": {
+      "title": "The Right Protection Starts With the Right Firewall Plan.",
+      "paragraphs": [
+        "Whether you're purchasing a new enterprise firewall, replacing an unsupported appliance or renewing security subscriptions, Integrated Solutions Technology can help you evaluate the requirements and plan an appropriate next step."
+      ],
+      "primary": "Request a Firewall Consultation",
+      "secondary": "Explore IT Services & Technical Support"
+    }
+  }
+}

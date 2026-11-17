@@ -1,0 +1,2104 @@
+{
+  "design": {
+    "name": "Network Design & Installation",
+    "hero": {
+      "title": "Better Connectivity Starts With a Better Network.",
+      "primary": "Discuss Your Network Project",
+      "secondary": "Explore Network Solutions"
+    },
+    "benefits": {
+      "title": "A Network That Works With Your Business. Not Against It.",
+      "paragraphs": [
+        "Whether you're setting up a new office or connecting multiple departments, the right network should support your users, devices and applications without unnecessary complexity."
+      ],
+      "items": [
+        {
+          "title": "Reliable Everyday Connectivity",
+          "paragraphs": [
+            "Create a properly designed network that supports stable connections between employees, devices and essential business systems."
+          ]
+        },
+        {
+          "title": "Better Network Performance",
+          "paragraphs": [
+            "Plan suitable network capacity, equipment and traffic management around your organisation's actual requirements."
+          ]
+        },
+        {
+          "title": "Security Considered From the Start",
+          "paragraphs": [
+            "Include appropriate network separation, access controls and security requirements in the proposed design."
+          ]
+        },
+        {
+          "title": "Infrastructure That Can Grow",
+          "paragraphs": [
+            "Prepare your network for additional users, new devices and evolving business applications without unnecessary redesign."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Connection Has a Purpose. Every Network Needs a Plan.",
+      "paragraphs": [
+        "We help organisations move from network requirements to an installed and configured infrastructure environment."
+      ],
+      "entries": [
+        {
+          "title": "Network Assessment & Site Survey",
+          "tagline": "Understand Your Network Requirements Before Installation.",
+          "paragraphs": [
+            "Every organisation has different connectivity needs.",
+            "We review your existing network, building layout, number of users, connected devices, applications and relevant performance concerns.",
+            "This helps identify network coverage requirements, equipment needs, available cable routes and infrastructure limitations that should be addressed during design."
+          ],
+          "cta": "Discuss Your Network Requirements"
+        },
+        {
+          "title": "Network Architecture & Design",
+          "tagline": "A Network Designed Around How Your Business Operates.",
+          "paragraphs": [
+            "Good network design brings together the right equipment, connectivity arrangements and technical requirements.",
+            "We develop suitable network layouts covering switches, routers, wired connections, wireless access points and relevant network segmentation requirements.",
+            "The proposed architecture considers capacity, equipment compatibility, security needs and future expansion."
+          ],
+          "cta": "Plan Your Business Network"
+        },
+        {
+          "title": "Network Equipment & Infrastructure Installation",
+          "tagline": "Turn Your Network Design Into Connected Infrastructure.",
+          "paragraphs": [
+            "The installation stage brings your network equipment and physical connections together.",
+            "We deploy suitable routers, switches, wireless access points and supporting cabling infrastructure according to the agreed network design.",
+            "Our approach considers equipment placement, cable organisation, appropriate installation practices and integration with existing systems where required."
+          ],
+          "cta": "Discuss Your Network Installation"
+        },
+        {
+          "title": "Network Configuration, Testing & Handover",
+          "tagline": "Connected Is Good. Verified Is Better.",
+          "paragraphs": [
+            "A network should be checked and appropriately configured before being handed over for everyday use.",
+            "We complete agreed device configuration and relevant connectivity checks, reviewing whether the installed network meets the defined requirements.",
+            "Where included in the project scope, we provide network documentation and operational guidance to support ongoing management and future upgrades."
+          ],
+          "cta": "Discuss Network Deployment & Support"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Technology Behind a Connected Workplace.",
+      "paragraphs": [
+        "Explore the equipment and installation activities involved in building professional business networks."
+      ],
+      "items": [
+        {
+          "title": "Network Architecture & Layout Planning",
+          "paragraphs": [
+            "Planning suitable network connections, equipment locations and infrastructure requirements around the physical environment."
+          ]
+        },
+        {
+          "title": "Switches, Routers & Network Equipment",
+          "paragraphs": [
+            "Installing compatible network devices to support communication between users, systems and connected infrastructure."
+          ]
+        },
+        {
+          "title": "Office Network & Structured Cabling",
+          "paragraphs": [
+            "Connecting workstations, network devices and suitable business systems through organised physical cabling."
+          ]
+        },
+        {
+          "title": "Network Configuration & Connectivity Checks",
+          "paragraphs": [
+            "Configuring agreed network settings and reviewing connectivity before handover."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Installation Project"
+    },
+    "faq": {
+      "title": "Your Business Network Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is network design and installation?",
+          "paragraphs": [
+            "Network design and installation involves planning, deploying and configuring the infrastructure that connects an organisation's computers, servers, printers, wireless devices and other networked systems. The scope can include routers, switches, structured cabling, wireless networking, network configuration and connectivity testing."
+          ]
+        },
+        {
+          "title": "How much does office network installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the size of your office, number of network points, equipment specifications, cabling requirements, wireless coverage needs and configuration complexity. A site assessment helps establish the appropriate scope and quotation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide network installation for offices in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides network design and installation services for business and enterprise environments. Projects can include network assessment, equipment planning, installation, configuration and relevant verification activities according to agreed requirements."
+          ]
+        },
+        {
+          "title": "Can you design a network for a new office building?",
+          "paragraphs": [
+            "Yes. Network design for a new office can account for the number of users, workstations, printers, access points, servers and other devices. It also considers cable pathways, equipment locations, internet connectivity and future expansion."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing business network?",
+          "paragraphs": [
+            "Yes. An existing network can be assessed to identify performance problems, equipment limitations, connectivity gaps and opportunities for improvement. The recommended changes depend on the condition of the infrastructure and the organisation's requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between network design and structured cabling?",
+          "paragraphs": [
+            "Network design defines how devices and systems should communicate, including the network architecture, equipment and logical connectivity. Structured cabling provides the organised physical cabling infrastructure that supports many of those connections."
+          ]
+        },
+        {
+          "title": "What equipment is needed for an office network?",
+          "paragraphs": [
+            "Common equipment includes routers, network switches, wireless access points, network cabinets, patch panels and appropriate cabling. The exact requirements depend on the office size, devices, applications and design."
+          ]
+        },
+        {
+          "title": "Can you connect multiple departments or floors within one building?",
+          "paragraphs": [
+            "Yes. A properly designed network can connect departments and floors through suitable wired or wireless infrastructure. The design depends on building layout, connection distances, equipment capacity and operational requirements."
+          ]
+        },
+        {
+          "title": "Can you connect multiple buildings within one business premises?",
+          "paragraphs": [
+            "Yes, where suitable infrastructure and access arrangements are available. Depending on the site, connections may use fibre optic cabling or appropriate wireless links. The preferred approach is determined by distance, environmental conditions, bandwidth and reliability requirements."
+          ]
+        },
+        {
+          "title": "Can you install both wired and wireless networks?",
+          "paragraphs": [
+            "Yes. A business network may combine structured Ethernet cabling with wireless access points. Wired and wireless connectivity can be designed together to support different users, devices and applications."
+          ]
+        },
+        {
+          "title": "How can professional network design improve internet performance?",
+          "paragraphs": [
+            "A well-designed local network can reduce internal bottlenecks, improve wireless coverage and ensure suitable capacity between connected devices. However, it cannot increase the speed of an internet service beyond the capacity provided by the internet service provider."
+          ]
+        },
+        {
+          "title": "Can you separate staff, guest and business-critical network traffic?",
+          "paragraphs": [
+            "Suitable network designs can include segmentation through technologies such as VLANs, access controls and firewall policies. The configuration depends on equipment capabilities, security requirements and agreed implementation scope."
+          ]
+        },
+        {
+          "title": "Can you install a network without interrupting business operations?",
+          "paragraphs": [
+            "Some installation activities can be carried out while a business remains operational. However, equipment replacement, network reconfiguration or connection changes may require planned maintenance windows. Potential disruption should be identified during project planning."
+          ]
+        },
+        {
+          "title": "How do you determine the number of network points required?",
+          "paragraphs": [
+            "Network points are planned around workstations, printers, access points, telephones, cameras, servers and other wired devices. Future requirements and the physical layout should also be considered."
+          ]
+        },
+        {
+          "title": "How long does business network installation take?",
+          "paragraphs": [
+            "The timeframe depends on facility size, cabling requirements, equipment availability, network complexity and installation conditions. A site survey and agreed project scope help establish a suitable schedule."
+          ]
+        },
+        {
+          "title": "Do you provide network testing after installation?",
+          "paragraphs": [
+            "Relevant connectivity and configuration checks can be included as part of installation. Where formal copper or fibre cable certification is required, the specific testing procedures and deliverables should be agreed separately."
+          ]
+        },
+        {
+          "title": "Will we receive network diagrams and installation documentation?",
+          "paragraphs": [
+            "Relevant diagrams, equipment information, connection records and configuration handover details can be included according to the agreed project scope. Documentation requirements should be defined before implementation."
+          ]
+        },
+        {
+          "title": "Can you support network maintenance after installation?",
+          "paragraphs": [
+            "Integrated Solutions Technology also offers network configuration and upgrades, equipment installation and IT technical support services. The available support arrangement depends on the equipment and operational requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with a network design and installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your property location, number of users, type of facility, existing network challenges and intended applications. These details help define the next steps towards a site assessment and suitable network proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Design & Installation Requirements"
+    },
+    "closing": {
+      "title": "Your Business Runs on Connections. Make Every One Count.",
+      "paragraphs": [
+        "Whether you're opening a new office, replacing unreliable infrastructure or preparing your network for growth, Integrated Solutions Technology can help you design and install connectivity that supports your organisation's needs."
+      ],
+      "primary": "Discuss Your Network Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "lan": {
+    "name": "Structured LAN Cabling",
+    "hero": {
+      "title": "Every Reliable Network Starts With the Right Connections.",
+      "primary": "Discuss Your LAN Cabling Project",
+      "secondary": "Explore Network Cabling Services"
+    },
+    "benefits": {
+      "title": "The Cables You Don't See Make the Connections You Depend On.",
+      "paragraphs": [
+        "A structured cabling system brings order to the physical connections that support your business."
+      ],
+      "items": [
+        {
+          "title": "Consistent Wired Connectivity",
+          "paragraphs": [
+            "Create suitable physical network connections for workstations, printers, IP phones and other compatible business devices."
+          ]
+        },
+        {
+          "title": "Organised Cable Infrastructure",
+          "paragraphs": [
+            "Keep cable routes, outlets and patch panels arranged for easier access, identification and maintenance."
+          ]
+        },
+        {
+          "title": "Easier Troubleshooting",
+          "paragraphs": [
+            "Clearly identified connections make it easier to trace network points and investigate cabling-related faults."
+          ]
+        },
+        {
+          "title": "Ready for Future Connections",
+          "paragraphs": [
+            "Plan network outlet locations and suitable cable capacity around changing workspaces, devices and business requirements."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Cable Run Planned. Every Connection Given a Purpose.",
+      "paragraphs": [
+        "We help businesses establish a physical network infrastructure that is practical to use and easier to maintain."
+      ],
+      "entries": [
+        {
+          "title": "LAN Cabling Survey & Layout",
+          "tagline": "Know Where Every Connection Needs to Go.",
+          "paragraphs": [
+            "The right installation starts by understanding your workspace, connected devices and network point requirements.",
+            "We review floor layouts, workstation locations, network cabinet positions, available pathways and potential installation constraints.",
+            "This helps determine suitable outlet locations, cable routes, estimated connection quantities and the cabling specifications needed for the project."
+          ],
+          "cta": "Discuss Your Cabling Requirements"
+        },
+        {
+          "title": "Cat6 & Cat6A Ethernet Cabling Installation",
+          "tagline": "The Right Cable for the Right Network Requirement.",
+          "paragraphs": [
+            "Your cabling infrastructure should support the applications and equipment you intend to connect.",
+            "We install suitable copper Ethernet cabling, including Cat6 and Cat6A where specified, through planned routes between network distribution points and device locations.",
+            "Cable selection and installation consider required network performance, transmission distances, pathway conditions and future connectivity needs."
+          ],
+          "cta": "Plan Your Ethernet Cabling Installation"
+        },
+        {
+          "title": "Network Outlets, Patch Panels & Termination",
+          "tagline": "Make Every Network Point Easy to Connect and Identify.",
+          "paragraphs": [
+            "A well-installed cable needs suitable termination at both ends.",
+            "We install compatible network data outlets, keystone jacks, patch panels and supporting rack-level cable management according to the agreed cabling layout.",
+            "Connections are organised and identified using the project's labelling convention, helping your IT team locate network points and manage changes more efficiently."
+          ],
+          "cta": "Discuss Network Point Installation"
+        },
+        {
+          "title": "Cabling Testing, Labelling & Handover",
+          "tagline": "Know What's Connected Before Your Network Goes Live.",
+          "paragraphs": [
+            "A completed cabling installation should be checked against the agreed requirements.",
+            "We perform appropriate connection verification and review relevant outlet identification, patch panel arrangements and installed cable records.",
+            "Where formal Category 6 or Category 6A certification is required, the necessary testing method, instruments and reports must be specified in the project scope."
+          ],
+          "cta": "Discuss Cabling Testing & Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Neatly Installed. Clearly Identified. Ready to Connect.",
+      "paragraphs": [
+        "Explore the physical infrastructure behind organised workplace connectivity."
+      ],
+      "items": [
+        {
+          "title": "Office Ethernet Cabling Installation",
+          "paragraphs": [
+            "Copper network cables routed to suitable workstation positions, meeting rooms and other approved device locations."
+          ]
+        },
+        {
+          "title": "Network Data Outlets & Faceplates",
+          "paragraphs": [
+            "Compatible RJ45 data outlets installed at designated points to support wired connectivity for business equipment."
+          ]
+        },
+        {
+          "title": "Patch Panels & Network Cabinets",
+          "paragraphs": [
+            "Organised network cable termination and patch panel arrangements within suitable communication cabinets."
+          ]
+        },
+        {
+          "title": "Cable Testing & Identification",
+          "paragraphs": [
+            "Checking installed network points and identifying connections to support maintenance, troubleshooting and future changes."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Structured Cabling Project"
+    },
+    "faq": {
+      "title": "Your Structured Cabling Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is structured LAN cabling?",
+          "paragraphs": [
+            "Structured LAN cabling is an organised system of network cables, outlets, patch panels and supporting components used to connect devices within a building or facility. It provides the physical infrastructure for wired local area network connections."
+          ]
+        },
+        {
+          "title": "How much does structured LAN cabling installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number of network points, cable category, installation distances, building layout, cable pathways, accessories, testing requirements and site conditions. A site survey helps determine the required materials and installation scope."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install Cat6 and Cat6A network cables?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides structured LAN cabling services, including suitable Cat6 and Cat6A installations according to project requirements. The appropriate category is selected based on network performance needs, equipment compatibility and installation conditions."
+          ]
+        },
+        {
+          "title": "What is the difference between Cat6 and Cat6A cabling?",
+          "paragraphs": [
+            "Cat6 and Cat6A are different categories of twisted-pair copper network cabling. Cat6A is designed to support 10 Gigabit Ethernet over a standard 100-metre channel when correctly installed with compatible components. Cat6 can support 10 Gigabit Ethernet over shorter distances under suitable conditions. The best choice depends on the network design and expected applications."
+          ]
+        },
+        {
+          "title": "Is Cat6 cable enough for a modern office?",
+          "paragraphs": [
+            "Cat6 may be suitable for many office networks using common Ethernet applications. However, businesses planning higher-speed connections, demanding equipment or longer-term infrastructure requirements may benefit from Cat6A. The decision should reflect actual network needs rather than assuming one category is best for every installation."
+          ]
+        },
+        {
+          "title": "How many network points does an office need?",
+          "paragraphs": [
+            "The number depends on workstations, printers, IP phones, wireless access points, cameras and other wired devices. Meeting rooms, shared spaces and future expansion should also be considered when planning outlet locations."
+          ]
+        },
+        {
+          "title": "What is the maximum distance for an Ethernet cable run?",
+          "paragraphs": [
+            "For conventional structured copper Ethernet cabling, a typical maximum channel length is 100 metres, including patch cords, with a permanent horizontal link commonly limited to 90 metres. The applicable limits and supported speed depend on the cable category and design."
+          ]
+        },
+        {
+          "title": "Can you install network cables in an existing office?",
+          "paragraphs": [
+            "Yes. Cabling can be installed in occupied offices, subject to available routes, building conditions, access restrictions and agreed work schedules. Some installations may require furniture movement, ceiling access or planned interruption to particular areas."
+          ]
+        },
+        {
+          "title": "Can structured cabling support Wi-Fi access points and CCTV cameras?",
+          "paragraphs": [
+            "Yes. Suitable Ethernet cabling can connect wireless access points, IP cameras and other network devices. Where Power over Ethernet is required, cable selection, installation conditions, equipment compatibility and power requirements must be considered."
+          ]
+        },
+        {
+          "title": "Do network cables need to be installed inside conduits or cable trays?",
+          "paragraphs": [
+            "Cables should be installed using pathways appropriate to the building and environmental conditions. These may include conduits, trunking, trays or other approved cable management systems. The choice depends on the installation design and applicable safety requirements."
+          ]
+        },
+        {
+          "title": "What is a network patch panel?",
+          "paragraphs": [
+            "A patch panel provides an organised termination point for multiple network cables within a cabinet or rack. It helps network teams manage connections between fixed building cabling and network equipment."
+          ]
+        },
+        {
+          "title": "What is the difference between structured cabling and ordinary network cabling?",
+          "paragraphs": [
+            "An individual network cable connects specific devices, while structured cabling provides a planned system of cable routes, outlets, patch panels, identification and supporting infrastructure. This makes it more practical to manage connections across offices and larger facilities."
+          ]
+        },
+        {
+          "title": "How do you test structured network cabling?",
+          "paragraphs": [
+            "Testing may include checking wire mapping, continuity, cable identification and other relevant connection properties. Qualification or formal certification may be necessary when a project requires evidence of specific network performance or standards compliance."
+          ]
+        },
+        {
+          "title": "Do you provide Cat6 or Cat6A cable certification reports?",
+          "paragraphs": [
+            "Formal certification testing can be discussed as a defined project requirement. It requires suitable calibrated test instruments and the applicable testing procedures. The availability of certification and the required reports should be confirmed before a project is agreed."
+          ]
+        },
+        {
+          "title": "Can you replace old network cables with Cat6 or Cat6A?",
+          "paragraphs": [
+            "Yes, existing cabling can be assessed to determine whether replacement is appropriate. The work may include removing or retiring unsuitable cables, installing new cable runs, terminating network points and updating relevant identification records."
+          ]
+        },
+        {
+          "title": "Can you extend network cabling to another floor or building?",
+          "paragraphs": [
+            "Additional floors may be connected through suitable structured cabling arrangements. Connections between separate buildings often require a different approach, such as fibre optic infrastructure, depending on distance, electrical conditions and site requirements."
+          ]
+        },
+        {
+          "title": "How long does structured LAN cabling installation take?",
+          "paragraphs": [
+            "The timeframe depends on the number of outlets, cable routes, access conditions, building readiness and testing requirements. A site survey and agreed scope help establish an appropriate installation schedule."
+          ]
+        },
+        {
+          "title": "Do you provide cable labelling and port mapping?",
+          "paragraphs": [
+            "Cable identification and connection records can be included in structured cabling projects. Detailed port mapping and rack remediation are also available as related network infrastructure services."
+          ]
+        },
+        {
+          "title": "What information do you need for a structured cabling quotation?",
+          "paragraphs": [
+            "Useful details include your facility location, floor plan, estimated number of network points, preferred cable category, network cabinet location, installation conditions and any testing or documentation requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with a LAN cabling installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your office or facility location, the areas requiring network connections and your expected number of devices. We can discuss the requirements and determine the next steps towards a cabling survey and installation proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your LAN Cabling Requirements"
+    },
+    "closing": {
+      "title": "Better Connections Begin Behind the Walls.",
+      "paragraphs": [
+        "Whether you're fitting out a new office, expanding your network points or replacing disorganised cabling, Integrated Solutions Technology can help you install structured LAN infrastructure that supports your business today and its changing needs."
+      ],
+      "primary": "Discuss Your Structured Cabling Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "fibre": {
+    "name": "Fibre Optic Cabling",
+    "hero": {
+      "title": "Connect Your Infrastructure. Without Letting Distance Hold You Back.",
+      "primary": "Discuss Your Fibre Optic Project",
+      "secondary": "Explore Our Cabling Solutions"
+    },
+    "benefits": {
+      "title": "When Your Network Needs to Go Further, the Infrastructure Matters.",
+      "paragraphs": [
+        "Fibre optic cabling provides a practical foundation for high-bandwidth network links, particularly where copper cabling may not suit the distance, capacity or electrical conditions."
+      ],
+      "items": [
+        {
+          "title": "High-Capacity Connectivity",
+          "paragraphs": [
+            "Support demanding network applications with fibre links selected for the required transmission speeds and compatible equipment."
+          ]
+        },
+        {
+          "title": "Connect Across Greater Distances",
+          "paragraphs": [
+            "Establish suitable connections between floors, buildings and network distribution points beyond the practical limits of conventional copper Ethernet cabling."
+          ]
+        },
+        {
+          "title": "Resistance to Electrical Interference",
+          "paragraphs": [
+            "Optical fibre carries data using light rather than electrical signals, making it immune to electromagnetic interference along the fibre itself."
+          ]
+        },
+        {
+          "title": "Infrastructure for Future Expansion",
+          "paragraphs": [
+            "Plan fibre routes, cable capacity and termination arrangements with changing network requirements in mind."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Fibre. The Right Route. A Connection You Can Rely On.",
+      "paragraphs": [
+        "We help organisations plan and implement fibre infrastructure around their physical environment and connectivity requirements."
+      ],
+      "entries": [
+        {
+          "title": "Fibre Network Survey & Backbone Planning",
+          "tagline": "Plan the Connection Before the Cable Is Installed.",
+          "paragraphs": [
+            "Every fibre installation starts with understanding what needs to be connected.",
+            "We review the proposed endpoints, transmission requirements, route distances, available pathways and existing network infrastructure.",
+            "This helps establish suitable fibre cable specifications, installation routes, termination locations and the supporting components required for the project."
+          ],
+          "cta": "Discuss Your Fibre Network Requirements"
+        },
+        {
+          "title": "Single-Mode & Multimode Fibre Installation",
+          "tagline": "Choose the Fibre That Fits Your Network.",
+          "paragraphs": [
+            "Different network environments require different fibre configurations.",
+            "We plan and install suitable single-mode or multimode fibre cabling for building backbones, campus connections, server rooms and other enterprise networking applications.",
+            "Cable selection considers the required data rate, transmission distance, compatible optical transceivers, installation environment and future network capacity."
+          ],
+          "cta": "Plan Your Fibre Cabling Installation"
+        },
+        {
+          "title": "Fibre Termination, Splicing & Patching",
+          "tagline": "Every Fibre Connection Deserves Precision.",
+          "paragraphs": [
+            "The quality of a fibre link depends on more than the cable itself.",
+            "We address suitable fibre termination, splicing, patch panels and optical distribution arrangements according to the agreed installation requirements.",
+            "Careful fibre handling, appropriate bend management, connector cleanliness and clear identification help create an organised infrastructure that is easier to maintain."
+          ],
+          "cta": "Discuss Fibre Termination & Splicing"
+        },
+        {
+          "title": "Fibre Testing, Verification & Handover",
+          "tagline": "Know the Condition of Your Connection Before It Goes Live.",
+          "paragraphs": [
+            "After installation, fibre links should be checked against the project's acceptance requirements.",
+            "We establish the appropriate verification scope, which may include connection identification, polarity checks, optical loss measurements and additional fibre diagnostics where specified.",
+            "Formal Tier 1 or Tier 2 certification, including any required OLTS or OTDR reports, must be explicitly defined and supported by the appropriate testing capability."
+          ],
+          "cta": "Discuss Fibre Testing Requirements"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Connections Behind High-Capacity Networks.",
+      "paragraphs": [
+        "Explore the equipment, installation activities and technical details involved in enterprise fibre optic infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Fibre Backbone Installation",
+          "paragraphs": [
+            "Fibre optic cable routes connecting suitable network distribution points, equipment rooms and building infrastructure."
+          ]
+        },
+        {
+          "title": "Fibre Splicing & Termination",
+          "paragraphs": [
+            "Fibre preparation, compatible connection methods and protected terminations within appropriate splice enclosures or distribution equipment."
+          ]
+        },
+        {
+          "title": "Fibre Patch Panels & Distribution Frames",
+          "paragraphs": [
+            "Organised fibre connections installed in suitable patch panels and optical distribution arrangements for easier identification and maintenance."
+          ]
+        },
+        {
+          "title": "Fibre Link Inspection & Testing",
+          "paragraphs": [
+            "Appropriate optical measurements and connection checks performed against the agreed verification requirements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Fibre Optic Installation"
+    },
+    "faq": {
+      "title": "Your Fibre Optic Installation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is fibre optic cabling?",
+          "paragraphs": [
+            "Fibre optic cabling uses thin strands of glass or other optical material to transmit information as pulses of light. It is commonly used for high-capacity network connections, building backbones, campus networks and telecommunications infrastructure."
+          ]
+        },
+        {
+          "title": "How much does fibre optic cabling installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the fibre type, cable length, number of fibres, installation route, termination requirements, splicing, accessories and testing scope. Underground routes, difficult access and civil works may significantly affect the project cost. A site survey helps establish a suitable quotation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide fibre optic installation services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides fibre optic cabling as part of its network and structured cabling services. The installation method, splicing and testing requirements, available resources and project location should be confirmed during consultation."
+          ]
+        },
+        {
+          "title": "What is the difference between single-mode and multimode fibre?",
+          "paragraphs": [
+            "Single-mode fibre is commonly selected for longer-distance connections and uses compatible single-mode optical transceivers. Multimode fibre is often used for shorter premises and data centre links with compatible multimode transceivers. Selection depends on distance, network speed, optical equipment and the overall link budget."
+          ]
+        },
+        {
+          "title": "Is fibre optic cabling better than Cat6 Ethernet cabling?",
+          "paragraphs": [
+            "Neither is automatically the best choice for every connection. Copper Ethernet cabling is practical for many workstation and device connections, while fibre is particularly useful for longer distances, higher-capacity backbones and environments where electromagnetic interference is a concern. Many business networks use both technologies."
+          ]
+        },
+        {
+          "title": "Can fibre optic cables connect two buildings?",
+          "paragraphs": [
+            "Yes. Fibre is frequently used to connect buildings on a business premises or campus. The proposed route, distance, suitable cable construction, termination arrangements and any required external works should be assessed before installation."
+          ]
+        },
+        {
+          "title": "Can you install fibre optic cabling between different floors?",
+          "paragraphs": [
+            "Yes. Suitable fibre backbone cabling can connect network distribution points on different floors. The design should account for vertical cable pathways, building conditions, fire-safety requirements and the relevant network equipment."
+          ]
+        },
+        {
+          "title": "What is fibre optic splicing?",
+          "paragraphs": [
+            "Fibre optic splicing joins optical fibres together to create a continuous transmission path. Fusion splicing uses specialised equipment to join prepared fibre ends, while mechanical splicing uses a different joining arrangement. The chosen method depends on the project requirements."
+          ]
+        },
+        {
+          "title": "What is fibre optic termination?",
+          "paragraphs": [
+            "Termination prepares an optical fibre for connection to another fibre or network device through a suitable connector or termination arrangement. Correct preparation, connector compatibility and cleanliness are important for link performance."
+          ]
+        },
+        {
+          "title": "What is an optical distribution frame or fibre patch panel?",
+          "paragraphs": [
+            "An optical distribution frame or fibre patch panel provides an organised location for fibre termination, connection and management. It helps technicians identify fibre links and carry out maintenance or approved changes."
+          ]
+        },
+        {
+          "title": "What is OTDR testing?",
+          "paragraphs": [
+            "An Optical Time Domain Reflectometer, or OTDR, sends light pulses into a fibre to help identify and characterise events such as splices, connectors, bends or breaks along the link. It is useful for diagnostics and detailed fibre assessment, but does not replace every other required optical test."
+          ]
+        },
+        {
+          "title": "What is the difference between OLTS and OTDR testing?",
+          "paragraphs": [
+            "An Optical Loss Test Set (OLTS) measures end-to-end optical insertion loss and is used for basic, or Tier 1, fibre certification. OTDR testing characterises individual events along the link and is added for Tier 2 testing. The required method depends on the project specifications."
+          ]
+        },
+        {
+          "title": "Can you identify a damaged fibre optic cable?",
+          "paragraphs": [
+            "Fibre faults can be investigated through appropriate inspection and diagnostic testing. Depending on the available access and equipment, testing may help identify loss events, damaged connections or the approximate location of a cable fault."
+          ]
+        },
+        {
+          "title": "Do fibre optic cables require maintenance?",
+          "paragraphs": [
+            "Fibre infrastructure generally requires limited routine attention once correctly installed, but connectors, patching arrangements, equipment interfaces and exposed cable routes may need periodic inspection. Faults and damaged connections should be assessed using appropriate procedures."
+          ]
+        },
+        {
+          "title": "Can fibre optic cabling support 10Gbps or higher network speeds?",
+          "paragraphs": [
+            "Yes. Suitable fibre types and compatible optical transceivers can support 10Gbps and substantially higher network speeds. The achievable speed and distance depend on the selected fibre, transceiver specification, connectors and overall link performance."
+          ]
+        },
+        {
+          "title": "Can you extend an existing fibre optic network?",
+          "paragraphs": [
+            "Existing fibre infrastructure can be assessed for expansion. Additional routes, terminations or fibre strands may be needed, depending on spare capacity, cable condition, available pathways and network requirements."
+          ]
+        },
+        {
+          "title": "How long does fibre optic installation take?",
+          "paragraphs": [
+            "The timeframe depends on route length, building conditions, access restrictions, cable quantities, termination work, external civil works and testing requirements. A defined project scope helps establish an appropriate installation schedule."
+          ]
+        },
+        {
+          "title": "Can you provide fibre optic certification reports?",
+          "paragraphs": [
+            "Formal fibre certification can be considered when specified in the project requirements and supported by the necessary test equipment and competent personnel. The required standards, measurements and reporting format should be agreed before work begins."
+          ]
+        },
+        {
+          "title": "What information do you need for a fibre installation quotation?",
+          "paragraphs": [
+            "Useful information includes the project location, endpoints to be connected, estimated distance, number of links, required network speed, existing cable pathways and any splicing or certification requirements."
+          ]
+        },
+        {
+          "title": "How do we get started with a fibre optic cabling project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with the locations you want to connect, your current network arrangement and the capacity you require. We can review your needs and advise on the next steps towards a fibre cabling assessment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Fibre Optic Cabling Requirements"
+    },
+    "closing": {
+      "title": "The Distance Between Your Systems Shouldn't Limit Your Network.",
+      "paragraphs": [
+        "Whether you're linking buildings, upgrading a network backbone or preparing your facility for greater data demand, Integrated Solutions Technology can help you plan and implement fibre optic infrastructure designed around your connectivity requirements."
+      ],
+      "primary": "Discuss Your Fibre Optic Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "wireless": {
+    "name": "Wireless Network Solutions",
+    "hero": {
+      "title": "Better Wi-Fi Coverage. A More Connected Workplace.",
+      "primary": "Discuss Your Wireless Network Project",
+      "secondary": "Explore Wireless Network Services"
+    },
+    "benefits": {
+      "title": "More Than a Wi-Fi Signal. Connectivity Designed for Your Environment.",
+      "paragraphs": [
+        "Plan Wi-Fi coverage around your building, the devices people use and the busiest times of day."
+      ],
+      "items": [
+        {
+          "title": "Better Coverage Across Your Facility",
+          "paragraphs": [
+            "Plan wireless access point locations around the areas where employees, customers and connected devices actually need service."
+          ]
+        },
+        {
+          "title": "Capacity for More Connected Devices",
+          "paragraphs": [
+            "Support the expected number of laptops, smartphones and other wireless devices with suitable equipment and network capacity."
+          ]
+        },
+        {
+          "title": "Safer Staff & Guest Connectivity",
+          "paragraphs": [
+            "Create appropriate wireless access arrangements for employees, visitors and other users through suitable authentication and network separation."
+          ]
+        },
+        {
+          "title": "Easier Mobility Throughout Your Workplace",
+          "paragraphs": [
+            "Design coordinated access point coverage to support compatible devices as users move between offices, floors and work areas."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "The Right Access Points. In the Right Places. Configured for Your Needs.",
+      "paragraphs": [
+        "We help organisations plan suitable wireless coverage, deploy compatible access points and configure the network according to their operational requirements."
+      ],
+      "entries": [
+        {
+          "title": "Wireless Site Survey & Coverage Planning",
+          "tagline": "Find the Coverage Gaps Before They Affect Your Users.",
+          "paragraphs": [
+            "Wireless performance is influenced by building layout, wall materials, signal interference and the number of connected devices.",
+            "We review your facility, important user areas, existing wireless infrastructure and expected connectivity requirements.",
+            "Where required, suitable wireless survey methods help inform access point placement, coverage planning and potential improvements to the existing environment."
+          ],
+          "cta": "Discuss Your Wi-Fi Coverage Requirements"
+        },
+        {
+          "title": "Business Wi-Fi Design & Access Point Planning",
+          "tagline": "Build Wireless Coverage Around Your Workplace.",
+          "paragraphs": [
+            "Good Wi-Fi design considers both the strength of a connection and the demand placed on it.",
+            "We plan suitable access point locations, equipment capacity, wireless coverage areas and supporting network connections.",
+            "The design considers user density, business applications, roaming requirements and appropriate wireless security arrangements."
+          ],
+          "cta": "Plan Your Wireless Network"
+        },
+        {
+          "title": "Wireless Access Point Installation & Configuration",
+          "tagline": "Turn Your Wireless Design Into Working Connectivity.",
+          "paragraphs": [
+            "A well-positioned access point still needs the right installation and configuration.",
+            "We deploy suitable indoor or outdoor wireless access points, connect them to compatible network infrastructure and configure agreed wireless settings.",
+            "Installation considers mounting locations, PoE requirements, network integration, access policies and equipment specifications."
+          ],
+          "cta": "Discuss Your Wi-Fi Installation"
+        },
+        {
+          "title": "Wireless Performance Checks & Optimisation",
+          "tagline": "Make Sure Your Wi-Fi Works Where It Matters.",
+          "paragraphs": [
+            "Once the wireless network is installed, its operation should be checked against the agreed requirements.",
+            "We review relevant connectivity, coverage and configuration conditions, identifying issues that may affect the user experience.",
+            "Where appropriate, adjustments to access point settings, placement or network configuration can help improve performance within the limits of the installed infrastructure."
+          ],
+          "cta": "Discuss Wireless Network Optimisation"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Wireless Connectivity, Professionally Deployed.",
+      "paragraphs": [
+        "Explore the equipment and technical activities involved in creating dependable wireless networks for business environments."
+      ],
+      "items": [
+        {
+          "title": "Office Wireless Access Point Installation",
+          "paragraphs": [
+            "Suitable ceiling-mounted or wall-mounted access points installed to provide planned wireless coverage across offices and workspaces."
+          ]
+        },
+        {
+          "title": "Multi-Floor Wireless Network Deployment",
+          "paragraphs": [
+            "Coordinated wireless access points and supporting network infrastructure connecting different floors and work areas."
+          ]
+        },
+        {
+          "title": "Guest Wi-Fi & Business Network Configuration",
+          "paragraphs": [
+            "Appropriate wireless network configurations for authorised employees, visitors and connected devices."
+          ]
+        },
+        {
+          "title": "Wireless Coverage Assessment & Optimisation",
+          "paragraphs": [
+            "Reviewing relevant wireless conditions and connection performance to identify areas requiring improvement."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Wireless Installation Project"
+    },
+    "faq": {
+      "title": "Your Business Wi-Fi Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are wireless network solutions for businesses?",
+          "paragraphs": [
+            "Business wireless network solutions involve planning, installing and configuring Wi-Fi infrastructure to connect employees, customers and compatible devices without requiring a physical Ethernet connection at every endpoint. They may include wireless site surveys, access points, network management, security configuration and performance optimisation."
+          ]
+        },
+        {
+          "title": "How much does business Wi-Fi installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the size and layout of the facility, number of access points, equipment specifications, cabling requirements, user density and configuration needs. A wireless assessment helps determine the suitable equipment and installation scope before a quotation is prepared."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide office Wi-Fi installation in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides wireless network design and installation services for offices, commercial facilities and enterprise environments. The scope may include site assessment, access point deployment, suitable network configuration and agreed performance checks."
+          ]
+        },
+        {
+          "title": "How many wireless access points does an office need?",
+          "paragraphs": [
+            "The number depends on building layout, floor area, wall construction, user density, device quantities and application requirements. A site survey or suitable predictive design provides a more reliable basis for access point placement than simply installing one device for every room."
+          ]
+        },
+        {
+          "title": "Why is our office Wi-Fi slow even when the signal is strong?",
+          "paragraphs": [
+            "Slow wireless performance may result from too many connected devices, interference, insufficient access point capacity, congested channels, poor network configuration or limited internet bandwidth. A proper assessment helps determine whether the problem is within the Wi-Fi network or another part of the connectivity infrastructure."
+          ]
+        },
+        {
+          "title": "Can you install Wi-Fi across multiple floors?",
+          "paragraphs": [
+            "Yes. Wireless networks can be designed for multi-storey buildings using appropriately positioned access points and suitable wired network connections. Coverage planning should account for floor materials, signal propagation and areas with high device demand."
+          ]
+        },
+        {
+          "title": "Can one wireless network cover an entire office building?",
+          "paragraphs": [
+            "A coordinated wireless network can provide coverage across a building using multiple suitably positioned access points. The achievable service depends on the environment, equipment, design and user requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between a Wi-Fi router and a wireless access point?",
+          "paragraphs": [
+            "A router typically connects different networks and may provide services such as internet routing and network address translation. A wireless access point provides Wi-Fi connectivity to a wired network. Many small-business routers combine both functions, while larger business networks often use multiple dedicated access points."
+          ]
+        },
+        {
+          "title": "What is the difference between home Wi-Fi and enterprise Wi-Fi?",
+          "paragraphs": [
+            "Home Wi-Fi systems are commonly designed for smaller spaces and fewer users. Enterprise wireless networks may require broader coverage, greater device capacity, centralised management, stronger authentication, guest access controls and more detailed coverage planning."
+          ]
+        },
+        {
+          "title": "Can you set up separate Wi-Fi networks for employees and visitors?",
+          "paragraphs": [
+            "Yes. Suitable wireless equipment can provide separate staff and guest wireless networks, with appropriate access restrictions and network segmentation. The security arrangement depends on your organisation's policies and equipment capabilities."
+          ]
+        },
+        {
+          "title": "Can you help improve an existing wireless network?",
+          "paragraphs": [
+            "Yes. Existing wireless infrastructure can be assessed for coverage gaps, interference, overloaded access points, configuration issues and equipment limitations. Recommended improvements depend on the findings."
+          ]
+        },
+        {
+          "title": "Which is better for a business: Wi-Fi 6, Wi-Fi 6E or Wi-Fi 7?",
+          "paragraphs": [
+            "The best option depends on device compatibility, the number of users, required performance, available spectrum, local regulatory requirements and budget. Newer Wi-Fi generations offer additional capabilities, but they do not automatically resolve poor access point placement or an inadequate network design."
+          ]
+        },
+        {
+          "title": "Can wireless access points work without Ethernet cables?",
+          "paragraphs": [
+            "Some wireless systems support mesh or wireless backhaul connections, but many business installations use Ethernet cabling for more predictable backhaul performance and Power over Ethernet. The suitable arrangement depends on the site and equipment capabilities."
+          ]
+        },
+        {
+          "title": "Can you provide outdoor Wi-Fi for a business premises?",
+          "paragraphs": [
+            "Outdoor wireless coverage may be possible using suitable weather-rated access points and mounting arrangements. The design should consider the required area, power availability, environmental conditions and applicable radio-frequency regulations."
+          ]
+        },
+        {
+          "title": "Can wireless networking support VoIP calls and video meetings?",
+          "paragraphs": [
+            "Yes. Properly designed wireless networks can support compatible voice and video applications. However, performance depends on coverage, client devices, roaming behaviour, network capacity, latency and the quality of the underlying internet or communication service."
+          ]
+        },
+        {
+          "title": "Will adding more access points automatically improve Wi-Fi?",
+          "paragraphs": [
+            "Not necessarily. Poorly placed or incorrectly configured access points can increase interference and make wireless performance worse. Additional equipment should be considered alongside channel planning, transmit power, coverage overlap and device capacity."
+          ]
+        },
+        {
+          "title": "Do you provide wireless network security configuration?",
+          "paragraphs": [
+            "Suitable wireless authentication, guest access and network separation can be considered as part of the agreed configuration. More extensive firewall policies, identity integration or security assessments should be separately defined where required."
+          ]
+        },
+        {
+          "title": "How long does a business Wi-Fi installation take?",
+          "paragraphs": [
+            "The installation timeframe depends on facility size, access point quantities, cabling readiness, site conditions and configuration requirements. A defined scope helps establish a suitable project schedule."
+          ]
+        },
+        {
+          "title": "Can you support wireless network maintenance after installation?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides related network configuration, upgrade and IT support services. Ongoing support arrangements can be discussed according to equipment specifications and operational needs."
+          ]
+        },
+        {
+          "title": "What information is needed for a wireless installation quotation?",
+          "paragraphs": [
+            "Useful information includes the facility location, floor plan, building size, estimated users and devices, current internet service, existing network equipment, coverage problems and areas requiring Wi-Fi access."
+          ]
+        },
+        {
+          "title": "How do we get started with a wireless network project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your property location, connectivity requirements and any challenges with your existing Wi-Fi. We can discuss your needs and identify the next steps towards a suitable wireless network assessment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Wireless Network Requirements"
+    },
+    "closing": {
+      "title": "Your Team Should Be Able to Work Wherever the Business Takes Them.",
+      "paragraphs": [
+        "Whether you're setting up Wi-Fi in a new office, extending coverage across multiple floors or fixing an unreliable wireless network, Integrated Solutions Technology can help you plan and install connectivity designed around your business environment."
+      ],
+      "primary": "Discuss Your Wireless Network Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "upgrades": {
+    "name": "Network Configuration & Upgrades",
+    "hero": {
+      "title": "Your Network Should Keep Up With Your Business.",
+      "primary": "Discuss Your Network Requirements",
+      "secondary": "Explore Network Upgrade Services"
+    },
+    "benefits": {
+      "title": "The Right Improvements Can Make a Real Difference.",
+      "paragraphs": [
+        "Identify the cause of slow or unreliable connections before deciding what to reconfigure or replace."
+      ],
+      "items": [
+        {
+          "title": "Improve Network Reliability",
+          "paragraphs": [
+            "Identify configuration issues and infrastructure limitations that may contribute to dropped connections or inconsistent network availability."
+          ]
+        },
+        {
+          "title": "Make Better Use of Network Capacity",
+          "paragraphs": [
+            "Review suitable equipment settings, connectivity arrangements and traffic requirements to help reduce avoidable bottlenecks."
+          ]
+        },
+        {
+          "title": "Strengthen Network Access Control",
+          "paragraphs": [
+            "Implement appropriate network segmentation and access policies to separate users, devices and business systems according to your requirements."
+          ]
+        },
+        {
+          "title": "Prepare for Business Growth",
+          "paragraphs": [
+            "Upgrade suitable network equipment and configurations to accommodate additional users, devices and changing application demands."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Understand What's Holding Your Network Back. Then Address It.",
+      "paragraphs": [
+        "We help organisations assess network conditions, plan appropriate changes and implement agreed configurations and upgrades with attention to compatibility, operational impact and verification."
+      ],
+      "entries": [
+        {
+          "title": "Network Assessment & Troubleshooting",
+          "tagline": "Find the Problem Before Choosing the Solution.",
+          "paragraphs": [
+            "Slow connections, intermittent access and unreliable communication between devices may have different underlying causes.",
+            "We review relevant network equipment, existing configurations, connectivity arrangements and reported performance issues.",
+            "This helps identify possible misconfigurations, equipment limitations and other factors that should be addressed before recommending changes."
+          ],
+          "cta": "Discuss Your Network Challenges"
+        },
+        {
+          "title": "Router, Switch & VLAN Configuration",
+          "tagline": "Put Your Network Equipment to Better Use.",
+          "paragraphs": [
+            "Network devices need appropriate settings to support the way your organisation communicates.",
+            "We configure compatible routers, managed switches and relevant network services according to the agreed technical requirements.",
+            "This may include VLANs, IP addressing, routing, switch ports, access controls and suitable traffic-management settings, depending on the equipment and project scope."
+          ],
+          "cta": "Discuss Network Configuration"
+        },
+        {
+          "title": "Network Equipment & Infrastructure Upgrades",
+          "tagline": "Upgrade What Matters. Keep What Still Works.",
+          "paragraphs": [
+            "As equipment ages or business demand increases, parts of your network may need improvement.",
+            "We assess existing switches, routers and related infrastructure to identify suitable replacement, expansion or configuration options.",
+            "Our recommendations consider device capacity, compatibility, manufacturer support, current network requirements and the practical impact of the proposed change."
+          ],
+          "cta": "Plan Your Network Upgrade"
+        },
+        {
+          "title": "Change Implementation, Testing & Handover",
+          "tagline": "Make Changes With a Clear Plan for What Comes Next.",
+          "paragraphs": [
+            "Network changes should be coordinated carefully, particularly when they affect employees and operational systems.",
+            "We implement agreed changes according to the project requirements, with appropriate configuration records, checks and maintenance-window planning where necessary.",
+            "Following the work, we verify relevant connectivity and agreed functionality, communicate outstanding issues and provide applicable handover information."
+          ],
+          "cta": "Discuss Your Network Upgrade Project"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Behind Every Better Network Is the Right Technical Decision.",
+      "paragraphs": [
+        "Explore the configuration, diagnostic and upgrade activities involved in improving existing business networks."
+      ],
+      "items": [
+        {
+          "title": "Managed Switch & Router Configuration",
+          "paragraphs": [
+            "Configuration of compatible network equipment to support the intended connectivity, routing and management requirements."
+          ]
+        },
+        {
+          "title": "VLAN & Network Segmentation",
+          "paragraphs": [
+            "Logical network separation to support appropriate access arrangements for different users, departments and connected devices."
+          ]
+        },
+        {
+          "title": "Network Hardware Replacement & Expansion",
+          "paragraphs": [
+            "Upgrading suitable switches, routers and related network infrastructure to meet changing capacity or functionality requirements."
+          ]
+        },
+        {
+          "title": "Network Diagnostics & Verification",
+          "paragraphs": [
+            "Reviewing device status, connection behaviour and agreed network functions after configuration or upgrade work."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Improvement Project"
+    },
+    "faq": {
+      "title": "Your Network Configuration Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is network configuration?",
+          "paragraphs": [
+            "Network configuration involves setting up and managing the parameters that allow network devices and connected systems to communicate correctly. This may include IP addressing, routing, switch ports, VLANs, access controls and other settings required by the network design."
+          ]
+        },
+        {
+          "title": "What is included in network configuration and upgrade services?",
+          "paragraphs": [
+            "Services may include network assessments, router and switch configuration, VLAN setup, connectivity troubleshooting, equipment upgrades, firmware updates, configuration changes and relevant post-change checks. The exact work depends on the equipment and agreed project requirements."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide network configuration services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology offers network configuration and upgrade services for business and enterprise environments. Projects can include reviewing existing infrastructure, implementing compatible device configurations and supporting network improvements according to the agreed scope."
+          ]
+        },
+        {
+          "title": "How much does network configuration cost in Nigeria?",
+          "paragraphs": [
+            "Pricing depends on the number and type of devices, existing network complexity, required configuration changes, access arrangements, troubleshooting needs and testing scope. A review of the network helps establish the work required and a suitable quotation."
+          ]
+        },
+        {
+          "title": "Can you configure our existing network switches and routers?",
+          "paragraphs": [
+            "Existing compatible equipment can be assessed for configuration or reconfiguration. The available options depend on device specifications, firmware support, administrative access and the intended network requirements."
+          ]
+        },
+        {
+          "title": "Can you configure VLANs for our business network?",
+          "paragraphs": [
+            "VLAN configuration can be included where the network equipment supports it. VLANs allow compatible switches to separate network traffic logically, helping organisations organise departments, device groups and other network segments. Inter-VLAN communication and security controls require appropriate additional configuration."
+          ]
+        },
+        {
+          "title": "What is the difference between a network upgrade and network replacement?",
+          "paragraphs": [
+            "A network upgrade improves selected components or configurations while retaining infrastructure that remains suitable. A full replacement involves introducing a substantially new network environment. The right approach depends on equipment condition, capacity limitations, compatibility and business requirements."
+          ]
+        },
+        {
+          "title": "Can network configuration improve a slow office network?",
+          "paragraphs": [
+            "It may help if the problem involves misconfiguration, inefficient traffic handling or unsuitable network settings. However, slow performance may also result from ageing hardware, faulty cabling, insufficient capacity or a limited internet connection. An assessment is needed to identify the cause."
+          ]
+        },
+        {
+          "title": "Can you upgrade our network without interrupting business operations?",
+          "paragraphs": [
+            "Some changes can be completed without affecting every connected service, but others may cause temporary disconnections or require equipment restarts. The expected impact should be assessed and an appropriate maintenance window agreed before implementation."
+          ]
+        },
+        {
+          "title": "Can you replace an old network switch with a newer model?",
+          "paragraphs": [
+            "Yes, where suitable replacement equipment and a migration plan are available. Existing port assignments, VLANs, uplinks, connected devices and other relevant settings should be reviewed before the change."
+          ]
+        },
+        {
+          "title": "Can you configure routers for multiple internet connections?",
+          "paragraphs": [
+            "Where supported by the router and the agreed design, multiple internet connections may be configured for functions such as failover or traffic distribution. Actual behaviour depends on equipment capabilities, provider services and the chosen configuration."
+          ]
+        },
+        {
+          "title": "Do you provide network firewall configuration?",
+          "paragraphs": [
+            "Firewall supply, installation and licensing are available as a separate service in our IT Services & Technical Support division. Firewall configuration and security policies should be defined explicitly in the relevant project scope."
+          ]
+        },
+        {
+          "title": "Can you upgrade network firmware?",
+          "paragraphs": [
+            "Firmware upgrades may be carried out for compatible devices where manufacturer support, authorised access and suitable upgrade procedures are available. Important considerations include compatibility, configuration backups, known issues and potential service interruption."
+          ]
+        },
+        {
+          "title": "What is network segmentation, and why is it important?",
+          "paragraphs": [
+            "Network segmentation separates users, devices or applications into different logical network areas. It can help improve organisation and support access-control policies, but effective security depends on the routing and filtering rules applied between those segments."
+          ]
+        },
+        {
+          "title": "Can you configure a network for additional employees and devices?",
+          "paragraphs": [
+            "Yes. Network capacity, addressing, equipment ports, wireless infrastructure and connected applications can be reviewed to determine what changes are necessary to support additional users and devices."
+          ]
+        },
+        {
+          "title": "What if our network has frequent disconnections?",
+          "paragraphs": [
+            "Frequent disconnections can result from physical connection problems, unsuitable device settings, equipment faults, power problems or network congestion. Troubleshooting should identify the likely cause before corrective work is recommended."
+          ]
+        },
+        {
+          "title": "Can you work with network equipment from different manufacturers?",
+          "paragraphs": [
+            "Multi-vendor networks can be assessed, but configuration support depends on device models, management access, licensing, technical compatibility and available expertise. Supported equipment should be confirmed before the project begins."
+          ]
+        },
+        {
+          "title": "Will you back up existing configurations before making changes?",
+          "paragraphs": [
+            "Configuration backup and recovery planning should be included where technically possible and appropriate to the change. The specific backup method, access requirements and rollback procedure should be agreed before work begins."
+          ]
+        },
+        {
+          "title": "Will we receive documentation after the network upgrade?",
+          "paragraphs": [
+            "Agreed deliverables may include updated configuration information, equipment details, network diagrams, implemented changes and relevant verification results. The documentation requirements should be defined within the project scope."
+          ]
+        },
+        {
+          "title": "How long does a network upgrade take?",
+          "paragraphs": [
+            "The duration depends on the number of devices, type of changes, equipment availability, testing requirements and operational restrictions. Small configuration changes may require less time than a multi-site network refresh."
+          ]
+        },
+        {
+          "title": "What information is needed to request network configuration or upgrade services?",
+          "paragraphs": [
+            "Useful details include your location, existing equipment models, current network layout, reported problems, number of users, connectivity requirements and any restrictions on planned downtime."
+          ]
+        },
+        {
+          "title": "How do we get started with a network upgrade project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your existing network and the improvements you want to achieve. We can review your requirements and discuss the appropriate assessment, configuration or upgrade work."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Configuration & Upgrade Requirements"
+    },
+    "closing": {
+      "title": "Your Business Has Evolved. Your Network Should Too.",
+      "paragraphs": [
+        "Whether you're troubleshooting unreliable connections, reconfiguring network equipment or planning an infrastructure upgrade, Integrated Solutions Technology can help you identify the changes that make sense for your environment."
+      ],
+      "primary": "Discuss Your Network Upgrade",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "equipment": {
+    "name": "Network Equipment Installation",
+    "hero": {
+      "title": "The Right Network Equipment. Installed Where It Works Best.",
+      "primary": "Discuss Your Network Equipment Installation",
+      "secondary": "Explore Network Infrastructure Services"
+    },
+    "benefits": {
+      "title": "Good Network Performance Starts With the Physical Foundation.",
+      "paragraphs": [
+        "A structured installation approach helps prepare your network hardware for reliable everyday operation."
+      ],
+      "items": [
+        {
+          "title": "Correct Equipment Placement",
+          "paragraphs": [
+            "Install switches, routers and access points in positions suited to their purpose, operating conditions and maintenance requirements."
+          ]
+        },
+        {
+          "title": "Organised Network Connections",
+          "paragraphs": [
+            "Keep equipment connections accessible and identifiable through appropriate cable routing and management."
+          ]
+        },
+        {
+          "title": "Equipment Protection & Accessibility",
+          "paragraphs": [
+            "Consider ventilation, mounting stability, power requirements and safe access during physical installation."
+          ]
+        },
+        {
+          "title": "Easier Future Upgrades",
+          "paragraphs": [
+            "Create a more manageable physical environment for equipment replacement, additional connections and infrastructure expansion."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Device in Position. Every Connection Considered.",
+      "paragraphs": [
+        "Whether you're fitting out a new office or adding hardware to an existing network, our approach helps ensure that the physical installation is organised and ready for the next technical stage."
+      ],
+      "entries": [
+        {
+          "title": "Site Readiness & Equipment Planning",
+          "tagline": "Prepare the Location Before Installing the Hardware.",
+          "paragraphs": [
+            "Different network devices have different mounting, power, cooling and connectivity requirements.",
+            "We review the intended equipment, installation locations, available network infrastructure and relevant site conditions before deployment.",
+            "This helps identify suitable mounting arrangements, accessories, cable connections and any site preparations that should be completed before installation begins."
+          ],
+          "cta": "Discuss Your Equipment Requirements"
+        },
+        {
+          "title": "Network Switch & Router Installation",
+          "tagline": "Place Your Core Network Equipment on a Solid Foundation.",
+          "paragraphs": [
+            "Switches and routers are central to connectivity across many business environments.",
+            "We install compatible network switches, routers and associated rack-mounted devices according to the agreed equipment layout and manufacturer requirements.",
+            "Our installation approach considers rack capacity, equipment ventilation, cable access, power connections and suitable physical organisation."
+          ],
+          "cta": "Discuss Switch & Router Installation"
+        },
+        {
+          "title": "Wireless Access Point & Network Device Deployment",
+          "tagline": "Put Network Connectivity Where Your Business Needs It.",
+          "paragraphs": [
+            "Wireless access points and other distributed network devices need appropriate mounting and physical connections.",
+            "We install suitable access points and related network equipment in approved locations, with attention to mounting surfaces, Ethernet connectivity, PoE requirements and environmental conditions.",
+            "Device positioning should follow the agreed wireless design so the installation supports the intended coverage plan."
+          ],
+          "cta": "Discuss Access Point Installation"
+        },
+        {
+          "title": "Connection Checks, Identification & Handover",
+          "tagline": "Installed Correctly. Ready for the Next Stage.",
+          "paragraphs": [
+            "Once equipment is mounted and connected, the completed work should be checked against the agreed installation requirements.",
+            "We review relevant mounting arrangements, physical connections, equipment identification and cable organisation.",
+            "Where authorised and included in scope, basic equipment power-on and link-status checks can be completed before handover to the team responsible for configuration and operational verification."
+          ],
+          "cta": "Discuss Installation Verification"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "The Equipment Behind Every Connected Environment.",
+      "paragraphs": [
+        "Explore the physical installation activities involved in deploying network infrastructure across business and enterprise facilities."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Switch Installation",
+          "paragraphs": [
+            "Suitable managed or unmanaged network switches mounted within compatible cabinets, racks or approved installation locations."
+          ]
+        },
+        {
+          "title": "Business Router & Network Appliance Installation",
+          "paragraphs": [
+            "Routers and compatible network devices positioned and connected according to the approved infrastructure arrangement."
+          ]
+        },
+        {
+          "title": "Wireless Access Point Mounting",
+          "paragraphs": [
+            "Indoor and suitable outdoor access points installed in planned locations to support the intended wireless network design."
+          ]
+        },
+        {
+          "title": "Network Rack Connections & Organisation",
+          "paragraphs": [
+            "Equipment connections routed and identified within appropriate network cabinets, using suitable cable management arrangements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Hardware Deployment"
+    },
+    "faq": {
+      "title": "Your Network Equipment Installation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is network equipment installation?",
+          "paragraphs": [
+            "Network equipment installation involves physically deploying devices such as switches, routers, wireless access points and network appliances. The work may include mounting, positioning, connecting compatible power and network cables, identifying equipment and checking the completed installation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology install network switches and routers in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides network equipment installation services for business and enterprise environments. The equipment models, mounting arrangements, site conditions and required installation activities are reviewed as part of the project scope."
+          ]
+        },
+        {
+          "title": "How much does network equipment installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on equipment quantities, device types, installation locations, rack or mounting requirements, cabling conditions, site accessibility and the scope of verification. A hardware list and site information help establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "Can you install equipment we have already purchased?",
+          "paragraphs": [
+            "Customer-supplied equipment can be considered for installation, subject to its condition, compatibility, required mounting accessories and the agreed site requirements. Providing the manufacturer and model information helps confirm what is needed."
+          ]
+        },
+        {
+          "title": "Can you install network equipment from different manufacturers?",
+          "paragraphs": [
+            "Multi-vendor equipment can be assessed for physical installation. Supported models and technical requirements should be confirmed before deployment, particularly where special mounting, power or licensing arrangements apply."
+          ]
+        },
+        {
+          "title": "What is the difference between network equipment installation and network configuration?",
+          "paragraphs": [
+            "Equipment installation concerns the physical deployment, mounting and connections of network hardware. Configuration involves setting operating parameters such as IP addresses, VLANs, routing and access policies. Both may be needed, but they are separate technical activities."
+          ]
+        },
+        {
+          "title": "Can you install a network switch inside an existing cabinet?",
+          "paragraphs": [
+            "Yes, where the cabinet has suitable mounting space, depth, load capacity, ventilation and access to compatible power and cabling. The cabinet and equipment specifications should be checked first."
+          ]
+        },
+        {
+          "title": "Can you install wireless access points in an office?",
+          "paragraphs": [
+            "Yes. Wireless access points can be mounted in appropriate ceiling, wall or other approved positions according to the wireless design and manufacturer requirements. The installation also depends on suitable cabling and power arrangements."
+          ]
+        },
+        {
+          "title": "Do wireless access points need power cables?",
+          "paragraphs": [
+            "Many business wireless access points use Power over Ethernet (PoE), allowing compatible network equipment to provide power through an Ethernet cable. Other devices may use separate power supplies. The requirements depend on the access point model."
+          ]
+        },
+        {
+          "title": "Do network switches need ventilation?",
+          "paragraphs": [
+            "Yes. Network switches and other active equipment produce heat and require operating conditions within their manufacturer specifications. Suitable placement and unobstructed airflow are important, especially inside enclosed cabinets."
+          ]
+        },
+        {
+          "title": "Can you install equipment in an existing live network?",
+          "paragraphs": [
+            "Some equipment can be physically installed without affecting operational systems, but changing active connections or replacing devices may cause disruption. Activities affecting live services should be planned, authorised and coordinated with the responsible IT team."
+          ]
+        },
+        {
+          "title": "Can you replace an existing network switch or router?",
+          "paragraphs": [
+            "Physical replacement can be included in an agreed installation project. Configuration transfer, connectivity changes, service cutover and rollback planning must also be considered where the replacement affects an active network."
+          ]
+        },
+        {
+          "title": "Do you provide network racks and cabinets?",
+          "paragraphs": [
+            "Network cabinet and rack requirements can be considered as part of the project scope. The appropriate size and accessories depend on equipment dimensions, installation environment and expected capacity."
+          ]
+        },
+        {
+          "title": "Can you install outdoor wireless access points?",
+          "paragraphs": [
+            "Suitable outdoor access points can be installed where supported by their specifications and the site conditions. Outdoor work may require appropriate mounting structures, weather-resistant connections, surge protection and specialist installation precautions."
+          ]
+        },
+        {
+          "title": "Can you connect the equipment to existing network cabling?",
+          "paragraphs": [
+            "Yes, where compatible cabling and available network points are suitable. Existing connections may need inspection or additional work if cable types, terminations or routing do not meet the installation requirements."
+          ]
+        },
+        {
+          "title": "Does network equipment installation include testing?",
+          "paragraphs": [
+            "Relevant physical and basic operational checks can be included. More detailed network configuration testing, performance assessment and formal cable certification should be defined separately where required."
+          ]
+        },
+        {
+          "title": "How long does network equipment installation take?",
+          "paragraphs": [
+            "The timeframe depends on the number of devices, installation complexity, mounting conditions, cabling readiness, equipment availability and any operational restrictions. A clear installation scope helps establish a practical schedule."
+          ]
+        },
+        {
+          "title": "Can you support equipment deployment across multiple office locations?",
+          "paragraphs": [
+            "Multi-site installation requirements can be reviewed based on the number of locations, equipment quantities, access conditions and deployment schedule. The coverage and implementation arrangements should be confirmed during consultation."
+          ]
+        },
+        {
+          "title": "Will we receive installation documentation?",
+          "paragraphs": [
+            "Agreed handover information may include equipment locations, device identification, relevant connection details and records of completed installation checks. Documentation deliverables should be defined within the project scope."
+          ]
+        },
+        {
+          "title": "What information is needed for a network equipment installation quotation?",
+          "paragraphs": [
+            "Useful information includes your location, equipment manufacturers and models, device quantities, rack or mounting locations, cabling readiness, available power arrangements and preferred installation schedule."
+          ]
+        },
+        {
+          "title": "How do we get started with a network equipment installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your equipment list and installation requirements. We can review your site conditions and advise on the next steps towards a suitable deployment proposal."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Equipment Installation"
+    },
+    "closing": {
+      "title": "Make Every Installation Part of a Better-Organised Network.",
+      "paragraphs": [
+        "Whether you're installing new switches, mounting wireless access points or expanding your network infrastructure, Integrated Solutions Technology can help prepare your equipment for the connections and configurations your business needs."
+      ],
+      "primary": "Discuss Your Network Installation Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "labelling": {
+    "name": "Cable Labelling & Port Mapping",
+    "hero": {
+      "title": "Know Every Cable. Trace Every Connection. Stay in Control.",
+      "primary": "Discuss Your Cable Labelling Project",
+      "secondary": "Explore Network Infrastructure Services"
+    },
+    "benefits": {
+      "title": "Stop Guessing Which Cable Goes Where.",
+      "paragraphs": [
+        "Clear cable labels and accurate port records help your team understand the physical connections behind everyday operations."
+      ],
+      "items": [
+        {
+          "title": "Faster Fault Identification",
+          "paragraphs": [
+            "Trace relevant network connections more efficiently when investigating disconnected devices, faulty links or unexpected service interruptions."
+          ]
+        },
+        {
+          "title": "Easier Equipment Changes",
+          "paragraphs": [
+            "Identify the correct cables and ports before moving, replacing or reconnecting network equipment."
+          ]
+        },
+        {
+          "title": "Better Infrastructure Organisation",
+          "paragraphs": [
+            "Keep network cabinets, patch panels, data outlets and connected devices clearly identified."
+          ]
+        },
+        {
+          "title": "More Useful Network Records",
+          "paragraphs": [
+            "Maintain documented connection information that supports ongoing troubleshooting, maintenance and future expansion."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Every Cable Has Two Ends. Both Should Be Easy to Identify.",
+      "paragraphs": [
+        "We help organisations establish a clearer picture of their physical network connectivity."
+      ],
+      "entries": [
+        {
+          "title": "Cable Identification & Tracing",
+          "tagline": "Find Out Where Your Connections Actually Lead.",
+          "paragraphs": [
+            "An unlabelled cable can make troubleshooting and equipment changes unnecessarily difficult.",
+            "We review the physical network environment and use appropriate identification and tracing methods to determine relevant cable endpoints.",
+            "Depending on the installation and authorised testing scope, this may involve cable identifiers, tracing equipment, patch panel inspection or other suitable verification methods."
+          ],
+          "cta": "Discuss Your Cable Identification Needs"
+        },
+        {
+          "title": "Network Cable & Patch Panel Labelling",
+          "tagline": "Give Every Connection a Clear Identity.",
+          "paragraphs": [
+            "Consistent cable identification makes network infrastructure easier to understand and maintain.",
+            "We establish an appropriate labelling convention for relevant cables, patch panels, network outlets and equipment connections.",
+            "Labels are applied according to the agreed identification scheme, with attention to durability, legibility and consistency across the installation."
+          ],
+          "cta": "Plan Your Network Cabling Labels"
+        },
+        {
+          "title": "Switch Port & Connection Mapping",
+          "tagline": "Know What's Connected to Each Port.",
+          "paragraphs": [
+            "A connected cable is more useful when its destination and purpose can be identified.",
+            "We review agreed switch, patch panel and endpoint connections to establish physical port relationships and identify discrepancies in existing records.",
+            "Where supported by equipment access and project scope, available network discovery information can help supplement physical mapping."
+          ],
+          "cta": "Discuss Network Port Mapping"
+        },
+        {
+          "title": "Connection Documentation & Handover",
+          "tagline": "Turn Physical Connections Into Useful Network Records.",
+          "paragraphs": [
+            "A labelling project should leave your team with more than newly printed tags.",
+            "We compile agreed connection information, which may include cable identifiers, patch panel ports, switch interfaces, outlet locations and relevant equipment references.",
+            "The completed records help your IT team manage maintenance, plan changes and understand the documented physical network infrastructure."
+          ],
+          "cta": "Discuss Network Documentation"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Organised Connections. Information Your Team Can Use.",
+      "paragraphs": [
+        "Explore the identification, mapping and documentation activities involved in maintaining a traceable network infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Network Cable Identification",
+          "paragraphs": [
+            "Durable identification labels applied to appropriate cable endpoints according to the agreed network naming convention."
+          ]
+        },
+        {
+          "title": "Patch Panel & Outlet Labelling",
+          "paragraphs": [
+            "Clearly identified patch panel connections and network data outlets to help establish the relationship between devices and physical network points."
+          ]
+        },
+        {
+          "title": "Switch Port Mapping",
+          "paragraphs": [
+            "Physical connection information recorded to help identify the cables and destinations associated with relevant network switch ports."
+          ]
+        },
+        {
+          "title": "Network Connection Documentation",
+          "paragraphs": [
+            "Organised records showing relevant equipment, cable identifiers, connection points and verified endpoint relationships."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Cable Labelling Requirements"
+    },
+    "faq": {
+      "title": "Your Cable Labelling & Port Mapping Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is network cable labelling?",
+          "paragraphs": [
+            "Network cable labelling is the process of assigning clear identifiers to network cables and relevant connection points. It helps technicians understand where cables originate, where they terminate and how they relate to other network infrastructure."
+          ]
+        },
+        {
+          "title": "What is network port mapping?",
+          "paragraphs": [
+            "Network port mapping identifies and documents the connections between network interfaces, patch panels, outlets and connected devices. It can involve physical tracing, equipment records and authorised network discovery methods."
+          ]
+        },
+        {
+          "title": "Why is cable labelling important in a server room or data centre?",
+          "paragraphs": [
+            "Server rooms and data centres often contain numerous power and data connections. Consistent identification helps technicians locate cables, investigate faults, plan equipment changes and reduce the risk of disturbing an incorrect connection."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide cable labelling and port mapping in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides cable labelling and port mapping as part of its network infrastructure services. Projects may include physical cable identification, patch panel labelling, connection tracing and agreed documentation."
+          ]
+        },
+        {
+          "title": "Can you identify network cables that were never labelled?",
+          "paragraphs": [
+            "In many cases, yes. Unlabelled cables can be assessed using suitable tracing and verification methods. The ability to confirm each connection depends on site access, equipment conditions, cable type and the permitted testing procedures."
+          ]
+        },
+        {
+          "title": "Can you trace a network cable from an office outlet to a patch panel?",
+          "paragraphs": [
+            "Yes, where the cable and its endpoints can be accessed and appropriately tested. The tracing method depends on the installation type and whether the connection is connected to active equipment."
+          ]
+        },
+        {
+          "title": "Can you identify which switch port a network cable uses?",
+          "paragraphs": [
+            "Where suitable access, equipment capabilities and testing methods are available, switch-port identification can be carried out. This may involve physical connection tracing or authorised network discovery information."
+          ]
+        },
+        {
+          "title": "What is the difference between cable labelling and port mapping?",
+          "paragraphs": [
+            "Cable labelling assigns identifiers to cables and related infrastructure. Port mapping documents the relationships between connection points, such as a wall outlet, patch panel port and switch interface. Both work together to make network connections easier to trace."
+          ]
+        },
+        {
+          "title": "Do both ends of a network cable need labels?",
+          "paragraphs": [
+            "A consistent identification system should allow each end of a cable to be associated with the same connection record. Labelling both accessible ends is common practice for managing structured cabling."
+          ]
+        },
+        {
+          "title": "Can you label network cables without shutting down the network?",
+          "paragraphs": [
+            "Some identification and documentation work may be completed without interrupting active connections. However, procedures requiring cable disconnection, intrusive testing or equipment changes may need authorisation and an agreed maintenance window."
+          ]
+        },
+        {
+          "title": "Can you map existing network cables without replacing them?",
+          "paragraphs": [
+            "Yes. Where the installed cabling is accessible and suitable for tracing, cable identification and documentation can often be completed without full cable replacement. Any damaged or unsuitable cables should be assessed separately."
+          ]
+        },
+        {
+          "title": "What is a cable labelling standard?",
+          "paragraphs": [
+            "A cable labelling standard establishes consistent ways to identify telecommunications infrastructure. ANSI/TIA-606-D is an established reference for telecommunications infrastructure administration, including identifiers, records and permanent labels."
+          ]
+        },
+        {
+          "title": "Can you follow our organisation's existing cable naming convention?",
+          "paragraphs": [
+            "An existing naming convention can be reviewed and used where it is appropriate for the project. If the current system is inconsistent, improvements can be discussed before labels are produced."
+          ]
+        },
+        {
+          "title": "Do you provide patch panel port mapping?",
+          "paragraphs": [
+            "Patch panel mapping can be included in the agreed scope. It typically involves associating patch panel positions with the corresponding cable endpoints, outlet locations or connected equipment."
+          ]
+        },
+        {
+          "title": "Can you provide switch-to-patch-panel connection records?",
+          "paragraphs": [
+            "Yes. Relevant connection relationships can be recorded where the connections can be identified and verified. The resulting documentation may include switch identifiers, interface numbers, patch panel references and cable identifiers."
+          ]
+        },
+        {
+          "title": "What is the difference between cable tracing and cable testing?",
+          "paragraphs": [
+            "Cable tracing identifies where a cable runs or terminates. Cable testing evaluates specified physical or electrical characteristics, depending on the testing method. Identifying a cable does not automatically prove that it meets a particular performance standard."
+          ]
+        },
+        {
+          "title": "Can port mapping help us troubleshoot network faults?",
+          "paragraphs": [
+            "Yes. Accurate mapping helps technicians identify relevant connection paths more quickly. It can make troubleshooting more efficient, although it does not by itself establish the cause of a network fault."
+          ]
+        },
+        {
+          "title": "Can you document an existing network cabinet with hundreds of cables?",
+          "paragraphs": [
+            "Large or complex installations can be assessed for a phased identification and documentation project. The approach depends on cabinet quantities, connection density, available access, existing records and operational restrictions."
+          ]
+        },
+        {
+          "title": "Can cable labelling be combined with rack remediation?",
+          "paragraphs": [
+            "Yes. Cable identification and port mapping can complement cable routing and rack remediation work. The combined project may involve reorganising suitable cables, improving identification and updating connection records."
+          ]
+        },
+        {
+          "title": "How much does network cable labelling and port mapping cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on cable quantities, rack and patch panel numbers, existing documentation, connection accessibility, tracing complexity and reporting requirements. A defined scope helps establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "How long does a cable labelling project take?",
+          "paragraphs": [
+            "The timeframe depends on the size and condition of the network, number of cables and ports, site access and how much tracing is required. Existing documentation can simplify the process when it is accurate."
+          ]
+        },
+        {
+          "title": "What documents will we receive after the work?",
+          "paragraphs": [
+            "Agreed deliverables may include a cable identification schedule, patch panel records, switch-port mapping, outlet references and a list of unresolved or unverified connections."
+          ]
+        },
+        {
+          "title": "What happens when a cable's destination cannot be identified?",
+          "paragraphs": [
+            "The connection should be recorded as unresolved rather than assigned an assumed destination. Additional access, testing or coordination with the customer's technical team may be necessary."
+          ]
+        },
+        {
+          "title": "What information is needed for a quotation?",
+          "paragraphs": [
+            "Useful information includes the site location, number of racks or cabinets, approximate cable and port quantities, existing diagrams, operational restrictions and the documentation format required."
+          ]
+        },
+        {
+          "title": "How do we get started with cable labelling and port mapping?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with details of your network location, the areas requiring identification and the challenges your IT team is experiencing. We can discuss the scope and next steps towards a suitable infrastructure assessment."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Cable Labelling & Port Mapping Project"
+    },
+    "closing": {
+      "title": "Your Network Shouldn't Be a Mystery to the People Managing It.",
+      "paragraphs": [
+        "Whether you're dealing with unlabelled cables, confusing patch panel connections or incomplete network documentation, Integrated Solutions Technology can help bring greater visibility and organisation to your physical network infrastructure."
+      ],
+      "primary": "Discuss Your Cable Labelling Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  },
+  "remediation": {
+    "name": "Cable Routing & Rack Remediation",
+    "hero": {
+      "title": "Untangle Your Infrastructure. Restore Order to Your Network.",
+      "primary": "Discuss Your Rack Remediation Project",
+      "secondary": "Explore Network Cabling Services"
+    },
+    "benefits": {
+      "title": "Your Network Cabinet Should Make Maintenance Easier. Not Harder.",
+      "paragraphs": [
+        "Proper cable routing and rack remediation help create a more organised, accessible and maintainable infrastructure environment."
+      ],
+      "items": [
+        {
+          "title": "Easier Equipment Maintenance",
+          "paragraphs": [
+            "Keep relevant equipment, ports and connections accessible so technicians can perform inspections and approved changes more efficiently."
+          ]
+        },
+        {
+          "title": "Reduced Risk of Cable Damage",
+          "paragraphs": [
+            "Use suitable routing, support and bend management to help protect cable connections from excessive tension, crushing and sharp bends."
+          ]
+        },
+        {
+          "title": "Better Rack Organisation",
+          "paragraphs": [
+            "Reduce unnecessary cable congestion and improve the physical arrangement of network equipment, patch panels and supporting accessories."
+          ]
+        },
+        {
+          "title": "More Room for Future Changes",
+          "paragraphs": [
+            "Make it easier to identify available rack space, manage additional connections and plan future equipment upgrades."
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Understand the Existing Connections. Improve the Arrangement.",
+      "paragraphs": [
+        "We help organisations assess existing rack conditions and plan appropriate improvements to the physical infrastructure."
+      ],
+      "entries": [
+        {
+          "title": "Network Rack Assessment",
+          "tagline": "Find the Problems Before Rearranging the Cables.",
+          "paragraphs": [
+            "Every rack remediation project begins with understanding the existing installation.",
+            "We review equipment positions, cable congestion, accessible connections, cable-management accessories and relevant physical constraints.",
+            "This helps identify poorly routed cables, unsuitable arrangements, restricted maintenance access and the improvements needed to make the environment easier to manage."
+          ],
+          "cta": "Request a Network Rack Assessment"
+        },
+        {
+          "title": "Cable Routing & Management",
+          "tagline": "Give Every Cable a Better Path.",
+          "paragraphs": [
+            "A well-managed cable route protects connections while keeping the equipment environment accessible.",
+            "We organise suitable network cables through appropriate horizontal and vertical pathways, using compatible cable-management accessories and fastening methods.",
+            "Our approach considers cable separation, manufacturer-specified bend limits, suitable slack management and access to equipment interfaces."
+          ],
+          "cta": "Discuss Your Cable Routing Requirements"
+        },
+        {
+          "title": "Rack Reorganisation & Remediation",
+          "tagline": "Restore Order to Overcrowded Network Cabinets.",
+          "paragraphs": [
+            "Years of additional network connections and equipment changes can leave cabinets difficult to service.",
+            "We assess opportunities to improve rack organisation through approved cable rearrangement, suitable patch-cord replacement, accessory installation and physical layout adjustments.",
+            "Where required, changes affecting active equipment are planned with the responsible IT team to minimise avoidable disruption."
+          ],
+          "cta": "Plan Your Rack Remediation"
+        },
+        {
+          "title": "Connection Verification & Handover",
+          "tagline": "A Cleaner Rack Should Also Be Easier to Support.",
+          "paragraphs": [
+            "After remediation, relevant connections and installation changes should be reviewed against the agreed requirements.",
+            "We check applicable cable routes, equipment access, connection identification and physical arrangements.",
+            "Where included in the project scope, updated rack photographs, connection records and outstanding issues are provided to support ongoing maintenance and future infrastructure changes."
+          ],
+          "cta": "Discuss Rack Verification & Handover"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Better Organisation. Clearer Connections. Easier Maintenance.",
+      "paragraphs": [
+        "Explore the cable-management and infrastructure improvement activities involved in restoring order to existing network environments."
+      ],
+      "items": [
+        {
+          "title": "Network Rack Cable Reorganisation",
+          "paragraphs": [
+            "Improving cable arrangements around existing switches, patch panels, servers and other compatible equipment to reduce unnecessary congestion."
+          ]
+        },
+        {
+          "title": "Horizontal & Vertical Cable Management",
+          "paragraphs": [
+            "Using suitable cable managers, pathways and accessories to organise network connections within cabinets and rack environments."
+          ]
+        },
+        {
+          "title": "Patch Cord Routing & Replacement",
+          "paragraphs": [
+            "Reviewing excessive patch-cord lengths, unsuitable cable arrangements and connection routing to identify appropriate corrective work."
+          ]
+        },
+        {
+          "title": "Rack Inspection & Documentation",
+          "paragraphs": [
+            "Reviewing the completed rack arrangement and recording agreed changes, relevant connection details and any remaining issues."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Network Rack Improvement Project"
+    },
+    "faq": {
+      "title": "Your Rack Remediation Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is network rack remediation?",
+          "paragraphs": [
+            "Network rack remediation is the process of assessing and improving the physical organisation of an existing network rack or cabinet. It may involve cable rerouting, patch-cord replacement, cable-management accessories, equipment rearrangement and related identification or documentation work."
+          ]
+        },
+        {
+          "title": "What is the difference between cable routing and rack remediation?",
+          "paragraphs": [
+            "Cable routing focuses on the paths used to organise and protect cables. Rack remediation is a broader improvement process that may include cable routing, rack organisation, accessory installation, equipment repositioning and correction of existing physical infrastructure problems."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide rack remediation services in Nigeria?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides cable routing and rack remediation as part of its network infrastructure services. The work is planned according to the existing installation, site conditions, operational requirements and agreed project scope."
+          ]
+        },
+        {
+          "title": "Can you organise a messy network rack without replacing all the cables?",
+          "paragraphs": [
+            "In many cases, yes. Existing cables may be reused when their condition, lengths and specifications are suitable. Damaged, incorrectly installed or unsuitable cables may require replacement."
+          ]
+        },
+        {
+          "title": "Can you clean up a network cabinet while the network is running?",
+          "paragraphs": [
+            "Some non-intrusive organisation work may be possible while equipment remains operational. However, disconnecting, moving or replacing active cables can interrupt services. The work must be assessed and authorised, with maintenance windows arranged where necessary."
+          ]
+        },
+        {
+          "title": "What causes network racks to become overcrowded?",
+          "paragraphs": [
+            "Common causes include unplanned equipment additions, excessive patch-cord lengths, inadequate cable-management accessories, poorly positioned equipment and changes made without updating the rack layout."
+          ]
+        },
+        {
+          "title": "Can poor cable management affect network performance?",
+          "paragraphs": [
+            "Potentially. Excessive bending, damaged terminations, improper cable handling or physical strain can affect certain connections. Poor cable routing can also restrict equipment airflow and make maintenance more difficult. A tidy-looking rack alone does not guarantee better network performance."
+          ]
+        },
+        {
+          "title": "Can cable congestion cause equipment overheating?",
+          "paragraphs": [
+            "Large cable bundles may obstruct ventilation openings or equipment exhaust paths, contributing to unsuitable operating conditions. The effect depends on rack layout, cooling design, equipment and the location of the obstruction."
+          ]
+        },
+        {
+          "title": "Do you install horizontal and vertical cable managers?",
+          "paragraphs": [
+            "Suitable cable-management accessories can be included in a rack remediation project. Selection depends on rack compatibility, cable quantities, available space and the intended routing arrangement."
+          ]
+        },
+        {
+          "title": "Can you replace long and tangled Ethernet patch cables?",
+          "paragraphs": [
+            "Yes, where appropriate and authorised. Replacement patch cords should have suitable cable specifications, connector types and lengths, while allowing necessary service access and avoiding excessive strain."
+          ]
+        },
+        {
+          "title": "Can you organise both power cables and network cables?",
+          "paragraphs": [
+            "Cable management may involve reviewing the routing of both power and data connections. However, any electrical modification, power-cable replacement or work affecting live electrical systems must be handled within an appropriately qualified and authorised scope."
+          ]
+        },
+        {
+          "title": "Why should power and network cables be separated?",
+          "paragraphs": [
+            "Appropriate separation can help reduce electromagnetic interference in susceptible copper communication cabling and make the installation easier to manage. The required arrangement depends on cable types, equipment, pathways and applicable installation requirements."
+          ]
+        },
+        {
+          "title": "Can you improve cable routing in a data centre rack?",
+          "paragraphs": [
+            "Yes. Rack-level routing improvements can be assessed for data centre environments, subject to site access, equipment requirements, existing connections and approved change procedures."
+          ]
+        },
+        {
+          "title": "Can you remove unused cables from a network rack?",
+          "paragraphs": [
+            "Potentially, but cables should not be removed solely because they appear unused. Their endpoints, function and operational dependencies should be confirmed before removal is approved."
+          ]
+        },
+        {
+          "title": "Do you provide cable labelling during rack remediation?",
+          "paragraphs": [
+            "Cable identification and labelling can be included within the agreed remediation scope. Detailed cable tracing and port mapping are also offered as a separate sub-service."
+          ]
+        },
+        {
+          "title": "Can you help with rack space limitations?",
+          "paragraphs": [
+            "An assessment can identify whether cable organisation, accessory changes or approved equipment repositioning would improve the use of available space. Where the rack is genuinely at capacity, additional or replacement rack infrastructure may be necessary."
+          ]
+        },
+        {
+          "title": "How much does network rack remediation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number of racks, cable quantities, existing conditions, required accessories, equipment changes, site access and whether work must take place during a maintenance window. Photographs and basic rack information can help with an initial project discussion."
+          ]
+        },
+        {
+          "title": "How long does rack remediation take?",
+          "paragraphs": [
+            "The timeframe depends on rack density, cable identification requirements, equipment accessibility and operational restrictions. Complex live environments may require phased work and scheduled interruptions."
+          ]
+        },
+        {
+          "title": "Can you remediate an existing rack installed by another contractor?",
+          "paragraphs": [
+            "Existing third-party installations can be assessed for potential improvements. The scope depends on the condition of the rack, available documentation, connected equipment and whether the required changes can be performed safely."
+          ]
+        },
+        {
+          "title": "Will you provide before-and-after photographs?",
+          "paragraphs": [
+            "Before-and-after photographs can be included in the agreed documentation scope, subject to the customer's site security and photography policies."
+          ]
+        },
+        {
+          "title": "How do we request rack remediation services?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your location, the number of network cabinets, a description of the cabling problems and any operational restrictions. Where permitted, photographs of the existing racks can help us understand the initial requirements."
+          ]
+        }
+      ],
+      "cta": "Discuss Your Rack Remediation Requirements"
+    },
+    "closing": {
+      "title": "A More Organised Rack. A More Manageable Network.",
+      "paragraphs": [
+        "Whether your network cabinet has become overcrowded, your cables are difficult to maintain or your infrastructure needs reorganisation before an upgrade, Integrated Solutions Technology can help you assess the problem and plan the right improvements."
+      ],
+      "primary": "Discuss Your Rack Remediation Project",
+      "secondary": "Explore Network & Cabling Solutions"
+    }
+  }
+}

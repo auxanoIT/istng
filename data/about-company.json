@@ -1,0 +1,301 @@
+{
+  "hero": {
+    "title": "Behind Every Great Possibility Is the Infrastructure That Makes It Work.",
+    "paragraphs": [
+      "Technology is changing how the world lives, works and grows. But progress depends on more than innovation alone. It depends on the power that keeps systems running, the networks that connect people, the infrastructure that supports operations and the security that protects what matters.",
+      "At Integrated Solutions Technology, we bring essential technology and energy solutions together to help businesses, organisations and individuals build stronger foundations for today and prepare for what comes next."
+    ],
+    "actions": [
+      "Discover Our Solutions",
+      "Let's Discuss Your Project"
+    ]
+  },
+  "story": {
+    "title": "Progress Is Built on What Works Behind the Scenes.",
+    "paragraphs": [
+      "Every successful organisation has something in common.",
+      "Behind the products it creates, the customers it serves and the ambitions it pursues are systems that make everyday operations possible.",
+      "Electricity powers its activities. Networks move information. Servers and infrastructure support its digital operations. Security systems help protect its people, facilities and assets.",
+      "Most of these systems are rarely noticed when they work. Yet when they fail, their importance becomes impossible to ignore.",
+      "A business cannot operate confidently when power is unpredictable. A growing organisation cannot work efficiently when its network infrastructure limits communication. And valuable investments deserve more than technology installed without consideration for how it will be used, managed and maintained.",
+      "This is the thinking behind Integrated Solutions Technology.",
+      "We believe organisations should not have to approach every infrastructure challenge as an isolated problem. Power, connectivity, computing and security may serve different functions, but together they form the foundation of a more capable and resilient operation.",
+      "Our role is to help bring these essential elements together through suitable technologies, thoughtful planning, professional installation and practical technical support.",
+      "Not technology for its own sake.",
+      "Technology with a purpose. Infrastructure that enables progress."
+    ]
+  },
+  "company": {
+    "title": "We Bring the Essential Pieces Together.",
+    "paragraphs": [
+      "Integrated Solutions Technology is a Nigerian technology and infrastructure solutions provider delivering services across solar energy, IT infrastructure, networking, enterprise hardware, security and technical support.",
+      "Our capabilities span the systems organisations depend on to operate, communicate, protect their facilities and support their activities.",
+      "From residential and commercial solar installations to data centre infrastructure, fibre optic networks, enterprise servers, CCTV surveillance and access control, we help customers identify and implement solutions appropriate to their environments.",
+      "We work across diverse requirements, from individual properties and business facilities to more complex enterprise infrastructure projects.",
+      "What connects our services is a shared principle:",
+      "The right solution begins with understanding the real problem.",
+      "That means looking beyond equipment specifications to consider the environment, intended use, operational requirements and the people who will depend on the system.",
+      "Because successful infrastructure is not simply about what gets installed.",
+      "It is about how well that infrastructure serves its purpose."
+    ],
+    "cta": "Explore What We Do"
+  },
+  "purpose": {
+    "title": "To Make Technology Work Where It Matters Most.",
+    "paragraphs": [
+      "We believe technology should create opportunities, not unnecessary complexity.",
+      "It should help businesses operate more effectively, enable people to stay connected, support important services and provide a practical foundation for growth.",
+      "Yet the value of technology depends on how it is selected, implemented and supported.",
+      "Our purpose is to help bridge the gap between what technology makes possible and what organisations can achieve with the right infrastructure.",
+      "We do this by helping customers understand their requirements, evaluate suitable solutions and bring essential systems into operation.",
+      "Whether that means planning a solar installation, organising a network, deploying enterprise equipment or improving physical security, our focus remains on solving a real need.",
+      "Because technology only creates value when it works for the people who depend on it."
+    ]
+  },
+  "vision": {
+    "title": "A Future Where Technology and Energy Create Greater Possibilities.",
+    "paragraphs": [
+      "To be a trusted force in advancing a future where reliable energy, connected infrastructure and practical technology enable businesses and communities to thrive.",
+      "We envision a world where organisations are better equipped to pursue opportunities, adapt to change and move forward with confidence.",
+      "A world where essential infrastructure supports ambition instead of limiting it.",
+      "Where the right technology is not merely available but thoughtfully applied to make a meaningful difference.",
+      "That is the future we aspire to help build."
+    ]
+  },
+  "mission": {
+    "title": "Turning Real Challenges Into Practical Solutions.",
+    "paragraphs": [
+      "To help businesses, organisations and individuals plan, deploy and maintain dependable energy and technology infrastructure through appropriate solutions, professional execution and customer-focused technical support.",
+      "Our mission is grounded in four commitments:"
+    ],
+    "items": [
+      {
+        "title": "Understand before recommending.",
+        "paragraphs": [
+          "Every environment is different. We seek to understand the customer's needs before identifying a solution."
+        ]
+      },
+      {
+        "title": "Choose technology with purpose.",
+        "paragraphs": [
+          "We focus on suitability, compatibility and the requirements of the people and systems the technology will serve."
+        ]
+      },
+      {
+        "title": "Approach implementation responsibly.",
+        "paragraphs": [
+          "Good infrastructure requires attention to planning, installation, verification and clear technical responsibilities."
+        ]
+      },
+      {
+        "title": "Support what comes next.",
+        "paragraphs": [
+          "Technology needs change. We aim to help customers maintain, improve and adapt their infrastructure as those needs evolve."
+        ]
+      }
+    ]
+  },
+  "solutions": {
+    "title": "Different Solutions. One Connected Purpose.",
+    "paragraphs": [
+      "A modern organisation depends on many systems working together. Our service portfolio reflects this reality."
+    ],
+    "items": [
+      {
+        "title": "Solar Energy & Power Solutions",
+        "tagline": "Powering Possibilities.",
+        "paragraphs": [
+          "We provide residential, commercial and industrial solar solutions, including hybrid inverter systems, battery storage, maintenance and upgrades.",
+          "Our focus is on helping customers assess and implement suitable energy systems around their actual requirements."
+        ],
+        "slug": "solar-energy",
+        "cta": "Explore Solar Energy Solutions"
+      },
+      {
+        "title": "Data Centre & IT Infrastructure",
+        "tagline": "Building the Physical Foundation of Digital Operations.",
+        "paragraphs": [
+          "We support data centre infrastructure planning, server-room setup, rack-and-stack, enterprise equipment installation, infrastructure verification and equipment changes.",
+          "From initial deployment to technical handover, we help organisations implement suitable physical IT infrastructure."
+        ],
+        "slug": "data-centre-infrastructure",
+        "cta": "Explore Data Centre Solutions"
+      },
+      {
+        "title": "Networking & Structured Cabling",
+        "tagline": "Creating the Connections That Keep Organisations Moving.",
+        "paragraphs": [
+          "We provide network installation, structured LAN cabling, fibre optic cabling, wireless networking, equipment deployment and supporting network upgrades.",
+          "Our services help establish the physical connectivity required for modern business environments."
+        ],
+        "slug": "network-structured-cabling",
+        "cta": "Explore Networking Solutions"
+      },
+      {
+        "title": "Enterprise Servers, Storage & Hardware",
+        "tagline": "Supporting the Systems Behind Business Technology.",
+        "paragraphs": [
+          "We supply and deploy suitable enterprise servers, data storage, computing hardware and related equipment.",
+          "We also provide relevant hardware upgrades, maintenance and infrastructure support."
+        ],
+        "slug": "server-storage-hardware",
+        "cta": "Explore Enterprise Hardware Solutions"
+      },
+      {
+        "title": "Security, Surveillance & Access Control",
+        "tagline": "Protecting What Matters.",
+        "paragraphs": [
+          "Our services include CCTV surveillance, video recording, electronic access control, automated gates, fire alarm and safety systems, and relevant security maintenance.",
+          "We help customers assess appropriate systems for their facilities, assets and operational requirements."
+        ],
+        "slug": "security-surveillance",
+        "cta": "Explore Security Solutions"
+      },
+      {
+        "title": "IT Services & Technical Support",
+        "tagline": "Keeping Infrastructure Ready for What Comes Next.",
+        "paragraphs": [
+          "We provide IT consulting, infrastructure assessments, technical support, project implementation, upgrades, firewall solutions and smart hands for remote engineering teams.",
+          "Our focus is on clearly defined technical work that supports the needs of the customer and their infrastructure."
+        ],
+        "slug": "it-services-support",
+        "cta": "Explore IT Support Services"
+      }
+    ]
+  },
+  "values": {
+    "title": "The Principles Behind Every Solution.",
+    "paragraphs": [
+      "Technology continues to evolve. The principles guiding how we work should remain clear."
+    ],
+    "items": [
+      {
+        "title": "Integrity",
+        "tagline": "Doing What Is Right Matters.",
+        "paragraphs": [
+          "We believe strong business relationships begin with honesty, responsible recommendations and clear communication about what a solution can achieve."
+        ]
+      },
+      {
+        "title": "Excellence",
+        "tagline": "The Details Make the Difference.",
+        "paragraphs": [
+          "From equipment selection to installation and handover, we value careful work, technical discipline and attention to the requirements of each project."
+        ]
+      },
+      {
+        "title": "Innovation",
+        "tagline": "Progress Requires an Open Mind.",
+        "paragraphs": [
+          "We embrace relevant technologies and practical improvements that can help customers respond to changing needs and opportunities."
+        ]
+      },
+      {
+        "title": "Accountability",
+        "tagline": "Responsibility Builds Confidence.",
+        "paragraphs": [
+          "We believe technical responsibilities, project expectations and deliverables should be clearly understood and communicated."
+        ]
+      },
+      {
+        "title": "Customer Focus",
+        "tagline": "Every Solution Begins With People.",
+        "paragraphs": [
+          "We approach projects by considering the people who will use, manage and depend on the infrastructure being delivered."
+        ]
+      },
+      {
+        "title": "Continuous Improvement",
+        "tagline": "There Is Always Room to Build Better.",
+        "paragraphs": [
+          "As technology and customer needs evolve, we believe in learning, refining our approach and seeking better ways to deliver value."
+        ]
+      }
+    ]
+  },
+  "approach": {
+    "title": "We Don't Start With Equipment. We Start With Understanding.",
+    "paragraphs": [
+      "A solution may look impressive on paper and still be unsuitable for the environment where it is installed.",
+      "That is why we believe effective infrastructure begins long before the first device is connected."
+    ],
+    "cta": "Discuss Your Infrastructure Requirements",
+    "items": [
+      {
+        "title": "Listen & Understand",
+        "paragraphs": [
+          "We begin by understanding the customer's objectives, operational challenges, environment and intended outcomes."
+        ]
+      },
+      {
+        "title": "Assess & Recommend",
+        "paragraphs": [
+          "We evaluate relevant technical requirements and identify appropriate technologies and implementation options."
+        ]
+      },
+      {
+        "title": "Plan & Implement",
+        "paragraphs": [
+          "We define the agreed scope and carry out suitable installation, configuration or infrastructure work with attention to technical requirements and safety."
+        ]
+      },
+      {
+        "title": "Verify & Handover",
+        "paragraphs": [
+          "We carry out relevant checks and provide the agreed documentation or operating information needed to understand the completed work."
+        ]
+      },
+      {
+        "title": "Maintain & Improve",
+        "paragraphs": [
+          "Where appropriate, we provide relevant maintenance, upgrades and technical support to help customers adapt their infrastructure over time."
+        ]
+      }
+    ]
+  },
+  "industries": {
+    "title": "From Individual Spaces to Enterprise Environments.",
+    "paragraphs": [
+      "Technology needs are not limited to one industry, one building type or one business size.",
+      "We support suitable infrastructure requirements across a broad range of environments.",
+      "Every sector presents different demands.",
+      "Our approach is to understand the operating environment and identify suitable technologies that address those requirements."
+    ],
+    "cta": "Explore Industries We Serve"
+  },
+  "commitment": {
+    "title": "We Believe the Relationship Matters as Much as the Solution.",
+    "paragraphs": [
+      "Infrastructure decisions can affect how organisations operate for years.",
+      "That is why we believe customers deserve more than a list of products and a quotation.",
+      "They deserve clear explanations, thoughtful recommendations and a technical partner willing to understand the purpose behind their investment.",
+      "For us, a successful engagement means approaching the project with care, communicating expectations clearly and focusing on the work required to achieve an appropriate outcome.",
+      "We want our customers to understand what they are investing in, how the solution is intended to work and what responsibilities come after installation.",
+      "Our commitment is simple: to approach every opportunity with professionalism, clarity and a genuine focus on solving the customer's problem."
+    ]
+  },
+  "future": {
+    "title": "The Future Will Demand Better Infrastructure.",
+    "paragraphs": [
+      "Businesses are becoming more digital. Energy needs are evolving. Connectivity is reaching more environments. Security expectations are changing.",
+      "As these developments continue, the infrastructure behind everyday operations will become even more important.",
+      "We see that future as an opportunity to help customers make smarter decisions about the technologies they rely on.",
+      "Our ambition is to keep developing relevant capabilities, embracing practical innovation and supporting the infrastructure needs of businesses and communities.",
+      "We are not simply interested in what technology can do today.",
+      "We are interested in what better infrastructure can make possible tomorrow."
+    ]
+  },
+  "closing": {
+    "title": "Let's Build the Infrastructure Behind Your Next Move.",
+    "paragraphs": [
+      "Whether you're exploring solar energy, upgrading an enterprise network, deploying IT infrastructure or planning better security for your facility, the first step is understanding what you need to achieve.",
+      "Tell us about your project.",
+      "We'll help you explore the technical requirements and the solutions that may be right for your environment."
+    ],
+    "actions": [
+      "Book a Technical Consultation",
+      "Explore Our Solutions"
+    ],
+    "statement": "Integrated Solutions Technology — Powering Possibilities. Connecting Progress."
+  }
+}

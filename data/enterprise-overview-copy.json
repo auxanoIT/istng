@@ -1,0 +1,2354 @@
+{
+  "data-centre-infrastructure": {
+    "hero": {
+      "title": "Build the Infrastructure Your Business Depends On.",
+      "paragraphs": [
+        "From server room setup and data centre infrastructure planning to rack installation, equipment deployment and system verification, Integrated Solutions Technology helps businesses build organised, reliable and scalable IT environments."
+      ],
+      "ctas": [
+        "Discuss Your Infrastructure Project",
+        "Explore Our Services"
+      ]
+    },
+    "reliability": {
+      "title": "Reliable IT Starts With the Right Infrastructure.",
+      "paragraphs": [
+        "Every business depends on technology working when it matters. Behind that technology is the physical infrastructure that connects, supports and protects essential systems.",
+        "At Integrated Solutions Technology, we help organisations establish and improve the environments their technology depends on, with careful attention to system requirements, equipment placement, connectivity and long-term maintainability."
+      ],
+      "items": [
+        {
+          "title": "Planned Around Your Requirements",
+          "paragraphs": [
+            "Infrastructure decisions should reflect your equipment, available space, operating conditions and future capacity needs."
+          ]
+        },
+        {
+          "title": "Organised for Better Operations",
+          "paragraphs": [
+            "Well-arranged racks, cables and equipment make infrastructure easier to manage, inspect and maintain."
+          ]
+        },
+        {
+          "title": "Properly Installed & Integrated",
+          "paragraphs": [
+            "From mounting equipment to completing power and network connections, each installation should follow the agreed technical requirements."
+          ]
+        },
+        {
+          "title": "Verified Before Handover",
+          "paragraphs": [
+            "Installation checks and agreed tests help confirm that systems are ready for the next stage of operation."
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Stronger Infrastructure. More Confident Operations.",
+      "paragraphs": [
+        "As businesses grow, their technology environments become more complex. New systems are introduced, equipment capacity increases and the need for dependable connectivity becomes more important.",
+        "A properly planned IT infrastructure environment helps organisations manage these demands with greater control."
+      ],
+      "items": [
+        {
+          "title": "Reduce Unnecessary Disruption",
+          "paragraphs": [
+            "Careful installation planning and infrastructure changes help minimise avoidable interference with existing systems and operations."
+          ]
+        },
+        {
+          "title": "Improve Equipment Organisation",
+          "paragraphs": [
+            "Structured rack layouts, properly routed cabling and organised equipment placement make technical environments easier to understand and maintain."
+          ]
+        },
+        {
+          "title": "Support Business Growth",
+          "paragraphs": [
+            "Infrastructure planned around current requirements and future expansion can make it easier to accommodate additional equipment and changing workloads."
+          ]
+        },
+        {
+          "title": "Simplify Technical Maintenance",
+          "paragraphs": [
+            "Clearly arranged systems, accessible equipment and documented connections help technical teams identify and address issues more efficiently."
+          ]
+        },
+        {
+          "title": "Protect Your Technology Investment",
+          "paragraphs": [
+            "Appropriate installation, physical protection and operating conditions help reduce avoidable risks to valuable IT equipment."
+          ]
+        },
+        {
+          "title": "Improve Operational Readiness",
+          "paragraphs": [
+            "Testing, verification and handover activities help establish whether installed infrastructure meets the agreed requirements before operational use."
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "From Planning to Deployment. Every Detail Has a Purpose.",
+      "paragraphs": [
+        "Whether you're establishing a new server room, expanding an existing data centre or installing enterprise equipment, we provide infrastructure solutions designed around your project requirements."
+      ],
+      "items": [
+        {
+          "title": "Data Centre Design & Infrastructure Planning",
+          "paragraphs": [
+            "Successful infrastructure projects begin with understanding what the environment needs to support.",
+            "We help organisations assess their space, equipment requirements, rack capacity, connectivity and supporting infrastructure before establishing a suitable deployment plan.",
+            "From new environments to planned upgrades, our approach considers practical installation requirements, equipment organisation and future operational needs."
+          ],
+          "tagline": "Get the Foundation Right Before Deployment Begins.",
+          "cta": "Explore Data Centre Planning"
+        },
+        {
+          "title": "Server Room Setup & Deployment",
+          "paragraphs": [
+            "A well-organised server room provides the physical foundation for business computing, networking and data storage.",
+            "We support server room setup and deployment, including rack positioning, equipment arrangement, cabling organisation and integration with the required supporting systems.",
+            "Our focus is on creating a practical, manageable environment that accommodates your business's technology requirements."
+          ],
+          "tagline": "Create an Environment Built for Your Technology.",
+          "cta": "Explore Server Room Solutions"
+        },
+        {
+          "title": "Rack-and-Stack Services",
+          "paragraphs": [
+            "Installing rack-mounted equipment requires more than finding available rack space.",
+            "We provide rack-and-stack services for suitable enterprise servers, storage equipment, switches and other rack-mounted devices.",
+            "Our installation approach considers equipment positioning, mounting, physical organisation and connectivity requirements to support a structured deployment."
+          ],
+          "tagline": "Every Device in Its Place. Every Connection Considered.",
+          "cta": "Explore Rack-and-Stack Services"
+        },
+        {
+          "title": "Data Centre Equipment Installation",
+          "paragraphs": [
+            "New technology creates value when it is properly installed and integrated into the intended environment.",
+            "We support the physical installation of data centre and enterprise IT equipment, including server hardware, storage systems, network appliances and related infrastructure.",
+            "From equipment positioning and mounting to connection preparation and integration, we help organisations move their infrastructure projects towards operational readiness."
+          ],
+          "tagline": "Turn Equipment Delivery Into a Working Infrastructure.",
+          "cta": "Explore Equipment Installation"
+        },
+        {
+          "title": "Infrastructure Testing & Verification",
+          "paragraphs": [
+            "A completed installation should be assessed against the project's agreed technical and operational requirements.",
+            "We support infrastructure inspection, connection checks, equipment verification and relevant deployment testing to identify issues before project handover.",
+            "This helps organisations gain greater confidence in the condition and readiness of their installed systems."
+          ],
+          "tagline": "Installed Correctly. Checked Before Handover.",
+          "cta": "Explore Infrastructure Testing"
+        }
+      ],
+      "ctas": [
+        "Explore Data Centre Planning",
+        "Explore Server Room Solutions",
+        "Explore Rack-and-Stack Services",
+        "Explore Equipment Installation",
+        "Explore Infrastructure Testing"
+      ]
+    },
+    "system": {
+      "title": "Upgrade Your Infrastructure Without Losing Control.",
+      "paragraphs": [
+        "Introducing new equipment into an existing technology environment requires careful planning. The goal is to improve capability without creating unnecessary disruption to systems already in use.",
+        "We approach infrastructure changes with attention to technical requirements, existing dependencies and the conditions of the operating environment."
+      ],
+      "items": [
+        {
+          "title": "Understand What Is Already in Place",
+          "paragraphs": [
+            "We review relevant existing equipment, connections, space and infrastructure conditions before recommending changes."
+          ]
+        },
+        {
+          "title": "Plan Around Operating Requirements",
+          "paragraphs": [
+            "Installation and maintenance activities are considered alongside access requirements, operational schedules and system dependencies."
+          ]
+        },
+        {
+          "title": "Keep Changes Organised",
+          "paragraphs": [
+            "Equipment placement, cabling and infrastructure modifications are approached with attention to clarity, accessibility and future maintenance."
+          ]
+        },
+        {
+          "title": "Verify the Completed Work",
+          "paragraphs": [
+            "Relevant checks help confirm that the agreed installation or modification has been carried out as intended."
+          ]
+        }
+      ]
+    },
+    "environments": {
+      "title": "Different IT Environments. One Focus on Getting the Infrastructure Right.",
+      "paragraphs": [
+        "The infrastructure supporting a corporate office may differ significantly from what a data centre, financial institution or technology provider requires.",
+        "We help organisations plan and deploy solutions around their technical environments and operating needs."
+      ],
+      "items": [
+        {
+          "title": "Data Centre Operators",
+          "paragraphs": [
+            "Support equipment deployment, rack organisation, infrastructure changes and technical requirements within dedicated data centre environments."
+          ],
+          "cta": "Explore Data Centre Solutions"
+        },
+        {
+          "title": "Corporate IT & Enterprise Teams",
+          "paragraphs": [
+            "Establish and improve server rooms, equipment infrastructure and supporting systems that enable everyday business operations."
+          ],
+          "cta": "Explore Enterprise Infrastructure"
+        },
+        {
+          "title": "Financial Services & Professional Organisations",
+          "paragraphs": [
+            "Plan IT infrastructure around important computing, connectivity and operational requirements, with attention to physical organisation and system availability."
+          ],
+          "cta": "Discuss Your Infrastructure Needs"
+        },
+        {
+          "title": "Telecommunications & Technology Providers",
+          "paragraphs": [
+            "Support network and equipment deployment requirements for organisations operating connectivity and technology infrastructure."
+          ],
+          "cta": "Explore Technology Infrastructure"
+        },
+        {
+          "title": "Healthcare & Educational Institutions",
+          "paragraphs": [
+            "Provide structured infrastructure environments to support administrative systems, connectivity, computing and other institutional technology needs."
+          ],
+          "cta": "Discuss Institutional IT Solutions"
+        },
+        {
+          "title": "Manufacturing & Industrial Businesses",
+          "paragraphs": [
+            "Support business IT infrastructure, technical spaces and equipment requirements within commercial and industrial operating environments."
+          ],
+          "cta": "Explore Industrial IT Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Data Centre Solutions",
+        "Explore Enterprise Infrastructure",
+        "Discuss Your Infrastructure Needs",
+        "Explore Technology Infrastructure",
+        "Discuss Institutional IT Solutions",
+        "Explore Industrial IT Solutions"
+      ]
+    },
+    "decisions": {
+      "title": "Your Technology Is Changing. Is Your Infrastructure Ready?",
+      "paragraphs": [
+        "Not every infrastructure project begins with a new building or a complete technology replacement.",
+        "Sometimes, growing equipment demands, difficult maintenance or an outdated server room are signs that existing infrastructure needs attention."
+      ],
+      "items": [
+        {
+          "title": "You're Setting Up a New Office or Facility",
+          "paragraphs": [
+            "A new location creates an opportunity to plan server room space, rack arrangements, connectivity and supporting infrastructure before equipment deployment."
+          ]
+        },
+        {
+          "title": "Your Existing Server Room Is Becoming Overcrowded",
+          "paragraphs": [
+            "Limited rack space, disorganised cabling or poorly arranged equipment can make maintenance and future installation more difficult."
+          ]
+        },
+        {
+          "title": "You're Introducing New Enterprise Equipment",
+          "paragraphs": [
+            "New servers, storage systems and network appliances may require changes to rack capacity, connections and existing equipment arrangements."
+          ]
+        },
+        {
+          "title": "Your Organisation Is Expanding",
+          "paragraphs": [
+            "Additional staff, sites, applications or workloads can increase infrastructure requirements and create demand for more capacity."
+          ]
+        },
+        {
+          "title": "Your Infrastructure Is Difficult to Maintain",
+          "paragraphs": [
+            "Unclear equipment organisation, poorly routed cables and limited documentation can complicate troubleshooting and technical support."
+          ]
+        },
+        {
+          "title": "You're Upgrading Ageing Equipment",
+          "paragraphs": [
+            "Replacing existing systems provides an opportunity to review equipment placement, infrastructure compatibility and future operational requirements."
+          ],
+          "cta": "Discuss Your Infrastructure Project"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Infrastructure Project"
+      ]
+    },
+    "related": {
+      "title": "The Right Infrastructure Works Better When Everything Connects.",
+      "paragraphs": [
+        "Your data centre or server room is one part of a larger technology environment.",
+        "Integrated Solutions Technology provides complementary services that help organisations support connectivity, computing, security and everyday technical operations."
+      ],
+      "items": [
+        {
+          "title": "Network & Structured Cabling",
+          "paragraphs": [
+            "Build organised network connections through structured cabling, fibre connectivity and suitable networking infrastructure."
+          ],
+          "cta": "Explore Network Solutions"
+        },
+        {
+          "title": "Server, Storage & Hardware",
+          "paragraphs": [
+            "Source, install and configure enterprise servers, storage systems and IT hardware around your business requirements."
+          ],
+          "cta": "Explore Server & Hardware Solutions"
+        },
+        {
+          "title": "Security & Surveillance",
+          "paragraphs": [
+            "Support property and facility monitoring with CCTV and surveillance solutions designed around your environment."
+          ],
+          "cta": "Explore Security Solutions"
+        },
+        {
+          "title": "IT Services & Technical Support",
+          "paragraphs": [
+            "Access technical consultation, equipment maintenance, troubleshooting and IT infrastructure support."
+          ],
+          "cta": "Explore IT Support Services"
+        },
+        {
+          "title": "Solar Energy & Power Solutions",
+          "paragraphs": [
+            "Explore solar generation, hybrid inverter systems and battery storage solutions for suitable facility energy requirements."
+          ],
+          "cta": "Explore Solar Energy Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Network Solutions",
+        "Explore Server & Hardware Solutions",
+        "Explore Security Solutions",
+        "Explore IT Support Services",
+        "Explore Solar Energy Solutions"
+      ]
+    },
+    "faq": {
+      "title": "Your Data Centre & IT Infrastructure Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What are data centre and IT infrastructure services?",
+          "paragraphs": [
+            "These services involve the planning, installation, organisation and support of the physical systems required for business computing and connectivity. They can include server room setup, racks, server and storage installation, network infrastructure, equipment integration and deployment verification."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology set up server rooms?",
+          "paragraphs": [
+            "Yes. Our server room solutions cover the planning and deployment of equipment infrastructure, including rack arrangements, equipment installation, cabling organisation and relevant supporting requirements based on the project scope."
+          ]
+        },
+        {
+          "title": "What is a rack-and-stack service?",
+          "paragraphs": [
+            "Rack-and-stack involves physically installing suitable IT equipment into server or network racks. It can include equipment positioning, mounting, securing, connecting and organising devices according to the approved deployment requirements."
+          ]
+        },
+        {
+          "title": "Can you install enterprise servers and storage systems?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology provides server, storage and related hardware installation services. The activities may include physical deployment, power and network connections, and agreed initial configuration or integration requirements."
+          ]
+        },
+        {
+          "title": "Can you improve an existing server room?",
+          "paragraphs": [
+            "Yes. Existing environments can be assessed to identify opportunities for better equipment organisation, additional rack capacity, cabling improvements and infrastructure upgrades. Recommendations depend on the current condition and operating requirements of the facility."
+          ]
+        },
+        {
+          "title": "Do you provide structured cabling and network installation?",
+          "paragraphs": [
+            "Yes. Structured cabling and network installation are offered through our Network & Structured Cabling service division. We can consider these requirements alongside broader server room and IT infrastructure projects."
+          ]
+        },
+        {
+          "title": "Can you help with infrastructure expansion?",
+          "paragraphs": [
+            "Yes. Expansion planning may involve additional equipment, rack space, cabling, connections and supporting infrastructure. Reviewing the existing environment helps establish the most suitable approach."
+          ]
+        },
+        {
+          "title": "Do you test equipment after installation?",
+          "paragraphs": [
+            "Relevant installation checks and deployment verification can be included according to the agreed project scope. These may cover equipment positioning, physical connections, device status and other defined acceptance requirements."
+          ]
+        },
+        {
+          "title": "How long does a data centre or server room installation take?",
+          "paragraphs": [
+            "The timeframe depends on the size of the environment, equipment quantities, site readiness, access conditions, required connections and project complexity. A review of the proposed work helps establish an appropriate project schedule."
+          ]
+        },
+        {
+          "title": "How much does a data centre infrastructure project cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the scope of work, equipment requirements, rack capacity, infrastructure condition, installation complexity and supporting systems. An assessment and defined project scope are necessary to prepare a meaningful quotation."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide maintenance and technical support?",
+          "paragraphs": [
+            "Yes. Our wider IT services include infrastructure maintenance, troubleshooting and technical assistance. The available support arrangement should be discussed according to your equipment and operational requirements."
+          ]
+        },
+        {
+          "title": "How do I start a data centre or IT infrastructure project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your project location, existing infrastructure details, equipment requirements and intended outcomes. Our team can review your needs, identify any required assessment and guide you towards a suitable implementation plan."
+          ],
+          "cta": "Discuss Your Infrastructure Requirements"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Infrastructure Requirements"
+      ]
+    },
+    "closing": {
+      "title": "Your Next Infrastructure Project Starts With the Right Plan.",
+      "paragraphs": [
+        "Whether you're establishing a new server room, deploying enterprise equipment or upgrading an existing IT environment, Integrated Solutions Technology can help you plan and implement a solution built around your operational requirements."
+      ],
+      "ctas": [
+        "Discuss Your Requirements",
+        "Explore Our IT Solutions"
+      ]
+    }
+  },
+  "network-structured-cabling": {
+    "hero": {
+      "title": "Stronger Connections. Better Business Performance.",
+      "paragraphs": [
+        "From structured cabling and fibre optic installation to enterprise networking and wireless connectivity, Integrated Solutions Technology designs, installs and supports network infrastructure that keeps businesses connected and operations running smoothly."
+      ],
+      "ctas": [
+        "Discuss Your Network Project",
+        "Explore Our Network Solutions"
+      ]
+    },
+    "reliability": {
+      "title": "Every Reliable Connection Starts With the Right Infrastructure.",
+      "paragraphs": [
+        "Behind every connected office, business application and communication system is a network that must perform when needed.",
+        "Poorly planned cabling, inadequate equipment and disorganised connections can affect performance, make maintenance difficult and limit future expansion.",
+        "At Integrated Solutions Technology, we approach network infrastructure by understanding your building, connected devices, business activities and future connectivity requirements before recommending a suitable solution."
+      ],
+      "items": [
+        {
+          "title": "Designed Around Your Environment",
+          "paragraphs": [
+            "Your network should reflect the size of your facility, the number of connected devices and the demands of your operations."
+          ]
+        },
+        {
+          "title": "Organised for Better Management",
+          "paragraphs": [
+            "Structured cabling, labelled connections and properly arranged equipment help make network maintenance and troubleshooting easier."
+          ]
+        },
+        {
+          "title": "Built for Dependable Connectivity",
+          "paragraphs": [
+            "Suitable cables, networking equipment and correct installation practices support consistent communication across your infrastructure."
+          ]
+        },
+        {
+          "title": "Ready for Changing Requirements",
+          "paragraphs": [
+            "A carefully planned network makes it easier to accommodate new users, devices and technology as your organisation grows."
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "The Network Behind Your Business Should Work as Hard as You Do.",
+      "paragraphs": [
+        "Your business depends on more than an internet connection. Computers, servers, security systems, communication tools and essential applications all rely on an organised and dependable network.",
+        "Professional network infrastructure helps these systems communicate effectively while supporting the demands of everyday operations."
+      ],
+      "items": [
+        {
+          "title": "Improve Network Reliability",
+          "paragraphs": [
+            "Proper installation and suitable equipment help reduce avoidable connectivity problems caused by poor cabling and infrastructure design."
+          ]
+        },
+        {
+          "title": "Support Business Productivity",
+          "paragraphs": [
+            "A dependable network helps employees access the systems, resources and communication tools they need to work effectively."
+          ]
+        },
+        {
+          "title": "Simplify Troubleshooting",
+          "paragraphs": [
+            "Organised cables, labelled connections and documented network layouts make it easier to identify and resolve infrastructure issues."
+          ]
+        },
+        {
+          "title": "Support Future Expansion",
+          "paragraphs": [
+            "Infrastructure planned with suitable capacity can accommodate additional devices, workstations and new business requirements."
+          ]
+        },
+        {
+          "title": "Improve Infrastructure Organisation",
+          "paragraphs": [
+            "Structured cable routes, equipment racks and appropriate network accessories create a cleaner and more manageable technical environment."
+          ]
+        },
+        {
+          "title": "Make Better Technology Investments",
+          "paragraphs": [
+            "Choosing network infrastructure around actual performance and capacity requirements helps avoid unnecessary equipment and unsuitable installations."
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "Everything Your Business Needs to Stay Connected.",
+      "paragraphs": [
+        "From a new office network to an enterprise infrastructure upgrade, we provide connectivity solutions designed around your physical environment, connected systems and operating requirements."
+      ],
+      "items": [
+        {
+          "title": "Network Design & Installation",
+          "paragraphs": [
+            "Every business has different connectivity requirements.",
+            "We help plan and install network infrastructure that supports workstations, servers, printers, communication systems and other connected devices.",
+            "Our approach considers your building layout, network capacity, equipment requirements and opportunities for future expansion."
+          ],
+          "tagline": "A Network Designed Around the Way You Work.",
+          "cta": "Explore Network Design & Installation"
+        },
+        {
+          "title": "Structured LAN Cabling",
+          "paragraphs": [
+            "A well-structured cabling system provides a reliable physical foundation for business networking.",
+            "We install structured copper cabling infrastructure, including appropriate network outlets, patch panels, equipment racks and cable management systems.",
+            "Our focus is on clear cable organisation, suitable installation practices and infrastructure that can be maintained and expanded more easily."
+          ],
+          "tagline": "Organised Cabling. More Dependable Connections.",
+          "cta": "Explore Structured Cabling Solutions"
+        },
+        {
+          "title": "Fibre Optic Cabling",
+          "paragraphs": [
+            "Businesses with longer-distance connections or higher network capacity requirements may benefit from fibre optic infrastructure.",
+            "We provide fibre optic cabling solutions for suitable office, commercial and enterprise environments, with attention to cable routes, installation conditions and connectivity requirements.",
+            "The recommended fibre solution depends on transmission distance, network equipment and operational needs."
+          ],
+          "tagline": "High-Capacity Connectivity for Demanding Environments.",
+          "cta": "Explore Fibre Optic Solutions"
+        },
+        {
+          "title": "Wireless Network Solutions",
+          "paragraphs": [
+            "Employees, visitors and connected devices increasingly depend on wireless networking.",
+            "We help businesses plan and deploy wireless network infrastructure around building coverage, user requirements and connected equipment.",
+            "From wireless access point placement to supporting network configuration, our approach focuses on practical connectivity throughout the intended environment."
+          ],
+          "tagline": "Reliable Connectivity Beyond the Cable.",
+          "cta": "Explore Wireless Network Solutions"
+        },
+        {
+          "title": "Network Configuration & Upgrades",
+          "paragraphs": [
+            "As businesses grow, existing networks may struggle with changing equipment, additional users or new connectivity demands.",
+            "We assess network infrastructure and provide suitable configuration, equipment upgrades and improvements based on your operational requirements.",
+            "Our goal is to help you get greater value from your existing infrastructure while preparing for future needs."
+          ],
+          "tagline": "Make More of the Network You Already Have.",
+          "cta": "Explore Network Upgrades"
+        }
+      ],
+      "ctas": [
+        "Explore Network Design & Installation",
+        "Explore Structured Cabling Solutions",
+        "Explore Fibre Optic Solutions",
+        "Explore Wireless Network Solutions",
+        "Explore Network Upgrades"
+      ]
+    },
+    "system": {
+      "title": "Every Connection Has a Role. Every Component Matters.",
+      "paragraphs": [
+        "A business network works best when its components are properly selected, connected and configured.",
+        "From network outlets and structured cabling to switches, routers, wireless access points and enterprise equipment, each component contributes to the performance of the wider system."
+      ],
+      "items": [
+        {
+          "title": "Structured Cabling",
+          "paragraphs": [
+            "Provides organised physical connections between workstations, network equipment and other connected devices."
+          ]
+        },
+        {
+          "title": "Network Switches",
+          "paragraphs": [
+            "Connect devices within a local network, allowing them to exchange information and access shared network resources."
+          ]
+        },
+        {
+          "title": "Routers & Network Gateways",
+          "paragraphs": [
+            "Connect different networks and help direct data between internal systems and external network services."
+          ]
+        },
+        {
+          "title": "Wireless Access Points",
+          "paragraphs": [
+            "Extend network access to compatible wireless devices within the designed coverage areas."
+          ]
+        },
+        {
+          "title": "Fibre Optic Connections",
+          "paragraphs": [
+            "Provide suitable high-capacity connections between network equipment, buildings or other infrastructure locations."
+          ]
+        },
+        {
+          "title": "Network Racks & Cable Management",
+          "paragraphs": [
+            "Help organise, protect and maintain networking equipment and its supporting cabling infrastructure."
+          ],
+          "cta": "Discuss Your Network Requirements"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Network Requirements"
+      ]
+    },
+    "environments": {
+      "title": "Different Workplaces. Different Network Demands.",
+      "paragraphs": [
+        "The connectivity needs of a corporate office are different from those of a hotel, manufacturing facility or educational institution.",
+        "We help organisations plan network infrastructure around how their people, devices and systems communicate."
+      ],
+      "items": [
+        {
+          "title": "Corporate Offices & Business Facilities",
+          "paragraphs": [
+            "Support workstations, shared resources, communication tools and everyday business applications with organised network infrastructure."
+          ],
+          "cta": "Explore Office Network Solutions"
+        },
+        {
+          "title": "Data Centres & Server Rooms",
+          "paragraphs": [
+            "Provide structured connections between servers, storage equipment, switches and other enterprise computing infrastructure."
+          ],
+          "cta": "Explore Data Centre Connectivity"
+        },
+        {
+          "title": "Schools & Educational Institutions",
+          "paragraphs": [
+            "Support administrative systems, computer laboratories, digital learning environments and campus connectivity through appropriately designed network infrastructure."
+          ],
+          "cta": "Discuss Education Network Solutions"
+        },
+        {
+          "title": "Healthcare Facilities",
+          "paragraphs": [
+            "Support connectivity requirements for administrative operations, communication systems and suitable network-connected equipment within healthcare environments."
+          ],
+          "cta": "Discuss Healthcare Networking"
+        },
+        {
+          "title": "Hotels & Hospitality Businesses",
+          "paragraphs": [
+            "Plan network connectivity for operational systems, administrative areas, guest access and other suitable hospitality requirements."
+          ],
+          "cta": "Explore Hospitality Network Solutions"
+        },
+        {
+          "title": "Manufacturing & Industrial Facilities",
+          "paragraphs": [
+            "Provide network infrastructure for offices, warehouses, suitable production-support systems and connected operational environments."
+          ],
+          "cta": "Explore Industrial Network Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Office Network Solutions",
+        "Explore Data Centre Connectivity",
+        "Discuss Education Network Solutions",
+        "Discuss Healthcare Networking",
+        "Explore Hospitality Network Solutions",
+        "Explore Industrial Network Solutions"
+      ]
+    },
+    "decisions": {
+      "title": "Your Business Is Evolving. Can Your Network Keep Up?",
+      "paragraphs": [
+        "A network may continue working for years while gradually becoming harder to manage or less suitable for changing business needs.",
+        "Recognising the signs early can help you plan improvements before infrastructure limitations cause unnecessary disruption."
+      ],
+      "items": [
+        {
+          "title": "You're Moving Into a New Office",
+          "paragraphs": [
+            "A new business location creates an opportunity to plan network outlets, equipment placement, wireless coverage and future connectivity needs before occupancy."
+          ]
+        },
+        {
+          "title": "Your Network Connections Are Unreliable",
+          "paragraphs": [
+            "Frequent disconnections and inconsistent performance may indicate problems with cabling, network equipment, configuration or external connectivity services."
+          ]
+        },
+        {
+          "title": "Your Cables Are Difficult to Manage",
+          "paragraphs": [
+            "Disorganised connections and poorly labelled cables can make troubleshooting, maintenance and future modifications more complicated."
+          ]
+        },
+        {
+          "title": "You're Adding More Users and Devices",
+          "paragraphs": [
+            "Business growth can increase demand for network ports, wireless capacity, bandwidth and supporting infrastructure."
+          ]
+        },
+        {
+          "title": "Your Existing Infrastructure Is Outdated",
+          "paragraphs": [
+            "Older cabling or networking equipment may no longer support the performance and capacity requirements of newer systems."
+          ]
+        },
+        {
+          "title": "You're Expanding Into Multiple Floors or Buildings",
+          "paragraphs": [
+            "Connecting different areas of a facility may require additional network infrastructure, fibre connections and carefully planned distribution points."
+          ],
+          "cta": "Request a Network Assessment"
+        }
+      ],
+      "ctas": [
+        "Request a Network Assessment"
+      ]
+    },
+    "related": {
+      "title": "Better Connections Support Better Technology.",
+      "paragraphs": [
+        "Reliable networking is one part of an effective business technology environment.",
+        "Integrated Solutions Technology provides complementary solutions that support the systems connected to your network and the infrastructure that keeps them operating."
+      ],
+      "items": [
+        {
+          "title": "Data Centre & IT Infrastructure",
+          "paragraphs": [
+            "Plan and deploy server rooms, network racks, equipment infrastructure and supporting data centre systems."
+          ],
+          "cta": "Explore Data Centre Solutions"
+        },
+        {
+          "title": "Server, Storage & Hardware",
+          "paragraphs": [
+            "Support enterprise computing and data storage requirements with suitable equipment procurement, installation and configuration."
+          ],
+          "cta": "Explore Server & Hardware Solutions"
+        },
+        {
+          "title": "Security & Surveillance",
+          "paragraphs": [
+            "Connect suitable CCTV and surveillance equipment through professionally planned supporting infrastructure."
+          ],
+          "cta": "Explore Security Solutions"
+        },
+        {
+          "title": "IT Services & Technical Support",
+          "paragraphs": [
+            "Access network troubleshooting, technical consultation, infrastructure maintenance and IT support."
+          ],
+          "cta": "Explore IT Support Services"
+        },
+        {
+          "title": "Solar Energy & Power Solutions",
+          "paragraphs": [
+            "Explore solar generation, hybrid inverter systems and battery storage for suitable building and infrastructure energy requirements."
+          ],
+          "cta": "Explore Solar Energy Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Data Centre Solutions",
+        "Explore Server & Hardware Solutions",
+        "Explore Security Solutions",
+        "Explore IT Support Services",
+        "Explore Solar Energy Solutions"
+      ]
+    },
+    "faq": {
+      "title": "Your Network Infrastructure Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What is structured cabling?",
+          "paragraphs": [
+            "Structured cabling is an organised system of cables, outlets, patch panels and supporting equipment used to connect network devices within a building or facility. It provides a consistent physical foundation for communication and data networks."
+          ]
+        },
+        {
+          "title": "Does Integrated Solutions Technology provide network installation?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology provides network infrastructure solutions, including network design, structured cabling, equipment installation, wireless networking and network configuration based on project requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between structured cabling and network installation?",
+          "paragraphs": [
+            "Structured cabling focuses on the physical cable infrastructure and its organisation. Network installation is broader and may include switches, routers, wireless access points, device connections and configuration."
+          ]
+        },
+        {
+          "title": "Do you install Cat6 and other network cables?",
+          "paragraphs": [
+            "Structured cabling projects can use suitable copper cable categories, including Cat6, depending on performance requirements, distance, equipment compatibility and applicable installation standards. The appropriate cable specification is determined during project planning."
+          ]
+        },
+        {
+          "title": "Do you provide fibre optic cabling installation?",
+          "paragraphs": [
+            "Yes. We plan and install fibre links for business and enterprise infrastructure. The scope can include termination, labelling and agreed link testing. The design depends on distance, bandwidth needs and existing equipment."
+          ]
+        },
+        {
+          "title": "Can you set up a network for a new office?",
+          "paragraphs": [
+            "Yes. We can help plan network infrastructure around the building layout, workstations, connected equipment, required network outlets and wireless coverage."
+          ]
+        },
+        {
+          "title": "Can you improve an existing office network?",
+          "paragraphs": [
+            "Yes. We can assess the existing infrastructure and recommend appropriate cabling improvements, equipment upgrades, configuration changes or network expansion based on identified requirements."
+          ]
+        },
+        {
+          "title": "How do I know whether my business needs a network upgrade?",
+          "paragraphs": [
+            "Frequent connectivity problems, insufficient network ports, poor wireless coverage, ageing equipment and increasing numbers of connected devices may indicate a need for assessment or improvement."
+          ]
+        },
+        {
+          "title": "Can you connect different floors or buildings?",
+          "paragraphs": [
+            "Yes, suitable structured cabling, fibre optic or wireless network infrastructure may be used to connect separate floors or buildings. The best option depends on distance, site conditions, capacity and equipment requirements."
+          ]
+        },
+        {
+          "title": "Can you install networking infrastructure for servers and data centres?",
+          "paragraphs": [
+            "Yes. Our network services can support server rooms, rack installations and enterprise IT environments requiring structured connectivity between network equipment, servers and storage systems."
+          ]
+        },
+        {
+          "title": "How much does network installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number of connection points, cable type, building size, network equipment, installation complexity, testing requirements and other project conditions. A defined scope helps establish an accurate quotation."
+          ]
+        },
+        {
+          "title": "Do you provide network maintenance and technical support?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides network-related maintenance, troubleshooting and technical support services according to the agreed project and support requirements."
+          ]
+        },
+        {
+          "title": "How do I get started with a network installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your project location, building details, number of users or devices and connectivity requirements. Our team can review your needs and advise on an appropriate assessment and implementation approach."
+          ],
+          "cta": "Discuss Your Network Project"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Network Project"
+      ]
+    },
+    "closing": {
+      "title": "Better Connectivity Starts With the Right Infrastructure.",
+      "paragraphs": [
+        "Whether you're setting up a new office, installing structured cabling, upgrading an existing network or planning enterprise connectivity, Integrated Solutions Technology can help you identify and implement a solution suited to your requirements."
+      ],
+      "ctas": [
+        "Discuss Your Requirements",
+        "Explore Our IT Solutions"
+      ]
+    }
+  },
+  "server-storage-hardware": {
+    "hero": {
+      "title": "The Right Technology. The Foundation for Better Business Performance.",
+      "paragraphs": [
+        "From enterprise servers and data storage systems to IT hardware procurement, installation and configuration, Integrated Solutions Technology delivers technology solutions designed around your organisation's operational requirements.",
+        "We help businesses build, upgrade and maintain the computing infrastructure they need to operate efficiently and plan for future growth."
+      ],
+      "ctas": [
+        "Discuss Your Hardware Requirements",
+        "Explore Our Solutions"
+      ]
+    },
+    "reliability": {
+      "title": "The Technology Behind Your Business Deserves the Right Foundation.",
+      "paragraphs": [
+        "Every business relies on technology to manage information, run applications, connect teams and support daily operations.",
+        "But choosing the right equipment involves more than comparing specifications. Your servers, storage systems and hardware must suit your workloads, existing infrastructure, budget and future requirements.",
+        "At Integrated Solutions Technology, we help organisations make informed technology decisions, with solutions designed around practical business needs."
+      ],
+      "items": [
+        {
+          "title": "The Right Equipment for the Job",
+          "paragraphs": [
+            "We help identify hardware suited to your applications, workloads, operational requirements and available resources."
+          ]
+        },
+        {
+          "title": "Infrastructure That Works Together",
+          "paragraphs": [
+            "Servers, storage devices and supporting equipment should be compatible with your existing technology environment."
+          ]
+        },
+        {
+          "title": "Professional Deployment",
+          "paragraphs": [
+            "Proper installation and configuration help ensure equipment is ready to perform its intended role."
+          ]
+        },
+        {
+          "title": "Planned for Future Requirements",
+          "paragraphs": [
+            "We consider maintainability, capacity and potential upgrades when recommending technology solutions."
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Equip Your Business to Perform, Adapt and Grow.",
+      "paragraphs": [
+        "Outdated, undersized or unsuitable hardware can limit productivity, complicate maintenance and make it harder for organisations to respond to changing technology requirements.",
+        "Investing in the right computing infrastructure helps businesses build a more dependable foundation for their operations."
+      ],
+      "items": [
+        {
+          "title": "Support Everyday Performance",
+          "paragraphs": [
+            "Appropriately selected servers and hardware provide the computing resources required by your business applications and systems."
+          ]
+        },
+        {
+          "title": "Improve Data Availability",
+          "paragraphs": [
+            "Suitable storage configurations, protection measures and backup arrangements can help organisations manage access to important business information."
+          ]
+        },
+        {
+          "title": "Simplify Infrastructure Management",
+          "paragraphs": [
+            "Organised equipment deployment and documented configurations make systems easier to maintain, monitor and troubleshoot."
+          ]
+        },
+        {
+          "title": "Make Better Technology Investments",
+          "paragraphs": [
+            "Choosing equipment around actual requirements helps organisations avoid unnecessary capacity and unsuitable purchases."
+          ]
+        },
+        {
+          "title": "Support Business Expansion",
+          "paragraphs": [
+            "Infrastructure planned with future requirements in mind can make it easier to accommodate growing workloads and additional systems."
+          ]
+        },
+        {
+          "title": "Reduce Avoidable Disruption",
+          "paragraphs": [
+            "Suitable hardware, professional installation and appropriate maintenance help minimise equipment-related problems that may interrupt operations."
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "The Right Equipment. Professionally Delivered.",
+      "paragraphs": [
+        "Whether you're deploying new enterprise servers, expanding storage capacity or upgrading business hardware, we provide solutions that connect your technical requirements with practical implementation."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Server Supply & Installation",
+          "paragraphs": [
+            "Business applications, internal systems and digital services depend on suitable computing infrastructure.",
+            "We help organisations select, procure and install enterprise servers based on workload requirements, existing infrastructure and operational priorities.",
+            "From rack-mounted server deployment to equipment integration, our approach focuses on creating a computing environment suited to your business needs."
+          ],
+          "tagline": "The Computing Power Behind Your Operations.",
+          "cta": "Explore Enterprise Server Solutions"
+        },
+        {
+          "title": "Data Storage Solutions",
+          "paragraphs": [
+            "As organisations generate and manage more information, storage requirements become increasingly important.",
+            "We provide data storage solutions designed around capacity, performance, accessibility and compatibility requirements.",
+            "From dedicated storage equipment to suitable enterprise storage infrastructure, we help businesses plan and deploy systems that support their information management needs."
+          ],
+          "tagline": "Your Business Information Deserves the Right Infrastructure.",
+          "cta": "Explore Data Storage Solutions"
+        },
+        {
+          "title": "IT Hardware & Equipment Procurement",
+          "paragraphs": [
+            "Selecting IT equipment requires an understanding of performance requirements, compatibility, value and long-term usability.",
+            "We assist organisations with sourcing and procuring suitable servers, computers, networking equipment, storage devices and other IT hardware.",
+            "Our approach helps businesses make equipment decisions aligned with their technical requirements and purchasing priorities."
+          ],
+          "tagline": "The Right Technology Starts With the Right Choice.",
+          "cta": "Explore IT Hardware Procurement"
+        },
+        {
+          "title": "Server Configuration & Upgrades",
+          "paragraphs": [
+            "Business computing requirements change as applications, users and workloads increase.",
+            "We provide server configuration and suitable hardware upgrade services to help organisations improve or adapt their existing infrastructure.",
+            "From evaluating current equipment to implementing compatible upgrades, we help businesses plan changes around their operational needs."
+          ],
+          "tagline": "Make Your Existing Infrastructure Work Harder for You.",
+          "cta": "Explore Server Configuration & Upgrades"
+        },
+        {
+          "title": "Hardware Maintenance & Repair",
+          "paragraphs": [
+            "Hardware problems can affect productivity, disrupt applications and create unnecessary operational challenges.",
+            "We provide hardware inspection, troubleshooting, maintenance and repair support for suitable business IT equipment.",
+            "Our services help organisations identify equipment issues, assess available repair or replacement options and maintain their technology infrastructure."
+          ],
+          "tagline": "Keep Essential Technology Working for Your Business.",
+          "cta": "Explore Hardware Maintenance & Repair"
+        }
+      ],
+      "ctas": [
+        "Explore Enterprise Server Solutions",
+        "Explore Data Storage Solutions",
+        "Explore IT Hardware Procurement",
+        "Explore Server Configuration & Upgrades",
+        "Explore Hardware Maintenance & Repair"
+      ]
+    },
+    "system": {
+      "title": "Every Component Plays a Part in Business Performance.",
+      "paragraphs": [
+        "An effective computing environment depends on more than a powerful server.",
+        "Processing resources, data storage, network connectivity and supporting infrastructure must work together to meet your organisation's operational needs."
+      ],
+      "items": [
+        {
+          "title": "Enterprise Servers",
+          "paragraphs": [
+            "Provide computing resources for business applications, internal systems, databases and other suitable workloads."
+          ]
+        },
+        {
+          "title": "Data Storage Systems",
+          "paragraphs": [
+            "Provide capacity for business information and applications, with configurations selected according to performance, availability and data protection requirements."
+          ]
+        },
+        {
+          "title": "Networking Equipment",
+          "paragraphs": [
+            "Connect servers, storage and user devices to the wider technology environment."
+          ]
+        },
+        {
+          "title": "Computing Hardware",
+          "paragraphs": [
+            "Supports everyday employee productivity through workstations, desktop computers, laptops and related business equipment."
+          ]
+        },
+        {
+          "title": "Rack Infrastructure",
+          "paragraphs": [
+            "Provides organised physical accommodation for compatible servers, network devices and supporting equipment."
+          ]
+        },
+        {
+          "title": "Backup & Data Protection",
+          "paragraphs": [
+            "Suitable backup systems and data protection arrangements help organisations reduce the risk of losing important information."
+          ],
+          "cta": "Discuss Your Technology Requirements"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Technology Requirements"
+      ]
+    },
+    "environments": {
+      "title": "Different Organisations. Different Computing Requirements.",
+      "paragraphs": [
+        "The technology supporting a growing company may differ significantly from the infrastructure required by a financial institution, educational establishment or industrial operation.",
+        "We help organisations identify and deploy equipment suited to how they work."
+      ],
+      "items": [
+        {
+          "title": "Corporate Offices & Enterprises",
+          "paragraphs": [
+            "Support business applications, file storage, employee computing and internal technology services with appropriate hardware infrastructure."
+          ],
+          "cta": "Explore Enterprise Hardware"
+        },
+        {
+          "title": "Small & Medium-Sized Businesses",
+          "paragraphs": [
+            "Find practical server, storage and computing solutions aligned with your business activities, budget and growth requirements."
+          ],
+          "cta": "Discuss Business Hardware"
+        },
+        {
+          "title": "Data Centres & Technology Providers",
+          "paragraphs": [
+            "Support computing and storage requirements through enterprise equipment deployment and suitable rack-mounted infrastructure."
+          ],
+          "cta": "Explore Data Centre Hardware"
+        },
+        {
+          "title": "Financial & Professional Services",
+          "paragraphs": [
+            "Plan hardware infrastructure around business applications, information management and the computing requirements of professional operations."
+          ],
+          "cta": "Discuss Enterprise Requirements"
+        },
+        {
+          "title": "Schools & Educational Institutions",
+          "paragraphs": [
+            "Support administrative systems, computer laboratories, digital learning environments and institutional computing requirements."
+          ],
+          "cta": "Explore Institutional IT Solutions"
+        },
+        {
+          "title": "Healthcare Organisations",
+          "paragraphs": [
+            "Provide suitable computing and storage infrastructure for administrative systems, information management and other defined healthcare technology requirements."
+          ],
+          "cta": "Discuss Healthcare IT Requirements"
+        },
+        {
+          "title": "Manufacturing & Industrial Businesses",
+          "paragraphs": [
+            "Support business computing, operational applications and equipment infrastructure within commercial and industrial environments."
+          ],
+          "cta": "Explore Industrial IT Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Enterprise Hardware",
+        "Discuss Business Hardware",
+        "Explore Data Centre Hardware",
+        "Discuss Enterprise Requirements",
+        "Explore Institutional IT Solutions",
+        "Discuss Healthcare IT Requirements",
+        "Explore Industrial IT Solutions"
+      ]
+    },
+    "decisions": {
+      "title": "As Your Business Grows, Your Technology Should Keep Up.",
+      "paragraphs": [
+        "Business hardware may continue functioning long after it becomes unsuitable for changing operational requirements.",
+        "Understanding when to maintain, upgrade or replace equipment can help organisations make better technology investments."
+      ],
+      "items": [
+        {
+          "title": "Your Existing Servers Are Struggling With Workloads",
+          "paragraphs": [
+            "Slow applications, resource limitations and increasing demand may indicate that your computing environment requires assessment."
+          ]
+        },
+        {
+          "title": "You're Running Out of Storage Capacity",
+          "paragraphs": [
+            "Growing business data, new applications and additional users can increase storage requirements beyond the capacity of existing systems."
+          ]
+        },
+        {
+          "title": "Your Equipment Is Becoming Difficult to Maintain",
+          "paragraphs": [
+            "Ageing hardware, limited replacement parts or discontinued manufacturer support may create maintenance challenges."
+          ]
+        },
+        {
+          "title": "You're Introducing New Business Applications",
+          "paragraphs": [
+            "New software and systems may require additional processing power, memory, storage or compatible infrastructure."
+          ]
+        },
+        {
+          "title": "Your Organisation Is Expanding",
+          "paragraphs": [
+            "More employees, branches and digital services can create the need for additional computing equipment and infrastructure capacity."
+          ]
+        },
+        {
+          "title": "You're Planning a Technology Refresh",
+          "paragraphs": [
+            "Replacing equipment offers an opportunity to assess compatibility, consolidate infrastructure and plan for future business requirements."
+          ],
+          "cta": "Discuss Your Hardware Upgrade"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Hardware Upgrade"
+      ]
+    },
+    "related": {
+      "title": "Better Technology Starts With the Right Supporting Infrastructure.",
+      "paragraphs": [
+        "Servers, storage and computing equipment perform their intended functions within a wider technology environment.",
+        "Integrated Solutions Technology provides complementary services that support connectivity, physical infrastructure, energy requirements and ongoing technical operations."
+      ],
+      "items": [
+        {
+          "title": "Data Centre & IT Infrastructure",
+          "paragraphs": [
+            "Plan and deploy server rooms, equipment racks and supporting infrastructure for enterprise computing environments."
+          ],
+          "cta": "Explore Data Centre Solutions"
+        },
+        {
+          "title": "Network & Structured Cabling",
+          "paragraphs": [
+            "Connect your equipment through organised network infrastructure, structured cabling and suitable connectivity solutions."
+          ],
+          "cta": "Explore Network Solutions"
+        },
+        {
+          "title": "IT Services & Technical Support",
+          "paragraphs": [
+            "Access infrastructure assessments, troubleshooting, equipment maintenance and technical assistance."
+          ],
+          "cta": "Explore IT Support Services"
+        },
+        {
+          "title": "Security & Surveillance",
+          "paragraphs": [
+            "Support property and facility monitoring with CCTV and surveillance solutions suited to your environment."
+          ],
+          "cta": "Explore Security Solutions"
+        },
+        {
+          "title": "Solar Energy & Power Solutions",
+          "paragraphs": [
+            "Explore solar generation, hybrid inverter and battery storage solutions for suitable business and facility electricity needs."
+          ],
+          "cta": "Explore Solar Energy Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Data Centre Solutions",
+        "Explore Network Solutions",
+        "Explore IT Support Services",
+        "Explore Security Solutions",
+        "Explore Solar Energy Solutions"
+      ]
+    },
+    "faq": {
+      "title": "Your Server, Storage & Hardware Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What server, storage and hardware services does Integrated Solutions Technology provide?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides enterprise server solutions, data storage systems, IT hardware procurement, server configuration, equipment upgrades and hardware maintenance services for business and institutional environments."
+          ]
+        },
+        {
+          "title": "Can you supply and install enterprise servers?",
+          "paragraphs": [
+            "Yes. We help organisations identify suitable server equipment, arrange procurement and support installation according to their computing requirements and existing infrastructure."
+          ]
+        },
+        {
+          "title": "How do I know which server is right for my business?",
+          "paragraphs": [
+            "The right server depends on the applications you run, the number of users, processing requirements, memory, storage needs, operating environment and future growth plans. A technical assessment helps identify suitable specifications."
+          ]
+        },
+        {
+          "title": "What is the difference between a server and a storage system?",
+          "paragraphs": [
+            "A server provides computing resources for running applications and processing information. A storage system provides capacity for retaining and accessing data. Some servers include internal storage, while larger environments may use dedicated storage equipment."
+          ]
+        },
+        {
+          "title": "Do you provide NAS and SAN storage solutions?",
+          "paragraphs": [
+            "Network Attached Storage (NAS) and Storage Area Network (SAN) are two approaches to shared data storage. The most suitable option depends on business applications, data access requirements, performance expectations and infrastructure compatibility. Availability and implementation scope should be confirmed during consultation."
+          ]
+        },
+        {
+          "title": "Can you upgrade our existing servers instead of replacing them?",
+          "paragraphs": [
+            "In many cases, yes. Compatible memory, storage or other hardware upgrades may help improve capacity or extend equipment usability. However, some systems may be limited by age, manufacturer support or existing hardware specifications."
+          ]
+        },
+        {
+          "title": "Do you supply laptops, desktops and other IT equipment?",
+          "paragraphs": [
+            "Our IT hardware procurement services can cover suitable business computing equipment, including laptops, desktop computers, servers, storage devices and related technology hardware based on customer requirements."
+          ]
+        },
+        {
+          "title": "Can you install hardware in our existing data centre or server room?",
+          "paragraphs": [
+            "Yes. Equipment installation can be planned around the available rack space, power and network connections, environmental conditions and existing infrastructure."
+          ]
+        },
+        {
+          "title": "Do you provide server configuration services?",
+          "paragraphs": [
+            "Yes. Server configuration and related infrastructure setup can be included according to the project scope, equipment specifications and required operating environment."
+          ]
+        },
+        {
+          "title": "How can my organisation protect important business data?",
+          "paragraphs": [
+            "Data protection generally involves appropriate backup arrangements, access controls, storage planning, monitoring and tested recovery procedures. The right approach depends on your information systems and the consequences of data loss."
+          ]
+        },
+        {
+          "title": "How much does an enterprise server cost in Nigeria?",
+          "paragraphs": [
+            "Server costs vary depending on the manufacturer, processor, memory, storage capacity, redundancy features, software licensing and support requirements. A clear understanding of the intended workload helps determine the appropriate configuration and quotation."
+          ]
+        },
+        {
+          "title": "Do you provide hardware maintenance and technical support?",
+          "paragraphs": [
+            "Yes. Integrated Solutions Technology provides hardware troubleshooting, maintenance and technical support according to the equipment type and agreed service scope."
+          ]
+        },
+        {
+          "title": "Can you help us procure hardware for multiple offices?",
+          "paragraphs": [
+            "Equipment procurement can be planned around the requirements of individual sites, equipment specifications and the proposed deployment scope. We can discuss suitable arrangements for organisations with multiple locations."
+          ]
+        },
+        {
+          "title": "How do we get started with a hardware procurement or installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your equipment requirements, intended applications, existing infrastructure and project location. Our team can help review the requirements and identify the next steps towards a suitable solution."
+          ],
+          "cta": "Discuss Your Hardware Requirements"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Hardware Requirements"
+      ]
+    },
+    "closing": {
+      "title": "The Right Hardware Today. A Stronger Foundation for Tomorrow.",
+      "paragraphs": [
+        "Whether you're deploying enterprise servers, expanding data storage, procuring business hardware or upgrading existing equipment, Integrated Solutions Technology can help you identify and implement technology suited to your operational requirements."
+      ],
+      "ctas": [
+        "Discuss Your Requirements",
+        "Explore Our IT Solutions"
+      ]
+    }
+  },
+  "security-surveillance": {
+    "hero": {
+      "title": "Better Visibility. Greater Control. Peace of Mind.",
+      "paragraphs": [
+        "From professional CCTV installation to video recording, access control and security system maintenance, Integrated Solutions Technology provides security and surveillance solutions designed to help you monitor, manage and protect what matters.",
+        "Whether you're securing a home, commercial property or business facility, we help you choose and implement systems suited to your environment and security requirements."
+      ],
+      "ctas": [
+        "Discuss Your Security Requirements",
+        "Explore Our Security Solutions"
+      ]
+    },
+    "reliability": {
+      "title": "Effective Security Starts With Seeing What Matters.",
+      "paragraphs": [
+        "Every property has areas that require attention, from entrances and access points to offices, warehouses, car parks and shared spaces.",
+        "A good surveillance system does more than capture video. It provides useful visibility, appropriate recording capabilities and a practical way to monitor activity across your premises.",
+        "At Integrated Solutions Technology, we approach security projects by understanding your property layout, monitoring objectives and operational requirements before recommending the right equipment and system configuration."
+      ],
+      "items": [
+        {
+          "title": "Coverage Where It Matters",
+          "paragraphs": [
+            "Camera placement should consider the areas you need to monitor, visibility conditions and the details you need to capture."
+          ]
+        },
+        {
+          "title": "Equipment Selected for Your Environment",
+          "paragraphs": [
+            "Indoor and outdoor environments require different camera specifications, mounting arrangements and protective features."
+          ]
+        },
+        {
+          "title": "Recording That Meets Your Needs",
+          "paragraphs": [
+            "Video recording capacity, image quality and retention requirements should reflect how the surveillance system will be used."
+          ]
+        },
+        {
+          "title": "Access When You Need It",
+          "paragraphs": [
+            "Where supported and securely configured, modern surveillance systems can provide convenient access to live views and recorded footage."
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "More Than Cameras. Confidence in Your Security Infrastructure.",
+      "paragraphs": [
+        "Security technology is most valuable when it is properly planned, installed and maintained.",
+        "Poor camera positioning, unsuitable recording equipment or unreliable connectivity can leave important areas without the visibility you expect.",
+        "A professionally designed surveillance system helps you make better use of your security investment."
+      ],
+      "items": [
+        {
+          "title": "Improve Property Visibility",
+          "paragraphs": [
+            "Monitor selected entrances, movement areas and important locations through cameras positioned around your property requirements."
+          ]
+        },
+        {
+          "title": "Support Incident Investigation",
+          "paragraphs": [
+            "Recorded footage can provide useful information when reviewing incidents, investigating activity or understanding what happened at a particular location."
+          ]
+        },
+        {
+          "title": "Strengthen Security Awareness",
+          "paragraphs": [
+            "Visible surveillance equipment and suitable monitoring arrangements can support broader property security measures."
+          ]
+        },
+        {
+          "title": "Monitor Multiple Areas",
+          "paragraphs": [
+            "A properly configured CCTV system can bring video feeds from several camera locations into a central monitoring or recording environment."
+          ]
+        },
+        {
+          "title": "Simplify System Management",
+          "paragraphs": [
+            "Organised equipment installation, clear camera identification and appropriate system configuration make everyday monitoring and maintenance easier."
+          ]
+        },
+        {
+          "title": "Plan for Future Requirements",
+          "paragraphs": [
+            "Security systems can be designed with consideration for additional cameras, expanded coverage and changing property needs."
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "The Right Security Technology for Every Space.",
+      "paragraphs": [
+        "From individual properties to multi-area commercial facilities, we provide security systems designed around how your premises are used and what you need to monitor."
+      ],
+      "items": [
+        {
+          "title": "CCTV Installation & Surveillance",
+          "paragraphs": [
+            "A professionally installed CCTV system helps you monitor activity across selected parts of your home, business or facility.",
+            "We assess camera locations, coverage needs, recording requirements and site conditions before recommending suitable surveillance equipment.",
+            "Our services cover CCTV system installation, camera positioning, supporting connections and system configuration based on the agreed project requirements."
+          ],
+          "tagline": "Keep Important Areas Within View.",
+          "cta": "Explore CCTV Installation"
+        },
+        {
+          "title": "Access Control Systems",
+          "paragraphs": [
+            "Not every area of a property should be accessible to everyone.",
+            "Access control technology can help organisations manage authorised entry to designated doors, rooms and restricted areas.",
+            "Solutions may include suitable electronic access devices, credential-based entry methods and supporting control equipment, depending on the building and operational requirements."
+          ],
+          "tagline": "Manage Access to the Spaces That Matter.",
+          "cta": "Explore Access Control Solutions"
+        },
+        {
+          "title": "Video Monitoring & Recording Systems",
+          "paragraphs": [
+            "An effective video surveillance system requires suitable recording equipment and a practical way to review important footage.",
+            "We provide video recording and monitoring solutions designed around camera compatibility, image quality, storage requirements and authorised viewing needs.",
+            "Depending on the system configuration, these may include network video recorders, digital video recorders, local monitoring displays and secure remote viewing capabilities."
+          ],
+          "tagline": "See More. Record What Matters.",
+          "cta": "Explore Video Monitoring Solutions"
+        },
+        {
+          "title": "Security System Maintenance & Upgrades",
+          "paragraphs": [
+            "Surveillance equipment needs periodic attention to maintain dependable operation.",
+            "We provide security system inspection, troubleshooting, maintenance and suitable equipment upgrade services.",
+            "From checking camera performance and recording equipment to reviewing existing installations, we help customers identify faults and opportunities for improvement."
+          ],
+          "tagline": "Keep Your Security Technology Working as Intended.",
+          "cta": "Explore Security Maintenance"
+        }
+      ],
+      "ctas": [
+        "Explore CCTV Installation",
+        "Explore Access Control Solutions",
+        "Explore Video Monitoring Solutions",
+        "Explore Security Maintenance"
+      ]
+    },
+    "system": {
+      "title": "Every Component Has a Role in Keeping You Informed.",
+      "paragraphs": [
+        "A reliable surveillance system depends on more than the cameras installed around a property.",
+        "Recording equipment, data storage, connectivity, power arrangements and viewing systems all contribute to how video is captured, retained and accessed."
+      ],
+      "items": [
+        {
+          "title": "Security Cameras",
+          "paragraphs": [
+            "Capture video from selected areas using specifications and features suited to the installation environment."
+          ]
+        },
+        {
+          "title": "Recording Equipment",
+          "paragraphs": [
+            "Digital or network video recorders receive and store compatible camera footage according to the selected recording configuration."
+          ]
+        },
+        {
+          "title": "Video Storage",
+          "paragraphs": [
+            "Provides capacity for recorded footage, with retention duration affected by camera quantity, resolution, recording settings and available storage space."
+          ]
+        },
+        {
+          "title": "Network & Cabling Infrastructure",
+          "paragraphs": [
+            "Connects compatible IP cameras, recording equipment and monitoring devices through the required network infrastructure."
+          ]
+        },
+        {
+          "title": "Monitoring & Remote Viewing",
+          "paragraphs": [
+            "Allows authorised users to view live or recorded footage locally and, where configured, through secure remote access."
+          ]
+        },
+        {
+          "title": "Power & Supporting Infrastructure",
+          "paragraphs": [
+            "Provides the electrical supply and associated connections required for system operation, with backup power considered where necessary."
+          ],
+          "cta": "Discuss Your Surveillance System"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Surveillance System"
+      ]
+    },
+    "environments": {
+      "title": "Different Properties. Different Security Priorities.",
+      "paragraphs": [
+        "The monitoring needs of a residential home differ from those of a retail business, warehouse or institutional facility.",
+        "We help customers identify surveillance solutions that reflect their property layout, activity levels and security objectives."
+      ],
+      "items": [
+        {
+          "title": "Homes & Residential Properties",
+          "paragraphs": [
+            "Monitor entrances, compounds, parking areas and other suitable locations with CCTV systems designed around your home's layout and security needs."
+          ],
+          "cta": "Explore Residential CCTV"
+        },
+        {
+          "title": "Corporate Offices & Commercial Buildings",
+          "paragraphs": [
+            "Support visibility across reception areas, entrances, corridors, parking facilities and selected operational spaces."
+          ],
+          "cta": "Explore Commercial Surveillance"
+        },
+        {
+          "title": "Retail Stores & Shopping Facilities",
+          "paragraphs": [
+            "Monitor customer areas, entrances, stock access points and other important business locations with suitable surveillance equipment."
+          ],
+          "cta": "Discuss Retail Security"
+        },
+        {
+          "title": "Warehouses & Industrial Facilities",
+          "paragraphs": [
+            "Provide surveillance coverage for loading areas, storage locations, entrances and designated operational environments."
+          ],
+          "cta": "Explore Industrial Security"
+        },
+        {
+          "title": "Schools & Educational Institutions",
+          "paragraphs": [
+            "Support appropriate monitoring of entrances, common areas and selected facility locations while considering privacy and safeguarding requirements."
+          ],
+          "cta": "Discuss Institutional Security"
+        },
+        {
+          "title": "Hotels & Hospitality Properties",
+          "paragraphs": [
+            "Support monitoring of entrances, shared areas, car parks and other designated locations within hospitality environments."
+          ],
+          "cta": "Explore Hospitality Surveillance"
+        },
+        {
+          "title": "Healthcare & Professional Facilities",
+          "paragraphs": [
+            "Plan surveillance coverage around suitable entrances, public areas and operational requirements, with particular attention to privacy-sensitive spaces."
+          ],
+          "cta": "Discuss Facility Security"
+        }
+      ],
+      "ctas": [
+        "Explore Residential CCTV",
+        "Explore Commercial Surveillance",
+        "Discuss Retail Security",
+        "Explore Industrial Security",
+        "Discuss Institutional Security",
+        "Explore Hospitality Surveillance",
+        "Discuss Facility Security"
+      ]
+    },
+    "decisions": {
+      "title": "Is Your Existing Security System Giving You the Visibility You Need?",
+      "paragraphs": [
+        "A surveillance system may appear to be operating while failing to provide the coverage, recording quality or reliability your property requires.",
+        "Reviewing your security infrastructure can help identify issues before they affect your ability to monitor important areas."
+      ],
+      "items": [
+        {
+          "title": "Important Areas Are Not Covered",
+          "paragraphs": [
+            "Changes to building layouts, property use or camera positioning may create blind spots that require attention."
+          ]
+        },
+        {
+          "title": "Your Camera Footage Is Difficult to See Clearly",
+          "paragraphs": [
+            "Poor image quality, unsuitable lighting or outdated equipment may affect the usefulness of recorded footage."
+          ]
+        },
+        {
+          "title": "Your Recording System Has Limited Storage",
+          "paragraphs": [
+            "Insufficient storage capacity or unsuitable recording settings may prevent footage from being retained for the required period."
+          ]
+        },
+        {
+          "title": "Your Cameras Frequently Go Offline",
+          "paragraphs": [
+            "Connectivity, power supply or equipment problems can interrupt camera availability and require technical investigation."
+          ]
+        },
+        {
+          "title": "Your Property Has Expanded",
+          "paragraphs": [
+            "New buildings, additional entrances or larger operating areas may require more cameras and suitable supporting infrastructure."
+          ]
+        },
+        {
+          "title": "Your Existing System Is Becoming Difficult to Maintain",
+          "paragraphs": [
+            "Ageing equipment, unavailable replacement parts and inconsistent system configuration may justify maintenance or an upgrade."
+          ],
+          "cta": "Request a Security System Assessment"
+        }
+      ],
+      "ctas": [
+        "Request a Security System Assessment"
+      ]
+    },
+    "related": {
+      "title": "Security Works Better With the Right Infrastructure Behind It.",
+      "paragraphs": [
+        "Modern surveillance systems may depend on network connectivity, suitable hardware, reliable electricity and professional technical support.",
+        "Integrated Solutions Technology provides complementary services that help customers plan the wider technology environment supporting their security systems."
+      ],
+      "items": [
+        {
+          "title": "Network & Structured Cabling",
+          "paragraphs": [
+            "Establish organised network infrastructure for compatible IP cameras, recording systems and connected security equipment."
+          ],
+          "cta": "Explore Network Solutions"
+        },
+        {
+          "title": "Server, Storage & Hardware",
+          "paragraphs": [
+            "Support suitable video storage, computing and hardware requirements through equipment procurement and deployment."
+          ],
+          "cta": "Explore Server & Hardware Solutions"
+        },
+        {
+          "title": "IT Services & Technical Support",
+          "paragraphs": [
+            "Access technical consultation, equipment troubleshooting, maintenance and related infrastructure support."
+          ],
+          "cta": "Explore IT Support Services"
+        },
+        {
+          "title": "Solar Energy & Power Solutions",
+          "paragraphs": [
+            "Explore appropriately designed solar and battery backup solutions for suitable security equipment and other essential electrical loads."
+          ],
+          "cta": "Explore Solar Energy Solutions"
+        },
+        {
+          "title": "Data Centre & IT Infrastructure",
+          "paragraphs": [
+            "Plan and organise supporting server, rack and equipment infrastructure where a larger technology environment is required."
+          ],
+          "cta": "Explore IT Infrastructure Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Network Solutions",
+        "Explore Server & Hardware Solutions",
+        "Explore IT Support Services",
+        "Explore Solar Energy Solutions",
+        "Explore IT Infrastructure Solutions"
+      ]
+    },
+    "faq": {
+      "title": "Your Security & Surveillance Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What security and surveillance services does Integrated Solutions Technology provide?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides CCTV installation, video surveillance systems, recording equipment, security system maintenance and related technical solutions for residential, commercial and institutional properties."
+          ]
+        },
+        {
+          "title": "Do you install CCTV cameras for homes and businesses?",
+          "paragraphs": [
+            "Yes. We provide CCTV installation solutions for homes, offices, retail properties, warehouses and other suitable facilities. The recommended system depends on your property layout, monitoring priorities and recording requirements."
+          ]
+        },
+        {
+          "title": "How many CCTV cameras do I need for my property?",
+          "paragraphs": [
+            "The number of cameras depends on your building layout, entrances, monitoring areas, viewing angles and security objectives. A site assessment helps determine suitable camera positions and coverage."
+          ]
+        },
+        {
+          "title": "What is the difference between IP CCTV and analogue CCTV?",
+          "paragraphs": [
+            "IP cameras transmit video data through compatible network infrastructure, while analogue cameras typically use dedicated video connections to compatible recording equipment. The best option depends on system requirements, existing infrastructure and planned expansion."
+          ]
+        },
+        {
+          "title": "Can I view my CCTV cameras remotely?",
+          "paragraphs": [
+            "Many modern surveillance systems support remote viewing through compatible applications or management platforms. This requires appropriate network connectivity, authorised access and secure system configuration."
+          ]
+        },
+        {
+          "title": "Will my CCTV system work without internet access?",
+          "paragraphs": [
+            "Many CCTV installations can record locally without an active internet connection, depending on the equipment and configuration. Internet connectivity is generally required for remote viewing outside the local network."
+          ]
+        },
+        {
+          "title": "Can CCTV cameras record at night?",
+          "paragraphs": [
+            "Yes. Suitable cameras may use infrared illumination, low-light sensors or other night-vision technologies. Actual image quality depends on the camera specifications, lighting conditions and installation environment."
+          ]
+        },
+        {
+          "title": "How long can CCTV footage be stored?",
+          "paragraphs": [
+            "Recording duration depends on the number of cameras, image resolution, recording settings, storage capacity and retention requirements. Storage should be planned around your needs and applicable privacy obligations."
+          ]
+        },
+        {
+          "title": "What happens to my CCTV system during a power outage?",
+          "paragraphs": [
+            "CCTV equipment normally requires electricity to operate. A suitably configured UPS, inverter or battery backup system may keep selected devices running during an outage, subject to available backup capacity."
+          ]
+        },
+        {
+          "title": "Can you upgrade an existing CCTV system?",
+          "paragraphs": [
+            "Yes. Existing installations can be assessed for suitable camera replacements, recording equipment upgrades, storage expansion, cabling improvements and other necessary changes."
+          ]
+        },
+        {
+          "title": "Do you provide CCTV maintenance and repair?",
+          "paragraphs": [
+            "Yes. Our security system services include inspection, troubleshooting, equipment maintenance and suitable upgrade support based on the installed system and agreed scope."
+          ]
+        },
+        {
+          "title": "Do you provide access control systems?",
+          "paragraphs": [
+            "Yes. We provide access control for doors, rooms and restricted areas. We confirm suitable equipment and installation requirements during consultation."
+          ]
+        },
+        {
+          "title": "How much does CCTV installation cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the number and type of cameras, recording equipment, storage capacity, cabling, property size, installation complexity and additional requirements. A site assessment helps establish a suitable system and quotation."
+          ]
+        },
+        {
+          "title": "Can you install CCTV across multiple buildings or locations?",
+          "paragraphs": [
+            "Surveillance systems can be planned for multiple buildings or sites, depending on connectivity, recording, monitoring and access requirements. The appropriate architecture depends on the scale and conditions of the project."
+          ]
+        },
+        {
+          "title": "Does CCTV installation require consideration of privacy?",
+          "paragraphs": [
+            "Yes. Camera placement, recorded footage, access permissions and retention arrangements should be planned with appropriate attention to privacy and applicable data protection requirements."
+          ]
+        },
+        {
+          "title": "How do I get started with a CCTV or security installation project?",
+          "paragraphs": [
+            "Contact Integrated Solutions Technology with your property location, the areas you want to monitor and any existing security equipment. Our team can discuss your requirements and recommend the next steps towards a suitable installation."
+          ],
+          "cta": "Discuss Your Security Requirements"
+        }
+      ],
+      "ctas": [
+        "Discuss Your Security Requirements"
+      ]
+    },
+    "closing": {
+      "title": "Better Security Starts With the Right Plan.",
+      "paragraphs": [
+        "Whether you're installing CCTV at home, improving surveillance across a commercial facility or upgrading an existing security system, Integrated Solutions Technology can help you identify a solution designed around your environment and monitoring requirements."
+      ],
+      "ctas": [
+        "Discuss Your Security Requirements",
+        "Explore Our Technology Solutions"
+      ]
+    }
+  },
+  "it-services-support": {
+    "hero": {
+      "title": "Technology That Works. Support You Can Count On.",
+      "paragraphs": [
+        "From IT consulting and infrastructure assessments to onsite technical assistance, system maintenance and technology upgrades, Integrated Solutions Technology helps businesses keep their IT environments organised, functional and ready for changing operational needs.",
+        "Whether you're resolving an existing technical challenge or planning your next infrastructure project, we provide practical solutions tailored to your business requirements."
+      ],
+      "ctas": [
+        "Discuss Your IT Requirements",
+        "Explore Our IT Services"
+      ]
+    },
+    "reliability": {
+      "title": "Your Business Depends on Technology. We Help Keep It Working.",
+      "paragraphs": [
+        "Technology plays an essential role in how businesses communicate, manage information, serve customers and carry out everyday operations.",
+        "When systems become unreliable, equipment develops faults or infrastructure no longer meets business demands, productivity can suffer.",
+        "At Integrated Solutions Technology, we help organisations understand their technical challenges, maintain essential systems and make informed decisions about their IT infrastructure."
+      ],
+      "items": [
+        {
+          "title": "Support Built Around Your Needs",
+          "paragraphs": [
+            "Every organisation has different systems, operating requirements and technical priorities. Our approach begins with understanding yours."
+          ]
+        },
+        {
+          "title": "Practical Technical Expertise",
+          "paragraphs": [
+            "From equipment troubleshooting to infrastructure assessments, we focus on identifying problems and recommending workable solutions."
+          ]
+        },
+        {
+          "title": "Better Infrastructure Management",
+          "paragraphs": [
+            "Organised maintenance, suitable upgrades and technical guidance help businesses manage their technology environments more effectively."
+          ]
+        },
+        {
+          "title": "Support for Changing Requirements",
+          "paragraphs": [
+            "As your business grows, we help you assess the technology changes needed to support new users, equipment and operations."
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Less Technology Friction. More Room to Focus on Business.",
+      "paragraphs": [
+        "IT problems can affect productivity, delay important activities and create unnecessary operating expenses.",
+        "Having access to appropriate technical expertise helps organisations address issues, maintain their systems and plan improvements with greater confidence."
+      ],
+      "items": [
+        {
+          "title": "Reduce Avoidable Disruption",
+          "paragraphs": [
+            "Timely troubleshooting and suitable maintenance help address technical problems before they create further operational difficulties."
+          ]
+        },
+        {
+          "title": "Keep Essential Systems Functional",
+          "paragraphs": [
+            "Professional equipment checks, configuration support and technical assistance help maintain the systems your business depends on."
+          ]
+        },
+        {
+          "title": "Make Informed IT Decisions",
+          "paragraphs": [
+            "Technical assessments and practical recommendations help you understand your options before investing in new equipment or infrastructure."
+          ]
+        },
+        {
+          "title": "Support Your Internal Team",
+          "paragraphs": [
+            "Access to additional technical expertise can help internal IT teams manage installations, maintenance activities and infrastructure projects."
+          ]
+        },
+        {
+          "title": "Extend the Value of Existing Technology",
+          "paragraphs": [
+            "Appropriate maintenance and compatible upgrades may help improve equipment usability and reduce unnecessary replacement costs."
+          ]
+        },
+        {
+          "title": "Prepare for Future Growth",
+          "paragraphs": [
+            "Planning infrastructure improvements around business requirements helps organisations accommodate changing technology demands."
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "Practical IT Expertise for Every Stage of Your Operations.",
+      "paragraphs": [
+        "From understanding your technology requirements to maintaining existing infrastructure, our services help businesses address technical challenges and keep essential systems working."
+      ],
+      "items": [
+        {
+          "title": "IT Consulting & Infrastructure Assessment",
+          "paragraphs": [
+            "Choosing the right IT solution requires a clear understanding of your current systems, business requirements and future plans.",
+            "We help organisations evaluate existing infrastructure, identify technical challenges and explore suitable improvement opportunities.",
+            "Whether you're planning an upgrade, setting up a new facility or reviewing your IT environment, our consulting approach focuses on practical recommendations that align with your operational goals."
+          ],
+          "tagline": "Better Technology Decisions Begin With Understanding Your Needs.",
+          "cta": "Explore IT Consulting Services"
+        },
+        {
+          "title": "Managed IT Support & Maintenance",
+          "paragraphs": [
+            "Your IT environment requires ongoing attention to maintain effective operation.",
+            "We provide IT maintenance and technical support services that help organisations manage equipment issues, maintain infrastructure and address changing technical requirements.",
+            "Support activities can be arranged around the systems involved, the required level of assistance and the agreed service scope."
+          ],
+          "tagline": "Keep Your Technology Ready for Everyday Business.",
+          "cta": "Explore IT Maintenance & Support"
+        },
+        {
+          "title": "Onsite IT Technical Support",
+          "paragraphs": [
+            "Some IT challenges require direct access to equipment, infrastructure or the physical operating environment.",
+            "Our onsite technical support services help businesses address hardware issues, equipment installation requirements, connectivity problems and other appropriate infrastructure tasks.",
+            "We work around the technical requirements and site conditions to provide practical assistance where it is needed."
+          ],
+          "tagline": "Technical Assistance Where Your Systems Operate.",
+          "cta": "Explore Onsite IT Support"
+        },
+        {
+          "title": "IT Infrastructure Upgrades",
+          "paragraphs": [
+            "As organisations introduce new applications, expand operations and increase technology usage, existing infrastructure may need to change.",
+            "We help businesses assess their current systems and implement appropriate upgrades to computing equipment, networking infrastructure and related technology environments.",
+            "Our approach considers compatibility, operational requirements and future maintenance needs."
+          ],
+          "tagline": "Improve the Systems You Already Depend On.",
+          "cta": "Explore IT Infrastructure Upgrades"
+        },
+        {
+          "title": "IT Project Implementation & Support",
+          "paragraphs": [
+            "Technology projects often involve several stages, from equipment preparation and installation to configuration, integration and verification.",
+            "We support organisations with the technical activities required to implement agreed IT infrastructure projects.",
+            "Whether you're deploying new equipment, establishing an IT environment or coordinating a technology upgrade, we help move your project from planning towards operational readiness."
+          ],
+          "tagline": "From Technical Requirements to Practical Execution.",
+          "cta": "Explore IT Project Services"
+        }
+      ],
+      "ctas": [
+        "Explore IT Consulting Services",
+        "Explore IT Maintenance & Support",
+        "Explore Onsite IT Support",
+        "Explore IT Infrastructure Upgrades",
+        "Explore IT Project Services"
+      ]
+    },
+    "system": {
+      "title": "Understand the Challenge. Find the Right Way Forward.",
+      "paragraphs": [
+        "Effective technical support begins with identifying what needs attention and understanding how the issue affects your operations.",
+        "Our approach focuses on clear communication, practical recommendations and organised technical execution."
+      ],
+      "items": [
+        {
+          "title": "Identify the Requirement",
+          "paragraphs": [
+            "We begin by understanding the technical issue, project objective or support request, including the systems involved and the operational impact."
+          ]
+        },
+        {
+          "title": "Assess the Environment",
+          "paragraphs": [
+            "We review relevant equipment, infrastructure, system conditions and available information to identify possible causes or implementation requirements."
+          ]
+        },
+        {
+          "title": "Recommend the Next Step",
+          "paragraphs": [
+            "Based on the assessment, we explain the available options and recommend an appropriate technical approach."
+          ]
+        },
+        {
+          "title": "Implement the Solution",
+          "paragraphs": [
+            "Once the scope is agreed, we carry out the relevant troubleshooting, maintenance, configuration or infrastructure work."
+          ]
+        },
+        {
+          "title": "Verify the Result",
+          "paragraphs": [
+            "We perform appropriate checks to confirm that the completed work addresses the agreed requirements."
+          ]
+        },
+        {
+          "title": "Provide Ongoing Assistance",
+          "paragraphs": [
+            "Where required, we help customers plan maintenance, technical support and future infrastructure improvements."
+          ],
+          "cta": "Discuss Your IT Support Needs"
+        }
+      ],
+      "ctas": [
+        "Discuss Your IT Support Needs"
+      ]
+    },
+    "environments": {
+      "title": "Different Businesses. Different IT Demands.",
+      "paragraphs": [
+        "Technology requirements vary depending on the size of an organisation, its operating environment and the systems it depends on.",
+        "We help businesses access technical services suited to their infrastructure and everyday activities."
+      ],
+      "items": [
+        {
+          "title": "Small & Medium-Sized Businesses",
+          "paragraphs": [
+            "Support computers, networking equipment, shared resources and essential business systems through practical IT maintenance and technical assistance."
+          ],
+          "cta": "Explore Business IT Support"
+        },
+        {
+          "title": "Corporate Offices & Enterprises",
+          "paragraphs": [
+            "Assist internal IT teams with infrastructure deployment, technical troubleshooting, equipment upgrades and planned technology projects."
+          ],
+          "cta": "Explore Enterprise IT Services"
+        },
+        {
+          "title": "Data Centres & Technology Facilities",
+          "paragraphs": [
+            "Support appropriate equipment installation, rack infrastructure, connectivity and maintenance activities within enterprise IT environments."
+          ],
+          "cta": "Explore Data Centre Support"
+        },
+        {
+          "title": "Retail, Hospitality & Commercial Businesses",
+          "paragraphs": [
+            "Help maintain the computing, connectivity and supporting infrastructure used in customer-facing and administrative operations."
+          ],
+          "cta": "Discuss Commercial IT Support"
+        },
+        {
+          "title": "Schools & Educational Institutions",
+          "paragraphs": [
+            "Support administrative technology, computer laboratories, network infrastructure and other institutional IT requirements."
+          ],
+          "cta": "Explore Institutional IT Services"
+        },
+        {
+          "title": "Healthcare & Professional Facilities",
+          "paragraphs": [
+            "Provide technical assistance for suitable administrative, computing and infrastructure systems while respecting applicable operational and access requirements."
+          ],
+          "cta": "Discuss Facility IT Support"
+        },
+        {
+          "title": "Manufacturing & Industrial Businesses",
+          "paragraphs": [
+            "Support business computing, connectivity and related IT infrastructure used within offices, warehouses and industrial facilities."
+          ],
+          "cta": "Explore Industrial IT Support"
+        }
+      ],
+      "ctas": [
+        "Explore Business IT Support",
+        "Explore Enterprise IT Services",
+        "Explore Data Centre Support",
+        "Discuss Commercial IT Support",
+        "Explore Institutional IT Services",
+        "Discuss Facility IT Support",
+        "Explore Industrial IT Support"
+      ]
+    },
+    "decisions": {
+      "title": "Small Technology Problems Shouldn't Become Bigger Business Challenges.",
+      "paragraphs": [
+        "Many technology issues begin as occasional inconveniences before becoming more difficult to manage.",
+        "Knowing when to seek technical assistance can help you address underlying problems and make better infrastructure decisions."
+      ],
+      "items": [
+        {
+          "title": "Your Computers or Business Systems Keep Developing Faults",
+          "paragraphs": [
+            "Recurring hardware or software issues may require a more thorough technical assessment rather than repeated temporary fixes."
+          ]
+        },
+        {
+          "title": "Your Network Is Affecting Productivity",
+          "paragraphs": [
+            "Slow connectivity, unreliable network connections and equipment problems can disrupt communication and everyday business activities."
+          ]
+        },
+        {
+          "title": "Your Internal IT Team Needs Additional Expertise",
+          "paragraphs": [
+            "Specialist infrastructure tasks, equipment deployments or larger projects may require technical resources beyond your team's current capacity."
+          ]
+        },
+        {
+          "title": "You're Moving Into a New Office or Facility",
+          "paragraphs": [
+            "A new location may require network installation, computing equipment deployment and suitable IT infrastructure planning."
+          ]
+        },
+        {
+          "title": "Your Existing Equipment Is Becoming Outdated",
+          "paragraphs": [
+            "Ageing hardware, limited capacity and compatibility concerns may indicate the need for maintenance, upgrades or replacement."
+          ]
+        },
+        {
+          "title": "You're Planning a Technology Expansion",
+          "paragraphs": [
+            "Additional users, applications, locations or computing requirements can create new demands on your IT environment."
+          ]
+        },
+        {
+          "title": "Your Infrastructure Is Difficult to Manage",
+          "paragraphs": [
+            "Disorganised equipment, unclear connections and limited technical documentation can make maintenance and troubleshooting more challenging."
+          ],
+          "cta": "Discuss Your IT Challenges"
+        }
+      ],
+      "ctas": [
+        "Discuss Your IT Challenges"
+      ]
+    },
+    "related": {
+      "title": "One Technology Partner. Connected Solutions for Your Business.",
+      "paragraphs": [
+        "IT support often involves systems and infrastructure beyond a single device or technical issue.",
+        "Integrated Solutions Technology provides complementary services that help organisations plan and maintain their wider technology environments."
+      ],
+      "items": [
+        {
+          "title": "Data Centre & IT Infrastructure",
+          "paragraphs": [
+            "Support server room setup, equipment deployment, rack installation and infrastructure requirements."
+          ],
+          "cta": "Explore Data Centre Solutions"
+        },
+        {
+          "title": "Network & Structured Cabling",
+          "paragraphs": [
+            "Build and maintain organised connectivity through network installation, copper and fibre cabling, and supporting networking equipment."
+          ],
+          "cta": "Explore Network Solutions"
+        },
+        {
+          "title": "Server, Storage & Hardware",
+          "paragraphs": [
+            "Access enterprise hardware procurement, server installation, storage solutions, equipment upgrades and maintenance."
+          ],
+          "cta": "Explore Hardware Solutions"
+        },
+        {
+          "title": "Security & Surveillance",
+          "paragraphs": [
+            "Support property monitoring requirements with CCTV installation, recording systems and security infrastructure."
+          ],
+          "cta": "Explore Security Solutions"
+        },
+        {
+          "title": "Solar Energy & Power Solutions",
+          "paragraphs": [
+            "Explore solar generation, hybrid inverters and battery storage solutions designed around suitable property and equipment power requirements."
+          ],
+          "cta": "Explore Solar Energy Solutions"
+        }
+      ],
+      "ctas": [
+        "Explore Data Centre Solutions",
+        "Explore Network Solutions",
+        "Explore Hardware Solutions",
+        "Explore Security Solutions",
+        "Explore Solar Energy Solutions"
+      ]
+    },
+    "faq": {
+      "title": "Your IT Support Questions, Answered.",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "What IT services does Integrated Solutions Technology provide?",
+          "paragraphs": [
+            "Integrated Solutions Technology provides IT consulting, infrastructure assessments, equipment maintenance, onsite technical support, infrastructure upgrades and IT project implementation services for businesses and institutions."
+          ]
+        },
+        {
+          "title": "Do you provide IT support for small businesses?",
+          "paragraphs": [
+            "Yes. Our services can support small and medium-sized businesses with computer systems, networking equipment, hardware issues, infrastructure maintenance and other suitable technical requirements."
+          ]
+        },
+        {
+          "title": "Can you provide onsite IT support at our office?",
+          "paragraphs": [
+            "Yes. Onsite technical assistance can be arranged according to your location, the nature of the issue, site access and the agreed service requirements."
+          ]
+        },
+        {
+          "title": "What is the difference between IT support and managed IT services?",
+          "paragraphs": [
+            "IT support may involve assistance with specific technical problems or projects. Managed IT services generally involve an agreed ongoing arrangement for defined systems, maintenance activities and support responsibilities. The appropriate model depends on the organisation's needs and the service arrangement offered."
+          ]
+        },
+        {
+          "title": "Can you maintain our existing IT infrastructure?",
+          "paragraphs": [
+            "Yes. We can review the relevant equipment and infrastructure to discuss suitable maintenance, troubleshooting and technical support requirements."
+          ]
+        },
+        {
+          "title": "Do you provide server and network troubleshooting?",
+          "paragraphs": [
+            "Our services include support for suitable server, networking and related IT infrastructure issues. The technical approach depends on the equipment, configuration and nature of the problem."
+          ]
+        },
+        {
+          "title": "Can you support our internal IT team?",
+          "paragraphs": [
+            "Yes. External technical assistance can supplement internal IT resources during equipment deployments, infrastructure upgrades, troubleshooting and other agreed technical activities."
+          ]
+        },
+        {
+          "title": "Do you help businesses set up IT infrastructure in new offices?",
+          "paragraphs": [
+            "Yes. We can help plan and implement appropriate networking, equipment deployment and related technology infrastructure for new business premises."
+          ]
+        },
+        {
+          "title": "Can you upgrade existing computers and IT equipment?",
+          "paragraphs": [
+            "Suitable upgrades may include compatible memory, storage, computing hardware and other infrastructure improvements. The available options depend on equipment specifications, condition and manufacturer support."
+          ]
+        },
+        {
+          "title": "Do you provide regular IT maintenance?",
+          "paragraphs": [
+            "Maintenance arrangements can be discussed according to the equipment involved, required activities, operational needs and agreed support scope."
+          ]
+        },
+        {
+          "title": "Can you help us plan an IT infrastructure project?",
+          "paragraphs": [
+            "Yes. We can review your requirements, existing environment, equipment needs and project objectives before recommending a suitable implementation approach."
+          ]
+        },
+        {
+          "title": "Do you provide remote IT support?",
+          "paragraphs": [
+            "Some technical issues can be addressed remotely when the relevant systems and secure access arrangements permit it. Availability and suitability depend on the issue and the agreed support service."
+          ]
+        },
+        {
+          "title": "How much does IT support cost in Nigeria?",
+          "paragraphs": [
+            "The cost depends on the nature of the support, equipment involved, number of users or devices, site requirements, service frequency and project scope. A clear understanding of your needs helps establish an appropriate quotation."
+          ]
+        },
+        {
+          "title": "Can you support businesses with multiple office locations?",
+          "paragraphs": [
+            "Support for multiple sites can be discussed based on the locations involved, infrastructure requirements, response expectations and available service arrangements."
+          ]
+        },
+        {
+          "title": "How quickly can you respond to an IT support request?",
+          "paragraphs": [
+            "Response arrangements depend on the nature of the request, service availability, location and agreed support terms. Specific response times should be confirmed during consultation rather than assumed."
+          ]
+        },
+        {
+          "title": "How do I request IT support from Integrated Solutions Technology?",
+          "paragraphs": [
+            "Contact us with your business location, a description of the problem or project, and details of the affected equipment or systems. Our team can review the request and advise on the appropriate next steps."
+          ],
+          "cta": "Request IT Support"
+        }
+      ],
+      "ctas": [
+        "Request IT Support"
+      ]
+    },
+    "closing": {
+      "title": "Your Business Has Enough to Focus On. Let Us Help With the Technology.",
+      "paragraphs": [
+        "From everyday IT challenges to infrastructure upgrades and technical projects, Integrated Solutions Technology provides practical expertise to help you manage the systems your business depends on."
+      ],
+      "ctas": [
+        "Discuss Your IT Requirements",
+        "Explore Our Technology Solutions"
+      ]
+    }
+  }
+}

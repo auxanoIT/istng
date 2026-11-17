@@ -1,0 +1,14 @@
+.hero{background:var(--brand-navy);color:white;overflow:hidden}
+.heroGrid{display:grid;align-items:center;gap:3rem;padding-block:clamp(3rem,6vw,6rem)}
+.hero h1{font-size:clamp(2.4rem,4.7vw,4.8rem);font-weight:600;line-height:1.08;letter-spacing:-.045em;max-width:15ch;text-wrap:balance}
+.hero p{margin-top:1.5rem;max-width:34rem;color:#d7e5ec;font-size:clamp(1rem,1.3vw,1.125rem);line-height:1.8}
+.heroTopics{display:flex;flex-wrap:wrap;gap:.75rem 1.5rem;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid #ffffff30;font-size:.8rem;color:#d7e5ec}
+.heroPhoto{position:relative;overflow:hidden;border-radius:.6rem}
+.heroImage{display:block;width:100%;height:auto;max-height:34rem;object-fit:cover;object-position:center 45%}
+.heroPhoto figcaption{position:absolute;bottom:0;inset-inline:0;padding:2.5rem 1.25rem 1rem;background:linear-gradient(transparent,#002b3cd9);font-size:.75rem;color:white}
+.portfolio{display:grid;gap:1.5rem;grid-template-columns:repeat(2,minmax(0,1fr))}
+.portfolioPhoto>div{position:relative;aspect-ratio:4/3;overflow:hidden;border-radius:.4rem;background:#ffffff10}
+.portfolioPhoto figcaption{display:flex;gap:.75rem;margin-top:.8rem;font-size:.8rem;line-height:1.6;color:#d7e5ec}
+.portfolioPhoto figcaption span{color:var(--brand-orange);flex-shrink:0}
+@media(min-width:1024px){.heroGrid{grid-template-columns:1.05fr .95fr;gap:4rem}.portfolio{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:639px){.portfolio{grid-template-columns:minmax(0,1fr)}.heroPhoto{max-height:22rem}.heroImage{max-height:22rem}}

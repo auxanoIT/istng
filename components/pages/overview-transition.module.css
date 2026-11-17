@@ -1,0 +1,61 @@
+.reveal {
+  animation: reveal 260ms cubic-bezier(.2, .65, .35, 1) both;
+}
+
+.answer[data-state="open"] {
+  animation: expand 240ms ease-out both;
+}
+
+.answer[data-state="closed"] {
+  animation: collapse 200ms ease-in both;
+}
+
+.retainedAnswer[data-state] {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 220ms ease, opacity 220ms ease, visibility 220ms;
+}
+
+.retainedAnswer[data-state="closed"] {
+  grid-template-rows: 0fr;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.retainedAnswer > div {
+  min-height: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+@keyframes expand {
+  from { height: 0; opacity: 0; }
+  to { height: var(--radix-accordion-content-height); opacity: 1; }
+}
+
+@keyframes collapse {
+  from { height: var(--radix-accordion-content-height); opacity: 1; }
+  to { height: 0; opacity: 0; }
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .answer[data-state] {
+    animation: none;
+  }
+
+  .retainedAnswer[data-state] {
+    transition: none;
+  }
+}
