@@ -91,7 +91,6 @@ export function SolutionsMegaMenu({
                 })}
               </div>
               <NavigationMenuLink asChild>
-                <Link href="/solutions" className="mt-6 block text-sm font-semibold underline">View all solutions</Link>
               </NavigationMenuLink>
             </div>
 

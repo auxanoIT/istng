@@ -89,7 +89,6 @@ export function MobileNavigationSheet({ open, setOpen, navigation, categories, i
             </>}
             {view === 'solutions' && <>
               <p className={styles.eyebrow}>Services</p>
-              <MenuLink href="/solutions">View all solutions</MenuLink>
               {categories.map(category => group('solution-' + category.slug, category.label, <>
                 <MenuLink href={category.href} overview image={category.image}>Overview</MenuLink>
                 {category.items.map(service => <MenuLink key={service.href} href={service.href} image={service.image}>{service.title}</MenuLink>)}
