@@ -53,11 +53,11 @@ export function SiteHeader({
 
   return (
     <header className="sticky top-0 z-50 border-b border-[var(--brand-navy)]/10 bg-brand-white">
-      <Container className="flex h-20 items-center justify-between gap-4 2xl:gap-6">
+      <Container className="flex h-20 items-center justify-between gap-3 xl:gap-4 2xl:gap-6">
         <Link
           href="/"
           aria-label="Integrated Solutions home"
-          className="flex shrink-0 items-center gap-2 sm:gap-3"
+          className="flex shrink-0 items-center gap-2 xl:gap-3"
           onClick={() => setOpen(false)}
         >
           <Image
@@ -68,12 +68,12 @@ export function SiteHeader({
             loading="eager"
             className="!h-11 !w-auto object-contain"
           />
-          <span className="text-[0.6875rem] font-semibold uppercase leading-tight tracking-wider text-[var(--brand-navy)] sm:text-xs">
+          <span className="text-[0.6875rem] font-semibold uppercase leading-tight tracking-wider text-[var(--brand-navy)] sm:text-xs min-[70rem]:max-xl:text-[0.6875rem]">
             Integrated Solutions
           </span>
         </Link>
 
-        <div className="hidden flex-1 justify-center xl:flex">
+        <div className="hidden min-w-0 flex-1 justify-center min-[70rem]:flex">
           <NavigationMenu delayDuration={80} skipDelayDuration={140}>
             <NavigationMenuList className="gap-0.5 2xl:gap-1">
               {navigation.map((item) => {
@@ -136,16 +136,16 @@ export function SiteHeader({
           </NavigationMenu>
         </div>
 
-        <div className="hidden items-center gap-3 text-brand-navy xl:flex">
+        <div className="hidden shrink-0 items-center gap-3 text-brand-navy min-[70rem]:flex">
           <ButtonLink
             href="/book-consultation"
-            className="whitespace-nowrap rounded-none bg-[var(--brand-orange)] text-[var(--brand-navy)] shadow-none hover:bg-[var(--brand-orange-hover)]"
+            className="whitespace-nowrap rounded-none max-xl:px-3 max-xl:text-xs bg-[var(--brand-orange)] text-[var(--brand-navy)] shadow-none hover:bg-[var(--brand-orange-hover)]"
           >
             Discuss Your Requirements
           </ButtonLink>
         </div>
 
-        <div className="xl:hidden">
+        <div className="min-[70rem]:hidden">
           <MobileNavigationSheet
             open={open}
             setOpen={setOpen}
