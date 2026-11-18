@@ -79,11 +79,15 @@
 }
 
 .actions a:first-child {
-  border-color: #b21917;
-  background: #b21917;
+  border-color: var(--brand-orange);
+  background: var(--brand-orange);
+  color: var(--brand-navy);
 }
 
-.actions a:first-child:hover { background: #8c1311; }
+.actions a:first-child:hover {
+  border-color: var(--brand-orange-hover);
+  background: var(--brand-orange-hover);
+}
 .actions a:not(:first-child):hover { background: rgb(255 255 255 / 15%); }
 .actions a:focus-visible { outline: 2px solid white; outline-offset: 4px; }
 
