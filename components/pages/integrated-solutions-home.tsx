@@ -18,7 +18,7 @@ export function IntegratedSolutionsHome() {
           />
         </div>
         <Container className="relative">
-          <div data-section-heading className="integrated-hero-intro__copy">
+          <div className="integrated-hero-intro__copy">
             <p className="integrated-hero-intro__eyebrow">WHAT WE DELIVER</p>
             <h2 id="integrated-intro-title">
               The Engineering Behind Reliable Energy & Connected Infrastructure.
