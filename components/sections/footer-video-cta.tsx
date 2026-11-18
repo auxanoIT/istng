@@ -17,7 +17,7 @@ export function FooterVideoCta() {
   return (
     <section className={styles.section} aria-labelledby="footer-video-heading">
       <BackgroundVideo className={styles.video} src={videoUrl} defer />
-      <div className={styles.content}>
+      <div data-section-heading className={styles.content}>
         <p className={styles.eyebrow}>Your energy future starts here</p>
         <h2 id="footer-video-heading">Let’s talk about powering your business forward</h2>
         <div className={styles.actions}>

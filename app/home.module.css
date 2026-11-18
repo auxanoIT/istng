@@ -1,0 +1,12 @@
+.page [data-section-heading] {
+  margin-inline: auto;
+  text-align: center;
+}
+
+.page [data-section-heading] > :is(h1, h2, p) {
+  margin-inline: auto;
+}
+
+.page [data-section-heading] > p:first-child {
+  justify-content: center;
+}

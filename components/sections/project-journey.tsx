@@ -29,7 +29,7 @@ export function ProjectJourney() {
   return (
     <section id="the-project-journey" className={styles.section} aria-labelledby="project-journey-title">
       <span id="the-integrated-standard" className={styles.legacyAnchor} aria-hidden="true" />
-      <header className={styles.header}>
+      <header data-section-heading className={styles.header}>
         <p className={styles.eyebrow}>The Project Journey</p>
         <h2 id="project-journey-title">See How Your Project Takes Shape.</h2>
         <p className={styles.intro}>From the first site visit to ongoing support, see what happens at every stage.</p>

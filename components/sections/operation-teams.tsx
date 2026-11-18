@@ -92,7 +92,7 @@ export function OperationTeams() {
       aria-labelledby="operation-journey-title"
     >
       <Container>
-        <header className={styles.header}>
+        <header data-section-heading className={styles.header}>
           <p className={styles.eyebrow}>BUILT AROUND YOUR NEEDS</p>
           <h2 id="operation-journey-title">Different Needs. The Right Solutions for Every Environment.</h2>
           <p className={styles.intro}>

@@ -10,7 +10,7 @@ type TrustBannerProps = {
 export function TrustBanner({ section }: TrustBannerProps) {
   return (
     <section className="bg-[var(--brand-surface)] py-20 sm:py-24 lg:py-28">
-      <Container className="max-w-6xl text-center">
+      <Container data-section-heading className="max-w-6xl text-center">
         <h2 className="mx-auto max-w-5xl text-balance text-2xl font-semibold leading-[1.08] tracking-normal text-[var(--color-ink)] sm:text-2xl lg:text-4xl">
           {section.title}
         </h2>

@@ -21,7 +21,7 @@ export function SectionHeading({
   as: Heading = "h2",
 }: SectionHeadingProps) {
   return (
-    <div className={cn(align === "center" && "mx-auto max-w-3xl text-center", className)}>
+    <div data-section-heading className={cn(align === "center" && "mx-auto max-w-3xl text-center", className)}>
       <Heading className="text-balance text-[clamp(1.65rem,7vw,1.875rem)] font-semibold leading-tight tracking-[-0.04em] text-[var(--color-ink)] sm:text-4xl lg:text-5xl">
         {title}
       </Heading>

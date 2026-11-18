@@ -24,7 +24,7 @@ export function ServiceShowcase({ section }: { section: ServiceShowcaseSection }
       aria-labelledby={`${sectionId}-heading`}
     >
       <Container>
-        <div className={styles.heading}>
+        <div data-section-heading className={styles.heading}>
           <h2 id={`${sectionId}-heading`}>{section.title}</h2>
           {section.description && <p className={styles.intro}>{section.description}</p>}
         </div>

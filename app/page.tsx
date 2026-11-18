@@ -11,6 +11,7 @@ import { getMarketingPage, getServices, getCaseStudies, getTestimonials, getFaqs
 import { JsonLd } from "@/components/ui/json-ld";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
+import styles from "./home.module.css";
 
 export const revalidate = false;
 
@@ -38,7 +39,7 @@ export default async function HomePage() {
   const originalHero = page.sections.find((section) => section._type === "hero");
 
   return (
-    <>
+    <div className={styles.page}>
       <JsonLd
         data={[
           {
@@ -88,6 +89,6 @@ export default async function HomePage() {
         faqs={faqs}
       />
       <FooterVideoCta />
-    </>
+    </div>
   );
 }
