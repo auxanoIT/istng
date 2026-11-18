@@ -1,7 +1,9 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { submitToHubSpot, sendFallbackEmail, buildHubSpotConsentOptions } from '../lib/integrations.ts';
-import { consultationHubSpotDestination, consultationHubSpotSubscriptionTypeId } from '../lib/consultation-hubspot.ts';
+import { typescriptLoader } from './helpers/load-typescript.mjs';
+const load = typescriptLoader({ env: process.env, fetch: (...args) => globalThis.fetch(...args) });
+const { submitToHubSpot, sendFallbackEmail, buildHubSpotConsentOptions } = load('lib/integrations.ts');
+const { consultationHubSpotDestination, consultationHubSpotSubscriptionTypeId } = load('lib/consultation-hubspot.ts');
 
 test('consultation delivery uses its own form and handles provider failures', async (t) => {
   const oldFetch = globalThis.fetch;
@@ -11,15 +13,15 @@ test('consultation delivery uses its own form and handles provider failures', as
   delete process.env.INTEGRATED_HUBSPOT_CONSULTATION_FORM_ID;
   process.env.INTEGRATED_HUBSPOT_FORM_ID = 'other-form';
   const destination = consultationHubSpotDestination();
-  assert.equal(destination.formId, '1f691f5a-7ade-4a3a-b32c-87b531f0423d');
+  assert.equal(destination.formId, 'c71a1658-a193-490c-b7ce-6d1422887470');
   delete process.env.INTEGRATED_HUBSPOT_SUBSCRIPTION_TYPE_ID;
-  assert.equal(buildHubSpotConsentOptions(consultationHubSpotSubscriptionTypeId()).consent.communications[0].subscriptionTypeId, 2710261669);
-  assert.deepEqual(buildHubSpotConsentOptions().consent.communications, []);
+  assert.equal(buildHubSpotConsentOptions(consultationHubSpotSubscriptionTypeId()).consent.communications.length, 0);
+  assert.equal(buildHubSpotConsentOptions().consent.communications.length, 0);
   process.env.INTEGRATED_HUBSPOT_PORTAL_ID = 'another-account';
   assert.equal(consultationHubSpotSubscriptionTypeId(), undefined);
   delete process.env.INTEGRATED_HUBSPOT_PORTAL_ID;
   globalThis.fetch = async (url, init) => {
-    assert.equal(url, `https://api.hsforms.com/submissions/v3/integration/submit/148498868/${destination.formId}`);
+    assert.equal(url, `https://api.hsforms.com/submissions/v3/integration/submit/149809153/${destination.formId}`);
     const body = JSON.parse(init.body);
     assert.equal(body.fields[0].value, 'Test request');
     assert.equal(body.context.pageName, 'Book Consultation');
@@ -44,8 +46,9 @@ test('consultation delivery uses its own form and handles provider failures', as
   assert.equal(await sendFallbackEmail('Test', ['<b>literal customer input</b>']), true);
   for (const invalid of ['', 'invalid', '0', '-1', '1.2']) {
     process.env.INTEGRATED_HUBSPOT_SUBSCRIPTION_TYPE_ID = invalid;
-    assert.deepEqual(buildHubSpotConsentOptions().consent.communications, []);
+    assert.equal(buildHubSpotConsentOptions().consent.communications.length, 0);
   }
   process.env.INTEGRATED_HUBSPOT_SUBSCRIPTION_TYPE_ID = '123';
-  assert.equal(buildHubSpotConsentOptions().consent.communications[0].subscriptionTypeId, 123);
+  assert.equal(buildHubSpotConsentOptions().consent.communications.length, 0);
+  assert.equal(buildHubSpotConsentOptions(123).consent.communications[0].subscriptionTypeId, 123);
 });

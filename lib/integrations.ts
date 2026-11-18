@@ -1,3 +1,5 @@
+import { consultationHubSpotDestination, heroHubSpotDestination, integratedHubSpotPortalId } from "./consultation-hubspot";
+
 type HubSpotField = {
   name: string;
   value: string;
@@ -62,12 +64,29 @@ export async function submitToHubSpot({
   ipAddress,
   legalConsentOptions,
 }: HubSpotSubmitOptions) {
-  // Never fall back to the inherited site's destinations.
-  const portalId = configuredPortalId ?? process.env.INTEGRATED_HUBSPOT_PORTAL_ID;
-  const finalFormId = formId ?? process.env.INTEGRATED_HUBSPOT_FORM_ID;
+  // Public destinations are versioned in code so stale hosting variables cannot
+  // redirect customer enquiries into the former business's account.
+  const portalId = configuredPortalId ?? integratedHubSpotPortalId;
+  const finalFormId = formId ?? consultationHubSpotDestination().formId;
 
-  if (!portalId || !finalFormId) {
+  if (portalId !== integratedHubSpotPortalId ||
+      ![consultationHubSpotDestination().formId, heroHubSpotDestination().formId].includes(finalFormId)) {
     return false;
+  }
+
+  // The new account's two forms use standard contact properties. Preserve any
+  // auxiliary tool fields inside the project message instead of submitting
+  // unregistered properties, which HubSpot rejects for the entire enquiry.
+  const standardNames = new Set(["firstname", "lastname", "email", "phone", "message"]);
+  const extra = fields.filter(field => !standardNames.has(field.name));
+  const submittedFields = fields.filter(field => standardNames.has(field.name));
+  if (extra.length) {
+    const message = submittedFields.find(field => field.name === "message");
+    const summary = extra.map(field => `${field.name}: ${field.value}`).join("\n");
+    const combined = [message?.value, summary].filter(Boolean).join("\n\n");
+    const index = submittedFields.findIndex(field => field.name === "message");
+    if (index >= 0) submittedFields[index] = { name: "message", value: combined };
+    else submittedFields.push({ name: "message", value: combined });
   }
 
   try {
@@ -80,7 +99,7 @@ export async function submitToHubSpot({
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          fields,
+          fields: submittedFields,
           context: {
             ...(hutk ? { hutk } : {}),
             ...(ipAddress ? { ipAddress } : {}),
@@ -101,7 +120,7 @@ export async function submitToHubSpot({
 
 export function buildHubSpotConsentOptions(defaultSubscriptionTypeId?: number) {
   const configuredSubscriptionTypeId = Number(
-    process.env.INTEGRATED_HUBSPOT_SUBSCRIPTION_TYPE_ID ?? defaultSubscriptionTypeId,
+    defaultSubscriptionTypeId,
   );
   const subscriptionTypeId = Number.isSafeInteger(configuredSubscriptionTypeId) &&
     configuredSubscriptionTypeId > 0 ? configuredSubscriptionTypeId : undefined;

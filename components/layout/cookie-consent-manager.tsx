@@ -42,7 +42,7 @@ function GoogleAnalytics() {
 
 function TrackingScripts() {
   const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID;
-  const hubspotTrackingId = process.env.NEXT_PUBLIC_INTEGRATED_HUBSPOT_TRACKING_ID;
+  const hubspotTrackingId = "149809153";
 
   return (
     <>

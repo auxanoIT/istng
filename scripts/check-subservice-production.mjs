@@ -55,7 +55,7 @@ for(const page of productionServices) {
 const apiCode=ts.transpileModule(fs.readFileSync('app/api/lead/route.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText;
 for(const [hubspot,email,expected] of [[true,false,200],[false,true,200],[false,false,503]]) {
   const loaded={exports:{}};
-  const require=name=>name==='next/server'?{NextResponse:{json:(value,init)=>Response.json(value,init)}}:name.endsWith('schemas')?{leadSchema:{safeParse:data=>({success:true,data})}}:{verifyTurnstile:async()=>true,submitToHubSpot:async()=>hubspot,sendFallbackEmail:async()=>email,buildHubSpotConsentOptions:()=>({}),getRequestIpAddress:()=>''};
+  const require=name=>name==='next/server'?{NextResponse:{json:(value,init)=>Response.json(value,init)}}:name.endsWith('schemas')?{leadSchema:{safeParse:data=>({success:true,data})}}:{verifyTurnstile:async()=>true,submitToHubSpot:async()=>hubspot,sendFallbackEmail:async()=>email,sendEnquiryEmails:async()=>({storedByEmail:email,notificationSent:email,acknowledgementSent:email}),consultationHubSpotDestination:()=>({}),heroHubSpotDestination:()=>({}),enquiryHubSpotFields:()=>[],buildHubSpotConsentOptions:()=>({}),getRequestIpAddress:()=>''};
   new Function('require','module','exports',apiCode)(require,loaded,loaded.exports);
   const response=await loaded.exports.POST(new Request('https://example.test/api/lead',{method:'POST',body:JSON.stringify({name:'Test',company:'Test',email:'test@example.test',phone:'000000',serviceInterest:'Test',message:'Local mocked test only',context:'contact'})}));
   assert.equal(response.status,expected);

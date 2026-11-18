@@ -1,18 +1,39 @@
-// Public form identifiers, not credentials. This form belongs to Integrated Solutions Technology
-// within the connected HubSpot account. Publish it before deploying this change.
+// Public identifiers for the new, dedicated Integrated Solutions HubSpot account.
+export const integratedHubSpotPortalId = "149809153";
+
 export function consultationHubSpotDestination() {
   return {
-    portalId: process.env.INTEGRATED_HUBSPOT_PORTAL_ID ?? "148498868",
-    formId: process.env.INTEGRATED_HUBSPOT_CONSULTATION_FORM_ID ??
-      "1f691f5a-7ade-4a3a-b32c-87b531f0423d",
+    portalId: integratedHubSpotPortalId,
+    formId: "c71a1658-a193-490c-b7ce-6d1422887470",
   };
 }
 
-export function consultationHubSpotSubscriptionTypeId() {
-  const destination = consultationHubSpotDestination();
-  // Verified from this form's Marketing Information consent checkbox in HubSpot.
-  // Never carry an account-specific subscription into a different destination.
-  return destination.portalId === "148498868" &&
-    destination.formId === "1f691f5a-7ade-4a3a-b32c-87b531f0423d"
-    ? 2710261669 : undefined;
+export function heroHubSpotDestination() {
+  return {
+    portalId: integratedHubSpotPortalId,
+    formId: "e6094f85-db77-4f49-848e-6202c5161114",
+  };
+}
+
+export function consultationHubSpotSubscriptionTypeId(): number | undefined {
+  // Transactional replies do not enrol a visitor in a marketing subscription.
+  return undefined;
+}
+
+export function enquiryHubSpotFields(details: {
+  name: string; company: string; email: string; phone: string;
+  serviceInterest: string; message: string; context: string;
+}) {
+  const [firstName, ...rest] = details.name.trim().split(/\s+/);
+  return [
+    { name: "firstname", value: firstName },
+    ...(rest.length ? [{ name: "lastname", value: rest.join(" ") }] : []),
+    { name: "email", value: details.email },
+    { name: "phone", value: details.phone },
+    { name: "message", value: [
+      `Full name: ${details.name}`, `Company: ${details.company}`,
+      `Service interest: ${details.serviceInterest}`, `Website source: ${details.context}`,
+      "", details.message,
+    ].join("\n") },
+  ];
 }

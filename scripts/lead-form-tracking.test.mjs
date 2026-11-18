@@ -3,6 +3,7 @@ import { readFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { test } from 'node:test';
 import vm from 'node:vm';
+import { posix } from 'node:path';
 import ts from 'typescript';
 import { navigation } from './helpers/lead-navigation.mjs';
 
@@ -58,7 +59,9 @@ function harness(context, fetch, gtag = 'record', attributeContactRedirect = fal
         if (name.endsWith('/turnstile-field')) return { TurnstileField: 'turnstile' };
         if (name === '@/lib/utils') return { cn: () => '', getBrowserCookie: () => undefined };
         if (name === 'next/server') return require('next/server');
+        if (name === 'nodemailer') return { default: { createTransport: () => ({ async sendMail(message) { const response = await fetch('smtp://zoho-test', { body: JSON.stringify(message) }); if (!response.ok) throw new Error('Mock SMTP failure'); return { accepted: Array.isArray(message.to) ? message.to : [message.to] }; }, close() {} }) } };
         if (name.startsWith('@/')) return load(`${name.slice(2)}.ts`);
+        if (name.startsWith('.')) return load(posix.normalize(posix.join(posix.dirname(path), name)) + '.ts');
         return require(name);
       },
       window: browser,
@@ -411,12 +414,12 @@ for (const scenario of ['invalid-token', 'expired-token', 'provider-rejection', 
           'error-codes': token === 'expired-token' ? ['timeout-or-duplicate'] : ['invalid-input-response'] });
       }
       if (scenario === 'network-failure') throw new Error('Offline');
-      if (url.includes('api.resend.com')) return Response.json({}, { status: scenario === 'fallback-success' ? 200 : 503 });
+      if (url.startsWith('smtp://')) return Response.json({}, { status: scenario === 'fallback-success' ? 200 : 503 });
       assert.ok(url.includes('api.hsforms.com'));
       return Response.json({}, { status: scenario === 'success' ? 200 : 503 });
     }, null, undefined, {
       NEXT_PUBLIC_TURNSTILE_SITE_KEY: 'test-site', TURNSTILE_SECRET_KEY: 'test-secret',
-      RESEND_API_KEY: 'test-key', INTEGRATED_RESEND_FROM_EMAIL: 'test@example.com',
+      ZOHO_SMTP_USER: 'test@example.com', ZOHO_SMTP_PASSWORD: 'test-only',
       INTEGRATED_LEAD_FALLBACK_EMAIL: 'owner@example.com',
     });
     h.token(scenario);

@@ -1,4 +1,4 @@
-type FormName = "contact" | "consultation";
+type FormName = "contact" | "consultation" | "hero";
 
 declare global {
   interface Window {

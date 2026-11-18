@@ -26,7 +26,7 @@ export const leadSchema = z.object({
   serviceInterest: z.string().trim().min(2, "Please select the service you need.").refine(value => value !== "Select the service you need", "Please select the service you need."),
   message: z.string().trim().min(10, "Please describe your project in at least 10 characters."),
   marketingConsent: marketingConsentSchema,
-  context: z.enum(["contact", "consultation"]),
+  context: z.enum(["contact", "consultation", "hero"]),
   turnstileToken: z.string().optional(),
   hubspotTrackingCookie: z.string().optional(),
 });

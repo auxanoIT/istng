@@ -1,92 +1,60 @@
-# Integrated Solutions Technology consultation delivery
+# Integrated Solutions Technology enquiry delivery
 
-## Setup status
+## Dedicated HubSpot account
 
-The form `Integrated Solutions Technology — Book Consultation` has been created in HubSpot
-account `148498868`. Its ID is `1f691f5a-7ade-4a3a-b32c-87b531f0423d`.
-The form and its customer acknowledgement email (ID `478917158133`) are published.
-The simple workflow is ON. The user approved the temporary sender
-`Integrated Solutions Technology <obafemielijahsunday@gmail.com>`. Switch to
-`ask@istng.com` only after that mailbox becomes available and HubSpot
-sender verification is completed; no code change is required for the sender.
+Account: 149809153 (EU region). The owner confirmed this is the new Integrated Solutions Technology account on 18 November 2026. The previous website destination belonged to another business and must not be reused.
 
-On 2026-09-27, the real integration module submitted labelled test bookings.
-HubSpot recorded the submissions and the contact timeline confirmed that both
-acknowledgement emails were Delivered. Earlier tests exposed and resolved two
-configuration issues: missing subscription consent and an unregistered test
-site domain. `integratedsolutions.com.ng` is now saved as an additional site domain.
-Register any actual alternative production/preview domain in HubSpot before
-using it for bookings: HTTP 200 alone does not prove a submission avoided spam.
+Published forms:
 
-Per the user's request, the shared Primary footer was updated to `I & A Solutions`
-with both addresses: 26A Adeshina Street, Off Oluwole Phillips, Obafemi Awolowo Way;
-and 26A Adeshina Street, Obafemi Awolowo Way; Ikeja, Lagos, Nigeria.
-The existing unsubscribe and preferences links were retained. This footer is
-shared by another business's emails too. This is a historical setup record, not
-confirmation of current branding. Verify a dedicated Integrated Solutions Technology email footer
-with the single Abeokuta Street address and verified ask@istng.com
-sender in HubSpot. Do not change shared account-wide settings without checking
-their impact on other emails.
+| Website channel | HubSpot form | Public form ID |
+| --- | --- | --- |
+| Homepage hero energy buttons | Integrated Solutions — Homepage Energy Enquiry | e6094f85-db77-4f49-848e-6202c5161114 |
+| Booking, discussion and contact enquiries | Integrated Solutions — Booking & Discussion Enquiry | c71a1658-a193-490c-b7ce-6d1422887470 |
 
-The consultation endpoint uses this dedicated form. Other enquiry endpoints
-retain their own configuration. All seven booking fields map to HubSpot:
-`firstname`, `company`, `email`, `phone`, `service_interest`, `message`,
-and `lead_source`. The submitted full name is retained in `firstname`.
+Both forms were visibly confirmed as published in HubSpot. New-contact creation is enabled. The hero form has no workflows. The booking form has an inactive draft follow-up workflow; it must stay OFF because the website sends transactional acknowledgements via Zoho.
 
-Optional server environment overrides:
+The two public destinations are versioned in lib/consultation-hubspot.ts. Stale hosting variables cannot redirect these enquiries to an old account. lib/integrations.ts rejects any other portal or form ID. No HubSpot private token is required for the public Forms submission endpoint.
 
-```dotenv
-INTEGRATED_HUBSPOT_PORTAL_ID=148498868
-INTEGRATED_HUBSPOT_CONSULTATION_FORM_ID=1f691f5a-7ade-4a3a-b32c-87b531f0423d
-```
+Standard contact fields are first name, last name, email, phone and message. Company, full name, service interest, source and the complete project or energy answers are preserved in the message. The form-submission history distinguishes the two entry points. No unrelated marketing subscription is created from enquiry consent.
 
-The dedicated consultation destination defaults to verified subscription type
-`2710261669` (Marketing Information), selected in the acknowledgement email and
-confirmed from the HubSpot form consent control. The website requires explicit
-consent to email about the request; the public HubSpot form now records matching
-communication and processing consent too. Do not use this consent for unrelated
-promotions. Unsubscribe and HubSpot delivery eligibility still apply.
+## Zoho delivery
 
-`INTEGRATED_HUBSPOT_SUBSCRIPTION_TYPE_ID` can override the subscription.
-Only use an actual positive subscription ID from the destination account.
-The account-specific default is not applied to other enquiry endpoints or an
-overridden consultation destination. Invalid IDs do not create a subscription.
+The owner approved Zoho for website emails. The current signed-in mailbox is elijaho@auxanosolutions.net, which receives mail forwarded from ask@istng.com. Receiving forwarded mail does not itself authorise that mailbox to send as ask@istng.com.
 
-## Notifications and customer email
+Notification recipients, updated at the owner's request:
 
-The new form's submission-notification recipient is configured as
-`obafemielijahsunday@gmail.com`. Owner inbox receipt has not been independently inspected.
+- ask@istng.com
+- elijaho@auxanosolutions.net
+- support@istng.com
 
-The form's simple workflow emails the enrolled contact on submission using
-the approved Gmail sender. Delivery was verified in the contact activity timeline.
+The owner subsequently selected elijaho@auxanosolutions.net as the outgoing sender, with the display name Integrated Solutions Technology. The prepared ask@istng.com sender remains unverified and is not used. Customer replies go to ask@istng.com. Outgoing messages use the Integrated Solutions Technology display name, confirmed business address and 08050274481. Booking acknowledgements confirm receipt only; they do not promise an appointment before a date and time are agreed.
 
-Subject: We've received your consultation request — Integrated Solutions Technology
+lib/enquiry-email.ts uses authenticated Zoho SMTP with TLS, escaped HTML, a plain text alternative, and disabled file/URL reads. It reports provider acceptance separately for notifications and acknowledgements. It never sends an acknowledgement if neither CRM nor an owner mailbox accepted the enquiry. Partial internal-mail acceptance preserves the enquiry without claiming every recipient was notified.
 
-Hello,
+Required private hosting settings:
 
-Thank you for contacting Integrated Solutions Technology. We've received your consultation
-request and the details you shared.
+- ZOHO_SMTP_HOST: exact outgoing host shown in the mailbox's SMTP configuration
+- ZOHO_SMTP_PORT: 465 (TLS) or 587 (required STARTTLS)
+- ZOHO_SMTP_USER: authenticated Zoho mailbox
+- ZOHO_SMTP_PASSWORD: mailbox application-specific password, entered privately in Vercel
 
-Our team is reviewing your requirements and will get back to you to discuss the next
-steps and arrange a suitable consultation time. Your appointment will be
-confirmed once we agree on a date and time.
+Do not place SMTP credentials in NEXT_PUBLIC variables, source control, screenshots or chat. A separate verified sender must be authorised before using ask@istng.com with another mailbox's credentials.
 
-We appreciate the opportunity to support your IT infrastructure needs.
+## Current verification state
 
-Kind regards,
-The Integrated Solutions Technology Team
+- Both HubSpot forms are published, as observed in the account UI.
+- Local regression checks cover the real API routing, consent, new account isolation, mail recipient list, HTML escaping, SMTP success/failure, fallback capture and form submission tracking.
+- Vercel Production contains ZOHO_SMTP_HOST=smtppro.zoho.com, ZOHO_SMTP_PORT=465 and ZOHO_SMTP_USER=elijaho@auxanosolutions.net. ZOHO_SMTP_PASSWORD has been saved with Vercel's Secret type, after the owner completed Zoho identity verification and generated the application password. A new deployment is required to use these settings.
+- The current local regression run passed all 66 tests. These use mocked providers and do not prove live CRM or email delivery.
+- Browser checks at 390px and 1366px passed for both hero and booking forms: duplicate-click protection, visible success, preserved details after delivery failure, successful retry, and no horizontal overflow. The API was intercepted locally, so no real enquiry or email was sent by these checks.
+- No live end-to-end mailbox delivery is yet verified.
+- Production deployment and live delivery verification are pending.
 
-## Failure handling and verification
+## End-to-end completion gate
 
-HubSpot failures, including network errors and timeouts, use the existing
-Resend fallback. Configure `RESEND_API_KEY`, `INTEGRATED_RESEND_FROM_EMAIL`
-(verified sender), and `INTEGRATED_LEAD_FALLBACK_EMAIL` securely in hosting.
-The fallback sends the owner the enquiry as plain text; it does not trigger
-HubSpot's customer-email workflow. If neither destination accepts delivery,
-the API returns an error instead of reporting success.
-
-Run the mocked provider checks with Node 22.18+:
-`node --test scripts/consultation-integration.test.mjs`.
-After deployment, submit an explicitly labelled test enquiry
-using an approved inbox, check all seven fields in HubSpot, and verify receipt
-of both the owner notification and the customer acknowledgement.
+1. Confirm the correct Zoho SMTP host for elijaho@auxanosolutions.net.
+2. Add SMTP credentials to Vercel Production without revealing them in chat.
+3. Run lint, typecheck, provider regressions, desktop/mobile form checks and a production build.
+4. Push the reviewed change and verify the Vercel production deployment.
+5. Submit one labelled hero test and one labelled booking test through the live website using an owner-controlled inbox.
+6. Confirm both submissions in the new HubSpot account, all requested internal recipients, and receipt of each customer acknowledgement. HTTP success alone is not proof of inbox delivery.
