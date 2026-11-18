@@ -44,13 +44,15 @@ Do not place SMTP credentials in NEXT_PUBLIC variables, source control, screensh
 
 - Both HubSpot forms are published, as observed in the account UI.
 - Local regression checks cover the real API routing, consent, new account isolation, mail recipient list, HTML escaping, SMTP success/failure, fallback capture and form submission tracking.
-- Vercel Production contains ZOHO_SMTP_HOST=smtppro.zoho.com, ZOHO_SMTP_PORT=465 and ZOHO_SMTP_USER=elijaho@auxanosolutions.net. ZOHO_SMTP_PASSWORD has been saved with Vercel's Secret type, after the owner completed Zoho identity verification and generated the application password. A new deployment is required to use these settings.
+- Vercel Production contains ZOHO_SMTP_HOST=smtppro.zoho.com, ZOHO_SMTP_PORT=465 and ZOHO_SMTP_USER=elijaho@auxanosolutions.net. ZOHO_SMTP_PASSWORD is saved with Vercel's Secret type, after the owner completed Zoho identity verification and generated the application password.
 - The current local regression run passed all 66 tests. These use mocked providers and do not prove live CRM or email delivery.
 - Browser checks at 390px and 1366px passed for both hero and booking forms: duplicate-click protection, visible success, preserved details after delivery failure, successful retry, and no horizontal overflow. The API was intercepted locally, so no real enquiry or email was sent by these checks.
-- No live end-to-end mailbox delivery is yet verified.
-- Production deployment and live delivery verification are pending.
+- Integration commit 7e7df72 was pushed and built successfully in Vercel deployment Fpr3efWpi8zcmsotHqakV7F7ZLLN. A later redeployment of the older navbar commit briefly replaced it; the integration deployment was then promoted back to istng.com. The live hero was checked to confirm the new email-and-consent form was serving before test submissions.
+- At 19:52 WAT on 18 November 2026, the live hero and booking forms each returned HTTP 200 with acknowledgementSent=true. The owner-controlled email address was used for both labelled Website Integration Test submissions.
+- Both submissions were visibly present in the normal Submissions view of their separate forms in HubSpot account 149809153. The hero record retained its name, phone, company, solar service, hero source, selected energy goal, support answer and monthly-spend answer, with process consent. Its submission ID is 9c22df83-46aa-44f0-a4f3-c0e7f588169a. The booking form separately showed Book Consultation as its conversion page. Because the same email was used, HubSpot correctly associated both submissions with one contact (930012444898); their submission histories remain separate.
+- Zoho Inbox showed both customer acknowledgements and both internal notifications. Zoho Sent delivery details confirmed delivery over TLS to all three notification recipient servers for each form: solar at 19:52:18–19 WAT and booking at 19:52:24 WAT. This verifies recipient-server delivery; it does not imply anyone has read a notification.
 
-## End-to-end completion gate
+## Verification for future changes
 
 1. Confirm the correct Zoho SMTP host for elijaho@auxanosolutions.net.
 2. Add SMTP credentials to Vercel Production without revealing them in chat.
