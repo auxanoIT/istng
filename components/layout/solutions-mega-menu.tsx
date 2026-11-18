@@ -90,8 +90,6 @@ export function SolutionsMegaMenu({
                   );
                 })}
               </div>
-              <NavigationMenuLink asChild>
-              </NavigationMenuLink>
             </div>
 
             <AnimatePresence mode="wait" initial={false}>
