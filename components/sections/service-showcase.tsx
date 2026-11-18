@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { ArrowRight, ChevronRight } from "lucide-react";
-import { Fragment, useId, useState, type CSSProperties } from "react";
+import { useId, useState, type CSSProperties } from "react";
 
 import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
@@ -28,38 +28,40 @@ export function ServiceShowcase({ section }: { section: ServiceShowcaseSection }
           <h2 id={`${sectionId}-heading`}>{section.title}</h2>
           {section.description && <p className={styles.intro}>{section.description}</p>}
         </div>
-        <div
-          className={styles.explorer}
-          style={{ "--service-count": section.items.length } as CSSProperties}
-        >
-          {section.items.map((item, index) => {
-            const active = item.id === activeId;
-            const buttonId = `${sectionId}-service-${index}`;
-            const panelId = `${sectionId}-panel-${index}`;
+        <div className={styles.explorer}>
+          <div className={styles.navigation} role="group" aria-label="Explore our services">
+            {section.items.map((item, index) => (
+              <button
+                key={item.id}
+                id={`${sectionId}-service-${index}`}
+                type="button"
+                className={styles.service}
+                style={{ "--service-index": index } as CSSProperties}
+                aria-expanded={item.id === activeId}
+                aria-controls={`${sectionId}-panel-${index}`}
+                onClick={() => setSelectedId(item.id)}
+              >
+                <span>{item.title}</span>
+                <ChevronRight className={styles.chevron} size={20} aria-hidden="true" />
+              </button>
+            ))}
+          </div>
+          <div className={styles.panels}>
+            {section.items.map((item, index) => {
+              const active = item.id === activeId;
+              const buttonId = `${sectionId}-service-${index}`;
+              const panelId = `${sectionId}-panel-${index}`;
 
-            return (
-              <Fragment key={item.id}>
-                <button
-                  id={buttonId}
-                  type="button"
-                  className={styles.service}
-                  aria-expanded={active}
-                  aria-controls={panelId}
-                  onClick={() => setSelectedId(item.id)}
-                >
-                  <span className={styles.number} aria-hidden="true">
-                    {String(index + 1).padStart(2, "0")}
-                  </span>
-                  <span>{item.title}</span>
-                  <ChevronRight className={styles.chevron} size={20} aria-hidden="true" />
-                </button>
+              return (
                 <div
+                  key={item.id}
                   id={panelId}
                   role="region"
                   aria-labelledby={buttonId}
                   inert={!active}
                   data-active={active}
                   className={styles.panel}
+                  style={{ "--service-index": index } as CSSProperties}
                 >
                   <div className={styles.visual}>
                     <Image
@@ -79,9 +81,9 @@ export function ServiceShowcase({ section }: { section: ServiceShowcaseSection }
                     </ButtonLink>
                   </div>
                 </div>
-              </Fragment>
-            );
-          })}
+              );
+            })}
+          </div>
         </div>
       </Container>
     </section>
