@@ -7,7 +7,7 @@ const benefitImages = [
   "/integrated-assets/images/solar-campus.webp",
   "/image/operation-teams/journey-residential.webp",
   "/image/industries/corporate-offices.webp",
-  "/integrated-assets/images/rooftop-solar-technicians.webp",
+  "/integrated-assets/images/rooftop-solar-technicians-no-battery.webp",
 ];
 
 export function SolarBenefits({ copy }: { copy: OverviewCopy & { items: OverviewCopy[] } }) {
