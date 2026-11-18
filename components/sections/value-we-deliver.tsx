@@ -66,7 +66,6 @@ export function ValueWeDeliver() {
   return (
     <section className={styles.section} id="the-value-we-deliver" aria-labelledby="value-we-deliver-title">
       <Container data-section-heading className={styles.header}>
-        <p className={styles.eyebrow}>THE VALUE WE DELIVER</p>
         <h2 id="value-we-deliver-title">Smarter Energy. Stronger Operations. Greater Possibilities.</h2>
         <p className={styles.intro}>
           The right energy and technology solutions do more than meet immediate needs.
