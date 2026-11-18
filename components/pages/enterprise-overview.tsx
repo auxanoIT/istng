@@ -44,7 +44,7 @@ export function EnterpriseOverview({ overview }: { overview: EnterpriseOverviewD
 
       <OverviewSection id="overview-services">
         <OverviewHeading copy={{ ...draft.services, paragraphs: [] }} id="overview-services-title" />
-        <OverviewExplorer entries={services} label={pillar.label} controlsClassName="lg:mt-20 xl:mt-24" />
+        <OverviewExplorer entries={services} label={pillar.label} stickyControls controlsClassName="lg:mt-20 xl:mt-24" />
       </OverviewSection>
 
       <OverviewSection id="project-explained" tone="navy">
@@ -60,7 +60,7 @@ export function EnterpriseOverview({ overview }: { overview: EnterpriseOverviewD
 
       <OverviewSection id="project-environments">
         <OverviewHeading copy={{ ...draft.environments, paragraphs: [] }} id="project-environments-title" />
-        <OverviewExplorer entries={environments} label="Environments we support" imageFirst />
+        <OverviewExplorer entries={environments} label="Environments we support" imageFirst stickyControls />
       </OverviewSection>
 
       <OverviewDecision id="project-priorities" title={draft.decisions.title} question="What would you like to address?"

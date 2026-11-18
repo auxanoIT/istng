@@ -51,11 +51,12 @@ function ExplorerContent({ entry, inverse }: { entry: OverviewEntry; inverse: bo
   );
 }
 
-export function OverviewExplorer({ entries, label, imageFirst = false, inverse = false, controlsClassName }: {
+export function OverviewExplorer({ entries, label, imageFirst = false, inverse = false, stickyControls = false, controlsClassName }: {
   entries: OverviewEntry[];
   label: string;
   imageFirst?: boolean;
   inverse?: boolean;
+  stickyControls?: boolean;
   controlsClassName?: string;
 }) {
   const [selected, setSelected] = useState(0);
@@ -64,7 +65,12 @@ export function OverviewExplorer({ entries, label, imageFirst = false, inverse =
 
   return (
     <div className={cn("mt-8 grid items-start gap-6 lg:gap-10", imageFirst ? "lg:grid-cols-[1.6fr_1fr]" : "lg:grid-cols-[1fr_1.6fr]")}>
-      <div role="group" aria-label={label} className={cn("grid grid-cols-1 gap-1", imageFirst && "lg:col-start-2 lg:row-start-1", controlsClassName)}>
+      <div role="group" aria-label={label} className={cn(
+        "grid grid-cols-1 gap-1",
+        imageFirst && "lg:col-start-2 lg:row-start-1",
+        stickyControls && "lg:sticky lg:top-28 lg:max-h-[calc(100svh-8rem)] lg:overflow-y-auto",
+        controlsClassName,
+      )}>
         {entries.map((item, index) => (
           <div key={item.title} className="min-w-0">
             <button

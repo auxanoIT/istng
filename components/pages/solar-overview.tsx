@@ -29,7 +29,7 @@ export function SolarOverview() {
 
       <OverviewSection id="solar-services">
         <OverviewHeading copy={copy.services} id="solar-services-title" />
-        <OverviewExplorer entries={solarServiceEntries} label="Solar services" controlsClassName="lg:mt-20 xl:mt-24" />
+        <OverviewExplorer entries={solarServiceEntries} label="Solar services" stickyControls controlsClassName="lg:mt-20 xl:mt-24" />
       </OverviewSection>
 
       <OverviewSection id="how-solar-works" tone="navy">
@@ -40,7 +40,7 @@ export function SolarOverview() {
 
       <OverviewSection id="solar-environments">
         <OverviewHeading copy={copy.environments} id="solar-environments-title" />
-        <OverviewExplorer entries={solarEnvironmentEntries} label="Who we power" imageFirst />
+        <OverviewExplorer entries={solarEnvironmentEntries} label="Who we power" imageFirst stickyControls />
       </OverviewSection>
 
       <SolarDecision />
