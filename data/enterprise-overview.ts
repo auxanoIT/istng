@@ -55,7 +55,7 @@ type Visuals = {
 
 const visuals: Record<keyof typeof copy, Visuals> = {
   "data-centre-infrastructure": {
-    hero: { src: "/image/service-pillars/data-centre-rack-and-stack-deployment-nigeria.webp", alt: "Nigerian technicians installing equipment in a server rack" },
+    hero: { src: "/integrated-assets/images/solutions/data-centre-infrastructure-nigeria-hero.webp", alt: "Nigerian infrastructure engineers inspecting network equipment in a data centre server aisle", objectPosition: "75% center" },
     support: "data-centre-buildout", close: "data-centre-power",
     foundations: [photo.planning, "network-cabling-rack", photo.fibre, photo.copper],
     benefits: [photo.monitoring, "network-cabling-rack", "data-centre-buildout", photo.repair, "data-centre-cooling", "data-centre-power"],

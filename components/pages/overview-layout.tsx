@@ -67,7 +67,7 @@ export function OverviewBanner({ copy, image, actions = [], hero = false, fadeTo
   const headingId = hero ? "overview-title" : "overview-closing-title";
   return (
     <section aria-labelledby={headingId} className="relative isolate overflow-hidden bg-brand-navy text-white">
-      <Image src={image.src} alt="" fill sizes="100vw" preload={hero} className="object-cover" />
+      <Image src={image.src} alt={hero ? image.alt : ""} fill sizes="100vw" preload={hero} className="object-cover" style={{ objectPosition: image.objectPosition }} />
       <div className={cn(
         "absolute inset-0 bg-linear-to-b",
         fadeToNavy

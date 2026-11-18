@@ -58,6 +58,7 @@ export type ServiceCategory =
 export type ServiceNavMedia = {
   src: string;
   alt: string;
+  objectPosition?: string;
   width?: number;
   height?: number;
 };
