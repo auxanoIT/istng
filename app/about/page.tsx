@@ -1,7 +1,7 @@
-import Image from "@/components/ui/site-image";
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { AboutStory } from "@/components/sections/about-story";
 import { AboutTeam } from "@/components/sections/about-team";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
 import { SolutionCardGrid } from "@/components/sections/solution-card-grid";
@@ -68,17 +68,7 @@ export default function AboutPage() {
         { label: copy.hero.actions[1], href: "/book-consultation" },
       ]} />
 
-      <OverviewSection id="about-story" tone="navy">
-        <div className="grid items-start gap-8 lg:grid-cols-[0.85fr_1fr] lg:gap-14">
-          <div className="lg:sticky lg:top-28">
-            <OverviewHeading id="about-story-title" copy={{ title: copy.story.title, paragraphs: [] }} align="left" inverse />
-            <div className="relative mt-6 aspect-[4/3] overflow-hidden rounded-lg bg-white/10">
-              <Image src={aboutContent.story.image} alt={aboutContent.story.alt} fill sizes="(min-width: 1024px) 42vw, 100vw" className="object-cover" />
-            </div>
-          </div>
-          <OverviewParagraphs paragraphs={copy.story.paragraphs} className="text-slate-200" />
-        </div>
-      </OverviewSection>
+      <AboutStory />
 
       <OverviewSection id="about-company">
         <div className="grid items-start gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:gap-14">

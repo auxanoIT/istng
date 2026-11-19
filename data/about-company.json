@@ -13,17 +13,27 @@
   "story": {
     "title": "Progress Is Built on What Works Behind the Scenes.",
     "paragraphs": [
-      "Every successful organisation has something in common.",
-      "Behind the products it creates, the customers it serves and the ambitions it pursues are systems that make everyday operations possible.",
-      "Electricity powers its activities. Networks move information. Servers and infrastructure support its digital operations. Security systems help protect its people, facilities and assets.",
-      "Most of these systems are rarely noticed when they work. Yet when they fail, their importance becomes impossible to ignore.",
-      "A business cannot operate confidently when power is unpredictable. A growing organisation cannot work efficiently when its network infrastructure limits communication. And valuable investments deserve more than technology installed without consideration for how it will be used, managed and maintained.",
-      "This is the thinking behind Integrated Solutions Technology.",
-      "We believe organisations should not have to approach every infrastructure challenge as an isolated problem. Power, connectivity, computing and security may serve different functions, but together they form the foundation of a more capable and resilient operation.",
-      "Our role is to help bring these essential elements together through suitable technologies, thoughtful planning, professional installation and practical technical support.",
-      "Not technology for its own sake.",
-      "Technology with a purpose. Infrastructure that enables progress."
-    ]
+      "The systems you rarely notice make everyday progress possible."
+    ],
+    "items": [
+      {
+        "title": "Power that keeps you moving.",
+        "description": "Reliable energy for the systems you depend on."
+      },
+      {
+        "title": "Connections that bring teams together.",
+        "description": "Networks that keep people and information connected."
+      },
+      {
+        "title": "Infrastructure that supports your work.",
+        "description": "Servers and systems planned around daily operations."
+      },
+      {
+        "title": "Security that protects what matters.",
+        "description": "Practical protection for your people, places and assets."
+      }
+    ],
+    "statement": "We bring energy and technology together through thoughtful planning, professional installation and practical support."
   },
   "company": {
     "title": "We Bring the Essential Pieces Together.",

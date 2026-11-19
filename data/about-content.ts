@@ -27,8 +27,8 @@ export const aboutContent = {
       "Our role is not to take control away from the client's engineers.",
       "It is to give them the onsite capacity to execute with confidence.",
     ],
-    image: "/image/service-pillars/integrated-live-data-centre-deployment-clean.webp",
-    alt: "Technicians working with equipment and a tablet in a data centre rack aisle",
+    image: "/integrated-assets/images/about-story-engineers-v1.webp",
+    alt: "Nigerian engineers reviewing a technical drawing together in a server equipment room",
   },
   belief: {
     title: "Good Infrastructure Work Should Make the Next Job Easier.",

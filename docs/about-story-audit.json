@@ -1,0 +1,31 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "results": [
+    {
+      "width": 1366,
+      "layout": "2x2",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "layout": "2x2",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "layout": "stacked",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "layout": "stacked",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "layout": "stacked",
+      "overflow": false
+    }
+  ],
+  "pageErrors": []
+}

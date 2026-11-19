@@ -1,0 +1,9 @@
+{
+  "mode": "Built-in image generation",
+  "image": "/integrated-assets/images/about-story-engineers-v1.webp",
+  "prompt": "Use case: photorealistic-natural. Asset: small photographic strip in the approved About-page statement band of Integrated Solutions Technology, a Nigerian energy and technology engineering company. Generate a believable premium editorial photograph, not a website mockup. Two Black Nigerian professional engineers, one woman with neatly braided hair and one man with short hair and subtle clear prescription glasses, both wearing clean navy engineering work shirts with restrained reflective grey trim and no logos. They are standing side by side INSIDE a clean real server equipment room, looking down together at a paper technical drawing or clipboard. Natural focused expressions and realistic anatomy. Framing: tight medium upper-body portrait, woman on left and man on right, both faces fully visible close together near the centre; the paper visible at bottom centre. A small amount of neatly organised server rack and blue/yellow network cabling behind them. Soft natural light, neutral true-to-life skin tones, professional but candid mood. Landscape photograph about 4:3, generous safe margins around their heads for a responsive crop into both a narrow desktop photo panel and a short wide mobile strip. Sharp faces, detailed workwear, realistic cables and hands. No text, no logos, no watermarks, no UI, no overlaid symbols, no hard hat, no solar panel or battery in the room, no dramatic neon lighting, no staged handshake. This is a conceptual company illustration, not a verified client project.",
+  "width": 1000,
+  "height": 750,
+  "bytes": 88470,
+  "workspacePath": "C:/Users/ADMIN/Documents/Codex/2026-11-07/i-x20/istng-publish/public/integrated-assets/images/about-story-engineers-v1.webp"
+}
