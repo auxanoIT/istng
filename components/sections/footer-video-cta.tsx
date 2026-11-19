@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 
 import { BackgroundVideo } from "@/components/ui/background-video";

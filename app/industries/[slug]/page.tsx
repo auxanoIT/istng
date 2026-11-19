@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { ArrowRight } from "lucide-react";
 

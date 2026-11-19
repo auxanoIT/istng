@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowRight, ChevronDown } from "lucide-react";
 
 import { Container } from "@/components/ui/container";

@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowLeft, ArrowRight, Check } from "lucide-react";
 
 import { ButtonLink } from "@/components/ui/button-link";

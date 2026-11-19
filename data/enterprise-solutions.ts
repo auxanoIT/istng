@@ -1,6 +1,7 @@
 import legacy from "./service-pillar-navigation.json";
 import { securityServiceImages } from "./security-service-images";
 import { solarOverviewPath, solarServicePath } from "./solar-routes";
+import { canonicalServicePath } from "@/lib/service-routes";
 import type { ServiceNavMedia } from "@/lib/types";
 
 type MenuService = { title: string; href: string; image: ServiceNavMedia; slug: string };
@@ -128,4 +129,8 @@ export const solutionPillars: SolutionPillar[] = [
       existing("security-access", 0),
     ],
   },
-];
+].map(pillar => ({
+  ...pillar,
+  href: canonicalServicePath(pillar.href),
+  items: pillar.items.map(service => ({ ...service, href: canonicalServicePath(service.href) })),
+}));

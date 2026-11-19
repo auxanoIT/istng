@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { Menu } from "lucide-react";

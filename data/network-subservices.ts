@@ -133,7 +133,7 @@ export function getNetworkSubservice(path: string): InfrastructureSubservicePage
       },
       gallery: {
         ...brief.gallery,
-        paragraphs: [...brief.gallery.paragraphs, "Images illustrate the equipment and work involved."],
+        paragraphs: brief.gallery.paragraphs,
         items: brief.gallery.items.map((item, index) => ({ ...item, image: assets.gallery[index] })),
         action: { label: brief.gallery.cta, href: consultation },
       },

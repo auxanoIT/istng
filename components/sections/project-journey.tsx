@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, type CSSProperties } from "react";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowUpRight } from "lucide-react";
 import { homeServicePillars } from "@/data/home-service-pillars";
 import { journeyProjects, projectStages } from "@/data/project-journey";

@@ -1,4 +1,4 @@
-export const solarOverviewPath = "/solutions/solar-energy";
+export const solarOverviewPath = "/services/solar-energy";
 
 export const solarServiceSlugs = [
   "residential-solar",

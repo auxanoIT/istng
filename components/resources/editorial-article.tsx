@@ -1,5 +1,6 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
+import { canonicalServicePath } from "@/lib/service-routes";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AlertTriangle, Info, Lightbulb, Quote } from "lucide-react";
@@ -296,7 +297,7 @@ const blogBodyComponents: PortableTextComponents = {
 
       return (
         <a
-          href={href}
+          href={canonicalServicePath(href)}
           target={isExternal ? "_blank" : undefined}
           rel={isExternal ? "noreferrer" : undefined}
           className="font-semibold text-[var(--color-electric)] underline-offset-4 hover:underline"
@@ -644,4 +645,3 @@ function slugify(value: string) {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
 }
-

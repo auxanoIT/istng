@@ -162,7 +162,7 @@ function getServiceHeroImage(
 }
 
 export async function generateStaticParams() {
-  return primarySolutionPages.filter(page => /^\/services\/[^/]+$/.test(page.href)).map(page => ({ slug: page.href.split("/")[2] }));
+  return primarySolutionPages.filter(page => /^\/services\/[^/]+$/.test(page.href) && page.href !== "/services/solar-energy").map(page => ({ slug: page.href.split("/")[2] }));
 }
 
 export async function generateMetadata({

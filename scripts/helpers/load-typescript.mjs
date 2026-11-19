@@ -28,7 +28,7 @@ export function typescriptLoader({ env = {}, overrides = {}, fetch = globalThis.
     vm.runInNewContext(code, {
       module: compiledModule, exports: compiledModule.exports, process: { env }, fetch,
       console: { error() {}, log() {}, warn() {} },
-      AbortSignal, Request, Response, URL, Set, Map,
+      AbortSignal, Request, Response, URL, URLSearchParams, Set, Map,
       require: specifier => {
         if (Object.hasOwn(overrides, specifier)) return overrides[specifier];
         if (specifier.startsWith('@/')) return load(specifier.slice(2));

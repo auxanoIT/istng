@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronRight } from "lucide-react";

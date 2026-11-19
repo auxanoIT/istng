@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewParagraphs } from "@/components/pages/overview-layout";
 import type { ServiceNavMedia } from "@/lib/types";

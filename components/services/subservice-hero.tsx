@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { Pause, Play } from "lucide-react";
 import { useState } from "react";
 import { subserviceHeroCopy } from "@/data/subservice-hero-copy";

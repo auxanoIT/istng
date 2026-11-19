@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { Container } from "@/components/ui/container";
 import { solutionPillars } from "@/data/enterprise-solutions";
 import { industryNavigation } from "@/data/industry-navigation";

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Image from "@/components/ui/site-image";
-import Link from 'next/link';
+import Link from '@/components/ui/site-link';
 import { JsonLd } from '@/components/ui/json-ld';
 import { SubserviceHero } from './subservice-hero';
 import { SubserviceSectionNav } from './subservice-section-nav';

@@ -96,7 +96,7 @@ export function getSolarSubservice(slug: SolarSlug): { name: string; description
       },
       gallery: {
         ...brief.gallery,
-        paragraphs: [...brief.gallery.paragraphs, "Images illustrate the equipment and work involved."],
+        paragraphs: brief.gallery.paragraphs,
         items: brief.gallery.items.map((item, index) => ({ ...item, image: images.gallery[index] })),
         action: { label: brief.gallery.cta, href: consultation },
       },

@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowUpRight, BookOpenText } from "lucide-react";
 import { editorialSections, knowledgeKinds, resourcePath, type EditorialSection } from "@/data/resource-sections";
 import { getEditorialIndex, type EditorialCard } from "@/lib/resources";

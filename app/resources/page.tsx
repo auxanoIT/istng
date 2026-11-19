@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { ResourceProjectCard, resourceIcons } from "@/components/resources/resource-menu-content";
 import { Container } from "@/components/ui/container";

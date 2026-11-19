@@ -1,5 +1,1 @@
-import { permanentRedirect } from "next/navigation";
-
-export default function ServicesIndexPage() {
-  permanentRedirect("/solutions");
-}
+export { default, metadata } from "@/app/solutions/page";

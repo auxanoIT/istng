@@ -7,6 +7,7 @@ import {
 } from "@/sanity/lib/queries";
 import { editorialSections, planningSections, type EditorialSection, type PlanningSection, type ResourceSection } from "@/data/resource-sections";
 import type { BlogPost } from "@/lib/types";
+import { canonicalServicePath, serviceRouteAliases } from "@/lib/service-routes";
 
 export type EditorialCard = Omit<BlogPost, "body" | "takeaways">;
 export type ToolKind = "solar" | "infrastructure" | "security";
@@ -41,9 +42,11 @@ export async function getPlanningResource(section: PlanningSection, slug: string
 
 export async function getRelatedResourceCards({ industry = "", service = "" }: { industry?: string; service?: string }) {
   if (!industry && !service) return [];
+  const canonical = canonicalServicePath(service);
+  const serviceAliases = [...new Set([canonical, service, ...Object.keys(serviceRouteAliases).filter(path => serviceRouteAliases[path] === canonical)])].filter(Boolean);
   return await sanityFetch<ResourceCard[]>({
     query: relatedResourceCardsQuery,
-    params: { industry, service, legacyService: service.replace(/^\/services\//, "") || "__none__" },
+    params: { industry, service, serviceAliases, legacyServices: serviceAliases.map(path => path.replace(/^\/services\//, "")) },
     tags: ["resources", "posts"],
   }) ?? [];
 }

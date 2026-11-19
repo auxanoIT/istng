@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowDown, ArrowUpRight, Pause, Play } from "lucide-react";
 import type { ServicePillar } from "@/data/service-pillars";
 import s from "./pillar.module.css";

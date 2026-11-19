@@ -1,0 +1,255 @@
+[
+  {
+    "title": "Solar Energy & Power Solutions",
+    "slug": "solar-energy",
+    "legacyPath": "/solutions/solar-energy",
+    "path": "/services/solar-energy",
+    "services": [
+      {
+        "title": "Residential Solar Installation",
+        "legacyPath": "/solutions/solar-energy/residential-solar",
+        "path": "/services/solar-energy/residential-solar"
+      },
+      {
+        "title": "Commercial Solar Installation",
+        "legacyPath": "/solutions/solar-energy/commercial-solar",
+        "path": "/services/solar-energy/commercial-solar"
+      },
+      {
+        "title": "Industrial Solar Solutions",
+        "legacyPath": "/solutions/solar-energy/industrial-solar",
+        "path": "/services/solar-energy/industrial-solar"
+      },
+      {
+        "title": "Hybrid Solar & Inverter Systems",
+        "legacyPath": "/solutions/solar-energy/hybrid-solar-systems",
+        "path": "/services/solar-energy/hybrid-solar-systems"
+      },
+      {
+        "title": "Solar Battery Storage Solutions",
+        "legacyPath": "/solutions/solar-energy/battery-storage",
+        "path": "/services/solar-energy/battery-storage"
+      },
+      {
+        "title": "Solar Maintenance & System Upgrades",
+        "legacyPath": "/solutions/solar-energy/solar-maintenance",
+        "path": "/services/solar-energy/solar-maintenance"
+      }
+    ]
+  },
+  {
+    "title": "Data Centre & IT Infrastructure",
+    "slug": "data-centre-infrastructure",
+    "legacyPath": "/services/data-centre-deployment",
+    "path": "/services/data-centre-deployment",
+    "services": [
+      {
+        "title": "Data Centre Design & Infrastructure Planning",
+        "legacyPath": "/solutions/data-centre-planning",
+        "path": "/services/data-centre-deployment/data-centre-planning"
+      },
+      {
+        "title": "Server Room Setup & Deployment",
+        "legacyPath": "/services/data-centre-services",
+        "path": "/services/data-centre-deployment/data-centre-services"
+      },
+      {
+        "title": "Rack-and-Stack Services",
+        "legacyPath": "/services/data-centre-deployment/rack-and-stack",
+        "path": "/services/data-centre-deployment/rack-and-stack"
+      },
+      {
+        "title": "Data Centre Equipment Installation",
+        "legacyPath": "/services/data-centre-deployment/equipment-installation",
+        "path": "/services/data-centre-deployment/equipment-installation"
+      },
+      {
+        "title": "Infrastructure Testing & Verification",
+        "legacyPath": "/services/data-centre-deployment/equipment-testing-verification",
+        "path": "/services/data-centre-deployment/equipment-testing-verification"
+      },
+      {
+        "title": "Equipment Moves, Adds & Changes",
+        "legacyPath": "/services/data-centre-deployment/moves-adds-changes",
+        "path": "/services/data-centre-deployment/moves-adds-changes"
+      }
+    ]
+  },
+  {
+    "title": "Network & Structured Cabling",
+    "slug": "network-structured-cabling",
+    "legacyPath": "/services/network-infrastructure-connectivity",
+    "path": "/services/network-infrastructure-connectivity",
+    "services": [
+      {
+        "title": "Network Design & Installation",
+        "legacyPath": "/services/network-design-with-diagram",
+        "path": "/services/network-infrastructure-connectivity/network-design-with-diagram"
+      },
+      {
+        "title": "Structured LAN Cabling",
+        "legacyPath": "/services/structured-lan-cabling",
+        "path": "/services/network-infrastructure-connectivity/structured-lan-cabling"
+      },
+      {
+        "title": "Fibre Optic Cabling",
+        "legacyPath": "/solutions/fibre-optic-cabling",
+        "path": "/services/network-infrastructure-connectivity/fibre-optic-cabling"
+      },
+      {
+        "title": "Wireless Network Solutions",
+        "legacyPath": "/solutions/wireless-networks",
+        "path": "/services/network-infrastructure-connectivity/wireless-networks"
+      },
+      {
+        "title": "Network Configuration & Upgrades",
+        "legacyPath": "/services/network-configurations",
+        "path": "/services/network-infrastructure-connectivity/network-configurations"
+      },
+      {
+        "title": "Network Equipment Installation",
+        "legacyPath": "/services/network-infrastructure-connectivity/network-equipment-installation",
+        "path": "/services/network-infrastructure-connectivity/network-equipment-installation"
+      },
+      {
+        "title": "Cable Labelling & Port Mapping",
+        "legacyPath": "/services/network-infrastructure-connectivity/cable-labelling-port-mapping",
+        "path": "/services/network-infrastructure-connectivity/cable-labelling-port-mapping"
+      },
+      {
+        "title": "Cable Routing & Rack Remediation",
+        "legacyPath": "/services/network-infrastructure-connectivity/rack-cabling-remediation",
+        "path": "/services/network-infrastructure-connectivity/rack-cabling-remediation"
+      }
+    ]
+  },
+  {
+    "title": "Server, Storage & Hardware",
+    "slug": "server-storage-hardware",
+    "legacyPath": "/services/server-storage-hardware",
+    "path": "/services/server-storage-hardware",
+    "services": [
+      {
+        "title": "Enterprise Server Supply & Installation",
+        "legacyPath": "/solutions/enterprise-server-installation",
+        "path": "/services/server-storage-hardware/enterprise-server-installation"
+      },
+      {
+        "title": "Data Storage Solutions",
+        "legacyPath": "/services/server-storage-provisioning-deployment",
+        "path": "/services/server-storage-hardware/server-storage-provisioning-deployment"
+      },
+      {
+        "title": "IT Hardware & Equipment Procurement",
+        "legacyPath": "/services/sales-of-it-hardware",
+        "path": "/services/server-storage-hardware/sales-of-it-hardware"
+      },
+      {
+        "title": "Server Configuration & Upgrades",
+        "legacyPath": "/services/data-centre-deployment/server-installation-configuration",
+        "path": "/services/server-storage-hardware/server-installation-configuration"
+      },
+      {
+        "title": "Hardware Maintenance & Repair",
+        "legacyPath": "/services/server-sales-repair",
+        "path": "/services/server-storage-hardware/server-sales-repair"
+      },
+      {
+        "title": "Rack Accessories & Consumables Supply",
+        "legacyPath": "/services/sales-of-data-centre-consumables",
+        "path": "/services/server-storage-hardware/sales-of-data-centre-consumables"
+      }
+    ]
+  },
+  {
+    "title": "Security & Surveillance",
+    "slug": "security-surveillance",
+    "legacyPath": "/services/data-centre-security-safety",
+    "path": "/services/data-centre-security-safety",
+    "services": [
+      {
+        "title": "CCTV Installation & Surveillance",
+        "legacyPath": "/services/surveillance-system-cctv",
+        "path": "/services/data-centre-security-safety/surveillance-system-cctv"
+      },
+      {
+        "title": "Access Control Systems",
+        "legacyPath": "/services/door-access-control",
+        "path": "/services/data-centre-security-safety/door-access-control"
+      },
+      {
+        "title": "Video Monitoring & Recording Systems",
+        "legacyPath": "/solutions/video-monitoring-recording",
+        "path": "/services/data-centre-security-safety/video-monitoring-recording"
+      },
+      {
+        "title": "Security System Maintenance & Upgrades",
+        "legacyPath": "/solutions/security-maintenance",
+        "path": "/services/data-centre-security-safety/security-maintenance"
+      },
+      {
+        "title": "Fire Alarm & Safety Systems",
+        "legacyPath": "/services/fire-alarm-safety-systems",
+        "path": "/services/data-centre-security-safety/fire-alarm-safety-systems"
+      },
+      {
+        "title": "Automated Door & Gate Systems",
+        "legacyPath": "/services/automated-gates-sliding-doors",
+        "path": "/services/data-centre-security-safety/automated-gates-sliding-doors"
+      },
+      {
+        "title": "Mantrap Door Installation & Servicing",
+        "legacyPath": "/services/data-centre-security-safety/mantrap-installation-servicing",
+        "path": "/services/data-centre-security-safety/mantrap-installation-servicing"
+      }
+    ]
+  },
+  {
+    "title": "IT Services & Technical Support",
+    "slug": "it-services-support",
+    "legacyPath": "/solutions/it-services-support",
+    "path": "/services/it-services-support",
+    "services": [
+      {
+        "title": "IT Consulting & Infrastructure Assessment",
+        "legacyPath": "/services/it-consultancy-audit-services",
+        "path": "/services/it-services-support/it-consultancy-audit-services"
+      },
+      {
+        "title": "Managed IT Support & Maintenance",
+        "legacyPath": "/services/it-managed-services-staff-outsourcing",
+        "path": "/services/it-services-support/it-managed-services-staff-outsourcing"
+      },
+      {
+        "title": "Onsite IT Technical Support",
+        "legacyPath": "/services/it-technical-services",
+        "path": "/services/it-services-support/it-technical-services"
+      },
+      {
+        "title": "IT Infrastructure Upgrades",
+        "legacyPath": "/solutions/it-infrastructure-upgrades",
+        "path": "/services/it-services-support/it-infrastructure-upgrades"
+      },
+      {
+        "title": "IT Project Implementation & Support",
+        "legacyPath": "/services/it-project-management",
+        "path": "/services/it-services-support/it-project-management"
+      },
+      {
+        "title": "Smart Hands & Remote-Team Support",
+        "legacyPath": "/services/smart-hands-technical-support/smart-hands",
+        "path": "/services/it-services-support/smart-hands"
+      },
+      {
+        "title": "Installation Documentation & Project Handover",
+        "legacyPath": "/services/data-centre-project-lifecycle-management/installation-documentation-handover",
+        "path": "/services/it-services-support/installation-documentation-handover"
+      },
+      {
+        "title": "Firewall Supply, Installation & Licensing",
+        "legacyPath": "/services/firewall-sales-licenses",
+        "path": "/services/it-services-support/firewall-sales-licenses"
+      }
+    ]
+  }
+]

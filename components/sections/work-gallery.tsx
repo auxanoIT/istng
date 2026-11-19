@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { useRef, useState } from "react";
 import * as Dialog from "@radix-ui/react-dialog";
 import { ArrowLeft, ArrowRight, Plus, X } from "lucide-react";

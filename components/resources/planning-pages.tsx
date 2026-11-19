@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowRight, ClipboardCheck, Download, FileText } from "lucide-react";
 import { notFound } from "next/navigation";
 import { ButtonLink } from "@/components/ui/button-link";
@@ -43,12 +43,12 @@ export async function PlanningDetail({ section, slug }: { section: PlanningSecti
   return <>
     <ResourceIntro title={config.title} heading={resource.title} description={resource.excerpt} />
     <section className="bg-brand-surface py-12 sm:py-20"><Container>
-      <div className="mx-auto max-w-4xl">
+      <div className="mx-auto max-w-6xl">
         <Link href={resourcePath(section)} className="mb-6 inline-block text-sm font-semibold text-brand-navy underline underline-offset-4">← All {section === "tools" ? "planning tools" : "downloads"}</Link>
         {resource.instructions && <p className="mb-6 whitespace-pre-line leading-7 text-brand-support">{resource.instructions}</p>}
         {section === "tools" && resource.toolKind ? <PlanningWorkbench kind={resource.toolKind} checklist={resource.checklist} /> : <div className="rounded-xl border border-brand-border bg-white p-6 sm:p-8"><DownloadLink resource={resource} /></div>}
         <ResourceConnections resource={resource} />
-        <ButtonLink href="/book-consultation" className="mt-8">Book a Technical Consultation</ButtonLink>
+        {section !== "tools" && <ButtonLink href="/book-consultation" className="mt-8">Book a Technical Consultation</ButtonLink>}
       </div>
     </Container></section>
   </>;

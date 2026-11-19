@@ -1,22 +1,17 @@
 import type { NextConfig } from "next";
-import { solarServicePath, solarServiceSlugs } from "./data/solar-routes";
+import { canonicalServicePath, serviceRouteAliases } from "./lib/service-routes";
 
 const nextConfig: NextConfig = {
   distDir: process.env.NEXT_BUILD_DIR || ".next",
   allowedDevOrigins: ["127.0.0.1"],
   trailingSlash: false,
   async redirects() {
-    return [
-      { source: "/:path*", has: [{ type: "host", value: "www.istng.com" }], destination: "https://istng.com/:path*", permanent: true },
-      { source: "/services", destination: "/solutions", permanent: true },
+    const redirects = [
+      ...Object.entries(serviceRouteAliases).map(([source, destination]) => ({ source, destination, permanent: true })),
+      { source: "/:path*", has: [{ type: "host" as const, value: "www.istng.com" }], destination: "https://istng.com/:path*", permanent: true },
       { source: "/blog/:path*", destination: "/resources/insights/:path*", permanent: true },
       { source: "/case-studies/:path*", destination: "/resources/case-studies/:path*", permanent: true },
       { source: "/our-work/:path*", destination: "/resources/our-work/:path*", permanent: true },
-      ...solarServiceSlugs.map((slug) => ({
-        source: `/solutions/${slug}`,
-        destination: solarServicePath(slug),
-        permanent: true,
-      })),
       {
         source: "/data-cabling",
         destination: "/services/structured-lan-cabling",
@@ -93,6 +88,7 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
     ];
+    return redirects.map(rule => ({ ...rule, destination: canonicalServicePath(rule.destination) }));
   },
   images: {
     formats: ["image/avif", "image/webp"],

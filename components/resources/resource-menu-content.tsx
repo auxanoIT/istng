@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { ArrowUpRight, BookOpen, BriefcaseBusiness, ClipboardList, Download, Images, Newspaper, CircleHelp } from "lucide-react";
 
 export const resourceIcons = {

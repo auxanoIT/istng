@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { SubserviceHero } from "@/components/services/subservice-hero";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
@@ -13,17 +13,18 @@ import { ProductionServicePage, productionMetadata } from "@/components/services
 import { ContextualResources } from "@/components/resources/resource-connections";
 import { getInfrastructureSubservice, infrastructureSubservicePaths } from "@/data/infrastructure-subservices";
 import { InfrastructureSubservice, infrastructureSubserviceMetadata } from "@/components/pages/infrastructure-subservice";
-import { isRetiredContentPath } from "@/data/site-routes";
+import { isRetiredContentPath, primarySolutionPages } from "@/data/site-routes";
 
 type Props = { params: Promise<{ slug: string; subservice: string }> };
 export const dynamicParams = true;
 export const revalidate = false;
 export function generateStaticParams() {
   const paths = new Set([
+    ...primarySolutionPages.map(page => page.href),
     ...summaryCapabilityPages.map(({ href }) => href),
     ...infrastructureSubservicePaths.filter((path) => /^\/services\/[^/]+\/[^/]+$/.test(path)),
   ]);
-  return [...paths].filter(path => !isRetiredContentPath(path)).map((path) => {
+  return [...paths].filter(path => /^\/services\/[^/]+\/[^/]+$/.test(path) && !path.startsWith("/services/solar-energy/") && !isRetiredContentPath(path)).map((path) => {
     const [, , slug, subservice] = path.split("/");
     return { slug, subservice };
   });

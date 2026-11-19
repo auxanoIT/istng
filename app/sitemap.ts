@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { absoluteUrl } from "@/lib/utils";
+import { canonicalServicePath } from "@/lib/service-routes";
 import { getCaseStudies, getIndustries } from "@/lib/content";
 import { getResourceSitemap } from "@/lib/resources";
 import { getWorkGallery } from "@/lib/work-gallery";
@@ -64,8 +65,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
   const unique = new Map<string,Entry>();
   for (const entry of entries) {
-    const previous = unique.get(entry.path);
-    unique.set(entry.path,{ ...previous, ...entry, images: [...new Set([...(previous?.images ?? []), ...(entry.images ?? [])].filter(imageUrl))] });
+    const canonicalPath = canonicalServicePath(entry.path);
+    const previous = unique.get(canonicalPath);
+    unique.set(canonicalPath,{ ...previous, ...entry, path: canonicalPath, images: [...new Set([...(previous?.images ?? []), ...(entry.images ?? [])].filter(imageUrl))] });
   }
   return [...unique.values()].sort((a,b) => a.path.localeCompare(b.path)).map(entry => ({
     url: absoluteUrl(entry.path),

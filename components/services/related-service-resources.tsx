@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from 'next/link';
+import Link from '@/components/ui/site-link';
 import type { RelatedServicePost } from '@/lib/types';
 import styles from './related-service-resources.module.css';
 

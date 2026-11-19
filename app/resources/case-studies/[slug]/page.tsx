@@ -1,5 +1,5 @@
 import Image from "@/components/ui/site-image";
-import Link from "next/link";
+import Link from "@/components/ui/site-link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
