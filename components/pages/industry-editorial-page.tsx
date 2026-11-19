@@ -46,7 +46,7 @@ export function IndustryEditorialPage({ industry, copy }: { industry: IndustryPr
 
       <OverviewSection id="industry-applications" tone="warm">
         <div className="grid gap-8 lg:grid-cols-[0.85fr_1.25fr] lg:gap-14">
-          <div>
+          <div className="lg:sticky lg:top-24 lg:self-start">
             <OverviewHeading align="left" id="industry-applications-title" copy={applications} />
             <EnquiryLink label={applications.cta} className="mt-6" />
           </div>
