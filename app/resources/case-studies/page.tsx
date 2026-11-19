@@ -5,7 +5,7 @@ import { CaseStudyCollection } from "@/components/sections/case-study-collection
 import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
-import { additionalInstallationRecords, installationPortfolio } from "@/data/integrated-case-studies";
+import { installationPortfolio } from "@/data/integrated-case-studies";
 import { getCaseStudies } from "@/lib/content";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
@@ -63,13 +63,6 @@ export default async function CaseStudiesPage() {
             <figcaption><span aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>{image.alt}</figcaption>
           </figure>)}
         </div>
-      </Container>
-    </section>
-    <section className="bg-brand-soft-white py-14 sm:py-20" aria-labelledby="more-installations-title">
-      <Container>
-        <h2 id="more-installations-title" className="text-2xl font-semibold sm:text-3xl">More from our installation record.</h2>
-        <p className="mt-3 max-w-2xl text-brand-support">Further inverter installations from the supplied project register.</p>
-        <div className="mt-7 grid gap-5 md:grid-cols-2">{additionalInstallationRecords.map(record => <article key={record.title} className="rounded-lg border border-brand-border bg-white p-6"><p className="text-sm text-brand-support">{record.period}</p><h3 className="mt-2 text-xl font-semibold">{record.title}</h3><p className="mt-3 font-medium">{record.equipment}</p><p className="mt-2 text-sm leading-6 text-brand-support">{record.note}</p></article>)}</div>
       </Container>
     </section>
     <section className="py-14 sm:py-20" aria-labelledby="projects-enquiry-title"><Container className="grid items-center gap-7 lg:grid-cols-[1fr_auto]"><div><h2 id="projects-enquiry-title" className="max-w-3xl text-3xl font-semibold tracking-tight sm:text-4xl">Your requirements. The right next step.</h2><p className="mt-4 max-w-2xl text-brand-support">Tell us what you need to power. We’ll help you explore a system suited to your home, business or facility.</p></div><ButtonLink href="/book-consultation" className="justify-self-start rounded-md">Discuss your project <ArrowUpRight size={18} className="ml-3" aria-hidden="true" /></ButtonLink></Container></section>
