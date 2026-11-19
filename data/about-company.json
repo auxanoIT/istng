@@ -73,14 +73,18 @@
   "purpose": {
     "title": "To Make Technology Work Where It Matters Most.",
     "paragraphs": [
-      "We believe technology should create opportunities, not unnecessary complexity.",
-      "It should help businesses operate more effectively, enable people to stay connected, support important services and provide a practical foundation for growth.",
-      "Yet the value of technology depends on how it is selected, implemented and supported.",
-      "Our purpose is to help bridge the gap between what technology makes possible and what organisations can achieve with the right infrastructure.",
-      "We do this by helping customers understand their requirements, evaluate suitable solutions and bring essential systems into operation.",
-      "Whether that means planning a solar installation, organising a network, deploying enterprise equipment or improving physical security, our focus remains on solving a real need.",
-      "Because technology only creates value when it works for the people who depend on it."
-    ]
+      "We help turn technical possibilities into practical improvements for people and businesses."
+    ],
+    "possibility": {
+      "title": "What technology makes possible.",
+      "description": "Energy. Connectivity. Computing. Security."
+    },
+    "achievement": {
+      "title": "What people can achieve.",
+      "description": "Better work. Stronger connections. Room to grow."
+    },
+    "connector": "Our purpose",
+    "closing": "We start with your real needs, select suitable solutions and help bring essential systems into operation."
   },
   "vision": {
     "title": "A Future Where Technology and Energy Create Greater Possibilities.",

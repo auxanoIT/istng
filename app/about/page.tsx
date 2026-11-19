@@ -1,6 +1,7 @@
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
 import { AboutTeam } from "@/components/sections/about-team";
@@ -65,9 +66,7 @@ export default function AboutPage() {
 
       <AboutCompany />
 
-      <OverviewSection id="about-purpose" tone="warm">
-        <OverviewHeading id="about-purpose-title" copy={copy.purpose} />
-      </OverviewSection>
+      <AboutPurpose />
 
       <div className="bg-brand-navy text-white">
         <Container className="grid gap-6 py-14 sm:py-20 lg:grid-cols-2 lg:gap-8">
