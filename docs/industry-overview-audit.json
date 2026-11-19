@@ -1,0 +1,213 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "industries": [
+    {
+      "slug": "corporate-offices",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "power",
+        "security",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/corporate-offices.webp"
+    },
+    {
+      "slug": "manufacturing",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "connectivity",
+        "visibility",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/manufacturing.webp"
+    },
+    {
+      "slug": "warehousing-logistics",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "visibility",
+        "security",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/warehousing-logistics.webp"
+    },
+    {
+      "slug": "retail",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "visibility",
+        "power",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/retail.webp"
+    },
+    {
+      "slug": "healthcare",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "connectivity",
+        "security",
+        "support"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/healthcare.webp"
+    },
+    {
+      "slug": "education",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "power",
+        "security",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/education.webp"
+    },
+    {
+      "slug": "financial-services",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "protection",
+        "support",
+        "security"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/financial-services.webp"
+    },
+    {
+      "slug": "government",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "records",
+        "security",
+        "support"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/government.webp"
+    },
+    {
+      "slug": "real-estate-property-management",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "planning",
+        "power",
+        "connectivity",
+        "support"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/real-estate-property-management.webp"
+    },
+    {
+      "slug": "hospitality",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "connectivity",
+        "support",
+        "security",
+        "power"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/hospitality.webp"
+    },
+    {
+      "slug": "data-centres",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "planning",
+        "support",
+        "records",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/data-centres.webp"
+    },
+    {
+      "slug": "telecommunications-isps",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "planning",
+        "connectivity",
+        "support",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/telecommunications-isps.webp"
+    },
+    {
+      "slug": "residential-homes-gated-communities",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "visibility",
+        "security",
+        "support"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/residential-homes-gated-communities.webp"
+    },
+    {
+      "slug": "religious-organizations",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "connectivity",
+        "security",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/religious-organizations.webp"
+    },
+    {
+      "slug": "technology-partners",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "support",
+        "planning",
+        "records",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/technology-partners.webp"
+    },
+    {
+      "slug": "energy-utilities",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "connectivity",
+        "security",
+        "records"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/energy-utilities.webp"
+    },
+    {
+      "slug": "agriculture-agribusiness",
+      "status": 200,
+      "priorities": 4,
+      "focus": [
+        "power",
+        "connectivity",
+        "visibility",
+        "growth"
+      ],
+      "image": "/integrated-assets/images/industry-explorer/agriculture-agribusiness.webp"
+    }
+  ],
+  "mobile": "390px inline accordion, scrolling and overflow passed",
+  "tablet": "1024px top tabs passed",
+  "keyboard": "ArrowRight/Home/End passed",
+  "pageErrors": []
+}

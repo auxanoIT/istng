@@ -1,0 +1,29 @@
+.explorer { display: grid; grid-template-columns: minmax(0, 1fr); margin-top: 2rem; }
+.control { display: flex; align-items: center; gap: .75rem; min-height: 3.5rem; width: 100%; margin-top: .75rem; padding: .875rem; border: 1px solid #ffffff38; border-radius: .4rem; background: transparent; color: #e2e8f0; text-align: left; font-size: .875rem; font-weight: 600; cursor: pointer; scroll-margin-top: 1rem; transition: color 180ms, background-color 180ms, border-color 180ms; }
+.control:hover { color: white; background: #ffffff0a; border-color: var(--brand-orange); }
+.control:focus-visible { outline: 2px solid var(--brand-orange); outline-offset: 4px; }
+.control[aria-expanded="true"] { color: white; border-color: var(--brand-orange); border-bottom: 0; border-radius: .4rem .4rem 0 0; background: #ffffff05; }
+.control span { flex: 1; }
+.chevron { flex-shrink: 0; transition: transform 200ms; }
+.control[aria-expanded="true"] .chevron { transform: rotate(180deg); }
+.panel { min-width: 0; padding: 0 .625rem 1rem; border: 1px solid var(--brand-orange); border-top: 0; border-radius: 0 0 .4rem .4rem; background: #ffffff05; }
+.panel[hidden] { display: none; }
+.visual { position: relative; aspect-ratio: 16 / 7; overflow: hidden; border-radius: .3rem; background: var(--brand-navy); }
+.overlay { position: absolute; inset: 0; width: 100%; height: 100%; color: var(--brand-orange); filter: drop-shadow(0 0 2px #ff994477); animation: illuminate 380ms ease-out both; }
+.copy { margin-top: 1rem; padding: 0 .25rem; animation: appear 240ms ease-out both; }
+@keyframes illuminate { from { opacity: 0; } to { opacity: 1; } }
+@keyframes appear { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: translateY(0); } }
+@media (min-width: 1024px) {
+  .explorer { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 2.75rem; }
+  .control { grid-column: var(--industry-tab-column); grid-row: 1; justify-content: center; min-height: 4.5rem; margin-top: 0; padding: .75rem 1rem; border: 0; border-bottom: 2px solid #ffffff38; border-radius: 0; text-align: center; font-size: 1rem; }
+  .control span { flex: initial; text-wrap: balance; }
+  .control[aria-expanded="true"] { border: 0; border-bottom: 3px solid var(--brand-orange); border-radius: 0; background: transparent; }
+  .chevron { display: none; }
+  .panel { grid-column: 1 / -1; grid-row: 2; padding: 1.75rem 0 0; border: 0; border-radius: 0; background: transparent; }
+  .visual { border: 1px solid #ffffff20; border-radius: .5rem; }
+  .copy { margin-top: 1.25rem; padding: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .overlay, .copy { animation: none; }
+  .control, .chevron { transition: none; }
+}

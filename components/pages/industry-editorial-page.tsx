@@ -9,6 +9,7 @@ import { Container } from "@/components/ui/container";
 import type { getIndustryEditorial } from "@/data/industry-editorial";
 import type { IndustryProfile } from "@/lib/types";
 import { cn } from "@/lib/utils";
+import { IndustryOverviewExplorer } from "./industry-overview-explorer";
 
 type Editorial = NonNullable<ReturnType<typeof getIndustryEditorial>>;
 
@@ -20,7 +21,7 @@ function EnquiryLink({ label, className }: { label?: string; className?: string 
 }
 
 export function IndustryEditorialPage({ industry, copy }: { industry: IndustryProfile; copy: Editorial }) {
-  const { hero, overview, solutions, applications, challenges, approach, gallery, faq, closing } = copy;
+  const { hero, solutions, applications, challenges, approach, gallery, faq, closing } = copy;
 
   return (
     <>
@@ -30,24 +31,7 @@ export function IndustryEditorialPage({ industry, copy }: { industry: IndustryPr
       ]} />
 
       <OverviewSection id="industry-overview" tone="navy">
-        <div className="grid gap-9 lg:grid-cols-[1fr_1.1fr] lg:gap-14">
-          <div>
-            <span aria-hidden="true" className="mb-5 block h-0.5 w-12 bg-brand-orange" />
-            <OverviewHeading align="left" inverse id="industry-overview-title" copy={{
-              ...overview,
-              paragraphs: [...hero.paragraphs, ...overview.paragraphs],
-            }} />
-          </div>
-          <ul className="grid gap-x-6 gap-y-5 sm:grid-cols-2">
-            {overview.items.map((item) => (
-              <li key={item.title} className="border-t border-white/25 pt-4">
-                <h3 className="text-lg font-semibold">{item.title}</h3>
-                <OverviewParagraphs paragraphs={item.paragraphs} className="mt-2 text-slate-200" />
-              </li>
-            ))}
-          </ul>
-        </div>
-        {hero.notes.length > 0 && <OverviewParagraphs paragraphs={hero.notes} className="mt-9 border-l-2 border-brand-orange pl-4 text-slate-200" />}
+        <IndustryOverviewExplorer key={industry.slug} experience={copy.overviewExperience} industry={industry.title} enquiry={enquiry} />
       </OverviewSection>
 
       <OverviewSection id="industry-solutions">

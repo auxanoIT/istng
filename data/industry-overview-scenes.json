@@ -1,0 +1,750 @@
+{
+  "corporate-offices": {
+    "src": "/integrated-assets/images/industry-explorer/corporate-offices.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for corporate offices in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 48.5,
+        "y": 62
+      },
+      "solar": {
+        "x": 61,
+        "y": 35
+      },
+      "utility": {
+        "x": 76,
+        "y": 63
+      },
+      "entry": {
+        "x": 94,
+        "y": 64
+      },
+      "work": {
+        "x": 26,
+        "y": 65
+      },
+      "accessPoint": {
+        "x": 21.5,
+        "y": 44.5
+      },
+      "camera": {
+        "x": 89.5,
+        "y": 45
+      },
+      "growth": {
+        "x": 64,
+        "y": 63
+      },
+      "records": {
+        "x": 62,
+        "y": 65
+      }
+    }
+  },
+  "manufacturing": {
+    "src": "/integrated-assets/images/industry-explorer/manufacturing.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for manufacturing in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 60,
+        "y": 60
+      },
+      "solar": {
+        "x": 51,
+        "y": 33
+      },
+      "utility": {
+        "x": 73,
+        "y": 64
+      },
+      "entry": {
+        "x": 92,
+        "y": 60
+      },
+      "work": {
+        "x": 28,
+        "y": 61
+      },
+      "accessPoint": {
+        "x": 24,
+        "y": 42.5
+      },
+      "camera": {
+        "x": 87,
+        "y": 45
+      },
+      "growth": {
+        "x": 53,
+        "y": 69.5
+      },
+      "records": {
+        "x": 51,
+        "y": 63
+      }
+    }
+  },
+  "warehousing-logistics": {
+    "src": "/integrated-assets/images/industry-explorer/warehousing-logistics.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for warehousing logistics in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 66.2,
+        "y": 60.7
+      },
+      "solar": {
+        "x": 59,
+        "y": 34.6
+      },
+      "utility": {
+        "x": 75,
+        "y": 61.4
+      },
+      "entry": {
+        "x": 91,
+        "y": 63.5
+      },
+      "work": {
+        "x": 41.7,
+        "y": 62
+      },
+      "accessPoint": {
+        "x": 20.6,
+        "y": 43.1
+      },
+      "camera": {
+        "x": 87,
+        "y": 48
+      },
+      "growth": {
+        "x": 57,
+        "y": 64
+      },
+      "records": {
+        "x": 36.6,
+        "y": 62.5
+      }
+    }
+  },
+  "retail": {
+    "src": "/integrated-assets/images/industry-explorer/retail.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for retail in Nigeria",
+    "width": 1400,
+    "height": 467,
+    "anchors": {
+      "network": {
+        "x": 72.2,
+        "y": 62.2
+      },
+      "solar": {
+        "x": 57,
+        "y": 30.1
+      },
+      "utility": {
+        "x": 79,
+        "y": 63.5
+      },
+      "entry": {
+        "x": 92.6,
+        "y": 65.9
+      },
+      "work": {
+        "x": 19.8,
+        "y": 64
+      },
+      "accessPoint": {
+        "x": 18.5,
+        "y": 42.8
+      },
+      "camera": {
+        "x": 88.2,
+        "y": 44.9
+      },
+      "growth": {
+        "x": 62.6,
+        "y": 64.9
+      },
+      "records": {
+        "x": 50.5,
+        "y": 64.2
+      }
+    }
+  },
+  "healthcare": {
+    "src": "/integrated-assets/images/industry-explorer/healthcare.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for healthcare in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 67.9,
+        "y": 60.9
+      },
+      "solar": {
+        "x": 54,
+        "y": 33
+      },
+      "utility": {
+        "x": 79,
+        "y": 62.8
+      },
+      "entry": {
+        "x": 92,
+        "y": 63
+      },
+      "work": {
+        "x": 54,
+        "y": 63.7
+      },
+      "accessPoint": {
+        "x": 21,
+        "y": 43.1
+      },
+      "camera": {
+        "x": 87,
+        "y": 44.8
+      },
+      "growth": {
+        "x": 37,
+        "y": 62
+      },
+      "records": {
+        "x": 16.9,
+        "y": 63
+      }
+    }
+  },
+  "education": {
+    "src": "/integrated-assets/images/industry-explorer/education.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for education in Nigeria",
+    "width": 1400,
+    "height": 717,
+    "anchors": {
+      "network": {
+        "x": 66,
+        "y": 63.7
+      },
+      "solar": {
+        "x": 51.2,
+        "y": 33.7
+      },
+      "utility": {
+        "x": 76,
+        "y": 65.9
+      },
+      "entry": {
+        "x": 88.2,
+        "y": 67.1
+      },
+      "work": {
+        "x": 23.3,
+        "y": 66.4
+      },
+      "accessPoint": {
+        "x": 25.3,
+        "y": 45.2
+      },
+      "camera": {
+        "x": 86.6,
+        "y": 45.1
+      },
+      "growth": {
+        "x": 54,
+        "y": 68.4
+      },
+      "records": {
+        "x": 51.4,
+        "y": 68.4
+      }
+    }
+  },
+  "financial-services": {
+    "src": "/integrated-assets/images/industry-explorer/financial-services.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for financial services in Nigeria",
+    "width": 1400,
+    "height": 597,
+    "anchors": {
+      "network": {
+        "x": 67.3,
+        "y": 64.6
+      },
+      "solar": {
+        "x": 54.7,
+        "y": 35.3
+      },
+      "utility": {
+        "x": 79,
+        "y": 68.3
+      },
+      "entry": {
+        "x": 85,
+        "y": 65.9
+      },
+      "work": {
+        "x": 49.4,
+        "y": 69
+      },
+      "accessPoint": {
+        "x": 21.3,
+        "y": 46.2
+      },
+      "camera": {
+        "x": 88.6,
+        "y": 45.2
+      },
+      "growth": {
+        "x": 36.4,
+        "y": 69.4
+      },
+      "records": {
+        "x": 52,
+        "y": 71.4
+      }
+    }
+  },
+  "government": {
+    "src": "/integrated-assets/images/industry-explorer/government.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for government in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 70.7,
+        "y": 63.2
+      },
+      "solar": {
+        "x": 51,
+        "y": 37.5
+      },
+      "utility": {
+        "x": 89.6,
+        "y": 66.5
+      },
+      "entry": {
+        "x": 80.6,
+        "y": 65.1
+      },
+      "work": {
+        "x": 51,
+        "y": 67.6
+      },
+      "accessPoint": {
+        "x": 16.1,
+        "y": 47.4
+      },
+      "camera": {
+        "x": 77.6,
+        "y": 47
+      },
+      "growth": {
+        "x": 58,
+        "y": 64.8
+      },
+      "records": {
+        "x": 55.8,
+        "y": 68.2
+      }
+    }
+  },
+  "real-estate-property-management": {
+    "src": "/integrated-assets/images/industry-explorer/real-estate-property-management.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for real estate property management in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 58,
+        "y": 64
+      },
+      "solar": {
+        "x": 51.3,
+        "y": 40.2
+      },
+      "utility": {
+        "x": 69.6,
+        "y": 65.4
+      },
+      "entry": {
+        "x": 84.6,
+        "y": 66.5
+      },
+      "work": {
+        "x": 43.3,
+        "y": 66
+      },
+      "accessPoint": {
+        "x": 17.7,
+        "y": 47
+      },
+      "camera": {
+        "x": 77,
+        "y": 50.4
+      },
+      "growth": {
+        "x": 19.4,
+        "y": 70
+      },
+      "records": {
+        "x": 42.2,
+        "y": 66.5
+      }
+    }
+  },
+  "hospitality": {
+    "src": "/integrated-assets/images/industry-explorer/hospitality.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for hospitality in Nigeria",
+    "width": 1400,
+    "height": 597,
+    "anchors": {
+      "network": {
+        "x": 67.7,
+        "y": 61
+      },
+      "solar": {
+        "x": 53,
+        "y": 29.5
+      },
+      "utility": {
+        "x": 79.6,
+        "y": 64
+      },
+      "entry": {
+        "x": 92,
+        "y": 64.7
+      },
+      "work": {
+        "x": 56.6,
+        "y": 63.2
+      },
+      "accessPoint": {
+        "x": 20.6,
+        "y": 41.4
+      },
+      "camera": {
+        "x": 88.5,
+        "y": 42.8
+      },
+      "growth": {
+        "x": 17.2,
+        "y": 68.4
+      },
+      "records": {
+        "x": 51,
+        "y": 64
+      }
+    }
+  },
+  "data-centres": {
+    "src": "/integrated-assets/images/industry-explorer/data-centres.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for data centres in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 59.3,
+        "y": 62
+      },
+      "solar": {
+        "x": 49.8,
+        "y": 34.6
+      },
+      "utility": {
+        "x": 75.2,
+        "y": 62
+      },
+      "entry": {
+        "x": 90.1,
+        "y": 64.4
+      },
+      "work": {
+        "x": 46.5,
+        "y": 64.8
+      },
+      "accessPoint": {
+        "x": 17.8,
+        "y": 44.2
+      },
+      "camera": {
+        "x": 86.8,
+        "y": 44.7
+      },
+      "growth": {
+        "x": 41.2,
+        "y": 64.3
+      },
+      "records": {
+        "x": 43,
+        "y": 65.6
+      }
+    }
+  },
+  "telecommunications-isps": {
+    "src": "/integrated-assets/images/industry-explorer/telecommunications-isps.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for telecommunications isps in Nigeria",
+    "width": 1400,
+    "height": 717,
+    "anchors": {
+      "network": {
+        "x": 63.8,
+        "y": 62.8
+      },
+      "solar": {
+        "x": 50.6,
+        "y": 34.6
+      },
+      "utility": {
+        "x": 76.1,
+        "y": 65.5
+      },
+      "entry": {
+        "x": 91.3,
+        "y": 66.2
+      },
+      "work": {
+        "x": 47.9,
+        "y": 66.4
+      },
+      "accessPoint": {
+        "x": 25.6,
+        "y": 43.5
+      },
+      "camera": {
+        "x": 86.5,
+        "y": 45.4
+      },
+      "growth": {
+        "x": 20,
+        "y": 66.5
+      },
+      "records": {
+        "x": 42.8,
+        "y": 65.7
+      }
+    }
+  },
+  "residential-homes-gated-communities": {
+    "src": "/integrated-assets/images/industry-explorer/residential-homes-gated-communities.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for residential homes gated communities in Nigeria",
+    "width": 1400,
+    "height": 717,
+    "anchors": {
+      "network": {
+        "x": 55.8,
+        "y": 63.4
+      },
+      "solar": {
+        "x": 49.7,
+        "y": 39
+      },
+      "utility": {
+        "x": 68.2,
+        "y": 66.4
+      },
+      "entry": {
+        "x": 85.6,
+        "y": 64.6
+      },
+      "work": {
+        "x": 30.4,
+        "y": 66.3
+      },
+      "accessPoint": {
+        "x": 23.7,
+        "y": 48.8
+      },
+      "camera": {
+        "x": 92.7,
+        "y": 50.4
+      },
+      "growth": {
+        "x": 43,
+        "y": 67.1
+      },
+      "records": {
+        "x": 43,
+        "y": 66.5
+      }
+    }
+  },
+  "religious-organizations": {
+    "src": "/integrated-assets/images/industry-explorer/religious-organizations.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for religious organizations in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 64.6,
+        "y": 60
+      },
+      "solar": {
+        "x": 50.7,
+        "y": 32.4
+      },
+      "utility": {
+        "x": 73.7,
+        "y": 61.3
+      },
+      "entry": {
+        "x": 88.7,
+        "y": 60
+      },
+      "work": {
+        "x": 51,
+        "y": 61.3
+      },
+      "accessPoint": {
+        "x": 25.9,
+        "y": 42.7
+      },
+      "camera": {
+        "x": 85.1,
+        "y": 44.7
+      },
+      "growth": {
+        "x": 33.5,
+        "y": 62
+      },
+      "records": {
+        "x": 51.9,
+        "y": 61.9
+      }
+    }
+  },
+  "technology-partners": {
+    "src": "/integrated-assets/images/industry-explorer/technology-partners.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for technology partners in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 65.6,
+        "y": 57.4
+      },
+      "solar": {
+        "x": 56.5,
+        "y": 32.4
+      },
+      "utility": {
+        "x": 76.8,
+        "y": 60.1
+      },
+      "entry": {
+        "x": 91.7,
+        "y": 60.1
+      },
+      "work": {
+        "x": 51.6,
+        "y": 61
+      },
+      "accessPoint": {
+        "x": 14.6,
+        "y": 41.9
+      },
+      "camera": {
+        "x": 89.9,
+        "y": 43.5
+      },
+      "growth": {
+        "x": 31.3,
+        "y": 62.2
+      },
+      "records": {
+        "x": 51.6,
+        "y": 61.4
+      }
+    }
+  },
+  "energy-utilities": {
+    "src": "/integrated-assets/images/industry-explorer/energy-utilities.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for energy utilities in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 58.9,
+        "y": 60.1
+      },
+      "solar": {
+        "x": 46.5,
+        "y": 34.4
+      },
+      "utility": {
+        "x": 72.4,
+        "y": 59.6
+      },
+      "entry": {
+        "x": 90.7,
+        "y": 63.5
+      },
+      "work": {
+        "x": 31.7,
+        "y": 65.3
+      },
+      "accessPoint": {
+        "x": 20.6,
+        "y": 43.1
+      },
+      "camera": {
+        "x": 87.1,
+        "y": 45.9
+      },
+      "growth": {
+        "x": 47.6,
+        "y": 63.7
+      },
+      "records": {
+        "x": 29.3,
+        "y": 65.4
+      }
+    }
+  },
+  "agriculture-agribusiness": {
+    "src": "/integrated-assets/images/industry-explorer/agriculture-agribusiness.webp",
+    "alt": "Architectural cutaway illustrating energy, connectivity and access systems for agriculture agribusiness in Nigeria",
+    "width": 1400,
+    "height": 700,
+    "anchors": {
+      "network": {
+        "x": 65,
+        "y": 60
+      },
+      "solar": {
+        "x": 49.8,
+        "y": 30.9
+      },
+      "utility": {
+        "x": 74.4,
+        "y": 60.1
+      },
+      "entry": {
+        "x": 89.3,
+        "y": 61.1
+      },
+      "work": {
+        "x": 48.6,
+        "y": 62.2
+      },
+      "accessPoint": {
+        "x": 21.7,
+        "y": 41.5
+      },
+      "camera": {
+        "x": 87.3,
+        "y": 42.8
+      },
+      "growth": {
+        "x": 31.6,
+        "y": 64.8
+      },
+      "records": {
+        "x": 51.3,
+        "y": 62
+      }
+    }
+  }
+}

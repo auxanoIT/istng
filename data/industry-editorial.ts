@@ -2,6 +2,7 @@ import type { IndustryProfile, ServiceNavMedia } from "@/lib/types";
 import { industryNavigation } from "./industry-navigation";
 import { overviewImages } from "./overview-images";
 import copy from "./industry-page-copy.json";
+import { getIndustryOverviewExperience } from "./industry-overview-explorer";
 
 type IndustrySlug = keyof typeof copy;
 
@@ -139,6 +140,7 @@ export function getIndustryEditorial(slug: string) {
   return {
     ...page,
     description: settings.description,
+    overviewExperience: getIndustryOverviewExperience(key, page.overview),
     solutions: {
       ...page.solutions,
       items: page.solutions.items.map((item, index) => ({ ...item, ...assets[settings.solutions[index]] })),
