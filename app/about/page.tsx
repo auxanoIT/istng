@@ -1,6 +1,7 @@
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
 import { AboutTeam } from "@/components/sections/about-team";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
@@ -41,14 +42,6 @@ const solutionCards = solutionPillars.flatMap(({ slug, href, image }) => {
   return service ? [{ ...service, href, image }] : [];
 });
 
-const companySummary = {
-  title: "What is Integrated Solutions Technology?",
-  paragraphs: [
-    "Integrated Solutions Technology is a Nigerian technology and infrastructure solutions provider offering solar energy systems, data centre infrastructure, network installation, fibre optic cabling, enterprise servers and storage, CCTV, access control and IT technical support.",
-    "The company helps businesses, organisations and individuals assess, install and maintain suitable energy and technology infrastructure. Its services support residential, commercial, industrial and enterprise environments across multiple sectors.",
-  ],
-};
-
 export default function AboutPage() {
   return (
     <>
@@ -70,17 +63,7 @@ export default function AboutPage() {
 
       <AboutStory />
 
-      <OverviewSection id="about-company">
-        <div className="grid items-start gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:gap-14">
-          <div>
-            <OverviewHeading id="about-company-title" copy={copy.company} align="left" />
-            <ButtonLink href="#about-solutions" className="mt-6 rounded-md shadow-none">{copy.company.cta}</ButtonLink>
-          </div>
-          <div className="rounded-lg border border-brand-border bg-brand-soft-white p-6 sm:p-8">
-            <OverviewHeading copy={companySummary} align="left" />
-          </div>
-        </div>
-      </OverviewSection>
+      <AboutCompany />
 
       <OverviewSection id="about-purpose" tone="warm">
         <OverviewHeading id="about-purpose-title" copy={copy.purpose} />

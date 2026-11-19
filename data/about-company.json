@@ -38,17 +38,37 @@
   "company": {
     "title": "We Bring the Essential Pieces Together.",
     "paragraphs": [
-      "Integrated Solutions Technology is a Nigerian technology and infrastructure solutions provider delivering services across solar energy, IT infrastructure, networking, enterprise hardware, security and technical support.",
-      "Our capabilities span the systems organisations depend on to operate, communicate, protect their facilities and support their activities.",
-      "From residential and commercial solar installations to data centre infrastructure, fibre optic networks, enterprise servers, CCTV surveillance and access control, we help customers identify and implement solutions appropriate to their environments.",
-      "We work across diverse requirements, from individual properties and business facilities to more complex enterprise infrastructure projects.",
-      "What connects our services is a shared principle:",
-      "The right solution begins with understanding the real problem.",
-      "That means looking beyond equipment specifications to consider the environment, intended use, operational requirements and the people who will depend on the system.",
-      "Because successful infrastructure is not simply about what gets installed.",
-      "It is about how well that infrastructure serves its purpose."
+      "We are a Nigerian provider of solar energy, IT infrastructure, networking, enterprise hardware, security and technical support.",
+      "From individual properties to enterprise facilities, we plan solutions around real needs."
     ],
-    "cta": "Explore What We Do"
+    "items": [
+      {
+        "title": "Solar & Power",
+        "description": "Energy for everyday needs."
+      },
+      {
+        "title": "Data Centre & IT",
+        "description": "Infrastructure for your operations."
+      },
+      {
+        "title": "Networking & Cabling",
+        "description": "Connections across your business."
+      },
+      {
+        "title": "Servers & Storage",
+        "description": "Equipment matched to your workloads."
+      },
+      {
+        "title": "Security & Surveillance",
+        "description": "Visibility and controlled access."
+      },
+      {
+        "title": "IT Services & Support",
+        "description": "Practical help beyond installation."
+      }
+    ],
+    "principle": "The right solution begins with understanding the real problem.",
+    "cta": "Explore our solutions"
   },
   "purpose": {
     "title": "To Make Technology Work Where It Matters Most.",

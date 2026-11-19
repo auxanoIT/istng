@@ -1,0 +1,32 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "results": [
+    {
+      "width": 1366,
+      "layout": "three services each side of hub",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "layout": "three services each side of hub",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "layout": "vertical list",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "layout": "vertical list",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "layout": "vertical list",
+      "overflow": false
+    }
+  ],
+  "cta": "about-solutions anchor",
+  "pageErrors": []
+}
