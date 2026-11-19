@@ -2,6 +2,7 @@ import { solutionPillars } from "./enterprise-solutions";
 import copy from "./solar-overview-copy.json";
 import { solarOverviewPath, solarServicePath } from "./solar-routes";
 import { overviewImages } from "./overview-images";
+import { getOverviewRelatedServices } from "./overview-related-services";
 
 export const solarConsultationService = "Solar Energy & Power Solutions";
 export const solarConsultationHref = `/book-consultation?${new URLSearchParams({ service: solarConsultationService })}#project-enquiry`;
@@ -17,7 +18,6 @@ export const solarClosingImage = {
 };
 
 const solarItems = solutionPillars.find(({ href }) => href === solarOverviewPath)!.items;
-const pillar = (slug: string) => solutionPillars.find((item) => item.slug === slug)!;
 
 const environmentDestinations = [
   { href: solarServicePath("residential-solar"), image: solarItems[0].image },
@@ -39,9 +39,4 @@ export const solarEnvironmentEntries = copy.environments.items.map((item, index)
   return { ...item, image, action: { label: item.ctas[0], href } };
 });
 
-const relatedPillars = ["network-structured-cabling", "server-storage-hardware", "security-surveillance"];
-
-export const solarRelatedEntries = copy.related.items.map((item, index) => {
-  const { image, href } = pillar(relatedPillars[index]);
-  return { ...item, image, action: { label: item.ctas[0], href } };
-});
+export const solarRelatedEntries = getOverviewRelatedServices("solar-energy");

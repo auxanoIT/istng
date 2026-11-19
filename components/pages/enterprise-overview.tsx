@@ -52,7 +52,7 @@ export function EnterpriseOverview({ overview }: { overview: EnterpriseOverviewD
         <OverviewHeading copy={{ ...draft.system, paragraphs: [] }} id="project-explained-title" inverse />
         <OverviewExplorer entries={system} label="How it works" inverse imageFirst controlsClassName="lg:self-center" />
         {draft.system.ctas?.[0] && (
-          <div className="mt-7 text-center">
+          <div className="mt-7 flex justify-start">
             <ButtonLink href={enquiry} className="rounded-md shadow-none">{draft.system.ctas[0]}</ButtonLink>
           </div>
         )}

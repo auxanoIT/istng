@@ -1,6 +1,7 @@
 import copy from "./enterprise-overview-copy.json";
 import { solutionPillars } from "./enterprise-solutions";
 import { overviewImages as photo } from "./overview-images";
+import { getOverviewRelatedServices } from "./overview-related-services";
 import type { ServiceNavMedia } from "@/lib/types";
 
 type Item = { title: string; paragraphs: string[]; tagline?: string; cta?: string };
@@ -161,10 +162,7 @@ export function getEnterpriseOverview(path: string) {
     image: media(art.audiences[index], "industry"),
     action: { label: "Discuss your requirements", href: enquiry },
   }));
-  const related = draft.related.items.flatMap((item) => {
-    const match = solutionPillars.find(({ label }) => label === item.title);
-    return match ? [{ ...shortCopy(item), image: match.image, action: { label: item.cta ?? item.title, href: match.href } }] : [];
-  });
+  const related = getOverviewRelatedServices(pillar.slug);
   const system = draft.system.items.map((item, index) => ({
     ...shortCopy(item), image: media(art.details[index], "detail"),
   }));
