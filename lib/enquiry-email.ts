@@ -11,7 +11,8 @@ export type EnquiryEmailDetails = {
   context: "hero" | "contact" | "consultation";
 };
 
-const recipients = ["ask@istng.com", "elijaho@auxanosolutions.net", "support@istng.com"];
+// This mailbox forwards internally; sending to its aliases as well duplicates alerts.
+const recipients = ["ask@istng.com"];
 const escapeHtml = (value: string) => value.replace(/[&<>"']/g, character =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]!);
 

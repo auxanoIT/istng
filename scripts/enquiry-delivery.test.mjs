@@ -7,7 +7,7 @@ const details = {
   serviceInterest: 'Solar Energy & Power Solutions', message: 'Goal: Improve power reliability\nMonthly spend: Not sure', context: 'hero',
 };
 const smtpEnv = { ZOHO_SMTP_USER: 'elijaho@auxanosolutions.net', ZOHO_SMTP_PASSWORD: 'test-only-not-a-real-credential' };
-const recipients = ['ask@istng.com', 'elijaho@auxanosolutions.net', 'support@istng.com'];
+const recipients = ['ask@istng.com'];
 
 function mailHarness(send, env = smtpEnv) {
   const sent = [], configurations = [];
@@ -33,6 +33,9 @@ test('notification and acknowledgement use the confirmed recipients and identity
   assert.doesNotMatch(emails.acknowledgement.text, /elijaho@|support@/);
   const booking = buildEnquiryEmails({ ...details, context: 'consultation' });
   assert.match(booking.acknowledgement.text, /before confirming an appointment/);
+  for (const context of ['hero', 'consultation', 'contact']) {
+    assert.deepEqual([...buildEnquiryEmails({ ...details, context }).notification.to], ['ask@istng.com']);
+  }
 });
 
 test('customer text is escaped in HTML and remains literal in the plain text version', () => {
@@ -78,12 +81,13 @@ test('CRM receipt permits acknowledgement even if notification transport fails',
   assert.equal(result.acknowledgementSent, true);
 });
 
-test('partial owner acceptance preserves receipt without claiming all three were notified', async () => {
-  const mail = mailHarness((message, attempt) => ({ accepted: attempt === 1 ? [recipients[0]] : [message.to] }));
+test('rejection of the single notification recipient does not claim receipt or send acknowledgement', async () => {
+  const mail = mailHarness(() => ({ accepted: [] }));
   const result = await mail.sendEnquiryEmails(details, false);
   assert.equal(result.notificationSent, false);
-  assert.equal(result.storedByEmail, true);
-  assert.equal(result.acknowledgementSent, true);
+  assert.equal(result.storedByEmail, false);
+  assert.equal(result.acknowledgementSent, false);
+  assert.equal(mail.sent.length, 1);
 });
 
 test('missing credentials and invalid ports never attempt SMTP or falsely claim delivery', async () => {
