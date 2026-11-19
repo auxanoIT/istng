@@ -14,10 +14,12 @@
 @keyframes illuminate { from { opacity: 0; } to { opacity: 1; } }
 @keyframes appear { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: translateY(0); } }
 @media (min-width: 1024px) {
-  .explorer { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 2.75rem; }
-  .control { grid-column: var(--industry-tab-column); grid-row: 1; justify-content: center; min-height: 4.5rem; margin-top: 0; padding: .75rem 1rem; border: 0; border-bottom: 2px solid #ffffff38; border-radius: 0; text-align: center; font-size: 1rem; }
+  .explorer { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-template-rows: 4.5rem auto; margin-top: 2.75rem; }
+  /* Span the content row so each sticky control is bounded by the full explorer. */
+  .control { grid-column: var(--industry-tab-column); grid-row: 1 / -1; align-self: start; position: sticky; top: calc(5rem + 1px); z-index: 20; justify-content: center; min-height: 4.5rem; margin-top: 0; padding: .75rem 1rem; border: 0; border-bottom: 2px solid #ffffff38; border-radius: 0; text-align: center; font-size: 1rem; }
   .control span { flex: initial; text-wrap: balance; }
   .control[aria-expanded="true"] { border: 0; border-bottom: 3px solid var(--brand-orange); border-radius: 0; background: transparent; }
+  .control, .control:hover, .control[aria-expanded="true"] { background: var(--brand-navy); }
   .chevron { display: none; }
   .panel { grid-column: 1 / -1; grid-row: 2; padding: 1.75rem 0 0; border: 0; border-radius: 0; background: transparent; }
   .visual { border: 1px solid #ffffff20; border-radius: .5rem; }
