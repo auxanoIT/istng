@@ -1,6 +1,5 @@
-import Image from "@/components/ui/site-image";
 import { ChevronDown } from "lucide-react";
-import { LeadForm } from "@/components/forms/lead-form";
+import { ConsultationForm } from "@/components/forms/consultation-form";
 import { OverviewExplorer } from "@/components/pages/overview-explorer";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
 import { OverviewFaq } from "@/components/pages/overview-resources";
@@ -21,7 +20,7 @@ function EnquiryLink({ label, className }: { label?: string; className?: string 
 }
 
 export function IndustryEditorialPage({ industry, copy }: { industry: IndustryProfile; copy: Editorial }) {
-  const { hero, solutions, applications, challenges, approach, gallery, faq, closing } = copy;
+  const { hero, solutions, applications, challenges, approach, faq, closing } = copy;
 
   return (
     <>
@@ -46,8 +45,8 @@ export function IndustryEditorialPage({ industry, copy }: { industry: IndustryPr
 
       <OverviewSection id="industry-applications" tone="warm">
         <div className="grid gap-8 lg:grid-cols-[0.85fr_1.25fr] lg:gap-14">
-          <div className="lg:sticky lg:top-24 lg:self-start">
-            <OverviewHeading align="left" id="industry-applications-title" copy={applications} />
+          <div className="text-center lg:sticky lg:top-24 lg:self-start">
+            <OverviewHeading id="industry-applications-title" copy={applications} />
             <EnquiryLink label={applications.cta} className="mt-6" />
           </div>
           <ul className="grid gap-x-6 gap-y-5 sm:grid-cols-2">
@@ -93,37 +92,14 @@ export function IndustryEditorialPage({ industry, copy }: { industry: IndustryPr
         <div className="mt-8 text-center"><EnquiryLink label={approach.cta} /></div>
       </OverviewSection>
 
-      <OverviewSection id="industry-gallery" tone="warm">
-        <OverviewHeading id="industry-gallery-title" copy={gallery} />
-        <p className="mt-3 text-center text-sm text-brand-support">Illustrative images of typical installations and work environments.</p>
-        <ul className="mt-8 grid gap-5 sm:grid-cols-2">
-          {gallery.items.map(({ title, image, paragraphs }) => (
-            <li key={title} className="overflow-hidden rounded-lg border border-brand-border bg-white">
-              <div className="relative aspect-[16/8] bg-brand-surface">
-                <Image src={image.src} alt={image.alt} fill sizes="(min-width: 1280px) 605px, (min-width: 640px) 50vw, 100vw" className="object-cover" />
-              </div>
-              <div className="p-4 sm:p-6">
-                <h3 className="text-lg font-semibold">{title}</h3>
-                <OverviewParagraphs paragraphs={paragraphs} className="mt-2 text-brand-support" />
-              </div>
-            </li>
-          ))}
-        </ul>
-        <div className="mt-8 text-center"><EnquiryLink label={gallery.cta} /></div>
-      </OverviewSection>
-
       <OverviewFaq id="industry-faq" copy={faq} action={{ label: faq.cta!, href: enquiry }} renderAllAnswers />
 
       <div id="industry-enquiry" className="scroll-mt-24 bg-white py-14 sm:py-20">
         <Container>
-          <LeadForm
-            context="consultation"
+          <ConsultationForm
             title={industry.formTitle}
-            description={industry.formDescription}
-            className="mx-auto max-w-5xl rounded-lg max-md:[&_form]:grid-cols-1 [&_select]:w-full [&_select]:min-w-0"
+            description="Share a few details about your site and requirements so we can help you plan the next step."
             headingAlign="center"
-            showEyebrow={false}
-            submitLabel={industry.formCta}
           />
         </Container>
       </div>

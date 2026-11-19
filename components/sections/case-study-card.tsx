@@ -35,13 +35,7 @@ export function CaseStudyCard({
         />
       </div>}
       <div className="flex flex-1 flex-col border-t-4 border-[var(--brand-orange)] p-6 sm:p-8">
-        <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#906300]">
-          {caseStudy.clientDisplayName ||
-            caseStudy.client ||
-            caseStudy.industry ||
-            "Infrastructure project"}
-        </p>
-        <Heading className="mt-3 text-2xl font-semibold leading-tight text-[var(--color-ink)]">
+        <Heading className="text-2xl font-semibold leading-tight text-[var(--color-ink)]">
           {caseStudy.title}
         </Heading>
         <p className="mb-6 mt-4 text-sm leading-7 text-[var(--color-muted)]">

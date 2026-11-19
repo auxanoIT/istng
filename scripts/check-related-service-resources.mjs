@@ -22,7 +22,7 @@ const dataset = [
   { _id: "pdf", _type: "resourceDownload", title: "Load checklist", slug: { current: "load-checklist" }, relatedServices: [service], pdf: { asset: { _ref: "asset" } } },
   { _id: "asset", _type: "sanity.fileAsset", mimeType: "application/pdf", url: "https://cdn.sanity.io/files/wfht8407/production/sample.pdf" },
   { _id: "missing", _type: "resourceDownload", title: "Unattached document", slug: { current: "missing" }, relatedServices: [service] },
-  ...readFileSync(new URL("../sanity/seed/planning-tools.ndjson", import.meta.url), "utf8").trim().split(/\r?\n/).map(JSON.parse),
+  { _id: "retired-tool", _type: "planningTool", title: "Retired worksheet", slug: { current: "retired-tool" }, relatedServices: [service], toolKind: "solar" },
 ];
 async function run(name, params) {
   return (await evaluate(parse(query(name)), { dataset, params })).get();
@@ -30,17 +30,17 @@ async function run(name, params) {
 
 const [article, serviceCards, industryCards, tools, download] = await Promise.all([
   run("editorialArticleQuery", { type: "post", slug: "hotel-solar" }),
-  run("relatedResourceCardsQuery", { industry: "", service, legacyService: service }),
-  run("relatedResourceCardsQuery", { industry, service: "", legacyService: "__none__" }),
+  run("relatedResourceCardsQuery", { industry: "", service, serviceAliases: [service], legacyServices: [service] }),
+  run("relatedResourceCardsQuery", { industry, service: "", serviceAliases: [], legacyServices: [] }),
   run("planningResourcesQuery", { type: "planningTool" }),
   run("planningResourceQuery", { type: "resourceDownload", slug: "load-checklist" }),
 ]);
 assert.equal(article.body[0].children[0].text, "Start with the load.");
 assert.deepEqual(article.relatedReading, [{ title: "Commercial load assessment", slug: "load-assessment", section: "guides" }]);
-assert.deepEqual(new Set(serviceCards.map(card => card.section)), new Set(["insights", "guides", "tools", "downloads"]));
+assert.deepEqual(new Set(serviceCards.map(card => card.section)), new Set(["insights", "guides", "downloads"]));
 assert.ok(serviceCards.every(card => !["draft", "missing"].includes(card.slug) && !("body" in card)));
 assert.ok(industryCards.some(card => card.slug === "hotel-solar"));
-assert.equal(tools.length, 3);
+assert.equal(tools.length, 0);
 assert.equal(download.file.mimeType, "application/pdf");
-console.log("Resource relationships, published backlinks, tool fixtures, and PDF filtering verified.");
+console.log("Resource relationships, published backlinks, retired-tool exclusion, and PDF filtering verified.");
 

@@ -24,7 +24,6 @@ const documentTags: Record<string, string[]> = {
   post: ["posts", "resources"],
   technicalGuide: ["resources"],
   knowledgeEntry: ["resources"],
-  planningTool: ["resources"],
   resourceDownload: ["resources"],
   service: ["services"],
   siteSettings: ["siteSettings"],
@@ -120,9 +119,8 @@ function getPathsForDocument(type?: string, slug?: string) {
       return ["/resources/insights", "/sitemap.xml", slug ? `/resources/insights/${slug}` : null].filter(isPath);
     case "technicalGuide":
     case "knowledgeEntry":
-    case "planningTool":
     case "resourceDownload": {
-      const section = { technicalGuide: "guides", knowledgeEntry: "knowledge-centre", planningTool: "tools", resourceDownload: "downloads" }[type];
+      const section = { technicalGuide: "guides", knowledgeEntry: "knowledge-centre", resourceDownload: "downloads" }[type];
       const base = `/resources/${section}`;
       return [base, "/sitemap.xml", slug ? `${base}/${slug}` : null].filter(isPath);
     }

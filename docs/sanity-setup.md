@@ -22,18 +22,13 @@ npx sanity schemas deploy
 | Insights & Articles | /resources/insights | Title, slug, category, excerpt, formatted body, optional cover image, author, and SEO. Reuses the Integrated Solutions Technology article editor. |
 | Technical Guides | /resources/guides | Detailed guidance, tables, callouts, and illustrations. |
 | Knowledge Centre | /resources/knowledge-centre | Choose FAQ, Explainer or Glossary Term. Use the title for the question or term and the body for its explanation. |
-| Project Planning Tools | /resources/tools | Select the solar energy worksheet, infrastructure checklist or security checklist. Add instructions and optional custom checklist items. |
 | Downloads & Checklists | /resources/downloads | Upload a PDF, add a title and description, and publish to enable downloads. |
 | Case Studies | /resources/case-studies | Add a verified project and enable the Published field before publishing. A matching Sanity record takes precedence over the existing fallback. |
 | Our Work / Photo Albums | /resources/our-work | Add approved installation photography. The current starter albums remain available. |
 
-Set **Related Industries** and **Related Services** to show the resource on those pages, and **Related Reading** to link articles, guides and Knowledge Centre entries. For example, link a hotel solar article to its load assessment guide, Hospitality & Leisure, and Commercial Solar Installation.
+Set **Related Industries** and **Related Services** to associate resources with relevant topics and services, and **Related Reading** to link articles, guides and Knowledge Centre entries. For example, link a hotel solar article to its load assessment guide, Hospitality & Leisure, and Commercial Solar Installation.
 
-Three ready-to-publish planning tool records are included. Import them without overwriting existing documents:
-
-```powershell
-npx sanity dataset import sanity/seed/planning-tools.ndjson production --missing
-```
+Interactive planning tools have been retired. Old tool URLs redirect to booking, and industry pages recommend relevant services instead.
 
 Visitors see published content. Resource and project reads use a one-minute request-driven cache. The next request after expiry can serve cached content while refreshing it.
 
@@ -44,7 +39,7 @@ Use a new `SANITY_REVALIDATE_SECRET` in the website environment and the signed S
 Filter:
 
 ```groq
-coalesce(after()._type, before()._type) in ["post", "technicalGuide", "knowledgeEntry", "planningTool", "resourceDownload", "caseStudy", "galleryAlbum", "careerOpening"]
+coalesce(after()._type, before()._type) in ["post", "technicalGuide", "knowledgeEntry", "resourceDownload", "caseStudy", "galleryAlbum", "careerOpening"]
 && !(coalesce(after()._id, before()._id) in path("drafts.**"))
 && !(coalesce(after()._id, before()._id) in path("versions.**"))
 ```

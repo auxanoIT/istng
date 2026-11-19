@@ -17,7 +17,6 @@ export default defineConfig({
           S.documentTypeListItem("post").title("Insights & Articles"),
           S.documentTypeListItem("technicalGuide").title("Technical Guides"),
           S.documentTypeListItem("knowledgeEntry").title("Knowledge Centre"),
-          S.documentTypeListItem("planningTool").title("Project Planning Tools"),
           S.documentTypeListItem("resourceDownload").title("Downloads & Checklists"),
         ]),
       ),

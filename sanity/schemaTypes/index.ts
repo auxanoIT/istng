@@ -988,29 +988,6 @@ const knowledgeEntry = defineType({
   ],
 });
 
-const planningTool = defineType({
-  name: "planningTool", title: "Project Planning Tools", type: "document",
-  fields: [
-    ...post.fields.slice(0, 2),
-    defineField({ name: "excerpt", title: "Introduction", type: "text", rows: 3, validation: rule => rule.required() }),
-    defineField({ name: "toolKind", title: "Interactive Tool", type: "string", options: { list: [
-      { title: "Solar energy use worksheet", value: "solar" },
-      { title: "Infrastructure readiness checklist", value: "infrastructure" },
-      { title: "Security survey checklist", value: "security" },
-    ] }, validation: rule => rule.required() }),
-    defineField({ name: "instructions", title: "Instructions", type: "text", rows: 3 }),
-    defineField({
-      name: "checklist", title: "Checklist items", type: "array",
-      description: "For infrastructure and security, add your own items or leave blank to use the standard checklist.",
-      hidden: ({ document }) => !["infrastructure", "security"].includes(String(document?.toolKind)),
-      of: [defineArrayMember({ type: "string" })],
-      validation: rule => rule.unique(),
-    }),
-    defineField({ name: "seo", title: "SEO", type: "seo" }),
-    ...resourceLinksFields,
-  ],
-});
-
 const resourceDownload = defineType({
   name: "resourceDownload", title: "Downloads & Checklists", type: "document",
   fields: [
@@ -1096,7 +1073,6 @@ export const schemaTypes = [
   post,
   technicalGuide,
   knowledgeEntry,
-  planningTool,
   resourceDownload,
   careerOpening,
 ];

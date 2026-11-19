@@ -22,7 +22,8 @@ function harness(initialUrl = 'https://example.com/contact') {
       require: name => {
         if (name === 'react') return { useEffect: callback => effects.push(callback) };
         if (name === 'react/jsx-runtime') return { jsx, jsxs: jsx };
-        if (name === '@/components/forms/lead-form') return { LeadForm };
+        if (name === '@/components/forms/lead-form' || name === './lead-form') return { LeadForm };
+        if (name === '@/components/forms/consultation-form') return load('components/forms/consultation-form.tsx');
         if (name === '@/components/forms/contact-redirect') return load('components/forms/contact-redirect.tsx');
         if (name === '@/lib/lead-attribution') return load('lib/lead-attribution.ts');
         if (name === '@/lib/seo') return { buildMetadata: () => ({}) };
@@ -45,6 +46,7 @@ function harness(initialUrl = 'https://example.com/contact') {
   function findForm(node) {
     if (!node || typeof node !== 'object') return undefined;
     if (node.type === LeadForm) return node.props;
+    if (typeof node.type === 'function') return findForm(node.type(node.props));
     return [node.props?.children].flat(Infinity).map(findForm).find(Boolean);
   }
   return {

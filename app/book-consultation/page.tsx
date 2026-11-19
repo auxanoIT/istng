@@ -1,6 +1,6 @@
 import Image from "@/components/ui/site-image";
 
-import { LeadForm } from "@/components/forms/lead-form";
+import { ConsultationForm } from "@/components/forms/consultation-form";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
 import { JsonLd } from "@/components/ui/json-ld";
 import { buildMetadata } from "@/lib/seo";
@@ -92,30 +92,15 @@ export default async function BookConsultationPage({ searchParams }: { searchPar
           <p>Talk to our team about your solar, IT infrastructure or technical support needs.</p>
         </div>
         <div id="project-enquiry" className={styles.formArea}>
-          <div className={styles.formCard}>
-            <LeadForm
-              key={`${initialService ?? ''}:${section?.navLabel ?? ''}:${initialProjectBrief ?? ''}`}
-              context="consultation"
-              attributeContactRedirect
-              initialService={initialService}
-              initialSection={section?.navLabel}
-              initialProjectBrief={initialProjectBrief}
-              title="Request a consultation"
-              description="Share a few details so we can help you plan the next step."
-              className="border-0 bg-transparent p-0 shadow-none"
-              headingAs="h2"
-              showEyebrow={false}
-              submitLabel="Request consultation"
-              messagePlaceholder="Tell us what you need, where your project is located and any preferred timeline. For solar, include the appliances or equipment you want to power."
-              serviceOptions={[...new Set([
-                ...(initialService ? [initialService] : []),
-                "Select the service you need",
-                ...solutionPillars.map(({ label }) => label),
-                "Multiple Services / Not Sure Yet",
-              ])]}
-              fullWidthSubmit
-            />
-          </div>
+          <ConsultationForm
+            key={String(initialService)+':'+String(section?.navLabel)+':'+String(initialProjectBrief)}
+            attributeContactRedirect
+            initialService={initialService}
+            initialSection={section?.navLabel}
+            initialProjectBrief={initialProjectBrief}
+            title="Request a consultation"
+            description="Share a few details so we can help you plan the next step."
+          />
         </div>
         <div className={styles.trust}>
           <h2>Trusted by 367+ Organisations.</h2>

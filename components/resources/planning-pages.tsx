@@ -1,5 +1,5 @@
 import Link from "@/components/ui/site-link";
-import { ArrowRight, ClipboardCheck, Download, FileText } from "lucide-react";
+import { Download, FileText } from "lucide-react";
 import { notFound } from "next/navigation";
 import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
@@ -8,11 +8,10 @@ import { getPlanningIndex, getPlanningResource, pdfDownloadHref, type PlanningRe
 import { buildMetadata } from "@/lib/seo";
 import { ResourceConnections } from "./resource-connections";
 import { ResourceIntro, ResourceEmpty } from "./resource-intro";
-import { PlanningWorkbench } from "./planning-workbench";
 
 export async function PlanningIndex({ section }: { section: PlanningSection }) {
   const items = await getPlanningIndex(section);
-  const Icon = section === "tools" ? ClipboardCheck : FileText;
+  const Icon = FileText;
   return <>
     <ResourceIntro {...planningSections[section]} />
     <section className="bg-brand-surface py-12 sm:py-20"><Container>
@@ -20,8 +19,8 @@ export async function PlanningIndex({ section }: { section: PlanningSection }) {
         <Icon className="size-7 text-[var(--brand-orange-text)]" aria-hidden />
         <h2 className="text-xl font-semibold text-brand-navy"><Link href={resourcePath(section, item.slug)} className="hover:underline">{item.title}</Link></h2>
         <p className="flex-1 leading-7 text-brand-support">{item.excerpt}</p>
-        {section === "downloads" ? <DownloadLink resource={item} /> : <Link href={resourcePath(section, item.slug)} className="inline-flex items-center gap-2 font-semibold text-brand-navy underline decoration-brand-orange underline-offset-4">Open tool <ArrowRight className="size-4" aria-hidden /></Link>}
-      </li>)}</ul> : <ResourceEmpty message={section === "tools" ? "Published planning tools will appear here." : "Published PDFs and checklists will appear here."} />}
+        <DownloadLink resource={item} />
+      </li>)}</ul> : <ResourceEmpty message={"Published PDFs and checklists will appear here."} />}
     </Container></section>
   </>;
 }
@@ -44,11 +43,11 @@ export async function PlanningDetail({ section, slug }: { section: PlanningSecti
     <ResourceIntro title={config.title} heading={resource.title} description={resource.excerpt} />
     <section className="bg-brand-surface py-12 sm:py-20"><Container>
       <div className="mx-auto max-w-6xl">
-        <Link href={resourcePath(section)} className="mb-6 inline-block text-sm font-semibold text-brand-navy underline underline-offset-4">← All {section === "tools" ? "planning tools" : "downloads"}</Link>
+        <Link href={resourcePath(section)} className="mb-6 inline-block text-sm font-semibold text-brand-navy underline underline-offset-4">← All downloads</Link>
         {resource.instructions && <p className="mb-6 whitespace-pre-line leading-7 text-brand-support">{resource.instructions}</p>}
-        {section === "tools" && resource.toolKind ? <PlanningWorkbench kind={resource.toolKind} checklist={resource.checklist} /> : <div className="rounded-xl border border-brand-border bg-white p-6 sm:p-8"><DownloadLink resource={resource} /></div>}
+        <div className="rounded-xl border border-brand-border bg-white p-6 sm:p-8"><DownloadLink resource={resource} /></div>
         <ResourceConnections resource={resource} />
-        {section !== "tools" && <ButtonLink href="/book-consultation" className="mt-8">Book a Technical Consultation</ButtonLink>}
+        <ButtonLink href="/book-consultation" className="mt-8">Book a Technical Consultation</ButtonLink>
       </div>
     </Container></section>
   </>;

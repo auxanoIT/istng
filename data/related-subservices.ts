@@ -15,6 +15,14 @@ function serviceCard(title: string, href: string) {
   return { title, href, description: serviceCardSummaries[item.slug], image: image ?? item.image };
 }
 
+export function getServiceCards(slugs: string[]) {
+  return slugs.map(slug => {
+    const item = solutionPillars.flatMap(pillar => pillar.items).find(service => service.slug === slug);
+    if (!item) throw new Error(`Unknown related service: ${slug}`);
+    return serviceCard(item.title, item.href);
+  });
+}
+
 export function getRelatedSubserviceCards(source: string) {
   const path = canonicalServicePath(source);
   const pillar = solutionPillars.find(group => group.href === path || group.items.some(item => item.href === path));

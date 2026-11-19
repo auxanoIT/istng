@@ -10,11 +10,8 @@ import type { BlogPost, ServiceNavMedia } from "@/lib/types";
 import { canonicalServicePath, serviceRouteAliases } from "@/lib/service-routes";
 
 export type EditorialCard = Omit<BlogPost, "body" | "takeaways">;
-export type ToolKind = "solar" | "infrastructure" | "security";
 export type PlanningResource = Pick<BlogPost, "title" | "slug" | "excerpt" | "seo" | "updatedAt" | "relatedIndustries" | "relatedServices" | "relatedReading"> & {
-  toolKind?: ToolKind;
   instructions?: string;
-  checklist?: string[];
   file?: { url: string; originalFilename?: string; size?: number; mimeType?: string };
 };
 export type ResourceCard = { title: string; slug: string; excerpt?: string; section: ResourceSection; image?: ServiceNavMedia };

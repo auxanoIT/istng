@@ -5,7 +5,7 @@ import { Container } from "@/components/ui/container";
 import { resourceGroups } from "@/data/resource-catalog";
 import { buildMetadata } from "@/lib/seo";
 
-const description = "Find articles, technical guides, project case studies, planning tools and downloadable checklists for energy and technology projects in Nigeria.";
+const description = "Find articles, technical guides, project case studies, downloadable guides and checklists for energy and technology projects in Nigeria.";
 
 export const metadata = buildMetadata({ title: "Energy & Technology Resources", description, path: "/resources" });
 

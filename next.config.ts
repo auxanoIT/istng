@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   trailingSlash: false,
   async redirects() {
     const redirects = [
+      { source: "/resources/tools/:path*", destination: "/book-consultation", permanent: true },
       ...Object.entries(serviceRouteAliases).map(([source, destination]) => ({ source, destination, permanent: true })),
       { source: "/:path*", has: [{ type: "host" as const, value: "www.istng.com" }], destination: "https://istng.com/:path*", permanent: true },
       { source: "/blog/:path*", destination: "/resources/insights/:path*", permanent: true },

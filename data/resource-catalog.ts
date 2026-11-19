@@ -32,8 +32,7 @@ export const resourceGroups: ResourceGroup[] = [
     { id: "case-studies", label: "Case Studies", href: "/resources/case-studies" },
     { id: "our-work", label: "Our Work / Gallery", href: "/resources/our-work" },
   ]),
-  buildGroup("planning-tools", "Planning & Tools", [
-    { id: "tools", label: "Project Planning Tools", href: "/resources/tools" },
+  buildGroup("planning-tools", "Planning & Downloads", [
     { id: "downloads", label: "Downloads & Checklists", href: "/resources/downloads" },
   ]),
 ];

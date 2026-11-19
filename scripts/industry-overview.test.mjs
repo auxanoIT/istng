@@ -8,6 +8,7 @@ const load = typescriptLoader();
 const { industryNavigation } = load('data/industry-navigation.ts');
 const { getIndustryEditorial } = load('data/industry-editorial.ts');
 const copy = load('data/industry-page-copy.json');
+const { getIndustryRelatedServiceCards } = load('data/industry-related-services.ts');
 
 test('every listed industry has four complete priorities and its own optimised illustration', () => {
   const entries = industryNavigation.flatMap(group => group.entries);
@@ -31,6 +32,23 @@ test('every listed industry has four complete priorities and its own optimised i
     assert.ok(image.width > 1000 && image.height > 400 && image.alt.length > 30, slug);
     for (const point of Object.values(image.anchors)) {
       assert.ok(point.x >= 0 && point.x <= 100 && point.y >= 0 && point.y <= 100, slug);
+    }
+  }
+});
+
+test('industry introductions stay concise and recommendations link to three appropriate services', () => {
+  for (const [slug, page] of Object.entries(copy)) {
+    for (const section of [page.solutions, page.closing]) {
+      const text = section.paragraphs.join(' ');
+      assert.ok(text.split(/\s+/).length <= 40, slug);
+      assert.ok((text.match(/[.!?](?:\s|$)/g) ?? []).length <= 2, slug);
+    }
+    const cards = getIndustryRelatedServiceCards(slug);
+    assert.equal(cards.length, 3, slug);
+    assert.equal(new Set(cards.map(card => card.href)).size, 3, slug);
+    for (const card of cards) {
+      assert.ok(card.href.startsWith('/services/'), card.href);
+      assert.ok(card.image.src && card.description.split(/\s+/).length <= 20, slug);
     }
   }
 });

@@ -54,7 +54,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...journeyPages.map(page => ({ path: page.href, images: ["/image/operation-teams/" + page.image] })),
     ...industries.map(industry => {
       const editorial = getIndustryEditorial(industry.slug);
-      return { path: industry.href, images: [industry.heroImage.src, ...(editorial ? contentImages(editorial) : [industryEditorialImage(industry.slug,"challenge").src, industryEditorialImage(industry.slug,"why").src, ...industry.solutions.map(item => industrySolutionImage(item.href).src)])] };
+      return { path: industry.href, images: [industry.heroImage.src, ...(editorial ? contentImages({ ...editorial, gallery: undefined }) : [industryEditorialImage(industry.slug,"challenge").src, industryEditorialImage(industry.slug,"why").src, ...industry.solutions.map(item => industrySolutionImage(item.href).src)])] };
     }),
     { path: "/resources/case-studies", images: [...installationPortfolio.map(image => image.src), ...projects.filter(project => !project.textOnly).map(project => getCaseStudyMedia(project).src)] },
     ...projects.map(project => ({ path: "/resources/case-studies/" + project.slug, updatedAt: project.updatedAt, images: project.textOnly ? [] : [getCaseStudyMedia(project).src, ...(project.gallery ?? []).map(image => image.src), ...getCaseStudyServiceCards(project.relatedServiceLinks ?? []).map(card => card.image.src)] })),

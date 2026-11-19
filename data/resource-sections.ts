@@ -5,7 +5,6 @@ export const editorialSections = {
 } as const;
 
 export const planningSections = {
-  tools: { type: "planningTool", title: "Project Planning Tools", heading: "Start with the right questions.", description: "Use interactive worksheets to plan a solar, infrastructure or security project and prepare for a technical consultation." },
   downloads: { type: "resourceDownload", title: "Downloads & Checklists", heading: "Take your next step with confidence.", description: "Download assessment checklists, procurement templates and practical PDF guides for your next project." },
 } as const;
 

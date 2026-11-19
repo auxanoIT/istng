@@ -1,9 +1,9 @@
 import Link from "@/components/ui/site-link";
-import { ArrowUpRight, BookOpen, BriefcaseBusiness, ClipboardList, Download, Images, Newspaper, CircleHelp } from "lucide-react";
+import { ArrowUpRight, BookOpen, BriefcaseBusiness, Download, Images, Newspaper, CircleHelp } from "lucide-react";
 
 export const resourceIcons = {
   insights: Newspaper, guides: BookOpen, "knowledge-centre": CircleHelp,
-  "case-studies": BriefcaseBusiness, "our-work": Images, tools: ClipboardList, downloads: Download,
+  "case-studies": BriefcaseBusiness, "our-work": Images, downloads: Download,
 };
 
 export function ResourceProjectCard({ compact = false }: { compact?: boolean }) {

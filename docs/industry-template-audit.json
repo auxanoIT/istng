@@ -1,0 +1,196 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "industries": [
+    {
+      "slug": "corporate-offices",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/network-infrastructure-connectivity/network-design-with-diagram",
+        "/services/server-storage-hardware/enterprise-server-installation",
+        "/services/data-centre-security-safety/door-access-control"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "manufacturing",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/industrial-solar",
+        "/services/network-infrastructure-connectivity/fibre-optic-cabling",
+        "/services/data-centre-security-safety/surveillance-system-cctv"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "warehousing-logistics",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/network-infrastructure-connectivity/wireless-networks",
+        "/services/data-centre-security-safety/surveillance-system-cctv",
+        "/services/solar-energy/commercial-solar"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "retail",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/commercial-solar",
+        "/services/network-infrastructure-connectivity/network-equipment-installation",
+        "/services/data-centre-security-safety/video-monitoring-recording"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "healthcare",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/battery-storage",
+        "/services/network-infrastructure-connectivity/structured-lan-cabling",
+        "/services/data-centre-security-safety/door-access-control"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "education",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/network-infrastructure-connectivity/wireless-networks",
+        "/services/solar-energy/commercial-solar",
+        "/services/server-storage-hardware/sales-of-it-hardware"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "financial-services",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/it-services-support/firewall-sales-licenses",
+        "/services/server-storage-hardware/server-storage-provisioning-deployment",
+        "/services/data-centre-security-safety/mantrap-installation-servicing"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "government",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/network-infrastructure-connectivity/structured-lan-cabling",
+        "/services/server-storage-hardware/enterprise-server-installation",
+        "/services/data-centre-security-safety/surveillance-system-cctv"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "real-estate-property-management",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/residential-solar",
+        "/services/network-infrastructure-connectivity/fibre-optic-cabling",
+        "/services/data-centre-security-safety/automated-gates-sliding-doors"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "hospitality",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/commercial-solar",
+        "/services/network-infrastructure-connectivity/wireless-networks",
+        "/services/data-centre-security-safety/door-access-control"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "data-centres",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/data-centre-deployment/data-centre-planning",
+        "/services/data-centre-deployment/rack-and-stack",
+        "/services/it-services-support/smart-hands"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "telecommunications-isps",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/network-infrastructure-connectivity/fibre-optic-cabling",
+        "/services/network-infrastructure-connectivity/network-equipment-installation",
+        "/services/it-services-support/smart-hands"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "residential-homes-gated-communities",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/residential-solar",
+        "/services/data-centre-security-safety/surveillance-system-cctv",
+        "/services/data-centre-security-safety/automated-gates-sliding-doors"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "religious-organizations",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/hybrid-solar-systems",
+        "/services/network-infrastructure-connectivity/wireless-networks",
+        "/services/data-centre-security-safety/surveillance-system-cctv"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "technology-partners",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/it-services-support/smart-hands",
+        "/services/data-centre-deployment/equipment-installation",
+        "/services/it-services-support/installation-documentation-handover"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "energy-utilities",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/industrial-solar",
+        "/services/network-infrastructure-connectivity/network-design-with-diagram",
+        "/services/data-centre-security-safety/security-maintenance"
+      ],
+      "sharedForm": true
+    },
+    {
+      "slug": "agriculture-agribusiness",
+      "status": 200,
+      "centredHeadings": true,
+      "serviceCards": [
+        "/services/solar-energy/industrial-solar",
+        "/services/data-centre-security-safety/surveillance-system-cctv",
+        "/services/it-services-support/it-technical-services"
+      ],
+      "sharedForm": true
+    }
+  ],
+  "booking": "desktop and mobile passed; service prefill retained",
+  "caseCards": "eyebrows removed",
+  "retiredTools": "four URLs redirect; absent from links and sitemap",
+  "pageErrors": []
+}

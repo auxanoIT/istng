@@ -8,6 +8,7 @@ import { getRelatedResourceCards } from "@/lib/resources";
 import { Container } from "@/components/ui/container";
 import { canonicalServicePath } from "@/lib/service-routes";
 import { getRelatedSubserviceCards } from "@/data/related-subservices";
+import { getIndustryRelatedServiceCards } from "@/data/industry-related-services";
 
 export function ResourceConnections({ resource, legacyService }: {
   resource: Pick<BlogPost, "relatedIndustries" | "relatedServices" | "relatedReading">;
@@ -38,8 +39,8 @@ export function ResourceConnections({ resource, legacyService }: {
 }
 
 export async function ContextualResources({ industry, service }: { industry?: string; service?: string }) {
-  const cards = await getRelatedResourceCards({ industry, service });
-  const relatedServices = service ? getRelatedSubserviceCards(service) : [];
+  const cards = industry ? [] : await getRelatedResourceCards({ service });
+  const relatedServices = industry ? getIndustryRelatedServiceCards(industry) : service ? getRelatedSubserviceCards(service) : [];
   const items = [
     ...relatedServices.map(card => ({ ...card, category: "Related service", action: "Explore service" })),
     ...cards.slice(0, relatedServices.length ? 3 : 6).map(card => {
@@ -50,8 +51,8 @@ export async function ContextualResources({ industry, service }: { industry?: st
   if (!items.length) return null;
   return <section className="border-y border-brand-border bg-brand-surface py-14 sm:py-20">
     <Container>
-      <h2 className="text-3xl font-semibold tracking-tight text-brand-navy sm:text-4xl">Related Resources</h2>
-      <p className="mt-3 max-w-2xl leading-7 text-brand-support">Explore complementary services and practical guidance for your project.</p>
+      <h2 className={`text-3xl font-semibold tracking-tight text-brand-navy sm:text-4xl ${industry ? "text-center" : ""}`}>Related Resources</h2>
+      <p className={`mt-3 max-w-2xl leading-7 text-brand-support ${industry ? "mx-auto text-center" : ""}`}>{industry ? "Explore services matched to your industry's energy and technology needs." : "Explore complementary services and practical guidance for your project."}</p>
       <ul data-related-resources className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{items.map(card => <li key={card.href}>
         <Link href={card.href} className="group flex h-full flex-col overflow-hidden rounded-xl border border-brand-border bg-white transition-colors hover:border-brand-orange focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-navy">
           <div className="relative aspect-video overflow-hidden bg-brand-navy">
