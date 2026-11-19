@@ -57,7 +57,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       return { path: industry.href, images: [industry.heroImage.src, ...(editorial ? contentImages({ ...editorial, gallery: undefined }) : [industryEditorialImage(industry.slug,"challenge").src, industryEditorialImage(industry.slug,"why").src, ...industry.solutions.map(item => industrySolutionImage(item.href).src)])] };
     }),
     { path: "/resources/case-studies", images: [...installationPortfolio.map(image => image.src), ...projects.filter(project => !project.textOnly).map(project => getCaseStudyMedia(project).src)] },
-    ...projects.map(project => ({ path: "/resources/case-studies/" + project.slug, updatedAt: project.updatedAt, images: project.textOnly ? [] : [getCaseStudyMedia(project).src, ...(project.gallery ?? []).map(image => image.src), ...getCaseStudyServiceCards(project.relatedServiceLinks ?? []).map(card => card.image.src)] })),
+    ...projects.map(project => ({ path: "/resources/case-studies/" + project.slug, updatedAt: project.updatedAt, images: project.textOnly ? [] : [getCaseStudyMedia(project).src, ...getCaseStudyServiceCards(project.relatedServiceLinks ?? []).map(card => card.image.src)] })),
     { path: "/resources/our-work", images: gallery.map(album => album.photos[0].src) },
     ...gallery.map(album => ({ path: "/resources/our-work/" + album.id, images: album.photos.map(photo => photo.src) })),
     ...(Object.keys(resourceSections) as ResourceSection[]).filter(section => resources.some(resource => resource.section === section)).map(section => ({ path: resourcePath(section), images: resources.filter(resource => resource.section === section).flatMap(resource => resource.image ? [resource.image] : []) })),

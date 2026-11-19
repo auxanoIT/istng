@@ -35,9 +35,6 @@
 .technicalNote p{margin-top:.4rem}
 .scope{list-style:none;margin-top:1.5rem;display:grid;gap:.75rem}
 .scope li{padding:1rem 1.25rem;border-left:3px solid var(--brand-orange);background:var(--brand-soft-white);font-size:.9rem;line-height:1.8}
-.gallery{display:grid;gap:1.25rem}
-.gallery figure>div{position:relative;aspect-ratio:4/3;overflow:hidden;border-radius:.5rem}
-.gallery figcaption{font-size:.7rem;line-height:1.7;color:var(--color-muted);margin-top:.6rem}
 .questions details{border-bottom:1px solid var(--brand-border)}
 .questions summary{cursor:pointer;padding-block:1.25rem;font-weight:600;line-height:1.7}
 .questions summary:focus-visible{outline:2px solid var(--brand-orange-text);outline-offset:4px}
@@ -49,5 +46,4 @@
 .serviceLinks a:hover{background:var(--brand-soft-white)}.serviceLinks svg{flex-shrink:0}
 .enquiry{background:var(--brand-navy);color:white;padding-block:clamp(3rem,6vw,5rem)}
 .enquiry h2{margin-bottom:1rem}.enquiry p{max-width:43rem;color:#d7e5ec;font-size:1rem;line-height:1.85}
-@media(min-width:640px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(min-width:1024px){.heroGrid{grid-template-columns:1.05fr .95fr;gap:4rem}.facts{grid-template-columns:repeat(4,minmax(0,1fr))}.storyGrid{grid-template-columns:13rem minmax(0,1fr);gap:4rem}.sidebar nav{position:sticky;top:7rem;display:grid;gap:.5rem;border-bottom:0;padding-bottom:0}.sidebar a{border-bottom:1px solid var(--brand-border);padding-block:.8rem}.configurations{grid-template-columns:repeat(2,minmax(0,1fr))}.configuration:only-child{grid-column:1/-1}}
