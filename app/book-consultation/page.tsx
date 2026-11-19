@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 
 import { LeadForm } from "@/components/forms/lead-form";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";

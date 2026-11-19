@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { EnergyHero } from "./energy-hero";
 
 import { Container } from "@/components/ui/container";

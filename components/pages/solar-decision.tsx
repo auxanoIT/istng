@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 
 import { OverviewHeading, OverviewSection } from "@/components/pages/overview-layout";
 import copy from "@/data/solar-overview-copy.json";

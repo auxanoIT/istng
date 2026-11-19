@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { absoluteUrl } from "@/lib/utils";
 import { resolveSearchCopy } from "@/lib/seo-copy";
 import { isRetiredContentPath } from "@/data/site-routes";
+import { getImageReplacement } from "@/lib/image-assets";
 
 type MetadataOptions = {
   title: string;
@@ -56,6 +57,7 @@ export function buildMetadata({
   noIndex = noIndex || isRetiredContentPath(path) || process.env.VERCEL_ENV === "preview";
   const pageUrl = absoluteUrl(path);
   const imageUrl = absoluteUrl(imagePath);
+  imageAlt = getImageReplacement(imagePath)?.alt ?? imageAlt;
   const metaDescription = normalizeMetaDescription(description);
   const mergedKeywords = Array.from(
     new Set([...defaultKeywords, ...keywords].filter(Boolean)),

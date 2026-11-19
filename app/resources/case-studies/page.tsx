@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ArrowDown, ArrowUpRight } from "lucide-react";
 import { CaseStudyCard } from "@/components/sections/case-study-card";
 import { CaseStudyCollection } from "@/components/sections/case-study-collection";

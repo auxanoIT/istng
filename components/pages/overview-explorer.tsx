@@ -1,7 +1,7 @@
 "use client";
 
 import { useId, useState } from "react";
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ChevronRight } from "lucide-react";
 
 import { OverviewParagraphs, type OverviewAction, type OverviewCopy } from "@/components/pages/overview-layout";

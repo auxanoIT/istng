@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { notFound } from "next/navigation";
 import { getInfrastructureSubservice } from "@/data/infrastructure-subservices";
 import { InfrastructureSubservice, infrastructureSubserviceMetadata } from "@/components/pages/infrastructure-subservice";

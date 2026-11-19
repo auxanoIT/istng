@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 
 import { OverviewHeading, OverviewParagraphs, OverviewSection, type OverviewCopy } from "@/components/pages/overview-layout";
 import styles from "./solar-reliability.module.css";

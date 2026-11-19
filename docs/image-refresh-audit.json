@@ -1,0 +1,499 @@
+{
+  "checkedAt": "2026-11-19T09:27:36.438Z",
+  "replacementReferences": 57,
+  "distinctTargets": 37,
+  "newlyGenerated": 19,
+  "newAssetBytes": 3217168,
+  "matchesToIdealAssetHashes": [],
+  "protectedImages": [
+    {
+      "source": "/image/about/tosin-ayorinde.webp",
+      "sha256": "6dce29a3ebde4ead1cc196ffe699d665e94c58d3b21839ff42e2a2478f7a2845"
+    },
+    {
+      "source": "/image/about/ifeyemi-banjo-aina.webp",
+      "sha256": "58d2a1decd0a9e4cf2fd206422d8eeca574fc57b61607393d61624eaba5a9c7f"
+    },
+    {
+      "source": "/image/our-work/gate-inspection.webp",
+      "sha256": "9a2e4fc7921fe8695148b57a49721671a503e7eb8b67f68dd726e3ad6ed6738c"
+    },
+    {
+      "source": "/image/our-work/integrated-solutions-data-centre-rack-r08-11-rear.webp",
+      "sha256": "48cdad4411925229776782441ca50775a9d0cd7c906feda4b8e3204eede57a95"
+    },
+    {
+      "source": "/image/our-work/integrated-solutions-data-centre-rack-r07-11-front.webp",
+      "sha256": "4fbe3542b052feb5e81fe31450dd0144772195d3490f0790bf2901b6d69ba8c7"
+    },
+    {
+      "source": "/image/patner_logo/amcrest_logo.png.png",
+      "sha256": "e130e88967a15a9d89b44803e8af791ad323eac51df0b9b6bc3cb873ca3ba9a5"
+    },
+    {
+      "source": "/image/patner_logo/cambium_networks_icon.png.png",
+      "sha256": "dbb60a4e34daae15f66a0fd7793b8cb6b743064f840e35158798844af1abb106"
+    },
+    {
+      "source": "/image/patner_logo/canon_anz_icon.jpeg.png",
+      "sha256": "75fbe2851665452e33f938df5fc4204082b508f5f9a4c33772878dbfbb247e76"
+    },
+    {
+      "source": "/image/patner_logo/centurion_health_icon.png.png",
+      "sha256": "b259d057ef10d209e801cc85c07925e6319aaa54c88e3258ac89abb8c67c8cee"
+    },
+    {
+      "source": "/image/patner_logo/d-link_usa_icon.png.png",
+      "sha256": "3499d1a707af303852019f49bb770e16d737405a28eb5abfed6188fadcd0cb0a"
+    },
+    {
+      "source": "/image/patner_logo/dahua_technology_icon.jpeg.png",
+      "sha256": "84f760a00d76ebdbb4499ed684383d86635afe90c74b695c49b4b495d6698ccf"
+    },
+    {
+      "source": "/image/patner_logo/exceltelecominc_icon.jpeg.png",
+      "sha256": "a97b2717500217280329df719f2d3e227f23b1d7586de10eeec3209264bf0e25"
+    },
+    {
+      "source": "/image/patner_logo/fortigate-awscom_logo.svg.png",
+      "sha256": "38ad359eb232dc2b19d09a0addb5c8c6e77d4c62439458b5e181cc4ff9e34e5c"
+    },
+    {
+      "source": "/image/patner_logo/Icon.jpeg.png",
+      "sha256": "dc4a21657bee59844141c3f1191a3fe391f085d6df8a3859d5ef69d54f2b837f"
+    },
+    {
+      "source": "/image/patner_logo/Icon.png.png",
+      "sha256": "ca31da246e92477328c1640322726be5742fef0de3c26983918a79d707fe2431"
+    },
+    {
+      "source": "/image/patner_logo/kaspersky_icon.jpeg.png",
+      "sha256": "f7d907b1f15e1632101f0d029759ab78ea51bc7f08da81a9a193beb9d304cf87"
+    },
+    {
+      "source": "/image/patner_logo/key_king_mobile_locksmith_icon.png.png",
+      "sha256": "5d2926bc8743715223d4676c068851354b14c9949cb71b159deee665f49579fe"
+    },
+    {
+      "source": "/image/patner_logo/matrix_professional_haircare__color_icon.png.png",
+      "sha256": "4b1030edbc617245475fe9368ac307f0a5b61f5385956d7182a2e55d78eb170c"
+    },
+    {
+      "source": "/image/patner_logo/mavialarm_logo.png.png",
+      "sha256": "5d1d5036b23fd82ef0f9e8e90e01dd785a8b5e3cdce91646dfc415c064046830"
+    },
+    {
+      "source": "/image/patner_logo/panasonic_usa_icon.jpeg.png",
+      "sha256": "e9e1e1f473c4e37d1d074bcd48dda9541ed1d3abab84d4a6023c03d50c27af15"
+    },
+    {
+      "source": "/image/patner_logo/sharp_healthcare_logo.png.png",
+      "sha256": "223e9cd55aeac496f50d0571500478029ffd94737cc01a23921c7acd6e0b91b6"
+    },
+    {
+      "source": "/image/patner_logo/toshiba_icon.jpeg.png",
+      "sha256": "a846913258b3dffe3e4b9e48a2883263a4b82c85d5cc1fcd48d807252c498dac"
+    }
+  ],
+  "entries": [
+    {
+      "source": "/image/service-pillars/data-centre-rack-and-stack-deployment-nigeria.webp",
+      "sourceHash": "fb2f86b074dd7401e965bf2f7389acfb3806b9edc944e5906ede7cc947b05693",
+      "target": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "targetHash": "98be1d63ebb30aafdcc2ce5a4e997d7e0822dde5851449e5d3b12a7b7810b797",
+      "alt": "Nigerian technicians installing a rackmount server on mounting rails"
+    },
+    {
+      "source": "/image/service-details/network-cabling-rack.webp",
+      "sourceHash": "d81267c157130832e8b89b7a320729d9bb167374f1cfa5cfb32031f65c829378",
+      "target": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "targetHash": "01aa671cf1c69fbe26770d39ce1d59dfed9c19a8316f50735c2e110a7d7afa59",
+      "alt": "Organised copper and fibre patching in a business network rack"
+    },
+    {
+      "source": "/image/service-details/server-new-supply.webp",
+      "sourceHash": "1c575e1f5f795f564366b3919f09050685aaaad4dfc682b91922316d15186a0f",
+      "target": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "targetHash": "500a04095bce7efeaba03c6be4521522be80423d412d38badfedd40c898f17ad",
+      "alt": "Rackmount enterprise servers and installation rails prepared for deployment"
+    },
+    {
+      "source": "/image/service-details/cctv-camera-coverage.webp",
+      "sourceHash": "24a2d5da5a747bce809948ddaab1c74f2e213a0fb58f6e1fa21322e36ba2057f",
+      "target": "/integrated-assets/images/solutions/residential-cctv-camera.webp",
+      "targetHash": "fd7a717392fa189518904d44efd88ab6c19cb5d07096a90a7e69dcba4a304273",
+      "alt": "Security camera overlooking a residential property"
+    },
+    {
+      "source": "/image/service-pillars/smart-hands-data-centre-technical-support-nigeria.webp",
+      "sourceHash": "910987e61cf9ca46719d20e2fd747f2f836bf95444d72aaeed2b616447274e00",
+      "target": "/integrated-assets/images/nigerian-energy-engineer.webp",
+      "targetHash": "c4c0e9e4ec4ff991a700101856b0eedb02d90dc1db5cacf571a3e4d7d977c09c",
+      "alt": "Nigerian onsite engineer inspecting infrastructure with a tablet"
+    },
+    {
+      "source": "/image/service-details/data-centre-buildout.webp",
+      "sourceHash": "de723d5bd1e5fd830c7a9ca4ee3dc0d67ace798c772a6446a19feb3390ee98a6",
+      "target": "/integrated-assets/images/brand-refresh/data-centre-cooling.webp",
+      "targetHash": "015d048be341c613838c9ae46bf737c5be5726d934b5d91eba86465351ed8f57",
+      "alt": "Server racks and precision cooling units in an organised data centre"
+    },
+    {
+      "source": "/image/operation-teams/remote-team-onsite-support-nigeria.webp",
+      "sourceHash": "1ae78ea35591e4434c1e96f70f0c166b510685e4a470b294ed892c550a755965",
+      "target": "/integrated-assets/images/nigerian-energy-engineer.webp",
+      "targetHash": "c4c0e9e4ec4ff991a700101856b0eedb02d90dc1db5cacf571a3e4d7d977c09c",
+      "alt": "Nigerian onsite technician reviewing equipment on a tablet"
+    },
+    {
+      "source": "/image/service-details/managed-services-monitoring.webp",
+      "sourceHash": "e5f479d0e938d5f0c3186362b851cb9d86967fd4467eb94485216284d96c772b",
+      "target": "/integrated-assets/images/overview/operations-monitoring.webp",
+      "targetHash": "e50c3c6a8aca8a8f85eb8b023543199dc42c7d53b8bd9d546dcb345a7b01a0c7",
+      "alt": "Nigerian IT engineer monitoring business systems"
+    },
+    {
+      "source": "/image/industries/manufacturing-it-infrastructure-nigeria.webp",
+      "sourceHash": "024d51e57b3d0e399fe4a95c3f748c0b72441d68ba2bc84954c22e0ab36f4940",
+      "target": "/integrated-assets/images/solutions/factory-rooftop-solar.webp",
+      "targetHash": "d6cb3768f854fc9a6820fe376a1881d2bba45e5012e47ecbeec2b023173702f3",
+      "alt": "Solar panels installed across a manufacturing facility roof"
+    },
+    {
+      "source": "/image/industries/warehouse-logistics-it-infrastructure-nigeria.webp",
+      "sourceHash": "58277abc28acce152baa1e12ab722aad0509334dfeac7c6c7a96af77ea8ffae0",
+      "target": "/integrated-assets/images/brand-refresh/warehouse-technology.webp",
+      "targetHash": "648d00c04f30fe2428a7adadc0c8d3d9eb2ad42a8f5475f4ab68779d29ce5346",
+      "alt": "Nigerian technician checking warehouse networking and logistics infrastructure"
+    },
+    {
+      "source": "/image/service-details/network-config-small-business.webp",
+      "sourceHash": "4c95c407d5ffdb4276652b25cb508452afe65d593bf4da228e6d2f10930a14d4",
+      "target": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "targetHash": "9e6f82819ca07999b63e1906f52114b04ae739020068ee75314f4c6b114f839c",
+      "alt": "Business computers and office hardware prepared for installation"
+    },
+    {
+      "source": "/image/industries/healthcare-it-infrastructure-nigeria.webp",
+      "sourceHash": "d2f1f98dedbf9f32e9d5653d0d056b0691956fa7976b43a2e058b0e176bb3ad4",
+      "target": "/integrated-assets/images/overview/hospital-workstation.webp",
+      "targetHash": "ff837b6f81b845853d54b68cc4ed53208bfbd88003c87678fad4a6c743ab62b6",
+      "alt": "Nigerian healthcare professional using a clinical workstation"
+    },
+    {
+      "source": "/image/service-details/computer-setup-os-software.webp",
+      "sourceHash": "f2753bcc8de87df11c2fbda796ce4267d8f15a97b3927bd6fc7d598060b327ee",
+      "target": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "targetHash": "9e6f82819ca07999b63e1906f52114b04ae739020068ee75314f4c6b114f839c",
+      "alt": "Desktop computer, laptop and office equipment in a business workspace"
+    },
+    {
+      "source": "/image/industries/financial-services-it-infrastructure-nigeria.webp",
+      "sourceHash": "ac647cbeacffe63ffac17292280e95957a27ec94e1f6066a27d67e150c4ace95",
+      "target": "/integrated-assets/images/brand-refresh/financial-technology.webp",
+      "targetHash": "068303e026156aed89abd60615cc242ededfec0722d58839aaebb2d3107e32fe",
+      "alt": "Nigerian technology team checking infrastructure at a financial-services office"
+    },
+    {
+      "source": "/image/industries/government-it-infrastructure-nigeria.webp",
+      "sourceHash": "9ed26a0823ab88fee92b728a1eff763bc969017d517569e03fb8c2b5ced4e206",
+      "target": "/integrated-assets/images/overview/technology-consultation.webp",
+      "targetHash": "6d00e70bc19dd021f3a64fdfcdfdd0ab4243feba13dcdbb980e4522954001721",
+      "alt": "Nigerian professionals reviewing technology requirements in an office"
+    },
+    {
+      "source": "/image/service-details/automated-gates-boom-barrier.webp",
+      "sourceHash": "caff0fc8bae52b09f05e0e069a5bbe4bd77a9a979932b5681f9b6b6292c5d706",
+      "target": "/integrated-assets/images/brand-refresh/boom-barrier.webp",
+      "targetHash": "aff4c04f17449803522687992fe01b591daa1c369ba5d1d59d411fbd9855c9ce",
+      "alt": "Automated vehicle barrier at a commercial property entrance"
+    },
+    {
+      "source": "/image/service-details/ip-pbx-deployment.webp",
+      "sourceHash": "4a2cc751ea4495e9ccc9edfa08facc183984f06b6b76c0ff8621828db2133d89",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "IP desk phone, network switch and business connectivity equipment"
+    },
+    {
+      "source": "/image/industries/data-centre-infrastructure-nigeria.webp",
+      "sourceHash": "8bfd321d1106c082c82d32fad16b723b12ab8175fff190501d75434529b61996",
+      "target": "/integrated-assets/images/solutions/data-centre-infrastructure-nigeria-hero.webp",
+      "targetHash": "ada8820e6b96f781170a879b4d86afba4910336e739ae5fab04ceba7b93093c9",
+      "alt": "Nigerian infrastructure engineers inspecting equipment in a data centre"
+    },
+    {
+      "source": "/image/industries/telecommunications-network-infrastructure-nigeria.webp",
+      "sourceHash": "1dc9c022cf0b5c8f5f76e335b7d670b329731548cd7f7816902c670b805d080c",
+      "target": "/integrated-assets/images/overview/fibre-installation.webp",
+      "targetHash": "f77130b2f95a6324aa3132d50d7a6d113ca2eb68bf8fddc3deb42d5bce080171",
+      "alt": "Nigerian engineers connecting fibre-optic infrastructure"
+    },
+    {
+      "source": "/image/service-details/av-event-production.webp",
+      "sourceHash": "a21b6e7ff8b87967a48004082fdb1d07c83af783770a891518954f6d438832b2",
+      "target": "/integrated-assets/images/brand-refresh/community-av.webp",
+      "targetHash": "de3d4df84f7dbb2e633e43de56573b5a0436d9f748ef3f22b7518aa14d42fe79",
+      "alt": "Nigerian AV technician checking sound and connectivity in a community auditorium"
+    },
+    {
+      "source": "/image/service-details/network-equipment-firewalls.webp",
+      "sourceHash": "85376a0fd908af86b5f74e0de3358edabd31f80554e7de053f3114345e69e9e1",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "Firewall appliance and business networking equipment"
+    },
+    {
+      "source": "/image/service-details/automated-gates-swing-sliding.webp",
+      "sourceHash": "c0faa987090acb0c91f8fbee696b0a3a81672e95a14de36c4e9401cc57bda535",
+      "target": "/integrated-assets/images/solutions/residential-sliding-gate.webp",
+      "targetHash": "3bd863264d19ddfdc33b58b82c6cb3b30b457130df1d2f9e3fb4630358173487",
+      "alt": "Motorised sliding gate at a Nigerian residential property"
+    },
+    {
+      "source": "/image/service-details/automated-gates-sliding-doors.webp",
+      "sourceHash": "3e42acbbd15c5ffcf58a30459ebd3fa5a1c7bdd3973599f2fe246d514135014f",
+      "target": "/integrated-assets/images/brand-refresh/automatic-sliding-doors.webp",
+      "targetHash": "b646ccd47347a9650a5d46a28288f18afb3a6b632740f6b4c86e5d35581ed873",
+      "alt": "Automatic glass entrance doors with overhead safety sensors"
+    },
+    {
+      "source": "/image/service-pillars/data-centre-infrastructure-audit-inspection-nigeria.webp",
+      "sourceHash": "a690831c82179449dc161122e39cda330362b96200b6e54a9244b90fed19ae41",
+      "target": "/integrated-assets/images/overview/copper-testing.webp",
+      "targetHash": "a926483c562a1b89c0138290254d5c6dfee616d5e157a6803bc2ddc119410225",
+      "alt": "Nigerian engineer testing structured network connections"
+    },
+    {
+      "source": "/image/industries/corporate-offices.webp",
+      "sourceHash": "72f814dd38e868bea970bc6f55902c09b76f14d0e090b5c51436dd6a8e02568e",
+      "target": "/integrated-assets/images/engineering-team.webp",
+      "targetHash": "1dfeb6d073972b7e8a10e5f7c79d2fa9c9431372df5d0d0078dff7f5fb897417",
+      "alt": "Contemporary office interior with glass meeting rooms"
+    },
+    {
+      "source": "/image/service-details/data-centre-cooling.webp",
+      "sourceHash": "d4658cb07fc07ddcfa01ac9fa864dedff72ecf827a0f4c553b4ee5de5f580f2f",
+      "target": "/integrated-assets/images/brand-refresh/data-centre-cooling.webp",
+      "targetHash": "015d048be341c613838c9ae46bf737c5be5726d934b5d91eba86465351ed8f57",
+      "alt": "Precision cooling units alongside enterprise server racks"
+    },
+    {
+      "source": "/image/service-details/data-centre-power.webp",
+      "sourceHash": "5dae56355ece0e0b885eb37bc44c0011ba1bf21f1620c77e5eed9dc6fc011626",
+      "target": "/integrated-assets/images/brand-refresh/data-centre-power.webp",
+      "targetHash": "e44d1228c29f2656857fac436534b6078f76180267499791284ab180f71de926",
+      "alt": "Indoor UPS and power distribution equipment supporting a server room"
+    },
+    {
+      "source": "/image/service-details/network-equipment-switches-routers.webp",
+      "sourceHash": "aa9cc311260a4da1492a3ba5d75906650c53c5a3052ee6c3e8e27a36572e0477",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "Network switch, router, firewall and wireless access points"
+    },
+    {
+      "source": "/image/service-pillars/data-centre-security-access-control-nigeria.webp",
+      "sourceHash": "33b83e83926ed6a1cbff200a409ee4333f5705727d4733f78b868eed8a219437",
+      "target": "/integrated-assets/images/solutions/office-door-access.webp",
+      "targetHash": "546d7d0f535193eb798234a5888b3b2d2c52dcef03d2103285768b7b28719e0e",
+      "alt": "Nigerian technician inspecting an office door access-control reader"
+    },
+    {
+      "source": "/image/service-details/cctv-storage-retention.webp",
+      "sourceHash": "07c20d128544ad4cd0f9f64ba5f4b1bde4f268f71a116ddbe93f8c873268046a",
+      "target": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+      "targetHash": "de770fe849328a13dd65ef41bde7ab7a0b1006a6dc0eadee771e1a0b2f8f3cd5",
+      "alt": "Network video recorder and security monitoring equipment"
+    },
+    {
+      "source": "/image/service-details/cctv-survey-support.webp",
+      "sourceHash": "130aa2c18b14fc976a7e8f01c434b3932e25a1279bd5c2c5df03082d5409556f",
+      "target": "/integrated-assets/images/overview/camera-maintenance.webp",
+      "targetHash": "4ac6564fce3dfae6316de1dd2db8adde1ab25d8c2d30a189a558c3791c4ac7cc",
+      "alt": "Nigerian technician inspecting a mounted CCTV camera"
+    },
+    {
+      "source": "/image/service-details/cctv-remote-viewing.webp",
+      "sourceHash": "d4b22cf8897f3ab446986ef672893f1962ac8c32333cb5d8e9c92d2385b2e200",
+      "target": "/integrated-assets/images/solutions/security-monitoring-operator.webp",
+      "targetHash": "aa1f641ef58dc8e2cf03b7cbbcb5ab3cb8a02e9bcddf021efc76b758ef05c1bf",
+      "alt": "Nigerian security operator reviewing CCTV camera feeds"
+    },
+    {
+      "source": "/image/industries/real-estate-property-management.webp",
+      "sourceHash": "78a8b7e5992ccf8bb10667cd1d5338e78c3105ccbd224d423fc88a9a9b9a1231",
+      "target": "/integrated-assets/images/solutions/residential-sliding-gate.webp",
+      "targetHash": "3bd863264d19ddfdc33b58b82c6cb3b30b457130df1d2f9e3fb4630358173487",
+      "alt": "Modern Nigerian property with a secure automated entrance"
+    },
+    {
+      "source": "/image/industries/retail.webp",
+      "sourceHash": "f3f9bc1e1bd0433536a2304d19c1d61a051a3687ca576a50cbed72f957e62195",
+      "target": "/integrated-assets/images/solutions/solar-storefront.webp",
+      "targetHash": "19d48989157cd94992edf8c75f82d87b5053ef09e84ede8d5b8385b819f2bc98",
+      "alt": "Neighbourhood retail premises with rooftop solar panels"
+    },
+    {
+      "source": "/image/industries/warehousing-logistics.webp",
+      "sourceHash": "3cca4c895e9107dbcee0a33e8273d7659656c28d34b6c1152e3efaa6ecbf7400",
+      "target": "/integrated-assets/images/brand-refresh/warehouse-technology.webp",
+      "targetHash": "648d00c04f30fe2428a7adadc0c8d3d9eb2ad42a8f5475f4ab68779d29ce5346",
+      "alt": "Warehouse storage aisles and business networking infrastructure"
+    },
+    {
+      "source": "/image/industries/education.webp",
+      "sourceHash": "f9938ba36681f312cd0d6cbbcf3b0a71d2d6d7b1b50d7a798f92eefcbf86e935",
+      "target": "/integrated-assets/images/brand-refresh/education-computer-lab.webp",
+      "targetHash": "19868b82593b4bf46cb6cb3c2eae367219279e6a03c853b5a1e04ad655a38f7d",
+      "alt": "Nigerian students and an IT technician in a connected computer laboratory"
+    },
+    {
+      "source": "/image/industries/hospitality.webp",
+      "sourceHash": "7843072cc70f6dbc7723d31f96ddc6f95aa15f98cd21f975bb18f2d523fd3920",
+      "target": "/integrated-assets/images/brand-refresh/hotel-connectivity.webp",
+      "targetHash": "b31866d158ffdc81a69afef22d90e17443055680271333d15c61a798252df5cd",
+      "alt": "Nigerian hotel staff and technician checking hospitality connectivity"
+    },
+    {
+      "source": "/image/service-details/storage-san-solutions.webp",
+      "sourceHash": "5e504ee2ee5fee1eff57704116b5fb491ea208797b755aa203256141923e31f4",
+      "target": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "targetHash": "8e92e8e681ae384b49aed294192700b3dbaa07c6806ed3b5b4414871b4a6e328",
+      "alt": "Rack-mounted enterprise storage arrays and drive bays"
+    },
+    {
+      "source": "/image/service-details/door-access-credentials.webp",
+      "sourceHash": "1a3cd102d1d2ea787b4a87c0249f2887e3469f19a1b8c046a867c28fd1644138",
+      "target": "/integrated-assets/images/solutions/office-door-access.webp",
+      "targetHash": "546d7d0f535193eb798234a5888b3b2d2c52dcef03d2103285768b7b28719e0e",
+      "alt": "Office access-control reader being inspected by a Nigerian technician"
+    },
+    {
+      "source": "/image/service-details/integrated-solutions-fire-detection-devices.webp",
+      "sourceHash": "245f73e7312fc01cdfb3d7ced93960ebc0e54f4721a88dd70342db220a7096ab",
+      "target": "/integrated-assets/images/solutions/fire-alarm-inspection.webp",
+      "targetHash": "6332e9a3e21d7b3595b46977d04bece16bdd0041a9efd0fa39267dead26862b5",
+      "alt": "Fire detection and manual alarm devices inside a commercial building"
+    },
+    {
+      "source": "/image/service-details/fire-alarm-hero-call-point.webp",
+      "sourceHash": "5bf2a931711b132653b897d312238150bcf0702c20756142cb6f062b8a645e12",
+      "target": "/integrated-assets/images/solutions/fire-alarm-inspection.webp",
+      "targetHash": "6332e9a3e21d7b3595b46977d04bece16bdd0041a9efd0fa39267dead26862b5",
+      "alt": "Wall-mounted manual fire alarm call point and sounder"
+    },
+    {
+      "source": "/image/service-details/software-firewall-enterprise.webp",
+      "sourceHash": "521d30c3d365dbb30ab82be79184d23b854c87ad03f9130e72a6071348148931",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "Enterprise firewall and networking appliances ready for configuration"
+    },
+    {
+      "source": "/image/service-details/it-hardware-devices.webp",
+      "sourceHash": "0ca6727f30c25cafb113b1a4dd1cb1791a4856209bb672a8aeb577420c1405eb",
+      "target": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "targetHash": "9e6f82819ca07999b63e1906f52114b04ae739020068ee75314f4c6b114f839c",
+      "alt": "Desktop computer, laptop, printer and business IT accessories"
+    },
+    {
+      "source": "/image/case-studies/integrated-generated/network-wireless-equipment-supply-illustration.webp",
+      "sourceHash": "708e2e34b2822489f96b8d7fe5c0df2914d404f0e098525faeb0b4db00e67efd",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "Wireless access points and business network equipment prepared for deployment"
+    },
+    {
+      "source": "/image/operation-teams/network-rack-remediation-comparison.webp",
+      "sourceHash": "43be5bb2ce5a2dcba213e4cd86d2d4adc1f7e35275f15e38180df2035b1c6e60",
+      "target": "/integrated-assets/images/brand-refresh/rack-remediation.webp",
+      "targetHash": "2c8a5aff6f76bbac1b2d0a6821e99377e6464fb66666093b13e8e028a0da4afd",
+      "alt": "Example of congested network cabling compared with an organised rack layout"
+    },
+    {
+      "source": "/image/service-details/network-equipment-access-points.webp",
+      "sourceHash": "f828e4ceb16b5148272306888b5697ab41d2cb461607a45e3ea0c79e17319d5a",
+      "target": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "targetHash": "cc0fca7e2fa3bcd5dc1dee4e291ab44b13a88d801e2e16f6d626d976f942807e",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "source": "/image/service-details/network-cabling-backbone.webp",
+      "sourceHash": "8c4b974bcd859b4920cf31e00c60dd56e425ca9d542d8b3c0bc30c9852adec6b",
+      "target": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "targetHash": "01aa671cf1c69fbe26770d39ce1d59dfed9c19a8316f50735c2e110a7d7afa59",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "source": "/image/service-details/consumables-patch-cables.webp",
+      "sourceHash": "444f3645e7a8683347852e9c2d28400f0e0f63f0c20cdc0069b0f35f90592dc4",
+      "target": "/integrated-assets/images/brand-refresh/patch-cables-fibre.webp",
+      "targetHash": "d41a8f08d1c8cd9f76630492ae4de23a719bd6ecc82857e62033106af303302b",
+      "alt": "Copper patch leads and fibre-optic cables arranged for network installation"
+    },
+    {
+      "source": "/image/service-details/consumables-rack-hardware.webp",
+      "sourceHash": "9e212e4ec15220222bfcc2570f783e22a997c7275daf18a7c1ff48e1a727ba9c",
+      "target": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+      "targetHash": "039ca3aa8805203fa3057006ff8e39a4050193ea59f5668954521c3f31ce9f7d",
+      "alt": "Server rack rails, blanking panels and mounting hardware"
+    },
+    {
+      "source": "/image/service-details/consumables-cable-management.webp",
+      "sourceHash": "576fd4ff6c305bf5cf19f7098906fd7c73a11eaa15b3d4e3b52be8a20c67eafc",
+      "target": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+      "targetHash": "039ca3aa8805203fa3057006ff8e39a4050193ea59f5668954521c3f31ce9f7d",
+      "alt": "Rack cable managers, brush panels and installation accessories"
+    },
+    {
+      "source": "/image/service-details/it-hardware-accessories.webp",
+      "sourceHash": "11e9e7a06f5c3ef3c602ca8d7569a932dee06069764b43557443cb1604fe8906",
+      "target": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "targetHash": "9e6f82819ca07999b63e1906f52114b04ae739020068ee75314f4c6b114f839c",
+      "alt": "Business computer peripherals, docking hub and office equipment"
+    },
+    {
+      "source": "/image/operation-teams/enterprise-hardware-procurement-nigeria.webp",
+      "sourceHash": "b1a39407bcc80640d1d096bc913dbe9244d90bc8eea43f346b7aee88a42a7144",
+      "target": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "targetHash": "500a04095bce7efeaba03c6be4521522be80423d412d38badfedd40c898f17ad",
+      "alt": "Enterprise rackmount servers and rails prepared for supply"
+    },
+    {
+      "source": "/image/service-details/storage-nas-solutions.webp",
+      "sourceHash": "44ac6ffe26f08f3f7e6d14b6c2465f598072f5d4eb46f19d1c04a8765870f0b9",
+      "target": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "targetHash": "8e92e8e681ae384b49aed294192700b3dbaa07c6806ed3b5b4414871b4a6e328",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "source": "/image/service-details/consumables-sfp-transceivers.webp",
+      "sourceHash": "07fd78d6e423d8add6b749a0bd7d6ae994591c7e291559bef7528785527c0c9d",
+      "target": "/integrated-assets/images/brand-refresh/sfp-transceivers.webp",
+      "targetHash": "fbc865c9cb0fdca1b277248611a82233928b1638147f330f6b0e59ba5275d24a",
+      "alt": "Optical SFP transceivers with fibre patch leads"
+    },
+    {
+      "source": "/image/service-details/managed-technical-onsite-engineer.webp",
+      "sourceHash": "a1ed7abe28517de149d9d820af686b1b0af89d5aab2b12b57c946ade36a1d351",
+      "target": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "targetHash": "98be1d63ebb30aafdcc2ce5a4e997d7e0822dde5851449e5d3b12a7b7810b797",
+      "alt": "Nigerian onsite technicians deploying server equipment"
+    },
+    {
+      "source": "/image/service-pillars/integrated-live-data-centre-deployment-clean.webp",
+      "sourceHash": "00a8bfb050c50340a7943de21cc17fc7f3d8bdc70972b7bcef979d73eeb1081f",
+      "target": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "targetHash": "98be1d63ebb30aafdcc2ce5a4e997d7e0822dde5851449e5d3b12a7b7810b797",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "source": "/image/service-pillars/integrated-project-coordination-clean.webp",
+      "sourceHash": "95f6642097de7d8d56ffb9db4c01bf4613e19159c5b2032e5661bb197a669e9f",
+      "target": "/integrated-assets/images/overview/network-planning.webp",
+      "targetHash": "ba83ee99a506925da665318b968ada9861aace925835d3e8e037fb92fa7daf75",
+      "alt": "Nigerian project team reviewing infrastructure installation plans"
+    }
+  ]
+}

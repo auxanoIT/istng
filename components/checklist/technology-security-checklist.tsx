@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import Link from "next/link";
 import { useMemo, useRef, useState, type FormEvent } from "react";
 import {

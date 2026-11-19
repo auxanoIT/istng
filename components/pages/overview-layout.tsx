@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import type { ReactNode } from "react";
 
 import { ButtonLink } from "@/components/ui/button-link";

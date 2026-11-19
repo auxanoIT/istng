@@ -1,0 +1,230 @@
+{
+  "/image/service-pillars/data-centre-rack-and-stack-deployment-nigeria.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+    "alt": "Nigerian technicians installing a rackmount server on mounting rails"
+  },
+  "/image/service-details/network-cabling-rack.webp": {
+    "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+    "alt": "Organised copper and fibre patching in a business network rack"
+  },
+  "/image/service-details/server-new-supply.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+    "alt": "Rackmount enterprise servers and installation rails prepared for deployment"
+  },
+  "/image/service-details/cctv-camera-coverage.webp": {
+    "src": "/integrated-assets/images/solutions/residential-cctv-camera.webp",
+    "alt": "Security camera overlooking a residential property"
+  },
+  "/image/service-pillars/smart-hands-data-centre-technical-support-nigeria.webp": {
+    "src": "/integrated-assets/images/nigerian-energy-engineer.webp",
+    "alt": "Nigerian onsite engineer inspecting infrastructure with a tablet"
+  },
+  "/image/service-details/data-centre-buildout.webp": {
+    "src": "/integrated-assets/images/brand-refresh/data-centre-cooling.webp",
+    "alt": "Server racks and precision cooling units in an organised data centre"
+  },
+  "/image/operation-teams/remote-team-onsite-support-nigeria.webp": {
+    "src": "/integrated-assets/images/nigerian-energy-engineer.webp",
+    "alt": "Nigerian onsite technician reviewing equipment on a tablet"
+  },
+  "/image/service-details/managed-services-monitoring.webp": {
+    "src": "/integrated-assets/images/overview/operations-monitoring.webp",
+    "alt": "Nigerian IT engineer monitoring business systems"
+  },
+  "/image/industries/manufacturing-it-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/solutions/factory-rooftop-solar.webp",
+    "alt": "Solar panels installed across a manufacturing facility roof"
+  },
+  "/image/industries/warehouse-logistics-it-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/brand-refresh/warehouse-technology.webp",
+    "alt": "Nigerian technician checking warehouse networking and logistics infrastructure"
+  },
+  "/image/service-details/network-config-small-business.webp": {
+    "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+    "alt": "Business computers and office hardware prepared for installation"
+  },
+  "/image/industries/healthcare-it-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/overview/hospital-workstation.webp",
+    "alt": "Nigerian healthcare professional using a clinical workstation"
+  },
+  "/image/service-details/computer-setup-os-software.webp": {
+    "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+    "alt": "Desktop computer, laptop and office equipment in a business workspace"
+  },
+  "/image/industries/financial-services-it-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/brand-refresh/financial-technology.webp",
+    "alt": "Nigerian technology team checking infrastructure at a financial-services office"
+  },
+  "/image/industries/government-it-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/overview/technology-consultation.webp",
+    "alt": "Nigerian professionals reviewing technology requirements in an office"
+  },
+  "/image/service-details/automated-gates-boom-barrier.webp": {
+    "src": "/integrated-assets/images/brand-refresh/boom-barrier.webp",
+    "alt": "Automated vehicle barrier at a commercial property entrance"
+  },
+  "/image/service-details/ip-pbx-deployment.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "IP desk phone, network switch and business connectivity equipment"
+  },
+  "/image/industries/data-centre-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/solutions/data-centre-infrastructure-nigeria-hero.webp",
+    "alt": "Nigerian infrastructure engineers inspecting equipment in a data centre"
+  },
+  "/image/industries/telecommunications-network-infrastructure-nigeria.webp": {
+    "src": "/integrated-assets/images/overview/fibre-installation.webp",
+    "alt": "Nigerian engineers connecting fibre-optic infrastructure"
+  },
+  "/image/service-details/av-event-production.webp": {
+    "src": "/integrated-assets/images/brand-refresh/community-av.webp",
+    "alt": "Nigerian AV technician checking sound and connectivity in a community auditorium"
+  },
+  "/image/service-details/network-equipment-firewalls.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "Firewall appliance and business networking equipment"
+  },
+  "/image/service-details/automated-gates-swing-sliding.webp": {
+    "src": "/integrated-assets/images/solutions/residential-sliding-gate.webp",
+    "alt": "Motorised sliding gate at a Nigerian residential property"
+  },
+  "/image/service-details/automated-gates-sliding-doors.webp": {
+    "src": "/integrated-assets/images/brand-refresh/automatic-sliding-doors.webp",
+    "alt": "Automatic glass entrance doors with overhead safety sensors"
+  },
+  "/image/service-pillars/data-centre-infrastructure-audit-inspection-nigeria.webp": {
+    "src": "/integrated-assets/images/overview/copper-testing.webp",
+    "alt": "Nigerian engineer testing structured network connections"
+  },
+  "/image/industries/corporate-offices.webp": {
+    "src": "/integrated-assets/images/engineering-team.webp",
+    "alt": "Contemporary office interior with glass meeting rooms"
+  },
+  "/image/service-details/data-centre-cooling.webp": {
+    "src": "/integrated-assets/images/brand-refresh/data-centre-cooling.webp",
+    "alt": "Precision cooling units alongside enterprise server racks"
+  },
+  "/image/service-details/data-centre-power.webp": {
+    "src": "/integrated-assets/images/brand-refresh/data-centre-power.webp",
+    "alt": "Indoor UPS and power distribution equipment supporting a server room"
+  },
+  "/image/service-details/network-equipment-switches-routers.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "Network switch, router, firewall and wireless access points"
+  },
+  "/image/service-pillars/data-centre-security-access-control-nigeria.webp": {
+    "src": "/integrated-assets/images/solutions/office-door-access.webp",
+    "alt": "Nigerian technician inspecting an office door access-control reader"
+  },
+  "/image/service-details/cctv-storage-retention.webp": {
+    "src": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+    "alt": "Network video recorder and security monitoring equipment"
+  },
+  "/image/service-details/cctv-survey-support.webp": {
+    "src": "/integrated-assets/images/overview/camera-maintenance.webp",
+    "alt": "Nigerian technician inspecting a mounted CCTV camera"
+  },
+  "/image/service-details/cctv-remote-viewing.webp": {
+    "src": "/integrated-assets/images/solutions/security-monitoring-operator.webp",
+    "alt": "Nigerian security operator reviewing CCTV camera feeds"
+  },
+  "/image/industries/real-estate-property-management.webp": {
+    "src": "/integrated-assets/images/solutions/residential-sliding-gate.webp",
+    "alt": "Modern Nigerian property with a secure automated entrance"
+  },
+  "/image/industries/retail.webp": {
+    "src": "/integrated-assets/images/solutions/solar-storefront.webp",
+    "alt": "Neighbourhood retail premises with rooftop solar panels"
+  },
+  "/image/industries/warehousing-logistics.webp": {
+    "src": "/integrated-assets/images/brand-refresh/warehouse-technology.webp",
+    "alt": "Warehouse storage aisles and business networking infrastructure"
+  },
+  "/image/industries/education.webp": {
+    "src": "/integrated-assets/images/brand-refresh/education-computer-lab.webp",
+    "alt": "Nigerian students and an IT technician in a connected computer laboratory"
+  },
+  "/image/industries/hospitality.webp": {
+    "src": "/integrated-assets/images/brand-refresh/hotel-connectivity.webp",
+    "alt": "Nigerian hotel staff and technician checking hospitality connectivity"
+  },
+  "/image/service-details/storage-san-solutions.webp": {
+    "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+    "alt": "Rack-mounted enterprise storage arrays and drive bays"
+  },
+  "/image/service-details/door-access-credentials.webp": {
+    "src": "/integrated-assets/images/solutions/office-door-access.webp",
+    "alt": "Office access-control reader being inspected by a Nigerian technician"
+  },
+  "/image/service-details/integrated-solutions-fire-detection-devices.webp": {
+    "src": "/integrated-assets/images/solutions/fire-alarm-inspection.webp",
+    "alt": "Fire detection and manual alarm devices inside a commercial building"
+  },
+  "/image/service-details/fire-alarm-hero-call-point.webp": {
+    "src": "/integrated-assets/images/solutions/fire-alarm-inspection.webp",
+    "alt": "Wall-mounted manual fire alarm call point and sounder"
+  },
+  "/image/service-details/software-firewall-enterprise.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "Enterprise firewall and networking appliances ready for configuration"
+  },
+  "/image/service-details/it-hardware-devices.webp": {
+    "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+    "alt": "Desktop computer, laptop, printer and business IT accessories"
+  },
+  "/image/case-studies/integrated-generated/network-wireless-equipment-supply-illustration.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "Wireless access points and business network equipment prepared for deployment"
+  },
+  "/image/operation-teams/network-rack-remediation-comparison.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-remediation.webp",
+    "alt": "Example of congested network cabling compared with an organised rack layout"
+  },
+  "/image/service-details/network-equipment-access-points.webp": {
+    "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+    "alt": "Ceiling wireless access points and network switching equipment"
+  },
+  "/image/service-details/network-cabling-backbone.webp": {
+    "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+    "alt": "Managed fibre and copper connections in a network distribution rack"
+  },
+  "/image/service-details/consumables-patch-cables.webp": {
+    "src": "/integrated-assets/images/brand-refresh/patch-cables-fibre.webp",
+    "alt": "Copper patch leads and fibre-optic cables arranged for network installation"
+  },
+  "/image/service-details/consumables-rack-hardware.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+    "alt": "Server rack rails, blanking panels and mounting hardware"
+  },
+  "/image/service-details/consumables-cable-management.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+    "alt": "Rack cable managers, brush panels and installation accessories"
+  },
+  "/image/service-details/it-hardware-accessories.webp": {
+    "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+    "alt": "Business computer peripherals, docking hub and office equipment"
+  },
+  "/image/operation-teams/enterprise-hardware-procurement-nigeria.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+    "alt": "Enterprise rackmount servers and rails prepared for supply"
+  },
+  "/image/service-details/storage-nas-solutions.webp": {
+    "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+    "alt": "Enterprise storage enclosure with serviceable drive bays"
+  },
+  "/image/service-details/consumables-sfp-transceivers.webp": {
+    "src": "/integrated-assets/images/brand-refresh/sfp-transceivers.webp",
+    "alt": "Optical SFP transceivers with fibre patch leads"
+  },
+  "/image/service-details/managed-technical-onsite-engineer.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+    "alt": "Nigerian onsite technicians deploying server equipment"
+  },
+  "/image/service-pillars/integrated-live-data-centre-deployment-clean.webp": {
+    "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+    "alt": "Nigerian infrastructure team installing enterprise server equipment"
+  },
+  "/image/service-pillars/integrated-project-coordination-clean.webp": {
+    "src": "/integrated-assets/images/overview/network-planning.webp",
+    "alt": "Nigerian project team reviewing infrastructure installation plans"
+  }
+}

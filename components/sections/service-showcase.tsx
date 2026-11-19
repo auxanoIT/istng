@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ArrowRight, ChevronRight } from "lucide-react";
 import { useId, useState, type CSSProperties } from "react";
 

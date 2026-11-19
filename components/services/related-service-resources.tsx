@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "@/components/ui/site-image";
 import Link from 'next/link';
 import type { RelatedServicePost } from '@/lib/types';
 import styles from './related-service-resources.module.css';

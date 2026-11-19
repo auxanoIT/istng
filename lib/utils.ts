@@ -1,5 +1,6 @@
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
+import { resolveSiteImagePath } from "@/lib/image-assets";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -23,7 +24,7 @@ export function absoluteUrl(path = "/") {
   const base = (
     process.env.NEXT_PUBLIC_SITE_URL ?? "https://istng.com"
   ).replace(/\/+$/, "");
-  return new URL(path, base).toString();
+  return new URL(resolveSiteImagePath(path), base).toString();
 }
 
 export function createWhatsappLink(number: string, message: string) {

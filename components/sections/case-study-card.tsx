@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ArrowUpRight, BriefcaseBusiness, MapPin } from "lucide-react";
 
 import { ButtonLink } from "@/components/ui/button-link";

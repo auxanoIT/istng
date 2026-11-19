@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import Link from "next/link";
 import { ArrowDown, ArrowUpRight, Pause, Play } from "lucide-react";
 import type { ServicePillar } from "@/data/service-pillars";

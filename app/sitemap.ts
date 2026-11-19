@@ -69,7 +69,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
   return [...unique.values()].sort((a,b) => a.path.localeCompare(b.path)).map(entry => ({
     url: absoluteUrl(entry.path),
-    ...(entry.images?.length ? { images: entry.images.map(absoluteUrl) } : {}),
+    ...(entry.images?.length ? { images: [...new Set(entry.images.map(absoluteUrl))] } : {}),
     ...(entry.updatedAt && !Number.isNaN(Date.parse(entry.updatedAt)) ? { lastModified: entry.updatedAt } : {}),
   }));
 }

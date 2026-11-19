@@ -15,6 +15,11 @@ export function typescriptLoader({ env = {}, overrides = {}, fetch = globalThis.
     let file = resolve(root, relative);
     if (!existsSync(file)) file += '.ts';
     if (cache.has(file)) return cache.get(file);
+    if (file.endsWith('.json')) {
+      const data = JSON.parse(readFileSync(file, 'utf8'));
+      cache.set(file, data);
+      return data;
+    }
     const compiledModule = { exports: {} };
     cache.set(file, compiledModule.exports);
     const code = ts.transpileModule(readFileSync(file, 'utf8'), {

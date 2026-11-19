@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { OverviewExplorer, type OverviewEntry } from "@/components/pages/overview-explorer";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection, type OverviewAction, type OverviewCopy } from "@/components/pages/overview-layout";
 import { OverviewFaq } from "@/components/pages/overview-resources";

@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import Image from 'next/image';
+import Image from "@/components/ui/site-image";
 import Link from 'next/link';
 import { JsonLd } from '@/components/ui/json-ld';
 import { SubserviceHero } from './subservice-hero';

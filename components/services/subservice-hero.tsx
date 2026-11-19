@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import Link from "next/link";
 import { Pause, Play } from "lucide-react";
 import { useState } from "react";

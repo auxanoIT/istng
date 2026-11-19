@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ChevronDown } from "lucide-react";
 import { LeadForm } from "@/components/forms/lead-form";
 import { OverviewExplorer } from "@/components/pages/overview-explorer";

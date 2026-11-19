@@ -124,6 +124,9 @@ const extraProfiles = {
 
 const heroImages: Partial<Record<IndustrySlug, ServiceNavMedia>> = {
   "corporate-offices": overviewImages.planning,
+  education: photo("/integrated-assets/images/brand-refresh/education-computer-lab.webp", "Nigerian students and an IT technician in a connected university computer laboratory"),
+  hospitality: photo("/integrated-assets/images/brand-refresh/hotel-connectivity.webp", "Nigerian hotel receptionist and IT technician checking business connectivity"),
+  retail: photo("/integrated-assets/images/solutions/solar-storefront.webp", "Retail premises supported by rooftop solar power"),
 };
 
 export function getIndustryEditorial(slug: string) {

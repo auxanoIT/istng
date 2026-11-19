@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 import { ArrowRight, Check } from "lucide-react";
 import { useEffect, useRef } from "react";
 

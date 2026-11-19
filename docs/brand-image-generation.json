@@ -1,0 +1,157 @@
+{
+  "mode": "Built-in image generation",
+  "images": [
+    {
+      "name": "rack-installation",
+      "image": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 150952,
+      "prompt": "Two Nigerian infrastructure technicians, a woman and a man in neat navy workwear, carefully aligning one silver 2U rackmount enterprise server onto extended mounting rails in an open black server rack. Three-quarter wide view showing the full working space, server supported at both ends, organised cabling behind it, neutral modern server-room surroundings. Different composition from a tight close-up of grey-shirted men carrying a server: view from the rack's side, woman at front guiding rails, man supporting the rear. Professional installation activity, no hard hats, no gloves on exposed electrical contacts. Original professional photographic website asset for Integrated Solutions Technology in Nigeria, landscape 3:2 framing with comfortable crop margins. Realistic engineering equipment, crisp natural textures, restrained navy and neutral colour palette, clean lighting, believable scale, no futuristic effects, no text overlays, no readable brand names, no logos or watermarks. Any people must be Nigerian Black professionals with natural anatomically correct hands."
+    },
+    {
+      "name": "structured-network-rack",
+      "image": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 159262,
+      "prompt": "Detailed architectural photograph of a professionally organised network distribution rack inside a Nigerian business server room. Balanced three-quarter view of patch panels, real rack switches, restrained green status lights, neat short blue copper patch cables and a small set of aqua fibre leads, correctly routed through horizontal and vertical cable managers. Black rack upright and adjacent clean room visible, all connections plausible, no people. Clear example of structured cabling and maintainable rack layout, NOT a tangled or overloaded rack. Original professional photographic website asset for Integrated Solutions Technology in Nigeria, landscape 3:2 framing with comfortable crop margins. Realistic engineering equipment, crisp natural textures, restrained navy and neutral colour palette, clean lighting, believable scale, no futuristic effects, no text overlays, no readable brand names, no logos or watermarks. Any people must be Nigerian Black professionals with natural anatomically correct hands."
+    },
+    {
+      "name": "rackmount-server-supply",
+      "image": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 205382,
+      "prompt": "Premium enterprise hardware procurement photograph: two unbranded black-and-silver 2U rackmount servers on a clean antistatic workbench in a Nigerian IT deployment workshop, one closed chassis and one opened showing plausible server motherboard, heatsinks, memory modules and drive caddies, with matching mounting rails neatly laid beside them. Service rack softly visible in the background. Focus on actual rackmount server hardware ready for supply and installation, not desktop towers, not storage-only shelves. No people. Original professional photographic website asset for Integrated Solutions Technology in Nigeria, landscape 3:2 framing with comfortable crop margins. Realistic engineering equipment, crisp natural textures, restrained navy and neutral colour palette, clean lighting, believable scale, no futuristic effects, no text overlays, no readable brand names, no logos or watermarks. Any people must be Nigerian Black professionals with natural anatomically correct hands."
+    },
+    {
+      "name": "network-equipment",
+      "image": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 93990,
+      "prompt": "An organised procurement and configuration bench displaying business networking equipment: one black 24-port Ethernet switch, one compact black firewall appliance with clearly plausible network ports, a small router, two white ceiling Wi-Fi access points and a black VoIP desk phone at one side. A few correctly terminated blue patch leads laid tidily beside the units. Equipment separated with breathing room, matte light-grey work surface, softly blurred IT rack in the background. Focus on real business connectivity hardware, no people, no screens full of gibberish. High-end original photographic asset for a Nigerian enterprise technology provider, landscape 3:2, realistic equipment and materials, tidy credible workspace, sharp detail, soft neutral lighting, subtle navy accents. No text overlays, brand logos, watermarks or futuristic effects."
+    },
+    {
+      "name": "business-hardware",
+      "image": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 130962,
+      "prompt": "A contemporary Nigerian business IT deployment workspace: one slim desktop monitor with a neutral non-readable screen, a small-form-factor business PC, an open professional laptop, keyboard, mouse, compact office printer and a simple docking hub, neatly spaced on a clean oak desk. Bright glass-partitioned office softly visible behind, daylight, believable equipment proportions, organised cables. Useful for computer supply, setup and IT hardware procurement. No people, no rows of identical duplicated devices. High-end original photographic asset for a Nigerian enterprise technology provider, landscape 3:2, realistic equipment and materials, tidy credible workspace, sharp detail, soft neutral lighting, subtle navy accents. No text overlays, brand logos, watermarks or futuristic effects."
+    },
+    {
+      "name": "patch-cables-fibre",
+      "image": "/integrated-assets/images/brand-refresh/patch-cables-fibre.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 184000,
+      "prompt": "Neatly organised networking consumables on a light-grey IT workbench: a few coiled blue Cat6 copper patch cables with realistic transparent RJ45 plugs, two yellow single-mode fibre patch leads and two aqua multimode fibre leads with believable duplex LC connectors. Separate each coil with breathing room, restrained navy antistatic mat underneath, no huge cluttered pile. Show connector details sharply in the foreground, a softly blurred network rack in the background. No people. Original premium product photograph for Integrated Solutions Technology, landscape 3:2 with comfortable margins, realistic engineering components, restrained navy and light-grey setting, clean soft lighting, crisp detailed materials. No logos, no text overlays, no watermark, no floating or impossible components."
+    },
+    {
+      "name": "rack-accessories",
+      "image": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 120066,
+      "prompt": "A clean organised procurement layout of unbranded 19-inch rack accessories: one pair of steel rackmount sliding rails, one black horizontal cable-management bar, one black brush-entry panel, two blanking panels and a small labelled-by-shape clear tray of cage nuts and screws. Realistic proportions, rails shown complete, components separated on a grey workshop bench, blurred server-room background. No cables tangled into a heap, no people. Original premium product photograph for Integrated Solutions Technology, landscape 3:2 with comfortable margins, realistic engineering components, restrained navy and light-grey setting, clean soft lighting, crisp detailed materials. No logos, no text overlays, no watermark, no floating or impossible components."
+    },
+    {
+      "name": "sfp-transceivers",
+      "image": "/integrated-assets/images/brand-refresh/sfp-transceivers.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 203424,
+      "prompt": "Macro product photograph of four unbranded optical SFP transceiver modules neatly arranged on a dark antistatic work mat. Two metal modules show realistic duplex LC optical sockets, one has a blue pull latch and one an aqua latch, with two carefully coiled fibre leads behind. A small out-of-focus Ethernet switch at the back gives technical context. Sharp accurate metal connectors and light wear, not jewellery or glowing fantasy electronics, no people. Original high-quality photograph for a Nigerian infrastructure company, landscape 3:2, believable engineering materials and proportions, calm professional lighting, neutral colours with subtle navy accents, no logos, no watermark, no text overlay, no futuristic styling."
+    },
+    {
+      "name": "data-centre-cooling",
+      "image": "/integrated-assets/images/brand-refresh/data-centre-cooling.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 253808,
+      "prompt": "Architectural photograph looking diagonally down a clean contemporary data-centre aisle. Rows of black perforated enterprise server cabinets are interspersed with clearly visible precision in-row cooling units with tall ventilation grilles, overhead contained cable trays, sensible cold-aisle spacing and raised light-grey floor tiles. A modest ceiling mechanical-services run is visible, realistic neutral LED illumination, tidy maintainable facility. No people, no excessive blue lights, no giant household air conditioners. Original high-quality photograph for a Nigerian infrastructure company, landscape 3:2, believable engineering materials and proportions, calm professional lighting, neutral colours with subtle navy accents, no logos, no watermark, no text overlay, no futuristic styling."
+    },
+    {
+      "name": "data-centre-power",
+      "image": "/integrated-assets/images/brand-refresh/data-centre-power.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 149060,
+      "prompt": "An indoor technical power room serving a commercial data centre. Two tall unbranded modular UPS cabinets with small restrained status displays stand beside an enclosed power distribution cabinet and a clearly separated battery cabinet, all on a dry light-grey floor with unobstructed maintenance clearance. Tidy overhead enclosed cable containment, proper commercial equipment scale, practical white walls and ventilation. No solar panels, no exposed battery terminals or live cables, no outdoor installation, no people. Original premium realistic photograph for Integrated Solutions Technology in Nigeria, landscape 3:2 with natural crop margins, professional engineering context, credible physical detail, neutral lighting and restrained navy accents. No logos, readable company names, watermarks, text overlays or futuristic effects. Any people must be Nigerian Black professionals."
+    },
+    {
+      "name": "warehouse-technology",
+      "image": "/integrated-assets/images/brand-refresh/warehouse-technology.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 148626,
+      "prompt": "Wide architectural photograph inside a modern organised Nigerian logistics warehouse. Long shelving aisles with plain unbranded cartons and a clear pedestrian walkway; a Nigerian male IT field technician in navy workwear and a high-visibility vest checks a compact enclosed wall-mounted network cabinet near the foreground while a Nigerian female warehouse supervisor holds a handheld stock scanner nearby. A ceiling Wi-Fi access point and a discreet CCTV camera are visible, no forklifts near the people. Daylight and normal industrial ceiling lighting, realistic efficient facility. Original premium realistic photograph for Integrated Solutions Technology in Nigeria, landscape 3:2 with natural crop margins, professional engineering context, credible physical detail, neutral lighting and restrained navy accents. No logos, readable company names, watermarks, text overlays or futuristic effects. Any people must be Nigerian Black professionals."
+    },
+    {
+      "name": "education-computer-lab",
+      "image": "/integrated-assets/images/brand-refresh/education-computer-lab.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 194076,
+      "prompt": "A bright, practical Nigerian university computer laboratory with tidy rows of desktop computers and organised electrical and network connections. A Nigerian female IT technician in a navy polo calmly assists two Nigerian adult university students at a workstation while a few other adult students work farther back. Screens display simple non-readable neutral interfaces, daylight through windows, realistic modest modern campus, no luxury fantasy, no giant holographic wall displays. Original premium documentary-style website photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 composition with generous crop margins, realistic natural lighting, navy and neutral details, believable architecture and equipment, no logos, no readable signage, no text overlays or watermark. All people are Nigerian Black adults."
+    },
+    {
+      "name": "hotel-connectivity",
+      "image": "/integrated-assets/images/brand-refresh/hotel-connectivity.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 138582,
+      "prompt": "A contemporary Nigerian hotel reception and adjacent discreet IT service area. A Nigerian female receptionist behind a neat warm-wood reception counter checks a business desk phone and computer while a Nigerian male IT technician in a navy polo uses a tablet beside her. In the background, tasteful seating, plants and an unobtrusive ceiling Wi-Fi access point establish a comfortable hospitality environment. Technology supports the guest experience, no exposed server rack in the public lobby, no identifiable hotel branding, no guests' personal information on screens. Original premium documentary-style website photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 composition with generous crop margins, realistic natural lighting, navy and neutral details, believable architecture and equipment, no logos, no readable signage, no text overlays or watermark. All people are Nigerian Black adults."
+    },
+    {
+      "name": "community-av",
+      "image": "/integrated-assets/images/brand-refresh/community-av.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 156262,
+      "prompt": "View from the rear technical booth of a modest modern Nigerian community auditorium. A Nigerian male AV technician in a navy polo checks a real compact digital audio mixer and an equipment rack, with neatly routed leads and a simple microphone receiver, while rows of comfortable seats and an empty raised stage are visible beyond. Neutral presentation screen without readable writing. Practical setting suitable for community and religious facilities, no performance crowd, no dramatic concert lasers or famous religious symbols. Original premium realistic website photograph for a Nigerian energy and technology provider, landscape 3:2 framing, believable architecture, natural professional lighting, clear equipment detail and comfortable crop margins. No logos, no readable company signage, no text overlays, no watermark. Any people are Nigerian Black adults."
+    },
+    {
+      "name": "automatic-sliding-doors",
+      "image": "/integrated-assets/images/brand-refresh/automatic-sliding-doors.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 185848,
+      "prompt": "Architectural close-wide photograph of a contemporary commercial building entrance with two frameless automatic sliding glass doors and a clearly visible slim overhead operator and motion sensor. The doors are partly open, one Nigerian professional woman in ordinary business attire walking through safely, clean lobby behind, accessible flat threshold and neat aluminium frames. Carefully distinguish automatic sliding doors from swing doors, no turnstiles or mantrap vestibule. Crisp reflections and believable glass geometry. Original premium realistic website photograph for a Nigerian energy and technology provider, landscape 3:2 framing, believable architecture, natural professional lighting, clear equipment detail and comfortable crop margins. No logos, no readable company signage, no text overlays, no watermark. Any people are Nigerian Black adults."
+    },
+    {
+      "name": "rack-remediation",
+      "image": "/integrated-assets/images/brand-refresh/rack-remediation.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 198402,
+      "prompt": "Create a carefully composed two-panel photographic comparison of a generic business network rack, not a specific customer's project. Equal left and right panels separated only by a narrow neutral divider, no labels or text. Both show the same realistic small black network cabinet with patch panels and switches from the same angle. Left: congested overlapping blue patch leads make ports difficult to trace, but no unsafe exposed conductors. Right: the same equipment with tidy short blue patch leads, sensible horizontal cable managers and accessible ports. Correct hardware scale and plausible connections, a credible example of rack cabling remediation. No people. Original professional photographic marketing asset for Integrated Solutions Technology, landscape 3:2 with crop margins, realistic engineering detail and materials, clean neutral lighting with restrained navy accents, no logos, watermarks, text overlays or science-fiction effects."
+    },
+    {
+      "name": "financial-technology",
+      "image": "/integrated-assets/images/brand-refresh/financial-technology.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 141884,
+      "prompt": "A secure back-office technology area at a modern Nigerian financial-services branch. A Nigerian female IT engineer in a navy polo checks a small organised network and server cabinet with a tablet while a Nigerian male branch operations manager in a business shirt reviews the work beside her. Through a glass partition, a clean unbranded customer-service counter suggests the financial office without visible customers, cash, documents, account details or readable screens. Practical dependable infrastructure, natural daylight, not a futuristic trading floor. Original professional photographic marketing asset for Integrated Solutions Technology, landscape 3:2 with crop margins, realistic engineering detail and materials, clean neutral lighting with restrained navy accents, no logos, watermarks, text overlays or science-fiction effects."
+    },
+    {
+      "name": "boom-barrier",
+      "image": "/integrated-assets/images/brand-refresh/boom-barrier.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 263712,
+      "prompt": "A clear architectural photograph of an automated vehicle boom barrier at the entrance to a modern Nigerian commercial property. One robust unbranded dark-grey barrier pedestal with a horizontal red-and-white lifting arm across a single driveway lane, a small entry intercom on a separate post and neatly maintained guardhouse to the side. Show the full mechanism and safe vehicle approach, no cars beneath the arm, landscaped tropical greenery and business premises in the background. This is a vehicle barrier, not a sliding gate or bollard system. No people. Original premium realistic photograph for Integrated Solutions Technology in Nigeria, landscape 3:2 framing with breathing room, physically plausible equipment and geometry, crisp materials, natural professional lighting, no logos, no watermark, no text overlays or readable branding."
+    },
+    {
+      "name": "surveillance-recording",
+      "image": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 138870,
+      "prompt": "A professionally installed commercial CCTV recording station in a Nigerian business security room. One compact black network video recorder in a tidy ventilated equipment rack with organised patch leads and a small adjacent rack of surveillance storage drives. A desk monitor shows a realistic four-camera grid of empty entrances, driveway and corridor views with no readable text or identifiable people. Natural neutral light, clear separation between recorder, storage and monitoring screen, ordinary practical security installation, no wall of dozens of dramatic screens. Original premium realistic photograph for Integrated Solutions Technology in Nigeria, landscape 3:2 framing with breathing room, physically plausible equipment and geometry, crisp materials, natural professional lighting, no logos, no watermark, no text overlays or readable branding."
+    }
+  ]
+}

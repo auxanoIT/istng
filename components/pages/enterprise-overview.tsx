@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 
 import { OverviewBenefits } from "@/components/pages/overview-benefits";
 import { OverviewExplorer } from "@/components/pages/overview-explorer";

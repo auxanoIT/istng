@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/ui/site-image";
 
 import type { ServicePillar } from "@/data/service-pillars";
 import s from "./pillar.module.css";

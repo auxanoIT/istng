@@ -1,27 +1,15 @@
 {
-  "checkedAt": "2026-11-17T21:50:43.536Z",
+  "checkedAt": "2026-11-19T09:28:38.542Z",
   "canonicalOrigin": "https://istng.com",
-  "base": "http://localhost:3101",
+  "base": "http://127.0.0.1:3103",
   "sitemapPages": 92,
   "checkedPages": 92,
-  "pageImageEntries": 603,
-  "uniqueImages": 135,
+  "pageImageEntries": 561,
+  "uniqueImages": 101,
   "internalPathsChecked": 98,
   "errors": [],
   "warnings": [],
   "pages": [
-    {
-      "url": "https://istng.com/about",
-      "title": "About Integrated Solutions Technology | Nigeria",
-      "description": "Discover Integrated Solutions Technology, a Nigerian provider of solar energy, IT infrastructure, networking, security and technical support solutions.",
-      "imageCount": 11
-    },
-    {
-      "url": "https://istng.com/",
-      "title": "Solar Energy & IT Solutions Nigeria | Integrated Solutions Technology",
-      "description": "Solar installation, battery storage, data centre infrastructure, networking, security and IT support in Nigeria from Integrated Solutions Technology.",
-      "imageCount": 13
-    },
     {
       "url": "https://istng.com/careers",
       "title": "Careers | Integrated Solutions Technology",
@@ -29,10 +17,28 @@
       "imageCount": 1
     },
     {
+      "url": "https://istng.com/about",
+      "title": "About Integrated Solutions Technology | Nigeria",
+      "description": "Discover Integrated Solutions Technology, a Nigerian provider of solar energy, IT infrastructure, networking, security and technical support solutions.",
+      "imageCount": 10
+    },
+    {
+      "url": "https://istng.com/",
+      "title": "Solar Energy & IT Solutions Nigeria | Integrated Solutions Technology",
+      "description": "Solar installation, battery storage, data centre infrastructure, networking, security and IT support in Nigeria from Integrated Solutions Technology.",
+      "imageCount": 12
+    },
+    {
       "url": "https://istng.com/industries",
       "title": "Solar & Technology Solutions by Industry in Nigeria | Integrated Solutions Technology",
       "description": "Explore energy and technology solutions for homes, businesses, healthcare, education, industrial facilities and enterprise infrastructure in Nigeria.",
-      "imageCount": 17
+      "imageCount": 16
+    },
+    {
+      "url": "https://istng.com/book-consultation",
+      "title": "Book a Solar & IT Consultation in Nigeria | Integrated Solutions Technology",
+      "description": "Request a consultation in Nigeria for solar power, IT infrastructure, data centres, networking, security or technical support.",
+      "imageCount": 1
     },
     {
       "url": "https://istng.com/industries/agriculture-agribusiness",
@@ -45,12 +51,6 @@
       "title": "Corporate Offices & Enterprises Solutions in Nigeria | Integrated Solutions Technology",
       "description": "Office solar, structured cabling, enterprise IT and access control for corporate workplaces in Nigeria.",
       "imageCount": 6
-    },
-    {
-      "url": "https://istng.com/book-consultation",
-      "title": "Book a Solar & IT Consultation in Nigeria | Integrated Solutions Technology",
-      "description": "Request a consultation in Nigeria for solar power, IT infrastructure, data centres, networking, security or technical support.",
-      "imageCount": 1
     },
     {
       "url": "https://istng.com/industries/data-centres",
@@ -71,15 +71,15 @@
       "imageCount": 5
     },
     {
-      "url": "https://istng.com/industries/government",
-      "title": "Government & Public Institutions Solutions in Nigeria | Integrated Solutions Technology",
-      "description": "Networks, server deployment, solar power and electronic security for Nigerian government offices and public institutions.",
-      "imageCount": 6
-    },
-    {
       "url": "https://istng.com/industries/financial-services",
       "title": "IT for Financial Services Nigeria | Integrated Solutions Technology",
       "description": "Branch networking, firewall deployment, data centre infrastructure and access control for financial organisations in Nigeria.",
+      "imageCount": 6
+    },
+    {
+      "url": "https://istng.com/industries/government",
+      "title": "Government & Public Institutions Solutions in Nigeria | Integrated Solutions Technology",
+      "description": "Networks, server deployment, solar power and electronic security for Nigerian government offices and public institutions.",
       "imageCount": 6
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://istng.com/industries/manufacturing",
       "title": "Manufacturing & Industrial Facilities Solutions in Nigeria | Integrated Solutions Technology",
       "description": "Industrial solar, factory networks, server infrastructure and site security for production facilities in Nigeria.",
-      "imageCount": 6
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/industries/real-estate-property-management",
@@ -131,16 +131,10 @@
       "imageCount": 6
     },
     {
-      "url": "https://istng.com/industries/warehousing-logistics",
-      "title": "Warehousing & Logistics Solutions in Nigeria | Integrated Solutions Technology",
-      "description": "Warehouse Wi-Fi, loading-bay CCTV, access control and power infrastructure for logistics facilities in Nigeria.",
-      "imageCount": 7
-    },
-    {
       "url": "https://istng.com/industries/telecommunications-isps",
       "title": "Telecom & ISP Solutions Nigeria | Integrated Solutions Technology",
       "description": "Fibre cabling, network equipment deployment and field support for telecom operators and ISPs in Nigeria.",
-      "imageCount": 6
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/resources",
@@ -149,10 +143,16 @@
       "imageCount": 0
     },
     {
-      "url": "https://istng.com/resources/case-studies/cihp-multi-location-inverter-battery-backup-nigeria",
-      "title": "CIHP Multi-Site Battery Backup Case Study Nigeria | Integrated Solutions Technology",
-      "description": "Explore inverter and battery backup installations for four CIHP facilities in Abuja, Lagos and Kogi State by Integrated Solutions Technology.",
-      "imageCount": 5
+      "url": "https://istng.com/resources/case-studies",
+      "title": "Solar & Backup Power Case Studies Nigeria | Integrated Solutions Technology",
+      "description": "Explore solar, inverter and battery installation case studies for homes, businesses and healthcare facilities in Lagos, Abuja, Kogi and Kaduna.",
+      "imageCount": 22
+    },
+    {
+      "url": "https://istng.com/industries/warehousing-logistics",
+      "title": "Warehousing & Logistics Solutions in Nigeria | Integrated Solutions Technology",
+      "description": "Warehouse Wi-Fi, loading-bay CCTV, access control and power infrastructure for logistics facilities in Nigeria.",
+      "imageCount": 7
     },
     {
       "url": "https://istng.com/resources/case-studies/ajasa-command-residential-solar-battery-installation-lagos",
@@ -161,10 +161,10 @@
       "imageCount": 4
     },
     {
-      "url": "https://istng.com/resources/case-studies",
-      "title": "Solar & Backup Power Case Studies Nigeria | Integrated Solutions Technology",
-      "description": "Explore solar, inverter and battery installation case studies for homes, businesses and healthcare facilities in Lagos, Abuja, Kogi and Kaduna.",
-      "imageCount": 22
+      "url": "https://istng.com/resources/case-studies/cihp-multi-location-inverter-battery-backup-nigeria",
+      "title": "CIHP Multi-Site Battery Backup Case Study Nigeria | Integrated Solutions Technology",
+      "description": "Explore inverter and battery backup installations for four CIHP facilities in Abuja, Lagos and Kogi State by Integrated Solutions Technology.",
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/resources/case-studies/ernneka-shop-office-solar-installation-lagos",
@@ -173,16 +173,16 @@
       "imageCount": 5
     },
     {
-      "url": "https://istng.com/resources/case-studies/kaduna-kawo-zaria-hospital-inverter-battery-installations",
-      "title": "Hospital Inverter Backup Installations Kaduna | Case Study | Integrated Solutions Technology",
-      "description": "Explore recorded 5 kVA inverter and wet-cell battery installations at General Hospital Kawo and General Hospital Zaria in Kaduna State.",
-      "imageCount": 3
-    },
-    {
       "url": "https://istng.com/resources/case-studies/gateway-sparklight-estate-home-solar-installation",
       "title": "Gateway Sparklight Estate Home Solar Installation Case Study | Integrated Solutions Technology",
       "description": "Explore a Gateway Sparklight Estate solar project with a 10 kVA hybrid inverter, 15 kWh lithium storage and twelve 625 W solar panels.",
       "imageCount": 4
+    },
+    {
+      "url": "https://istng.com/resources/case-studies/kaduna-kawo-zaria-hospital-inverter-battery-installations",
+      "title": "Hospital Inverter Backup Installations Kaduna | Case Study | Integrated Solutions Technology",
+      "description": "Explore recorded 5 kVA inverter and wet-cell battery installations at General Hospital Kawo and General Hospital Zaria in Kaduna State.",
+      "imageCount": 3
     },
     {
       "url": "https://istng.com/resources/case-studies/magodo-phase-one-residential-solar-installation-lagos",
@@ -197,15 +197,15 @@
       "imageCount": 5
     },
     {
-      "url": "https://istng.com/resources/case-studies/sunshine-estate-residential-hybrid-solar-installations",
-      "title": "Sunshine Estate Residential Solar Installation Case Study | Integrated Solutions Technology",
-      "description": "Compare two Sunshine Estate installations: 3 kVA and 6 kVA hybrid inverter systems with Jinko panels and recorded lithium storage.",
-      "imageCount": 4
-    },
-    {
       "url": "https://istng.com/resources/case-studies/river-valley-estate-residential-solar-installation",
       "title": "River Valley Estate Residential Solar Case Study Nigeria | Integrated Solutions Technology",
       "description": "A River Valley Estate home solar installation with a 10 kVA hybrid inverter, 16 kWh lithium battery and twelve 620 W Jinko panels.",
+      "imageCount": 4
+    },
+    {
+      "url": "https://istng.com/resources/case-studies/sunshine-estate-residential-hybrid-solar-installations",
+      "title": "Sunshine Estate Residential Solar Installation Case Study | Integrated Solutions Technology",
+      "description": "Compare two Sunshine Estate installations: 3 kVA and 6 kVA hybrid inverter systems with Jinko panels and recorded lithium storage.",
       "imageCount": 4
     },
     {
@@ -221,22 +221,28 @@
       "imageCount": 6
     },
     {
-      "url": "https://istng.com/resources/our-work/solar-installations",
-      "title": "Solar installations Photos | Integrated Solutions Technology",
-      "description": "Rooftop solar arrays and panel installation work from the supplied Integrated Solutions photographs. Explore 7 project photographs from Integrated...",
-      "imageCount": 7
-    },
-    {
       "url": "https://istng.com/resources/tools",
       "title": "Project Planning Tools | Integrated Solutions Technology",
       "description": "Use interactive worksheets to plan a solar, infrastructure or security project and prepare for a technical consultation.",
       "imageCount": 0
     },
     {
+      "url": "https://istng.com/resources/our-work/solar-installations",
+      "title": "Solar installations Photos | Integrated Solutions Technology",
+      "description": "Rooftop solar arrays and panel installation work from the supplied Integrated Solutions photographs. Explore 7 project photographs from Integrated...",
+      "imageCount": 7
+    },
+    {
       "url": "https://istng.com/services/automated-gates-sliding-doors",
       "title": "Automated Door & Gate Systems in Nigeria | Integrated Solutions Technology",
       "description": "Automated gate and door installation in Nigeria, including sliding and swing gates, commercial entrance doors and safety device checks.",
-      "imageCount": 5
+      "imageCount": 4
+    },
+    {
+      "url": "https://istng.com/services/data-centre-deployment",
+      "title": "Data Centre & IT Infrastructure | Integrated Solutions Technology",
+      "description": "Data centre deployment in Nigeria: rack-and-stack, equipment installation, server deployment, testing and verification. Discuss your project.",
+      "imageCount": 17
     },
     {
       "url": "https://istng.com/resources/tools/infrastructure-readiness",
@@ -257,22 +263,16 @@
       "imageCount": 0
     },
     {
-      "url": "https://istng.com/services/data-centre-deployment",
-      "title": "Data Centre & IT Infrastructure | Integrated Solutions Technology",
-      "description": "Data centre deployment in Nigeria: rack-and-stack, equipment installation, server deployment, testing and verification. Discuss your project.",
-      "imageCount": 22
-    },
-    {
       "url": "https://istng.com/services/data-centre-deployment/equipment-installation",
       "title": "Data Centre Equipment Installation in Nigeria | Integrated Solutions Technology",
       "description": "Install servers, storage and network appliances in Nigerian data centres, with equipment placement, connectivity checks and documented handover.",
-      "imageCount": 8
+      "imageCount": 7
     },
     {
       "url": "https://istng.com/services/data-centre-deployment/equipment-testing-verification",
       "title": "Data Centre Infrastructure Testing & Verification in Nigeria | Integrated Solutions Technology",
       "description": "Verify data centre deployments in Nigeria with rack inspections, cable and port checks, equipment checks and documented findings before handover.",
-      "imageCount": 5
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/services/data-centre-deployment/moves-adds-changes",
@@ -302,37 +302,37 @@
       "url": "https://istng.com/services/data-centre-security-safety",
       "title": "Data Centre Security Services Nigeria | Integrated Solutions Technology",
       "description": "Data centre access control, CCTV, mantraps, fire alarms and security deployment in Nigeria. Discuss your site's requirements with Integrated Solutions...",
-      "imageCount": 24
+      "imageCount": 23
     },
     {
       "url": "https://istng.com/services/data-centre-security-safety/mantrap-installation-servicing",
       "title": "Mantrap Door Installation & Servicing in Nigeria | Integrated Solutions Technology",
       "description": "Mantrap door installation and servicing in Nigeria for data centres and restricted areas, including access control integration and functional testing.",
-      "imageCount": 5
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/services/data-centre-services",
       "title": "Server Room Setup & Deployment in Nigeria | Integrated Solutions Technology",
       "description": "Set up a server room in Nigeria with rack installation, structured cabling, equipment deployment and checks before handover.",
-      "imageCount": 8
+      "imageCount": 7
     },
     {
       "url": "https://istng.com/services/door-access-control",
       "title": "Access Control Systems in Nigeria | Integrated Solutions Technology",
       "description": "Door access control in Nigeria for offices and restricted areas, with card, PIN and biometric options, electronic locks and access management.",
-      "imageCount": 4
+      "imageCount": 2
     },
     {
       "url": "https://istng.com/services/fire-alarm-safety-systems",
       "title": "Fire Alarm & Safety Systems in Nigeria | Integrated Solutions Technology",
       "description": "Fire alarm systems in Nigeria, including smoke and heat detection, control panels, alarm installation, testing and commissioning.",
-      "imageCount": 5
+      "imageCount": 3
     },
     {
       "url": "https://istng.com/services/firewall-sales-licenses",
       "title": "Firewall Supply, Installation & Licensing in Nigeria | Integrated Solutions Technology",
       "description": "Firewall supply, installation and licensing in Nigeria, including appliance selection, configuration, licence activation and handover.",
-      "imageCount": 5
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/services/it-consultancy-audit-services",
@@ -350,7 +350,13 @@
       "url": "https://istng.com/services/it-project-management",
       "title": "IT Project Implementation & Support in Nigeria | Integrated Solutions Technology",
       "description": "IT project implementation and support in Nigeria for network deployments, server and storage installations, and multi-site equipment rollouts.",
-      "imageCount": 7
+      "imageCount": 6
+    },
+    {
+      "url": "https://istng.com/services/network-configurations",
+      "title": "Network Configuration & Upgrades in Nigeria | Integrated Solutions Technology",
+      "description": "Network configuration and upgrades in Nigeria, including switch, router and VLAN setup, hardware upgrades and connectivity checks.",
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/services/it-technical-services",
@@ -365,16 +371,10 @@
       "imageCount": 6
     },
     {
-      "url": "https://istng.com/services/network-configurations",
-      "title": "Network Configuration & Upgrades in Nigeria | Integrated Solutions Technology",
-      "description": "Network configuration and upgrades in Nigeria, including switch, router and VLAN setup, hardware upgrades and connectivity checks.",
-      "imageCount": 6
-    },
-    {
       "url": "https://istng.com/services/network-infrastructure-connectivity",
       "title": "Network Infrastructure & Cabling Nigeria | Integrated Solutions Technology",
       "description": "Network installation, configuration, fibre and copper cabling, labelling and remediation for data centres and businesses in Nigeria.",
-      "imageCount": 23
+      "imageCount": 19
     },
     {
       "url": "https://istng.com/services/network-infrastructure-connectivity/cable-labelling-port-mapping",
@@ -383,28 +383,22 @@
       "imageCount": 4
     },
     {
+      "url": "https://istng.com/services/network-infrastructure-connectivity/network-equipment-installation",
+      "title": "Network Equipment Installation in Nigeria | Integrated Solutions Technology",
+      "description": "Network equipment installation in Nigeria for switches, routers, access points and network appliances, with rack mounting and connection checks.",
+      "imageCount": 5
+    },
+    {
       "url": "https://istng.com/services/network-infrastructure-connectivity/rack-cabling-remediation",
       "title": "Cable Routing & Rack Remediation in Nigeria | Integrated Solutions Technology",
       "description": "Cable routing and rack remediation in Nigeria to organise patch cords, improve access and document connections in existing network cabinets.",
       "imageCount": 6
     },
     {
-      "url": "https://istng.com/services/network-infrastructure-connectivity/network-equipment-installation",
-      "title": "Network Equipment Installation in Nigeria | Integrated Solutions Technology",
-      "description": "Network equipment installation in Nigeria for switches, routers, access points and network appliances, with rack mounting and connection checks.",
-      "imageCount": 6
-    },
-    {
       "url": "https://istng.com/services/sales-of-data-centre-consumables",
       "title": "Rack Accessories & Consumables Supply in Nigeria | Integrated Solutions Technology",
       "description": "Rack accessories and consumables in Nigeria, including mounting rails, shelves, cable managers, blanking panels, PDUs and patch cords.",
-      "imageCount": 5
-    },
-    {
-      "url": "https://istng.com/services/sales-of-it-hardware",
-      "title": "IT Hardware & Equipment Procurement in Nigeria | Integrated Solutions Technology",
-      "description": "IT hardware procurement in Nigeria for business computers, enterprise servers, storage, network equipment and accessories.",
-      "imageCount": 7
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/services/server-sales-repair",
@@ -413,16 +407,22 @@
       "imageCount": 6
     },
     {
+      "url": "https://istng.com/services/sales-of-it-hardware",
+      "title": "IT Hardware & Equipment Procurement in Nigeria | Integrated Solutions Technology",
+      "description": "IT hardware procurement in Nigeria for business computers, enterprise servers, storage, network equipment and accessories.",
+      "imageCount": 6
+    },
+    {
       "url": "https://istng.com/services/server-storage-hardware",
       "title": "Server & Storage Services Nigeria | Integrated Solutions Technology",
       "description": "Enterprise server and storage supply, repair, deployment and procurement support in Nigeria. Discuss your hardware requirements with Integrated Solutions...",
-      "imageCount": 21
+      "imageCount": 20
     },
     {
       "url": "https://istng.com/services/server-storage-provisioning-deployment",
       "title": "Data Storage Solutions in Nigeria | Integrated Solutions Technology",
       "description": "Enterprise data storage solutions in Nigeria, including NAS, SAN and server storage selection, capacity planning, installation and verification.",
-      "imageCount": 7
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/services/smart-hands-technical-support/smart-hands",
@@ -431,15 +431,15 @@
       "imageCount": 6
     },
     {
-      "url": "https://istng.com/services/structured-lan-cabling",
-      "title": "Structured LAN Cabling in Nigeria | Integrated Solutions Technology",
-      "description": "Structured LAN cabling in Nigeria with Cat6 and Cat6A Ethernet, network outlets, patch panels, cable testing and labelling for businesses.",
-      "imageCount": 5
-    },
-    {
       "url": "https://istng.com/services/surveillance-system-cctv",
       "title": "CCTV Installation & Surveillance in Nigeria | Integrated Solutions Technology",
       "description": "CCTV installation in Nigeria for homes and businesses, including coverage planning, camera installation, recording and authorised remote viewing.",
+      "imageCount": 3
+    },
+    {
+      "url": "https://istng.com/services/structured-lan-cabling",
+      "title": "Structured LAN Cabling in Nigeria | Integrated Solutions Technology",
+      "description": "Structured LAN cabling in Nigeria with Cat6 and Cat6A Ethernet, network outlets, patch panels, cable testing and labelling for businesses.",
       "imageCount": 5
     },
     {
@@ -461,16 +461,16 @@
       "imageCount": 1
     },
     {
-      "url": "https://istng.com/solutions/data-centre-planning",
-      "title": "Data Centre Design & Infrastructure Planning in Nigeria | Integrated Solutions Technology",
-      "description": "Plan your data centre in Nigeria with facility assessments, rack layouts, cabling routes and power and cooling coordination.",
-      "imageCount": 7
-    },
-    {
       "url": "https://istng.com/solutions/enterprise-it",
       "title": "Enterprise IT Solutions | Integrated Solutions Technology",
       "description": "We deliver data centre, networking, server, storage and technical support solutions designed around business infrastructure requirements.",
       "imageCount": 1
+    },
+    {
+      "url": "https://istng.com/solutions/data-centre-planning",
+      "title": "Data Centre Design & Infrastructure Planning in Nigeria | Integrated Solutions Technology",
+      "description": "Plan your data centre in Nigeria with facility assessments, rack layouts, cabling routes and power and cooling coordination.",
+      "imageCount": 5
     },
     {
       "url": "https://istng.com/solutions/enterprise-server-installation",
@@ -479,16 +479,16 @@
       "imageCount": 7
     },
     {
-      "url": "https://istng.com/solutions/fibre-optic-cabling",
-      "title": "Fibre Optic Cabling in Nigeria | Integrated Solutions Technology",
-      "description": "Fibre optic cabling in Nigeria for business backbones and links between buildings, with fibre termination, patching and verification.",
-      "imageCount": 5
-    },
-    {
       "url": "https://istng.com/solutions/institutional-solutions",
       "title": "Institutional Solutions | Integrated Solutions Technology",
       "description": "We help plan and implement energy and supporting technology solutions that meet their operational requirements.",
       "imageCount": 1
+    },
+    {
+      "url": "https://istng.com/solutions/fibre-optic-cabling",
+      "title": "Fibre Optic Cabling in Nigeria | Integrated Solutions Technology",
+      "description": "Fibre optic cabling in Nigeria for business backbones and links between buildings, with fibre termination, patching and verification.",
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/solutions/it-infrastructure-upgrades",
@@ -500,7 +500,7 @@
       "url": "https://istng.com/solutions/it-services-support",
       "title": "IT Services & Technical Support | Integrated Solutions Technology",
       "description": "We help teams assess, maintain and upgrade their IT through consulting, onsite assistance and ongoing support.",
-      "imageCount": 24
+      "imageCount": 22
     },
     {
       "url": "https://istng.com/solutions/security-maintenance",
@@ -527,16 +527,16 @@
       "imageCount": 7
     },
     {
-      "url": "https://istng.com/solutions/solar-energy/hybrid-solar-systems",
-      "title": "Hybrid Solar & Inverter Systems in Nigeria | Integrated Solutions Technology",
-      "description": "Hybrid solar and inverter installation in Nigeria for homes and businesses using solar panels, battery storage and compatible grid or generator power.",
-      "imageCount": 7
-    },
-    {
       "url": "https://istng.com/solutions/solar-energy/industrial-solar",
       "title": "Industrial Solar Solutions in Nigeria | Integrated Solutions Technology",
       "description": "Industrial solar installation in Nigeria for factories and warehouses, designed around machinery loads, operating hours and existing power systems.",
       "imageCount": 6
+    },
+    {
+      "url": "https://istng.com/solutions/solar-energy/hybrid-solar-systems",
+      "title": "Hybrid Solar & Inverter Systems in Nigeria | Integrated Solutions Technology",
+      "description": "Hybrid solar and inverter installation in Nigeria for homes and businesses using solar panels, battery storage and compatible grid or generator power.",
+      "imageCount": 7
     },
     {
       "url": "https://istng.com/solutions/solar-energy/residential-solar",
@@ -554,13 +554,13 @@
       "url": "https://istng.com/solutions/video-monitoring-recording",
       "title": "Video Monitoring & Recording Systems in Nigeria | Integrated Solutions Technology",
       "description": "Video monitoring and recording systems in Nigeria, including DVR and NVR setup, storage planning, live viewing and footage retrieval.",
-      "imageCount": 5
+      "imageCount": 4
     },
     {
       "url": "https://istng.com/solutions/wireless-networks",
       "title": "Wireless Network Solutions in Nigeria | Integrated Solutions Technology",
       "description": "Business Wi-Fi design and installation in Nigeria, including site surveys, access point deployment, guest networks and coverage testing.",
-      "imageCount": 5
+      "imageCount": 4
     }
   ]
 }
