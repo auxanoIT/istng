@@ -1,0 +1,181 @@
+{
+  "mode": "Built-in image generation",
+  "images": [
+    {
+      "name": "rack-equipment-inspection",
+      "image": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 101384,
+      "prompt": "Nigerian female engineer carefully inspecting rack rails, blanking panels, secured server mounting and front status indicators in an open enterprise rack, holding a compact inspection torch. Three-quarter close-medium view; focus on physical rack inspection, not cable certification or a meeting. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "fibre-splicing-termination",
+      "image": "/integrated-assets/images/technical-gallery/fibre-splicing-termination.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 91922,
+      "prompt": "Close-up of a Nigerian technician's hands operating a real fibre fusion splicer on a clean technical workbench. Precision fibre cleaver, protective sleeves and carefully prepared optical fibre nearby, orderly realistic delicate strands, splicer's lid open, no glass shards or sparks. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "wireless-coverage-assessment",
+      "image": "/integrated-assets/images/technical-gallery/wireless-coverage-assessment.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 70148,
+      "prompt": "Nigerian female IT engineer walking through a modern office with a laptop showing an abstract Wi-Fi coverage heatmap without readable text, ceiling access point visible further away. Clear subject is wireless coverage assessment, not installing a router. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "fibre-link-testing",
+      "image": "/integrated-assets/images/technical-gallery/fibre-link-testing.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 100988,
+      "prompt": "Nigerian network engineer testing a fibre patch-panel link using a handheld optical power meter and light source with realistic yellow optical patch leads, clean server-room environment. Show the instruments and properly connected capped spare ports, no looking into a fibre connector. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "switch-console-configuration",
+      "image": "/integrated-assets/images/technical-gallery/switch-console-configuration.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 97712,
+      "prompt": "Close-medium view of Nigerian IT engineer configuring a rack-mounted enterprise managed switch through a laptop and a realistic console connection. Laptop screen shows a simple abstract configuration interface without readable text; blue Ethernet leads organised and distinct switch ports visible. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "network-segmentation-planning",
+      "image": "/integrated-assets/images/technical-gallery/network-segmentation-planning.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 101440,
+      "prompt": "Nigerian male network specialist and female colleague at a desk planning three clearly separated business network zones on a large monitor using a simple coloured network topology, with a compact managed switch on the desk. No readable text, no numeric performance claims, realistic contemporary office. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "business-router-installation",
+      "image": "/integrated-assets/images/technical-gallery/business-router-installation.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 97652,
+      "prompt": "Nigerian female network technician installing one compact enterprise router on a rack shelf and connecting its WAN and LAN Ethernet leads. Equipment bay well lit, realistic router with a handful of ports, not a 48-port switch, no brand names. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "nas-storage-system",
+      "image": "/integrated-assets/images/technical-gallery/nas-storage-system.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 70138,
+      "prompt": "Professional product photograph of an unbranded six-bay desktop network attached storage appliance on an office equipment bench, clearly visible removable drive trays, rear Ethernet lead and small UPS softly out of focus. No person needed, believable modern NAS hardware, no generated lettering. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "san-storage-fabric",
+      "image": "/integrated-assets/images/technical-gallery/san-storage-fabric.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 154632,
+      "prompt": "Professional infrastructure photograph showing a rack-mounted enterprise storage controller with expansion shelves and two compact fibre-channel fabric switches, organised aqua optical connections. Three-quarter front perspective, realistic storage hardware, no brand names or readable labels. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "business-it-peripherals",
+      "image": "/integrated-assets/images/technical-gallery/business-it-peripherals.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 116660,
+      "prompt": "Carefully organised IT peripherals and replacement components on a procurement bench: wired keyboards, computer mice, USB-C docks, compact external SSDs and power adapters. No laptops, desktop monitors or servers dominating the frame. Genuine-looking matte plastics and metal, neat professional product photography. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "office-cctv-installation",
+      "image": "/integrated-assets/images/technical-gallery/office-cctv-installation.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 91318,
+      "prompt": "Nigerian security technician using a stable platform ladder to install a white dome security camera on the ceiling of a modern office entrance. Camera and clean cable entry clear in foreground, professional safe indoor work, no exposed electrical wiring. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "biometric-access-reader",
+      "image": "/integrated-assets/images/technical-gallery/biometric-access-reader.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 57816,
+      "prompt": "Close-up of a modern unbranded fingerprint and proximity-card access terminal mounted properly beside an office door, one Nigerian hand presenting an access card beneath the sensor. Clear reader hardware, discreet conduit, realistic material detail, no text or personal data. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "restricted-server-room-entry",
+      "image": "/integrated-assets/images/technical-gallery/restricted-server-room-entry.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 74544,
+      "prompt": "Wide-medium view of a secure server-room entrance with one solid glazed door, electronic access reader and visible server racks through the narrow glazing. Nigerian technician presenting a credential to enter, professional access-controlled facility. This is a single controlled door, not a two-door mantrap vestibule. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "security-monitoring-displays",
+      "image": "/integrated-assets/images/technical-gallery/security-monitoring-displays.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 126794,
+      "prompt": "Professional photograph of a security control desk with a large bank of four monitors displaying different generic CCTV views of entrances, parking and an office corridor. Empty operator chair in foreground, no operator present, no personal faces or readable text. Focus on surveillance display infrastructure. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "smoke-heat-detection-devices",
+      "image": "/integrated-assets/images/technical-gallery/smoke-heat-detection-devices.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 29252,
+      "prompt": "Professional close-up installation photograph of a white optical smoke detector and a separate compact heat detector correctly mounted on a clean commercial ceiling, with discreet nearby conduit where appropriate. Realistic distinct detector shapes and vent patterns, no camera or sprinkler confusion, no person needed. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "fire-call-point-and-sounder",
+      "image": "/integrated-assets/images/technical-gallery/fire-call-point-and-sounder.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 33790,
+      "prompt": "Professional close-medium photograph of a red manual fire alarm call point with resettable element mounted at accessible hand height, and a red alarm sounder with beacon mounted higher on the same clean commercial corridor wall. Tidy conduit, realistic installed devices, no people and no text overlays. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "automatic-swing-gate-operators",
+      "image": "/integrated-assets/images/technical-gallery/automatic-swing-gate-operators.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 201456,
+      "prompt": "Professional exterior photograph of a Nigerian property's two-leaf metal swing gate with clearly visible articulated automatic gate operators mounted between gate leaves and masonry pillars. Gates slightly open inward, realistic motors and safety sensors, tropical landscaping. Not a sliding gate and no track under the gate. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "firewall-appliance-integration",
+      "image": "/integrated-assets/images/technical-gallery/firewall-appliance-integration.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 118588,
+      "prompt": "Nigerian network technician connecting an unbranded enterprise firewall security appliance in a rack, with separate organised WAN and internal-network cables and a nearby laptop. Appliance clearly the focus, professional server-room lighting, no readable interface or fake security badges. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "ethernet-data-outlets",
+      "image": "/integrated-assets/images/technical-gallery/ethernet-data-outlets.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 82906,
+      "prompt": "Professional close-up of a neatly installed double RJ45 Ethernet wall faceplate in a modern office, one blue patch lead plugged into one socket, the other port open and clearly visible. Additional workstation furniture softly blurred behind, tidy wall finish, no power socket or optical connector confusion. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "infrastructure-handover-records",
+      "image": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 116684,
+      "prompt": "Nigerian female project engineer handing an organised installation dossier and tablet to a Nigerian male business IT representative beside a completed server rack. Pages show neat generic rack diagrams and checkboxes without readable words, confident collaborative handover, not a sales pitch. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable real engineering equipment and connections, restrained navy and neutral tones, natural clean lighting, crisp textures, no text overlays, no readable brands, no logos, no watermarks. Any person must be a Nigerian Black professional in neat navy workwear; anatomically natural hands. Single coherent photograph, no collage or split screen."
+    },
+    {
+      "name": "ethernet-cable-certification",
+      "image": "/integrated-assets/images/technical-gallery/ethernet-cable-certification.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 135922,
+      "prompt": "Close-medium view of a Nigerian female cabling technician using a professional handheld copper Ethernet cable certification tester connected to an RJ45 patch panel. The separate remote tester module rests on a work surface, screen shows abstract pass-check graphics without readable text. Clear rectangular copper RJ45 connectors, blue Cat6 test leads, orderly patch panel. Not fibre optic instruments. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable engineering equipment, clean natural lighting, no readable brands, no logos, no watermarks, no text overlays. Any people must be Nigerian Black professionals in neat navy workwear. Single coherent photograph."
+    },
+    {
+      "name": "fibre-distribution-panel",
+      "image": "/integrated-assets/images/technical-gallery/fibre-distribution-panel.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 125904,
+      "prompt": "Professional close-up of an open rack-mounted optical fibre distribution frame showing rows of aqua LC duplex adapters, a neatly organised internal splice tray and carefully routed yellow optical patch leads. Proper fibre bend radii, thin optical cables, realistic termination hardware, no ordinary copper RJ45 sockets dominating the scene. No person needed. Original photorealistic professional service-gallery photograph for Integrated Solutions Technology in Nigeria. Landscape 3:2 with generous crop margins for 4:3 cards. Believable engineering equipment, clean natural lighting, no readable brands, no logos, no watermarks, no text overlays. Any people must be Nigerian Black professionals in neat navy workwear. Single coherent photograph."
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import {
   relatedResourceCardsQuery, resourceSitemapQuery,
 } from "@/sanity/lib/queries";
 import { editorialSections, planningSections, type EditorialSection, type PlanningSection, type ResourceSection } from "@/data/resource-sections";
-import type { BlogPost } from "@/lib/types";
+import type { BlogPost, ServiceNavMedia } from "@/lib/types";
 import { canonicalServicePath, serviceRouteAliases } from "@/lib/service-routes";
 
 export type EditorialCard = Omit<BlogPost, "body" | "takeaways">;
@@ -17,7 +17,7 @@ export type PlanningResource = Pick<BlogPost, "title" | "slug" | "excerpt" | "se
   checklist?: string[];
   file?: { url: string; originalFilename?: string; size?: number; mimeType?: string };
 };
-export type ResourceCard = { title: string; slug: string; excerpt?: string; section: ResourceSection };
+export type ResourceCard = { title: string; slug: string; excerpt?: string; section: ResourceSection; image?: ServiceNavMedia };
 type SitemapResource = Pick<ResourceCard, "title" | "slug" | "section"> & { image?: string; images?: string[]; updatedAt?: string };
 
 async function preview() {

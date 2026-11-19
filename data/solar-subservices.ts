@@ -1,3 +1,4 @@
+import { subserviceGalleryImage } from "./subservice-gallery";
 import type { SubserviceOverviewContent } from "@/components/pages/subservice-overview";
 import { residentialSolarContent, residentialSolarDescription, residentialSolarSlug, residentialSolarTitle } from "@/data/residential-solar";
 import { solarOverviewPath, solarServicePath, solarServiceSlugs } from "@/data/solar-routes";
@@ -97,7 +98,7 @@ export function getSolarSubservice(slug: SolarSlug): { name: string; description
       gallery: {
         ...brief.gallery,
         paragraphs: brief.gallery.paragraphs,
-        items: brief.gallery.items.map((item, index) => ({ ...item, image: images.gallery[index] })),
+        items: brief.gallery.items.map((item, index) => ({ ...item, image: subserviceGalleryImage(solarServicePath(slug), index, images.gallery[index]) })),
         action: { label: brief.gallery.cta, href: consultation },
       },
       faq: { ...brief.faq, action: { label: brief.faq.cta, href: consultation } },

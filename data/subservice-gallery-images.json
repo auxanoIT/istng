@@ -1,0 +1,722 @@
+{
+  "/services/solar-energy/commercial-solar": [
+    {
+      "src": "/integrated-assets/images/solar-campus.webp",
+      "alt": "Solar panels across commercial rooftops"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/industrial-solar-equipment.webp",
+      "alt": "Industrial inverters and battery cabinets in a dedicated electrical room"
+    },
+    {
+      "src": "/integrated-assets/images/rooftop-solar-technicians.webp",
+      "alt": "Solar installation crew on a rooftop"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-inverter-commissioning.webp",
+      "alt": "Nigerian technician checking a hybrid inverter and distribution cabinet"
+    }
+  ],
+  "/services/solar-energy/industrial-solar": [
+    {
+      "src": "/integrated-assets/images/solutions/factory-rooftop-solar.webp",
+      "alt": "Solar panels on a factory roof in a Nigerian industrial estate"
+    },
+    {
+      "src": "/image/operation-teams/journey-industrial.webp",
+      "alt": "Cutaway illustration of rooftop solar on an industrial facility"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/industrial-solar-equipment.webp",
+      "alt": "Industrial inverters and battery cabinets in a dedicated electrical room"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-inverter-commissioning.webp",
+      "alt": "Nigerian technician checking a hybrid inverter and distribution cabinet"
+    }
+  ],
+  "/services/solar-energy/hybrid-solar-systems": [
+    {
+      "src": "/integrated-assets/images/solutions/hybrid-solar.webp",
+      "alt": "Wall-mounted hybrid inverter and electrical equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/battery-storage.webp",
+      "alt": "Battery storage cabinets installed indoors"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-system-equipment.webp",
+      "alt": "Solar panel, inverter and battery storage equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-inverter-commissioning.webp",
+      "alt": "Nigerian technician checking a hybrid inverter and distribution cabinet"
+    }
+  ],
+  "/services/solar-energy/battery-storage": [
+    {
+      "src": "/integrated-assets/images/solutions/battery-storage.webp",
+      "alt": "Battery storage cabinets installed indoors"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/industrial-solar-equipment.webp",
+      "alt": "Industrial inverters and battery cabinets in a dedicated electrical room"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-inverter-commissioning.webp",
+      "alt": "Nigerian technician checking a hybrid inverter and distribution cabinet"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-battery-inspection.webp",
+      "alt": "Nigerian technician checking the charge status of lithium battery cabinets"
+    }
+  ],
+  "/services/solar-energy/solar-maintenance": [
+    {
+      "src": "/integrated-assets/images/solutions/solar-maintenance.webp",
+      "alt": "Technicians inspecting a rooftop solar array"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/hybrid-solar.webp",
+      "alt": "Wall-mounted hybrid inverter and electrical equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-battery-inspection.webp",
+      "alt": "Nigerian technician checking the charge status of lithium battery cabinets"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/solar-inverter-commissioning.webp",
+      "alt": "Nigerian technician checking a hybrid inverter and distribution cabinet"
+    }
+  ],
+  "/services/data-centre-deployment/data-centre-planning": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/data-centre-infrastructure-nigeria-hero.webp",
+      "alt": "Nigerian infrastructure engineers inspecting equipment in a data centre"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "src": "/integrated-assets/images/overview/network-planning.webp",
+      "alt": "Nigerian project team reviewing infrastructure installation plans"
+    }
+  ],
+  "/services/data-centre-deployment/data-centre-services": [
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r07-11-front.webp",
+      "alt": "Installed enterprise rack showing equipment, ports and mounting positions"
+    },
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r08-11-rear.webp",
+      "alt": "Rear of an installed equipment rack showing cable routes and connections"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/data-centre-deployment/rack-and-stack": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/firewall-appliance-integration.webp",
+      "alt": "Nigerian technician connecting an enterprise firewall appliance in a network rack"
+    },
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r08-11-rear.webp",
+      "alt": "Rear of an installed equipment rack showing cable routes and connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    }
+  ],
+  "/services/data-centre-deployment/equipment-installation": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/business-router-installation.webp",
+      "alt": "Nigerian technician connecting an enterprise router on a rack shelf"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/fibre-link-testing.webp",
+      "alt": "Nigerian technician checking an optical fibre link with test instruments"
+    }
+  ],
+  "/services/data-centre-deployment/equipment-testing-verification": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/overview/copper-testing.webp",
+      "alt": "Nigerian engineer testing structured network connections"
+    },
+    {
+      "src": "/integrated-assets/images/overview/operations-monitoring.webp",
+      "alt": "Nigerian IT engineer monitoring business systems"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/data-centre-deployment/moves-adds-changes": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "alt": "Enterprise rackmount servers and rails prepared for supply"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r08-11-rear.webp",
+      "alt": "Rear of an installed equipment rack showing cable routes and connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/network-design-with-diagram": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/network-segmentation-planning.webp",
+      "alt": "Nigerian network specialists reviewing separate business network zones"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/switch-console-configuration.webp",
+      "alt": "Nigerian network engineer configuring a managed switch through a laptop connection"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/structured-lan-cabling": [
+    {
+      "src": "/integrated-assets/images/overview/copper-testing.webp",
+      "alt": "Nigerian engineer testing structured network connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/ethernet-data-outlets.webp",
+      "alt": "Office wall faceplate with two RJ45 Ethernet data outlets"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/ethernet-cable-certification.webp",
+      "alt": "Nigerian technician checking copper Ethernet cabling with a certification tester"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/fibre-optic-cabling": [
+    {
+      "src": "/integrated-assets/images/overview/fibre-installation.webp",
+      "alt": "Nigerian engineers connecting fibre-optic infrastructure"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/fibre-splicing-termination.webp",
+      "alt": "Nigerian technician preparing optical fibre in a fusion splicer"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/fibre-distribution-panel.webp",
+      "alt": "Optical fibre distribution frame with LC adapters, patch leads and an internal splice tray"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/fibre-link-testing.webp",
+      "alt": "Nigerian technician checking an optical fibre link with test instruments"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/wireless-networks": [
+    {
+      "src": "/integrated-assets/images/overview/wireless-survey.webp",
+      "alt": "Two Nigerian engineers inspecting an office Wi-Fi access point"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/switch-console-configuration.webp",
+      "alt": "Nigerian network engineer configuring a managed switch through a laptop connection"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/wireless-coverage-assessment.webp",
+      "alt": "Nigerian engineer assessing office Wi-Fi coverage with a laptop"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/network-configurations": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/switch-console-configuration.webp",
+      "alt": "Nigerian network engineer configuring a managed switch through a laptop connection"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/network-segmentation-planning.webp",
+      "alt": "Nigerian network specialists reviewing separate business network zones"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/overview/operations-monitoring.webp",
+      "alt": "Nigerian IT engineer monitoring business systems"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/network-equipment-installation": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/business-router-installation.webp",
+      "alt": "Nigerian technician connecting an enterprise router on a rack shelf"
+    },
+    {
+      "src": "/integrated-assets/images/overview/wireless-survey.webp",
+      "alt": "Two Nigerian engineers inspecting an office Wi-Fi access point"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/cable-labelling-port-mapping": [
+    {
+      "src": "/integrated-assets/images/overview/copper-testing.webp",
+      "alt": "Nigerian engineer testing structured network connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/ethernet-data-outlets.webp",
+      "alt": "Office wall faceplate with two RJ45 Ethernet data outlets"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/network-infrastructure-connectivity/rack-cabling-remediation": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-remediation.webp",
+      "alt": "Example of congested network cabling compared with an organised rack layout"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+      "alt": "Rack cable managers, brush panels and installation accessories"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/patch-cables-fibre.webp",
+      "alt": "Copper patch leads and fibre-optic cables arranged for network installation"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    }
+  ],
+  "/services/server-storage-hardware/enterprise-server-installation": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "alt": "Enterprise rackmount servers and rails prepared for supply"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-tower-server.webp",
+      "alt": "Standalone tower server on an IT service bench"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-server-memory.webp",
+      "alt": "Technician inspecting server memory modules"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    }
+  ],
+  "/services/server-storage-hardware/server-storage-provisioning-deployment": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/nas-storage-system.webp",
+      "alt": "Six-bay network attached storage appliance with removable drive trays"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/san-storage-fabric.webp",
+      "alt": "Enterprise storage shelves connected through optical storage fabric switches"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "src": "/integrated-assets/images/overview/fibre-installation.webp",
+      "alt": "Nigerian engineers connecting fibre-optic infrastructure"
+    }
+  ],
+  "/services/server-storage-hardware/sales-of-it-hardware": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "alt": "Business computer peripherals, docking hub and office equipment"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rackmount-server-supply.webp",
+      "alt": "Enterprise rackmount servers and rails prepared for supply"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/business-it-peripherals.webp",
+      "alt": "Business keyboards, mice, docks, external drives and power adapters prepared for deployment"
+    }
+  ],
+  "/services/server-storage-hardware/server-installation-configuration": [
+    {
+      "src": "/integrated-assets/images/overview/operations-monitoring.webp",
+      "alt": "Nigerian IT engineer monitoring business systems"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-server-memory.webp",
+      "alt": "Technician inspecting server memory modules"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "src": "/integrated-assets/images/overview/server-repair.webp",
+      "alt": "Nigerian server engineer working on an open chassis"
+    }
+  ],
+  "/services/server-storage-hardware/server-sales-repair": [
+    {
+      "src": "/integrated-assets/images/overview/server-repair.webp",
+      "alt": "Nigerian server engineer working on an open chassis"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-server-memory.webp",
+      "alt": "Technician inspecting server memory modules"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/server-storage-hardware/sales-of-data-centre-consumables": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-accessories.webp",
+      "alt": "Rack cable managers, brush panels and installation accessories"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/rack-airflow-and-power.webp",
+      "alt": "Rack blanking panels and a vertical power distribution unit"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/patch-cables-fibre.webp",
+      "alt": "Copper patch leads and fibre-optic cables arranged for network installation"
+    }
+  ],
+  "/services/data-centre-security-safety/surveillance-system-cctv": [
+    {
+      "src": "/integrated-assets/images/solutions/residential-cctv-camera.webp",
+      "alt": "Security camera overlooking a residential property"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/office-cctv-installation.webp",
+      "alt": "Nigerian technician installing a ceiling-mounted dome camera at an office entrance"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/cctv-installation.webp",
+      "alt": "Technician installing an exterior CCTV camera"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+      "alt": "Network video recorder and security monitoring equipment"
+    }
+  ],
+  "/services/data-centre-security-safety/door-access-control": [
+    {
+      "src": "/integrated-assets/images/solutions/office-door-access.webp",
+      "alt": "Office access-control reader being inspected by a Nigerian technician"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/biometric-access-reader.webp",
+      "alt": "Nigerian technician presenting a credential to a fingerprint and card access reader"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/restricted-server-room-entry.webp",
+      "alt": "Nigerian technician using a controlled door at a server-room entrance"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/access-management-console.webp",
+      "alt": "Nigerian facilities manager reviewing an access control dashboard"
+    }
+  ],
+  "/services/data-centre-security-safety/video-monitoring-recording": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/security-monitoring-displays.webp",
+      "alt": "Security monitoring desk with separate views of entrances, parking and corridors"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+      "alt": "Network video recorder and security monitoring equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/security-monitoring-operator.webp",
+      "alt": "Nigerian security operator reviewing CCTV camera feeds"
+    }
+  ],
+  "/services/data-centre-security-safety/security-maintenance": [
+    {
+      "src": "/integrated-assets/images/overview/camera-maintenance.webp",
+      "alt": "Nigerian technician inspecting a mounted CCTV camera"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/surveillance-recording.webp",
+      "alt": "Network video recorder and security monitoring equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/mantrap-entrance-inspection.webp",
+      "alt": "Nigerian technician checking a controlled entrance vestibule"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/cctv-installation.webp",
+      "alt": "Technician installing an exterior CCTV camera"
+    }
+  ],
+  "/services/data-centre-security-safety/fire-alarm-safety-systems": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/smoke-heat-detection-devices.webp",
+      "alt": "Distinct smoke and heat detectors mounted on a commercial ceiling"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/commercial-fire-alarm-panel.webp",
+      "alt": "Nigerian technician inspecting a fire alarm control panel"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/fire-call-point-and-sounder.webp",
+      "alt": "Manual fire alarm call point and alarm sounder installed on a corridor wall"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/fire-alarm-inspection.webp",
+      "alt": "Wall-mounted manual fire alarm call point and sounder"
+    }
+  ],
+  "/services/data-centre-security-safety/automated-gates-sliding-doors": [
+    {
+      "src": "/integrated-assets/images/solutions/residential-sliding-gate.webp",
+      "alt": "Modern Nigerian property with a secure automated entrance"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/automatic-swing-gate-operators.webp",
+      "alt": "Two-leaf automated swing gate with visible gate operators and safety sensors"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/automatic-sliding-doors.webp",
+      "alt": "Automatic glass entrance doors with overhead safety sensors"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/gate-safety-inspection.webp",
+      "alt": "Nigerian technician inspecting a safety sensor beside an automatic gate"
+    }
+  ],
+  "/services/data-centre-security-safety/mantrap-installation-servicing": [
+    {
+      "src": "/integrated-assets/images/solutions/mantrap-access-vestibule.webp",
+      "alt": "Two glass security doors in a controlled entry vestibule"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/restricted-server-room-entry.webp",
+      "alt": "Nigerian technician using a controlled door at a server-room entrance"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/biometric-access-reader.webp",
+      "alt": "Nigerian technician presenting a credential to a fingerprint and card access reader"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/mantrap-entrance-inspection.webp",
+      "alt": "Nigerian technician checking a controlled entrance vestibule"
+    }
+  ],
+  "/services/it-services-support/it-consultancy-audit-services": [
+    {
+      "src": "/integrated-assets/images/overview/copper-testing.webp",
+      "alt": "Nigerian engineer testing structured network connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "alt": "Business computer peripherals, docking hub and office equipment"
+    },
+    {
+      "src": "/integrated-assets/images/overview/technology-consultation.webp",
+      "alt": "Nigerian professionals reviewing technology requirements in an office"
+    }
+  ],
+  "/services/it-services-support/it-managed-services-staff-outsourcing": [
+    {
+      "src": "/integrated-assets/images/overview/helpdesk.webp",
+      "alt": "Nigerian IT support technician at a helpdesk"
+    },
+    {
+      "src": "/integrated-assets/images/overview/operations-monitoring.webp",
+      "alt": "Nigerian IT engineer monitoring business systems"
+    },
+    {
+      "src": "/integrated-assets/images/overview/server-repair.webp",
+      "alt": "Nigerian server engineer working on an open chassis"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/it-services-support/it-technical-services": [
+    {
+      "src": "/integrated-assets/images/overview/workstation-upgrade.webp",
+      "alt": "Nigerian technicians working on a workstation upgrade"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/overview/server-repair.webp",
+      "alt": "Nigerian server engineer working on an open chassis"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/it-services-support/it-infrastructure-upgrades": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-server-memory.webp",
+      "alt": "Technician inspecting server memory modules"
+    },
+    {
+      "src": "/integrated-assets/images/solutions/enterprise-storage-arrays.webp",
+      "alt": "Enterprise storage enclosure with serviceable drive bays"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    }
+  ],
+  "/services/it-services-support/it-project-management": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/structured-network-rack.webp",
+      "alt": "Managed fibre and copper connections in a network distribution rack"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/business-hardware.webp",
+      "alt": "Business computer peripherals, docking hub and office equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/it-services-support/smart-hands": [
+    {
+      "src": "/integrated-assets/images/technical-gallery/rack-equipment-inspection.webp",
+      "alt": "Nigerian engineer inspecting server mounting, rack rails and equipment indicators"
+    },
+    {
+      "src": "/integrated-assets/images/overview/fibre-installation.webp",
+      "alt": "Nigerian engineers connecting fibre-optic infrastructure"
+    },
+    {
+      "src": "/integrated-assets/images/brand-refresh/rack-installation.webp",
+      "alt": "Nigerian infrastructure team installing enterprise server equipment"
+    },
+    {
+      "src": "/integrated-assets/images/overview/helpdesk.webp",
+      "alt": "Nigerian IT support technician at a helpdesk"
+    }
+  ],
+  "/services/it-services-support/installation-documentation-handover": [
+    {
+      "src": "/integrated-assets/images/overview/network-planning.webp",
+      "alt": "Nigerian project team reviewing infrastructure installation plans"
+    },
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r07-11-front.webp",
+      "alt": "Installed enterprise rack showing equipment, ports and mounting positions"
+    },
+    {
+      "src": "/image/our-work/integrated-solutions-data-centre-rack-r08-11-rear.webp",
+      "alt": "Rear of an installed equipment rack showing cable routes and connections"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/infrastructure-handover-records.webp",
+      "alt": "Nigerian infrastructure engineer reviewing installation records with a client representative"
+    }
+  ],
+  "/services/it-services-support/firewall-sales-licenses": [
+    {
+      "src": "/integrated-assets/images/brand-refresh/network-equipment.webp",
+      "alt": "Ceiling wireless access points and network switching equipment"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/firewall-appliance-integration.webp",
+      "alt": "Nigerian technician connecting an enterprise firewall appliance in a network rack"
+    },
+    {
+      "src": "/integrated-assets/images/technical-gallery/network-segmentation-planning.webp",
+      "alt": "Nigerian network specialists reviewing separate business network zones"
+    },
+    {
+      "src": "/integrated-assets/images/overview/technology-consultation.webp",
+      "alt": "Nigerian professionals reviewing technology requirements in an office"
+    }
+  ]
+}

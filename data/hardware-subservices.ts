@@ -1,3 +1,4 @@
+import { subserviceGalleryImage } from "./subservice-gallery";
 import type { InfrastructureSubservicePage } from "@/components/pages/infrastructure-subservice";
 import { solutionPillars } from "@/data/enterprise-solutions";
 import { overviewImages as photo } from "@/data/overview-images";
@@ -127,7 +128,7 @@ export function getHardwareSubservice(path: string): InfrastructureSubservicePag
       gallery: {
         ...brief.gallery,
         paragraphs: brief.gallery.paragraphs,
-        items: brief.gallery.items.map((item, index) => ({ ...item, image: assets.gallery[index] })),
+        items: brief.gallery.items.map((item, index) => ({ ...item, image: subserviceGalleryImage(path, index, assets.gallery[index]) })),
         action: { label: brief.gallery.cta, href: consultation },
       },
       faq: { ...brief.faq, action: { label: brief.faq.cta, href: consultation } },
