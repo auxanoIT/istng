@@ -30,6 +30,11 @@ export function TurnstileField({ onVerify, onError, resetKey = 0 }: TurnstileFie
   const siteKey = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
   const containerRef = useRef<HTMLDivElement | null>(null);
   const widgetIdRef = useRef<string | null>(null);
+  const callbacksRef = useRef({ onVerify, onError });
+
+  useEffect(() => {
+    callbacksRef.current = { onVerify, onError };
+  }, [onVerify, onError]);
 
   const renderWidget = useCallback(() => {
     if (!siteKey || !containerRef.current || !window.turnstile || widgetIdRef.current) {
@@ -38,14 +43,14 @@ export function TurnstileField({ onVerify, onError, resetKey = 0 }: TurnstileFie
 
     widgetIdRef.current = window.turnstile.render(containerRef.current, {
       sitekey: siteKey,
-      callback: onVerify,
-      "expired-callback": () => onVerify(""),
+      callback: (token) => callbacksRef.current.onVerify(token),
+      "expired-callback": () => callbacksRef.current.onVerify(""),
       "error-callback": () => {
-        onVerify("");
-        onError?.();
+        callbacksRef.current.onVerify("");
+        callbacksRef.current.onError?.();
       },
     });
-  }, [onError, onVerify, siteKey]);
+  }, [siteKey]);
 
   useEffect(() => {
     renderWidget();
