@@ -130,7 +130,6 @@
   line-height: 1.65;
 }
 
-.copy .headline { color: var(--brand-navy); font-weight: 600; }
 .details p { margin-block: .55rem; }
 
 .details summary,

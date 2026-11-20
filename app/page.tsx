@@ -6,7 +6,6 @@ import { notFound } from "next/navigation";
 import { SectionRenderer } from "@/components/sections/section-renderer";
 import { FooterVideoCta } from "@/components/sections/footer-video-cta";
 import { HeroMetricStrip } from "@/components/sections/hero-metric-strip";
-import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
 import { getMarketingPage, getServices, getCaseStudies, getTestimonials, getFaqs } from "@/lib/content";
 import { JsonLd } from "@/components/ui/json-ld";
 import { buildMetadata } from "@/lib/seo";
@@ -70,7 +69,6 @@ export default async function HomePage() {
       />
       <IntegratedSolutionsHome />
       {originalHero?.metrics.length ? <HeroMetricStrip metrics={originalHero.metrics} /> : null}
-      <PartnerLogoMarquee />
       <SectionRenderer
         homeOperationTeams
         homeProjectJourney

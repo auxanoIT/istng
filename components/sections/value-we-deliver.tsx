@@ -10,7 +10,6 @@ const imageDirectory = "/image/value-we-deliver";
 const outcomes = [
   {
     title: "Take Control of Energy Costs",
-    headline: "Spend Less on Power. Invest More in What Matters.",
     paragraphs: [
       "Rising electricity and generator costs can place pressure on household and business budgets.",
       "With properly designed solar energy and battery storage systems, you can reduce dependence on fuel-powered generation and better manage ongoing energy expenses.",
@@ -23,7 +22,6 @@ const outcomes = [
   },
   {
     title: "Keep Operations Moving",
-    headline: "Reliable Power for the Moments That Matter.",
     paragraphs: [
       "From household essentials to business equipment, power interruptions can disrupt important activities.",
       "We help customers plan energy and backup systems around their essential electricity requirements, supporting greater continuity and everyday convenience.",
@@ -36,7 +34,6 @@ const outcomes = [
   },
   {
     title: "Build Connected Infrastructure",
-    headline: "Technology That Works Together, Not in Isolation.",
     paragraphs: [
       "Reliable energy is only one part of an effective operating environment.",
       "Our networking, server, storage and infrastructure solutions help businesses build organised technology environments that support connectivity, collaboration and efficient operations.",
@@ -49,7 +46,6 @@ const outcomes = [
   },
   {
     title: "Plan for Long-Term Performance",
-    headline: "Solutions Designed for Today. Ready for Tomorrow.",
     paragraphs: [
       "A good infrastructure investment should consider more than immediate requirements.",
       "We approach system design with attention to equipment compatibility, maintainability, changing energy needs and future growth.",
@@ -86,14 +82,13 @@ export function ValueWeDeliver() {
           </div>
         </div>
         <div className={styles.outcomes}>
-          {outcomes.map(({ title, headline, paragraphs, image, alt, cta, href }) => (
+          {outcomes.map(({ title, paragraphs, image, alt, cta, href }) => (
             <article className={styles.outcome} key={image}>
               <div className={styles.closeup}>
                 <Image src={`${imageDirectory}/${image}.webp`} alt={alt} fill sizes="100vw" />
               </div>
               <div className={styles.copy}>
                 <h3>{title}</h3>
-                <p className={styles.headline}>{headline}</p>
                 <p>{paragraphs[0]}</p>
                 <details className={styles.details}>
                   <summary aria-label={`Read more about ${title}`}>

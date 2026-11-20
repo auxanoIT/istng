@@ -13,6 +13,7 @@ import { MetricBand } from "@/components/sections/metric-band";
 import { NetworkMap } from "@/components/sections/network-map";
 import { OperationTeams } from "@/components/sections/operation-teams";
 import { ProjectJourney } from "@/components/sections/project-journey";
+import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
 import { RichContent } from "@/components/sections/rich-content";
 import { ServiceGrid } from "@/components/sections/service-grid";
 import { ServiceShowcase } from "@/components/sections/service-showcase";
@@ -80,7 +81,12 @@ export function SectionRenderer({
         if (homeValueWeDeliver) return <ValueWeDeliver key={key} />;
         return <CategoryShowcase key={key} section={section} />;
       case "interactiveServices":
-        if (homeProjectJourney) return <ProjectJourney key={key} />;
+        if (homeProjectJourney) return (
+          <div key={key}>
+            <PartnerLogoMarquee />
+            <ProjectJourney />
+          </div>
+        );
         return <InteractiveServices key={key} section={section} />;
       case "trustBanner":
         return <TrustBanner key={key} section={section} />;
