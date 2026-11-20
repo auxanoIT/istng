@@ -15,7 +15,6 @@ import * as solarOverview from "@/data/solar-overview";
 import { homeServicePillars } from "@/data/home-service-pillars";
 import { operationTeams } from "@/data/operation-teams";
 import { aboutContent } from "@/data/about-content";
-import { aboutTeam } from "@/data/about-team";
 import { installationPortfolio } from "@/data/integrated-case-studies";
 import { getCaseStudyServiceCards } from "@/data/case-study-service-cards";
 import { solutionPillars } from "@/data/enterprise-solutions";
@@ -45,7 +44,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/", images: ["/integrated-assets/images/solar-campus.webp", "/integrated-assets/images/nigerian-energy-engineer.webp", ...homeServicePillars.items.map(item => item.imageSrc), ...operationTeams.map(team => "/image/operation-teams/" + team.image)] },
     { path: "/solutions", images: solutionPillars.map(page => page.image.src) },
     { path: "/industries", images: industries.map(industry => industry.heroImage.src) },
-    { path: "/about", images: [aboutContent.hero.image, aboutContent.story.image, aboutContent.visionMission.image, aboutContent.collaboration.image, ...aboutTeam.map(person => person.image)] },
+    { path: "/about", images: [aboutContent.hero.image, aboutContent.story.image, aboutContent.visionMission.image, aboutContent.collaboration.image] },
     { path: "/book-consultation", images: ["/image/value-we-deliver/planning.webp"] },
     { path: "/careers", images: ["/image/service-details/managed-services-monitoring.webp"] },
     { path: "/site-map" },

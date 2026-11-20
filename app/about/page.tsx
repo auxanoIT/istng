@@ -7,7 +7,6 @@ import { AboutVisionMission } from "@/components/sections/about-vision-mission";
 import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
-import { AboutTeam } from "@/components/sections/about-team";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
@@ -93,10 +92,6 @@ export default function AboutPage() {
       </OverviewSection>
 
       <PartnerLogoMarquee staticDisplay />
-      <OverviewSection id="about-team">
-        <OverviewHeading id="about-team-title" copy={aboutContent.people} />
-        <div className="mt-8"><AboutTeam /></div>
-      </OverviewSection>
 
       <div className="bg-brand-soft-white text-brand-navy">
         <Container className="grid gap-8 py-14 sm:py-20 lg:grid-cols-2 lg:gap-14">
