@@ -6,11 +6,12 @@ import { AboutVisionMission } from "@/components/sections/about-vision-mission";
 import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
-import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
+import { TrustBanner } from "@/components/sections/trust-banner";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
 import copy from "@/data/about-company.json";
 import { aboutContent } from "@/data/about-content";
+import { homeTrustCopy } from "@/data/site-content";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
 
@@ -68,7 +69,14 @@ export default function AboutPage() {
 
       <AboutIndustries />
 
-      <PartnerLogoMarquee staticDisplay />
+      <div id="about-trust" className="scroll-mt-24">
+        <TrustBanner section={{
+          _type: "trustBanner",
+          title: homeTrustCopy.title,
+          description: copy.trust.description,
+          cta: { label: copy.trust.cta, href: "/services", variant: "primary" },
+        }} />
+      </div>
 
       <div className="bg-brand-soft-white text-brand-navy">
         <Container className="grid gap-8 py-14 sm:py-20 lg:grid-cols-2 lg:gap-14">
