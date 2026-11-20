@@ -1,13 +1,12 @@
 import Image from "@/components/ui/site-image";
 import Link from "@/components/ui/site-link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ChevronDown } from "lucide-react";
 
 import { OverviewHeading, OverviewParagraphs, OverviewSection, type OverviewAction, type OverviewCopy } from "@/components/pages/overview-layout";
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { ButtonLink } from "@/components/ui/button-link";
 import { JsonLd } from "@/components/ui/json-ld";
 import type { ServiceNavMedia } from "@/lib/types";
-import transition from "./overview-transition.module.css";
+import styles from "./overview-faq.module.css";
 
 export function OverviewRelated({ copy, items }: {
   copy: OverviewCopy;
@@ -54,16 +53,16 @@ export function OverviewFaq({ id, copy, action, renderAllAnswers = true }: {
         })),
       }} />}
       <OverviewHeading copy={copy} id={`${id}-title`} />
-      <Accordion type="single" collapsible defaultValue="question-0" className="mx-auto mt-8 max-w-3xl overflow-hidden rounded-lg border border-brand-border bg-white">
+      <div className="mx-auto mt-8 max-w-3xl overflow-hidden rounded-lg border border-brand-border bg-white">
         {copy.items.map((item, index) => (
-          <AccordionItem key={item.title} value={`question-${index}`} className="last:border-b-0">
-            <AccordionTrigger className="cursor-pointer px-4 sm:px-6 sm:text-base data-[state=open]:bg-brand-tint">{item.title}</AccordionTrigger>
-            <AccordionContent forceMount={renderAllAnswers ? true : undefined} className={renderAllAnswers ? transition.retainedAnswer : transition.answer}>
-              <OverviewParagraphs paragraphs={item.paragraphs} className={renderAllAnswers ? "px-4 pt-4 pb-4 text-brand-support sm:px-6" : "px-4 pt-3 text-brand-support sm:px-6"} />
-            </AccordionContent>
-          </AccordionItem>
+          <details key={item.title} name={id} open={index === 0} className={styles.item}>
+            <summary className="flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 px-4 py-4 text-sm font-medium sm:px-6 sm:text-base">
+              {item.title}<ChevronDown size={18} aria-hidden="true" className={styles.chevron} />
+            </summary>
+            <OverviewParagraphs paragraphs={item.paragraphs} className="px-4 pt-4 pb-4 text-brand-support sm:px-6" />
+          </details>
         ))}
-      </Accordion>
+      </div>
       <div className="mt-7 text-center">
         <ButtonLink href={action.href} className="rounded-md shadow-none">{action.label}</ButtonLink>
       </div>
