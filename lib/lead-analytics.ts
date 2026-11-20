@@ -1,11 +1,13 @@
+import { readAnalyticsConsent } from "./analytics-consent";
+
 type FormName = "contact" | "consultation" | "hero";
 
 declare global {
   interface Window {
     gtag?: (
       command: "event",
-      eventName: "generate_lead",
-      parameters: { form_name: FormName; currency: "NGN" },
+      eventName: "generate_lead" | "contact_click",
+      parameters: { form_name: FormName; currency: "NGN" } | { contact_method: "phone" | "email" | "whatsapp" },
     ) => void;
   }
 }
@@ -36,6 +38,7 @@ function flush() {
   flushing = true;
   try {
     expire();
+    if (readAnalyticsConsent() !== "accepted") pending.length = 0;
     if (typeof window.gtag === "function") {
       while (pending.length) {
         expire();
@@ -68,6 +71,7 @@ function flush() {
 
 export function trackLead(formName: FormName) {
   try {
+    if (readAnalyticsConsent() !== "accepted") return;
     expire();
     // Drop the newest event on overflow; preserve already queued submissions.
     if (pending.length >= MAX_QUEUE_SIZE) return;
@@ -76,4 +80,11 @@ export function trackLead(formName: FormName) {
   } catch {
     // Analytics is best effort and must never interrupt submission success.
   }
+}
+
+export function trackContactClick(method: "phone" | "email" | "whatsapp") {
+  try {
+    if (readAnalyticsConsent() !== "accepted") return;
+    window.gtag?.("event", "contact_click", { contact_method: method });
+  } catch { /* Contact links must work even when analytics is unavailable. */ }
 }

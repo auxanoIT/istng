@@ -9,6 +9,25 @@ import { navigation } from './helpers/lead-navigation.mjs';
 
 const require = createRequire(import.meta.url);
 
+for (const consent of [null, 'declined']) {
+  test(`no tracking without accepted analytics consent: ${consent}`, async () => {
+    const h = harness('consultation', async () => Response.json({ ok: true }));
+    h.consent(consent);
+    await h.submit();
+    h.contactClick('phone');
+    h.advance(31_000);
+    assert.equal(h.events.length, 0);
+    assert.equal(h.message().props.role, 'status');
+  });
+}
+
+test('contact clicks send only a fixed contact method', () => {
+  const h = harness('contact', async () => Response.json({ ok: true }));
+  for (const method of ['phone', 'email', 'whatsapp']) h.contactClick(method);
+  assert.deepEqual(JSON.parse(JSON.stringify(h.events)), ['phone', 'email', 'whatsapp'].map(contact_method =>
+    ['event', 'contact_click', { contact_method }]));
+});
+
 // Execute the actual component and validation code without a browser or new dependencies.
 function harness(context, fetch, gtag = 'record', attributeContactRedirect = false, env = {}) {
   const events = [];
@@ -18,6 +37,8 @@ function harness(context, fetch, gtag = 'record', attributeContactRedirect = fal
   let timerId = 0;
   const nav = navigation();
   const browser = nav.browser;
+  let consent = 'accepted';
+  browser.localStorage = { getItem: () => consent };
   browser.gtag = gtag === 'record' ? (...args) => events.push(args) : gtag ?? undefined;
   let active;
   let cursor = 0;
@@ -121,6 +142,8 @@ function harness(context, fetch, gtag = 'record', attributeContactRedirect = fal
   return {
     ...instance(),
     events,
+    consent(value) { consent = value; },
+    contactClick: method => load('lib/lead-analytics.ts').trackContactClick(method),
     navigation: nav,
     contactRedirect(destination = '/book-consultation#project-enquiry') {
       nav.navigate('/contact');

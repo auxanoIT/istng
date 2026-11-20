@@ -4,6 +4,7 @@ import Link from "@/components/ui/site-link";
 import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
 import type { FooterColumn, SiteSettings } from "@/lib/types";
+import { CookiePreferences } from "./cookie-preferences";
 
 type SiteFooterProps = {
   columns: FooterColumn[];
@@ -79,6 +80,10 @@ export function SiteFooter({ columns, settings }: SiteFooterProps) {
               )}
             </div>
           ))}
+        </div>
+        <div className="flex flex-wrap gap-x-6 text-sm text-white/72">
+          <Link href="/privacy" className="inline-flex min-h-11 items-center underline underline-offset-4">Privacy &amp; cookies</Link>
+          <CookiePreferences />
         </div>
       </Container>
     </footer>

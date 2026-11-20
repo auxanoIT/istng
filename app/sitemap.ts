@@ -49,6 +49,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/book-consultation", images: ["/image/value-we-deliver/planning.webp"] },
     { path: "/careers", images: ["/image/service-details/managed-services-monitoring.webp"] },
     { path: "/site-map" },
+    { path: "/privacy" },
     { path: "/resources" },
     ...primarySolutionPages.map(page => ({ path: page.href, images: solutionImages(page.href,page.image.src) })),
     ...journeyPages.map(page => ({ path: page.href, images: ["/image/operation-teams/" + page.image] })),
