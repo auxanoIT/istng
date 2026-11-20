@@ -1,4 +1,4 @@
-import { OverviewBanner, OverviewHeading, OverviewSection } from "@/components/pages/overview-layout";
+import { OverviewBanner } from "@/components/pages/overview-layout";
 import { AboutIndustries } from "@/components/sections/about-industries";
 import { AboutValues } from "@/components/sections/about-values";
 import { AboutApproach } from "@/components/sections/about-approach";
@@ -76,10 +76,6 @@ export default function AboutPage() {
           cta: { label: copy.trust.cta, href: "/services", variant: "primary" },
         }} />
       </div>
-
-      <OverviewSection id="about-future" tone="warm">
-        <OverviewHeading id="about-future-title" copy={copy.future} />
-      </OverviewSection>
 
       <OverviewBanner
         copy={copy.closing}
