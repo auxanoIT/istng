@@ -1,0 +1,85 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "steps": 5,
+  "results": [
+    {
+      "width": 1440,
+      "layout": "horizontal journey",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        40,
+        40,
+        40,
+        36,
+        36,
+        40
+      ]
+    },
+    {
+      "width": 1366,
+      "layout": "horizontal journey",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        40,
+        40,
+        40,
+        36,
+        36,
+        40
+      ]
+    },
+    {
+      "width": 1024,
+      "layout": "horizontal journey",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        30.72,
+        30.72,
+        30.72,
+        28.672,
+        28.672,
+        30.72
+      ]
+    },
+    {
+      "width": 768,
+      "layout": "vertical timeline",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        26,
+        26,
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "width": 390,
+      "layout": "vertical timeline",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        26,
+        26,
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "width": 320,
+      "layout": "vertical timeline",
+      "overflow": false,
+      "sectionHeadingSizes": [
+        26,
+        26,
+        26,
+        26,
+        26,
+        26
+      ]
+    }
+  ],
+  "pageErrors": []
+}

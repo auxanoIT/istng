@@ -1,14 +1,14 @@
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
-import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { OverviewBanner, OverviewHeading, OverviewSection } from "@/components/pages/overview-layout";
 import { AboutValues } from "@/components/sections/about-values";
+import { AboutApproach } from "@/components/sections/about-approach";
 import { AboutVisionMission } from "@/components/sections/about-vision-mission";
 import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
 import { AboutTeam } from "@/components/sections/about-team";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
-import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
 import copy from "@/data/about-company.json";
@@ -67,25 +67,7 @@ export default function AboutPage() {
 
       <AboutValues />
 
-      <OverviewSection id="about-approach" tone="navy">
-        <div className="grid items-start gap-8 lg:grid-cols-[0.85fr_1fr] lg:gap-14">
-          <div>
-            <OverviewHeading id="about-approach-title" copy={copy.approach} align="left" inverse />
-            <ButtonLink href="/book-consultation" className="mt-6 rounded-md shadow-none">{copy.approach.cta}</ButtonLink>
-          </div>
-          <ol className="divide-y divide-white/20 border-y border-white/20">
-            {copy.approach.items.map((item, index) => (
-              <li key={item.title} className="grid grid-cols-[2rem_minmax(0,1fr)] gap-3 py-4">
-                <span className="font-semibold text-brand-orange" aria-hidden="true">{index + 1}.</span>
-                <div>
-                  <h3 className="text-lg font-semibold">{item.title}</h3>
-                  <OverviewParagraphs paragraphs={item.paragraphs} className="mt-2 text-slate-200" />
-                </div>
-              </li>
-            ))}
-          </ol>
-        </div>
-      </OverviewSection>
+      <AboutApproach />
 
       <OverviewSection id="about-industries">
         <OverviewHeading id="about-industries-title" copy={copy.industries} />

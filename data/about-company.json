@@ -131,41 +131,39 @@
     ]
   },
   "approach": {
-    "title": "We Don't Start With Equipment. We Start With Understanding.",
+    "title": "From First Conversation to Ongoing Support.",
     "paragraphs": [
-      "A solution may look impressive on paper and still be unsuitable for the environment where it is installed.",
-      "That is why we believe effective infrastructure begins long before the first device is connected."
+      "A clear process, from understanding your needs to handing over a working solution."
     ],
-    "cta": "Discuss Your Infrastructure Requirements",
     "items": [
       {
-        "title": "Listen & Understand",
+        "title": "Understand",
         "paragraphs": [
-          "We begin by understanding the customer's objectives, operational challenges, environment and intended outcomes."
+          "We listen to your goals and challenges."
         ]
       },
       {
-        "title": "Assess & Recommend",
+        "title": "Assess",
         "paragraphs": [
-          "We evaluate relevant technical requirements and identify appropriate technologies and implementation options."
+          "We review your site and technical requirements."
         ]
       },
       {
-        "title": "Plan & Implement",
+        "title": "Plan & Install",
         "paragraphs": [
-          "We define the agreed scope and carry out suitable installation, configuration or infrastructure work with attention to technical requirements and safety."
+          "We agree the scope and deliver the solution."
         ]
       },
       {
-        "title": "Verify & Handover",
+        "title": "Test & Handover",
         "paragraphs": [
-          "We carry out relevant checks and provide the agreed documentation or operating information needed to understand the completed work."
+          "We check the installation and explain its operation."
         ]
       },
       {
-        "title": "Maintain & Improve",
+        "title": "Support",
         "paragraphs": [
-          "Where appropriate, we provide relevant maintenance, upgrades and technical support to help customers adapt their infrastructure over time."
+          "We provide maintenance and technical assistance when needed."
         ]
       }
     ]
