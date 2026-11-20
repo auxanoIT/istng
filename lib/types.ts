@@ -195,6 +195,8 @@ export type ResourceGroupId =
   | "projects-proof"
   | "planning-tools";
 
+export type IndustryNavigationItem = Pick<IndustryProfile, "slug" | "href" | "navLabel" | "icon">;
+
 export type ResourceLinkItem = LinkItem & {
   id: string;
   group: ResourceGroupId;

@@ -103,7 +103,7 @@ export default async function BookConsultationPage({ searchParams }: { searchPar
           />
         </div>
         <div className={styles.trust}>
-          <h2>Trusted by 367+ Organisations.</h2>
+          <h2>Trusted by 134 Clients.</h2>
           <p>Energy and technology solutions tailored to your business.</p>
         </div>
         <div className={styles.photo}>

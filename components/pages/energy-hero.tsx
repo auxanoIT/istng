@@ -83,7 +83,7 @@ export function EnergyHero() {
     <section className={styles.hero} aria-labelledby="energy-title">
       <BackgroundVideo className={styles.video}
         src={process.env.NEXT_PUBLIC_INTEGRATED_HERO_VIDEO_URL || "https://res.cloudinary.com/dnqn2cs4e/video/upload/integrated_service_new_xd6vey.mp4"}
-        poster="/integrated-assets/images/solar-campus.webp" />
+        poster="/integrated-assets/images/solar-campus-poster.webp" />
       <div className={styles.content}>
         <h1 id="energy-title">Leaders in <em>energy solutions</em> for your business</h1>
         <p>What brings you here?</p>

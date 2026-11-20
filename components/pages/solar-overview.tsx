@@ -8,6 +8,8 @@ import { SolarPowerExplainer } from "@/components/pages/solar-power-explainer";
 import { SolarReliability } from "@/components/pages/solar-reliability";
 import { OverviewFaq, OverviewRelated } from "@/components/pages/overview-resources";
 import copy from "@/data/solar-overview-copy.json";
+import { OverviewSchema } from "./overview-schema";
+import { solarOverviewPath } from "@/data/solar-routes";
 import {
   solarClosingImage, solarConsultationHref, solarEnvironmentEntries, solarHeroImage,
   solarRelatedEntries, solarServiceEntries,
@@ -18,6 +20,7 @@ const exploreHref = "#solar-services";
 export function SolarOverview() {
   return (
     <>
+      <OverviewSchema name="Solar Energy & Power Solutions" description={copy.hero.paragraphs.join(" ")} path={solarOverviewPath} image={solarHeroImage.src} />
       <OverviewBanner hero fadeToNavy copy={copy.hero} image={solarHeroImage} actions={[
         { label: copy.hero.ctas[0], href: solarConsultationHref },
         { label: copy.hero.ctas[1], href: exploreHref },

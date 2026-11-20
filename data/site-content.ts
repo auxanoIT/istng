@@ -148,7 +148,7 @@ export const footerColumns: FooterColumn[] = [
 ];
 
 export const homeTrustCopy = {
-  title: "Trusted by 367+ Organisations.",
+  title: "Trusted by 134 Clients.",
   description: "Energy and technology solutions tailored to your business.",
 };
 

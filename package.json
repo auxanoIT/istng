@@ -9,6 +9,8 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint",
     "check:seo": "node scripts/check-seo.mjs",
+    "check:crawl": "node scripts/crawl-site.mjs",
+    "check:redirects": "node scripts/check-redirects.mjs",
     "check:branding": "node scripts/check-branding.mjs"
   },
   "engines": {
@@ -48,6 +50,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
+    "parse5": "^8.0.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

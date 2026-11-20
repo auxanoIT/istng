@@ -40,6 +40,7 @@ export default async function HomePage() {
 
   return (
     <div className={styles.page}>
+      <link rel="preload" as="image" href="/integrated-assets/images/solar-campus-poster.webp" fetchPriority="high" />
       <JsonLd
         data={[
           {

@@ -20,7 +20,7 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
 import type {
-  IndustryProfile,
+  IndustryNavigationItem,
   NavItem,
   ResourceGroup,
 } from "@/lib/types";
@@ -30,7 +30,7 @@ import { cn } from "@/lib/utils";
 type SiteHeaderProps = {
   navigation: NavItem[];
   solutionCategories: SolutionPillar[];
-  industries: IndustryProfile[];
+  industries: IndustryNavigationItem[];
   resourceGroups: ResourceGroup[];
 };
 

@@ -1,7 +1,20 @@
 import catalogue from "../data/service-route-migration.json";
 
 export const canonicalServicePages = catalogue.flatMap(group => [group, ...group.services]);
-export const serviceRouteAliases: Record<string, string> = { "/solutions": "/services" };
+export const serviceRouteAliases: Record<string, string> = {
+  "/solutions": "/services",
+  "/solutions/business-energy": "/services/solar-energy/commercial-solar",
+  "/solutions/enterprise-it": "/services/it-services-support",
+  "/solutions/institutional-solutions": "/services/solar-energy",
+  "/services/smart-hands-technical-support": "/services/it-services-support",
+  "/services/smart-hands-technical-support/planned-maintenance-support": "/services/it-services-support/it-managed-services-staff-outsourcing",
+  "/services/infrastructure-audit-optimisation": "/services/it-services-support/it-consultancy-audit-services",
+  "/services/data-centre-project-lifecycle-management": "/services/it-services-support/it-project-management",
+  "/industries/enterprise-it": "/industries/corporate-offices",
+  "/industries/oems-technology-vendors": "/industries/technology-partners",
+  "/industries/managed-service-providers": "/industries/technology-partners",
+  "/industries/system-integrators": "/industries/technology-partners",
+};
 for (const page of canonicalServicePages) {
   if (page.legacyPath !== page.path) serviceRouteAliases[page.legacyPath] = page.path;
 }

@@ -2,6 +2,7 @@
 
 import { useState, type CSSProperties } from "react";
 import Link from "@/components/ui/site-link";
+import Image from "@/components/ui/site-image";
 import { ArrowUpRight } from "lucide-react";
 import { homeServicePillars } from "@/data/home-service-pillars";
 import { journeyProjects, projectStages } from "@/data/project-journey";
@@ -61,11 +62,12 @@ export function ProjectJourney() {
                 className={styles.image}
                 data-active={index === projectIndex}
                 style={{
-                  "--journey-image": `url("${item.image}")`,
                   "--journey-position": view.position,
                   "--journey-brightness": view.brightness,
                 } as CSSProperties}
-              />
+              >
+                <Image src={item.image} alt="" fill sizes="(min-width: 768px) 80vw, 100vw" quality={70} className={styles.sceneImage} />
+              </div>
             ))}
           </div>
 

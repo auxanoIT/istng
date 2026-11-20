@@ -7,6 +7,7 @@ import { OverviewFaq, OverviewRelated } from "@/components/pages/overview-resour
 import { OverviewDecision } from "@/components/pages/solar-decision";
 import { ButtonLink } from "@/components/ui/button-link";
 import type { EnterpriseOverviewData } from "@/data/enterprise-overview";
+import { OverviewSchema } from "./overview-schema";
 
 const exploreHref = "#overview-services";
 
@@ -15,6 +16,7 @@ export function EnterpriseOverview({ overview }: { overview: EnterpriseOverviewD
 
   return (
     <>
+      <OverviewSchema name={pillar.label} description={intro} path={pillar.href} image={heroImage.src} />
       <OverviewBanner hero fadeToNavy copy={{ ...draft.hero, paragraphs: [intro] }} image={heroImage} actions={[
         { label: draft.hero.ctas[0], href: enquiry },
         { label: draft.hero.ctas[1], href: exploreHref },

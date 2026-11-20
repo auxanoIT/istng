@@ -5,6 +5,7 @@ import { ArrowRight } from "lucide-react";
 import { OverviewHeading, OverviewParagraphs, OverviewSection, type OverviewAction, type OverviewCopy } from "@/components/pages/overview-layout";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { ButtonLink } from "@/components/ui/button-link";
+import { JsonLd } from "@/components/ui/json-ld";
 import type { ServiceNavMedia } from "@/lib/types";
 import transition from "./overview-transition.module.css";
 
@@ -37,7 +38,7 @@ export function OverviewRelated({ copy, items }: {
   );
 }
 
-export function OverviewFaq({ id, copy, action, renderAllAnswers = false }: {
+export function OverviewFaq({ id, copy, action, renderAllAnswers = true }: {
   id: string;
   copy: OverviewCopy & { items: OverviewCopy[] };
   action: OverviewAction;
@@ -45,6 +46,13 @@ export function OverviewFaq({ id, copy, action, renderAllAnswers = false }: {
 }) {
   return (
     <OverviewSection id={id} tone="warm">
+      {renderAllAnswers && <JsonLd data={{
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: copy.items.map(item => ({
+          "@type": "Question", name: item.title,
+          acceptedAnswer: { "@type": "Answer", text: item.paragraphs.join(" ") },
+        })),
+      }} />}
       <OverviewHeading copy={copy} id={`${id}-title`} />
       <Accordion type="single" collapsible defaultValue="question-0" className="mx-auto mt-8 max-w-3xl overflow-hidden rounded-lg border border-brand-border bg-white">
         {copy.items.map((item, index) => (

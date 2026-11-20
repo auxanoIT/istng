@@ -31,7 +31,7 @@ export const revalidate = false;
 const heroStats = [
   {
     icon: BriefcaseBusiness,
-    value: "200+",
+    value: "219+",
     label: "Projects Delivered",
   },
   {

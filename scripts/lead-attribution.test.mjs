@@ -71,9 +71,12 @@ test('/contact hands off controlled history state, keeps queries/anchor, and red
     enquiryContext: ['consultation', 'contact'] });
   assert.equal(h.attribution(), 'consultation'); // Prefetch/render alone has no side effects.
   assert.equal(h.reloads(), 0);
-  assert.equal(contact.fallback.type, 'noscript');
-  assert.equal(contact.fallback.props.children.props.httpEquiv, 'refresh');
-  assert.equal(contact.fallback.props.children.props.content, `0;url=${contact.destination}`);
+  const fallbackChildren = contact.fallback.props.children;
+  const fallbackLink = fallbackChildren.find(child => child.type === 'a');
+  const noScript = fallbackChildren.find(child => child.type === 'noscript');
+  assert.equal(fallbackLink.props.href, contact.destination);
+  assert.equal(noScript.props.children.props.httpEquiv, 'refresh');
+  assert.equal(noScript.props.children.props.content, `0;url=${contact.destination}`);
   contact.mount();
   assert.equal(h.browser.location.pathname, '/book-consultation');
   assert.equal(h.browser.location.hash, '#project-enquiry');

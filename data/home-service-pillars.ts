@@ -65,7 +65,7 @@ export const homeServicePillars: ServiceShowcaseSection = {
       imageSrc: "/image/service-pillars/smart-hands-data-centre-technical-support-nigeria.webp",
       imageAlt: "Technician checking infrastructure with a diagnostic tablet",
       ctaLabel: "Explore IT Services",
-      ctaHref: "/services/smart-hands-technical-support",
+      ctaHref: "/services/it-services-support",
     },
   ],
 };

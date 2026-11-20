@@ -81,10 +81,10 @@ export function buildMetadata({
     },
     robots: {
       index: !noIndex,
-      follow: !noIndex,
+      follow: true,
       googleBot: {
         index: !noIndex,
-        follow: !noIndex,
+        follow: true,
         "max-image-preview": "large",
         "max-snippet": -1,
         "max-video-preview": -1,

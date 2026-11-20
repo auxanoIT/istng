@@ -3,7 +3,7 @@
 import Image from "@/components/ui/site-image";
 import Link from "@/components/ui/site-link";
 import { useState } from "react";
-import { AnimatePresence, motion } from "framer-motion";
+import styles from "./solutions-mega-menu.module.css";
 import { ChevronRight } from "lucide-react";
 
 import {
@@ -50,11 +50,8 @@ export function SolutionsMegaMenu({
         Solutions
       </NavigationMenuTrigger>
       <NavigationMenuContent className="fixed inset-x-0 top-20 mt-0 w-full">
-        <motion.div
-          initial={{ opacity: 0, y: -8 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.22, ease: [0.16, 1, 0.3, 1] }}
-          className="max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-b border-[var(--brand-border)] bg-[var(--brand-white)]"
+        <div
+          className={`${styles.reveal} max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-b border-[var(--brand-border)] bg-[var(--brand-white)]`}
         >
           <Container className="grid min-h-[23.75rem] gap-6 py-10 lg:grid-cols-[220px_minmax(0,1fr)]">
             <div className="border-r border-[color:color-mix(in_srgb,var(--brand-navy)_12%,transparent)] pr-4">
@@ -92,14 +89,9 @@ export function SolutionsMegaMenu({
               </div>
             </div>
 
-            <AnimatePresence mode="wait" initial={false}>
-              <motion.div
+              <div
                 key={activeCategory.slug}
-                initial={{ opacity: 0, y: 6 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -4 }}
-                transition={{ duration: 0.18, ease: [0.16, 1, 0.3, 1] }}
-                className="grid grid-cols-[minmax(0,1.15fr)_minmax(0,3fr)] items-start content-start gap-3"
+                className={`${styles.reveal} grid grid-cols-[minmax(0,1.15fr)_minmax(0,3fr)] items-start content-start gap-3`}
               >
                 <NavigationMenuLink
                   asChild
@@ -152,10 +144,9 @@ export function SolutionsMegaMenu({
                   );
                 })}
                 </div>
-              </motion.div>
-            </AnimatePresence>
+              </div>
           </Container>
-        </motion.div>
+        </div>
       </NavigationMenuContent>
     </NavigationMenuItem>
   );

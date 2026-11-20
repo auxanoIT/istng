@@ -210,17 +210,18 @@ export function PartnerLogoMarquee({ staticDisplay = false }: { staticDisplay?: 
           </div>
 
           {pageCount > 1 ? (
-            <div className="mt-5 flex items-center justify-center gap-2">
+            <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
               {Array.from({ length: pageCount }).map((_, index) => (
                 <button
                   key={index}
                   type="button"
                   aria-label={`Show partner logo page ${index + 1}`}
                   onClick={() => goToMobilePage(index)}
-                  className={`h-2 rounded-full transition ${
-                    index === activePage ? "w-7 bg-brand-orange" : "w-2 bg-brand-border"
-                  }`}
-                />
+                  aria-current={index === activePage ? "true" : undefined}
+                  className="flex h-8 w-8 items-center justify-center rounded-full focus-visible:outline-2 focus-visible:outline-brand-navy"
+                >
+                  <span aria-hidden="true" className={`h-2 rounded-full transition ${index === activePage ? "w-7 bg-brand-orange" : "w-2 bg-brand-border"}`} />
+                </button>
               ))}
             </div>
           ) : null}

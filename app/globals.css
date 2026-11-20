@@ -22,8 +22,8 @@
   --color-muted: var(--brand-muted);
   --color-steel: var(--brand-muted);
   --color-success: var(--brand-navy);
-  --font-display: "Poppins", ui-sans-serif, system-ui, sans-serif;
-  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
 }
 
 @theme inline {

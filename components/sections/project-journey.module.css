@@ -105,12 +105,15 @@
 .image {
   position: absolute;
   inset: 0;
-  background-image: var(--journey-image);
-  background-size: cover;
-  background-position: center var(--journey-position);
   filter: brightness(var(--journey-brightness));
   opacity: 0;
-  transition: opacity 400ms ease, background-position 600ms ease, filter 600ms ease;
+  transition: opacity 400ms ease, filter 600ms ease;
+}
+
+.sceneImage {
+  object-fit: cover;
+  object-position: center var(--journey-position);
+  transition: object-position 600ms ease;
 }
 
 .image[data-active="true"] {
@@ -267,7 +270,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .image {
+  .image, .sceneImage {
     transition: none;
   }
 

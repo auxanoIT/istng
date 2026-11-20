@@ -9,7 +9,7 @@ import { IndustryIcon } from '@/components/ui/industry-icon';
 import { Sheet, SheetClose, SheetContent, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
 import type { SolutionPillar } from '@/data/enterprise-solutions';
 import { industryNavigation } from '@/data/industry-navigation';
-import type { IndustryProfile, NavItem, ResourceGroup } from '@/lib/types';
+import type { IndustryNavigationItem, NavItem, ResourceGroup } from '@/lib/types';
 import styles from './mobile-navigation-sheet.module.css';
 
 type Props = {
@@ -17,7 +17,7 @@ type Props = {
   setOpen: Dispatch<SetStateAction<boolean>>;
   navigation: NavItem[];
   categories: SolutionPillar[];
-  industries: IndustryProfile[];
+  industries: IndustryNavigationItem[];
   resourceGroups: ResourceGroup[];
   trigger: ReactNode;
 };

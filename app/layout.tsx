@@ -1,11 +1,6 @@
 import type { Metadata } from "next";
 
-import "@fontsource/poppins/300.css";
-import "@fontsource/poppins/400.css";
-import "@fontsource/poppins/500.css";
-import "@fontsource/poppins/600.css";
-import "@fontsource/poppins/700.css";
-import "@fontsource/poppins/800.css";
+import localFont from "next/font/local";
 import "./globals.css";
 
 import { CookieConsentManager } from "@/components/layout/cookie-consent-manager";
@@ -24,6 +19,19 @@ import type { SiteSettings } from "@/lib/types";
 import { absoluteUrl } from "@/lib/utils";
 import { solutionPillars } from "@/data/enterprise-solutions";
 import { siteIdentity } from "@/data/site-identity";
+
+const poppins = localFont({
+  src: [
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-300-normal.woff2", weight: "300", style: "normal" },
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff2", weight: "400", style: "normal" },
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-500-normal.woff2", weight: "500", style: "normal" },
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff2", weight: "600", style: "normal" },
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff2", weight: "700", style: "normal" },
+    { path: "../node_modules/@fontsource/poppins/files/poppins-latin-800-normal.woff2", weight: "800", style: "normal" },
+  ],
+  variable: "--font-poppins",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(absoluteUrl("/")),
@@ -130,8 +138,6 @@ function buildSiteJsonLd(settings: SiteSettings) {
         knowsAbout: [
           "Solar energy systems",
           "Battery storage",
-          "Solar energy systems",
-          "Battery storage",
           "Managed IT support",
           "CCTV installation",
           "Access control installation",
@@ -225,14 +231,14 @@ export default async function RootLayout({
   ]);
 
   return (
-    <html lang="en" className="antialiased">
+    <html lang="en-NG" className={`${poppins.variable} antialiased`}>
       <body className="min-h-screen bg-[var(--color-background)] text-[var(--color-foreground)]">
         <SiteShell studio={children}>
         <div className="flex min-h-screen flex-col">
           <SiteHeader
             navigation={navigation}
             solutionCategories={needsSolutions ? solutionPillars : []}
-            industries={industries}
+            industries={industries.map(({ slug, href, navLabel, icon }) => ({ slug, href, navLabel, icon }))}
             resourceGroups={resourceGroups}
           />
           <main className="flex-1">{children}</main>

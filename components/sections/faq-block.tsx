@@ -2,6 +2,7 @@ import { ChevronDown } from "lucide-react";
 
 import { Container } from "@/components/ui/container";
 import { SectionHeading } from "@/components/ui/section-heading";
+import { JsonLd } from "@/components/ui/json-ld";
 import type { FAQBlockSection, FAQItem } from "@/lib/types";
 
 type FAQBlockProps = {
@@ -12,6 +13,13 @@ type FAQBlockProps = {
 export function FAQBlock({ section, items }: FAQBlockProps) {
   return (
     <section className="py-20 sm:py-24">
+      {items.length > 0 && <JsonLd data={{
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: items.map(item => ({
+          "@type": "Question", name: item.question,
+          acceptedAnswer: { "@type": "Answer", text: item.answer },
+        })),
+      }} />}
       <Container>
         <SectionHeading
           eyebrow={section.eyebrow}

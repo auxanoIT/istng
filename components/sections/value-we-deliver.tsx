@@ -19,7 +19,7 @@ const outcomes = [
     image: "solar",
     alt: "Engineer checking a solar installation on a rooftop terrace",
     cta: "Explore Solar Energy Solutions",
-    href: "/#data-centre-infrastructure-services",
+    href: "/services/solar-energy",
   },
   {
     title: "Keep Operations Moving",
@@ -32,7 +32,7 @@ const outcomes = [
     image: "backup",
     alt: "Battery storage cabinets beside an occupied workspace",
     cta: "Explore Backup Power Solutions",
-    href: "/solutions/business-energy",
+    href: "/services/solar-energy/hybrid-solar-systems",
   },
   {
     title: "Build Connected Infrastructure",
@@ -45,7 +45,7 @@ const outcomes = [
     image: "infrastructure",
     alt: "Server racks connected by organised overhead cabling",
     cta: "Explore Enterprise Technology",
-    href: "/solutions/enterprise-it",
+    href: "/services/data-centre-deployment",
   },
   {
     title: "Plan for Long-Term Performance",

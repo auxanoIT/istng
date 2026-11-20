@@ -12,11 +12,11 @@ import {
   NavigationMenuTrigger,
 } from "@/components/ui/navigation-menu";
 import { industryNavigation } from "@/data/industry-navigation";
-import type { IndustryProfile } from "@/lib/types";
+import type { IndustryNavigationItem } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
 type IndustriesMegaMenuProps = {
-  industries: IndustryProfile[];
+  industries: IndustryNavigationItem[];
   active?: boolean;
 };
 
