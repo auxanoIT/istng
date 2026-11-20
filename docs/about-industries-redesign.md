@@ -9,3 +9,5 @@ No image asset, extra CTA or client-side JavaScript is added. Reduced-motion pre
 Verification covers 1440, 1366, 1024, 768, 390 and 320px, all 17 destination pages, hover/focus styling, touch-target size, text wrapping and horizontal overflow. Final production build, ESLint and browser checks are required before publication.
 
 Final validation passed: production build, ESLint, responsive browser checks and SEO audit (88 pages, 138 images, zero errors or warnings).
+
+Follow-up: Show the first six tiles initially. A native View more industries disclosure reveals the other eleven and changes to Show fewer industries. All links remain server-rendered, and the control works without client JavaScript. Verified expansion, collapse, Enter/Space keyboard use and no overflow at 1366, 768, 390 and 320px.

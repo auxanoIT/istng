@@ -4,6 +4,15 @@
 .intro p { margin-top: 1.25rem; font-size: 1rem; line-height: 1.7; color: var(--brand-support); }
 .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; margin-top: 2.5rem; }
 .grid li { min-width: 0; }
+.more { margin-top: 2rem; }
+.more .grid { margin-top: 1.5rem; }
+.toggle { display: flex; align-items: center; justify-content: center; gap: .75rem; width: fit-content; min-height: 3rem; margin-inline: auto; padding: .75rem 1.25rem; border: 1px solid var(--brand-navy); border-radius: .25rem; color: var(--brand-navy); font-size: .9375rem; font-weight: 600; line-height: 1.5; cursor: pointer; list-style: none; }
+.toggle::-webkit-details-marker { display: none; }
+.toggle:hover { background: var(--brand-soft-white); }
+.toggle:focus-visible { outline: 2px solid var(--brand-orange); outline-offset: 4px; }
+.showLess, .more[open] .showMore { display: none; }
+.more[open] .showLess { display: inline; }
+.more[open] .toggle svg { transform: rotate(180deg); }
 .tile { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 1.125rem; grid-template-rows: auto 1fr; gap: .625rem .5rem; height: 100%; min-height: 7rem; padding: 1rem .875rem; border: 1px solid var(--brand-border); border-radius: .25rem; background: var(--brand-soft-white); color: var(--brand-navy); transition: background-color 180ms ease, color 180ms ease, border-color 180ms ease; }
 .tile::before { content: ""; position: absolute; inset: -1px auto -1px -1px; width: 4px; border-radius: .25rem 0 0 .25rem; background: var(--brand-orange); opacity: 0; transition: opacity 180ms ease; }
 .icon { grid-column: 1; grid-row: 1; width: 1.75rem; height: 1.75rem; }
