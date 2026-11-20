@@ -1,6 +1,7 @@
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { AboutValues } from "@/components/sections/about-values";
 import { AboutVisionMission } from "@/components/sections/about-vision-mission";
 import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
@@ -64,18 +65,7 @@ export default function AboutPage() {
 
       <AboutVisionMission />
 
-      <OverviewSection id="about-values" tone="warm">
-        <OverviewHeading id="about-values-title" copy={copy.values} />
-        <ul className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {copy.values.items.map((item) => (
-            <li key={item.title} className="rounded-lg border border-brand-border bg-white p-5 sm:p-6">
-              <h3 className="text-xl font-semibold">{item.title}</h3>
-              <p className="mt-3 font-medium">{item.tagline}</p>
-              <OverviewParagraphs paragraphs={item.paragraphs} className="mt-2 text-brand-support" />
-            </li>
-          ))}
-        </ul>
-      </OverviewSection>
+      <AboutValues />
 
       <OverviewSection id="about-approach" tone="navy">
         <div className="grid items-start gap-8 lg:grid-cols-[0.85fr_1fr] lg:gap-14">

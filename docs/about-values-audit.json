@@ -1,0 +1,32 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "results": [
+    {
+      "width": 1366,
+      "layout": "horizontal editorial rows",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "layout": "horizontal editorial rows",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "layout": "stacked row text",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "layout": "stacked row text",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "layout": "stacked row text",
+      "overflow": false
+    }
+  ],
+  "principles": 4,
+  "pageErrors": []
+}

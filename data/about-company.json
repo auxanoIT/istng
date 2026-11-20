@@ -101,49 +101,31 @@
   "values": {
     "title": "The Principles Behind Every Solution.",
     "paragraphs": [
-      "Technology continues to evolve. The principles guiding how we work should remain clear."
+      "Clear standards for how we advise, deliver and work with you."
     ],
     "items": [
       {
         "title": "Integrity",
-        "tagline": "Doing What Is Right Matters.",
         "paragraphs": [
-          "We believe strong business relationships begin with honesty, responsible recommendations and clear communication about what a solution can achieve."
-        ]
-      },
-      {
-        "title": "Excellence",
-        "tagline": "The Details Make the Difference.",
-        "paragraphs": [
-          "From equipment selection to installation and handover, we value careful work, technical discipline and attention to the requirements of each project."
-        ]
-      },
-      {
-        "title": "Innovation",
-        "tagline": "Progress Requires an Open Mind.",
-        "paragraphs": [
-          "We embrace relevant technologies and practical improvements that can help customers respond to changing needs and opportunities."
+          "Honest advice about suitability, costs and limitations."
         ]
       },
       {
         "title": "Accountability",
-        "tagline": "Responsibility Builds Confidence.",
         "paragraphs": [
-          "We believe technical responsibilities, project expectations and deliverables should be clearly understood and communicated."
+          "Clear responsibilities. We follow through on what we agree."
         ]
       },
       {
-        "title": "Customer Focus",
-        "tagline": "Every Solution Begins With People.",
+        "title": "Quality",
         "paragraphs": [
-          "We approach projects by considering the people who will use, manage and depend on the infrastructure being delivered."
+          "Careful work, with attention to the details that matter."
         ]
       },
       {
         "title": "Continuous Improvement",
-        "tagline": "There Is Always Room to Build Better.",
         "paragraphs": [
-          "As technology and customer needs evolve, we believe in learning, refining our approach and seeking better ways to deliver value."
+          "We learn from experience and improve how we work."
         ]
       }
     ]
