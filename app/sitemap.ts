@@ -45,7 +45,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/", images: ["/integrated-assets/images/solar-campus.webp", "/integrated-assets/images/nigerian-energy-engineer.webp", ...homeServicePillars.items.map(item => item.imageSrc), ...operationTeams.map(team => "/image/operation-teams/" + team.image)] },
     { path: "/solutions", images: solutionPillars.map(page => page.image.src) },
     { path: "/industries", images: industries.map(industry => industry.heroImage.src) },
-    { path: "/about", images: [aboutContent.hero.image, aboutContent.story.image, aboutContent.collaboration.image, ...aboutTeam.map(person => person.image), ...solutionPillars.map(pillar => pillar.image.src)] },
+    { path: "/about", images: [aboutContent.hero.image, aboutContent.story.image, aboutContent.visionMission.image, aboutContent.collaboration.image, ...aboutTeam.map(person => person.image)] },
     { path: "/book-consultation", images: ["/image/value-we-deliver/planning.webp"] },
     { path: "/careers", images: ["/image/service-details/managed-services-monitoring.webp"] },
     { path: "/site-map" },

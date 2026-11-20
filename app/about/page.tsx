@@ -1,18 +1,17 @@
 import Link from "@/components/ui/site-link";
 import { ArrowRight } from "lucide-react";
 import { OverviewBanner, OverviewHeading, OverviewParagraphs, OverviewSection } from "@/components/pages/overview-layout";
+import { AboutVisionMission } from "@/components/sections/about-vision-mission";
 import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
 import { AboutTeam } from "@/components/sections/about-team";
 import { PartnerLogoMarquee } from "@/components/sections/partner-logo-marquee";
-import { SolutionCardGrid } from "@/components/sections/solution-card-grid";
 import { ButtonLink } from "@/components/ui/button-link";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
 import copy from "@/data/about-company.json";
 import { aboutContent } from "@/data/about-content";
-import { solutionPillars } from "@/data/enterprise-solutions";
 import { industryNavigation } from "@/data/industry-navigation";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
@@ -38,11 +37,6 @@ export const metadata = buildMetadata({
   ],
 });
 
-const solutionCards = solutionPillars.flatMap(({ slug, href, image }) => {
-  const service = copy.solutions.items.find((item) => item.slug === slug);
-  return service ? [{ ...service, href, image }] : [];
-});
-
 export default function AboutPage() {
   return (
     <>
@@ -58,7 +52,7 @@ export default function AboutPage() {
       }} />
 
       <OverviewBanner hero fadeToNavy copy={copy.hero} image={heroImage} actions={[
-        { label: copy.hero.actions[0], href: "#about-solutions" },
+        { label: copy.hero.actions[0], href: "/services" },
         { label: copy.hero.actions[1], href: "/book-consultation" },
       ]} />
 
@@ -68,29 +62,7 @@ export default function AboutPage() {
 
       <AboutPurpose />
 
-      <div className="bg-brand-navy text-white">
-        <Container className="grid gap-6 py-14 sm:py-20 lg:grid-cols-2 lg:gap-8">
-          <section aria-labelledby="about-vision-title" className="rounded-lg border border-white/20 bg-white/5 p-6 sm:p-8">
-            <OverviewHeading id="about-vision-title" copy={copy.vision} align="left" inverse />
-          </section>
-          <section aria-labelledby="about-mission-title" className="rounded-lg border border-white/20 bg-white/5 p-6 sm:p-8">
-            <OverviewHeading id="about-mission-title" copy={copy.mission} align="left" inverse />
-            <ul className="mt-6 grid gap-4 sm:grid-cols-2">
-              {copy.mission.items.map((item) => (
-                <li key={item.title} className="border-t border-white/25 pt-3">
-                  <h3 className="font-semibold text-brand-orange">{item.title}</h3>
-                  <OverviewParagraphs paragraphs={item.paragraphs} className="mt-2 text-slate-200" />
-                </li>
-              ))}
-            </ul>
-          </section>
-        </Container>
-      </div>
-
-      <OverviewSection id="about-solutions">
-        <OverviewHeading id="about-solutions-title" copy={copy.solutions} />
-        <SolutionCardGrid cards={solutionCards} headingAs="h3" />
-      </OverviewSection>
+      <AboutVisionMission />
 
       <OverviewSection id="about-values" tone="warm">
         <OverviewHeading id="about-values-title" copy={copy.values} />
@@ -170,7 +142,7 @@ export default function AboutPage() {
         image={{ src: aboutContent.collaboration.image, alt: aboutContent.collaboration.alt }}
         actions={[
           { label: copy.closing.actions[0], href: "/book-consultation" },
-          { label: copy.closing.actions[1], href: "/solutions" },
+          { label: copy.closing.actions[1], href: "/services" },
         ]}
       />
       <p className="bg-brand-navy px-5 py-5 text-center text-sm text-white">{copy.closing.statement}</p>

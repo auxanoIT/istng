@@ -87,114 +87,15 @@
     "closing": "We start with your real needs, select suitable solutions and help bring essential systems into operation."
   },
   "vision": {
-    "title": "A Future Where Technology and Energy Create Greater Possibilities.",
+    "title": "Our vision.",
     "paragraphs": [
-      "To be a trusted force in advancing a future where reliable energy, connected infrastructure and practical technology enable businesses and communities to thrive.",
-      "We envision a world where organisations are better equipped to pursue opportunities, adapt to change and move forward with confidence.",
-      "A world where essential infrastructure supports ambition instead of limiting it.",
-      "Where the right technology is not merely available but thoughtfully applied to make a meaningful difference.",
-      "That is the future we aspire to help build."
+      "A Nigeria where reliable energy and connected technology help businesses and communities grow."
     ]
   },
   "mission": {
-    "title": "Turning Real Challenges Into Practical Solutions.",
+    "title": "Our mission.",
     "paragraphs": [
-      "To help businesses, organisations and individuals plan, deploy and maintain dependable energy and technology infrastructure through appropriate solutions, professional execution and customer-focused technical support.",
-      "Our mission is grounded in four commitments:"
-    ],
-    "items": [
-      {
-        "title": "Understand before recommending.",
-        "paragraphs": [
-          "Every environment is different. We seek to understand the customer's needs before identifying a solution."
-        ]
-      },
-      {
-        "title": "Choose technology with purpose.",
-        "paragraphs": [
-          "We focus on suitability, compatibility and the requirements of the people and systems the technology will serve."
-        ]
-      },
-      {
-        "title": "Approach implementation responsibly.",
-        "paragraphs": [
-          "Good infrastructure requires attention to planning, installation, verification and clear technical responsibilities."
-        ]
-      },
-      {
-        "title": "Support what comes next.",
-        "paragraphs": [
-          "Technology needs change. We aim to help customers maintain, improve and adapt their infrastructure as those needs evolve."
-        ]
-      }
-    ]
-  },
-  "solutions": {
-    "title": "Different Solutions. One Connected Purpose.",
-    "paragraphs": [
-      "A modern organisation depends on many systems working together. Our service portfolio reflects this reality."
-    ],
-    "items": [
-      {
-        "title": "Solar Energy & Power Solutions",
-        "tagline": "Powering Possibilities.",
-        "paragraphs": [
-          "We provide residential, commercial and industrial solar solutions, including hybrid inverter systems, battery storage, maintenance and upgrades.",
-          "Our focus is on helping customers assess and implement suitable energy systems around their actual requirements."
-        ],
-        "slug": "solar-energy",
-        "cta": "Explore Solar Energy Solutions"
-      },
-      {
-        "title": "Data Centre & IT Infrastructure",
-        "tagline": "Building the Physical Foundation of Digital Operations.",
-        "paragraphs": [
-          "We support data centre infrastructure planning, server-room setup, rack-and-stack, enterprise equipment installation, infrastructure verification and equipment changes.",
-          "From initial deployment to technical handover, we help organisations implement suitable physical IT infrastructure."
-        ],
-        "slug": "data-centre-infrastructure",
-        "cta": "Explore Data Centre Solutions"
-      },
-      {
-        "title": "Networking & Structured Cabling",
-        "tagline": "Creating the Connections That Keep Organisations Moving.",
-        "paragraphs": [
-          "We provide network installation, structured LAN cabling, fibre optic cabling, wireless networking, equipment deployment and supporting network upgrades.",
-          "Our services help establish the physical connectivity required for modern business environments."
-        ],
-        "slug": "network-structured-cabling",
-        "cta": "Explore Networking Solutions"
-      },
-      {
-        "title": "Enterprise Servers, Storage & Hardware",
-        "tagline": "Supporting the Systems Behind Business Technology.",
-        "paragraphs": [
-          "We supply and deploy suitable enterprise servers, data storage, computing hardware and related equipment.",
-          "We also provide relevant hardware upgrades, maintenance and infrastructure support."
-        ],
-        "slug": "server-storage-hardware",
-        "cta": "Explore Enterprise Hardware Solutions"
-      },
-      {
-        "title": "Security, Surveillance & Access Control",
-        "tagline": "Protecting What Matters.",
-        "paragraphs": [
-          "Our services include CCTV surveillance, video recording, electronic access control, automated gates, fire alarm and safety systems, and relevant security maintenance.",
-          "We help customers assess appropriate systems for their facilities, assets and operational requirements."
-        ],
-        "slug": "security-surveillance",
-        "cta": "Explore Security Solutions"
-      },
-      {
-        "title": "IT Services & Technical Support",
-        "tagline": "Keeping Infrastructure Ready for What Comes Next.",
-        "paragraphs": [
-          "We provide IT consulting, infrastructure assessments, technical support, project implementation, upgrades, firewall solutions and smart hands for remote engineering teams.",
-          "Our focus is on clearly defined technical work that supports the needs of the customer and their infrastructure."
-        ],
-        "slug": "it-services-support",
-        "cta": "Explore IT Support Services"
-      }
+      "To deliver dependable energy and technology infrastructure through skilled work, clear communication and ongoing support."
     ]
   },
   "values": {

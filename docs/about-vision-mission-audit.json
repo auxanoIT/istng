@@ -1,0 +1,34 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "results": [
+    {
+      "width": 1366,
+      "layout": "paired columns",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "layout": "paired columns",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "layout": "paired columns",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "layout": "stacked",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "layout": "stacked",
+      "overflow": false
+    }
+  ],
+  "duplicateSolutionsRemoved": true,
+  "missionCommitmentsRemoved": true,
+  "servicesLink": "/services",
+  "pageErrors": []
+}

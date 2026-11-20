@@ -43,7 +43,7 @@ export function AboutCompany() {
       </div>
       <div className={styles.principle}>
         <p>{company.principle}</p>
-        <ButtonLink href="#about-solutions" className="mt-6 rounded-md shadow-none">{company.cta}<ArrowRight size={18} className="ml-3" aria-hidden="true" /></ButtonLink>
+        <ButtonLink href="/services" className="mt-6 rounded-md shadow-none">{company.cta}<ArrowRight size={18} className="ml-3" aria-hidden="true" /></ButtonLink>
       </div>
     </Container>
   </section>;

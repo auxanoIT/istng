@@ -7,6 +7,10 @@ export const aboutContent = {
     image: "/image/service-details/data-centre-buildout.webp",
     alt: "Server racks and structured connectivity in a data centre",
   },
+  visionMission: {
+    image: "/integrated-assets/images/about-vision-mission-campus-v1.webp",
+    alt: "Nigerian engineers reviewing plans beside solar-equipped campus buildings",
+  },
   purpose: {
     title: "Make Critical Infrastructure Easier to Deploy, Support and Grow.",
     paragraphs: [
