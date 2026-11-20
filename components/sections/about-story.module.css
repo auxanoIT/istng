@@ -34,11 +34,12 @@
 @media (min-width: 1024px) {
   .foundations { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(2, 1fr); margin-block: 3.25rem 3.5rem; border-left: 0; padding-left: 0; }
   .foundations::after { content: ""; position: absolute; left: 50%; top: 50%; width: .625rem; height: .625rem; transform: translate(-50%, -50%); border-radius: 50%; background: var(--brand-orange); }
-  .foundations li { display: block; padding: 2rem 3rem; border-bottom: 0; }
+  .foundations li { display: flex; flex-direction: column; align-items: center; gap: 0; padding: 2rem 3rem; border-bottom: 0; text-align: center; }
   .foundations li:first-child, .foundations li:last-child { padding-block: 2rem; }
   .foundations li:nth-child(odd) { border-right: 1px solid var(--brand-border); }
   .foundations li:nth-child(-n+2) { border-bottom: 1px solid var(--brand-border); }
   .icon { width: 3rem; }
-  .foundations h3 { margin-top: 1rem; font-size: clamp(1.25rem, 1.8vw, 1.5rem); }
-  .foundations li p { font-size: 1rem; }
+  .foundations li > div { width: 100%; }
+  .foundations h3 { max-width: none; margin-top: 1rem; font-size: clamp(1.25rem, 1.8vw, 1.5rem); }
+  .foundations li p { margin-inline: auto; font-size: 1rem; text-wrap: balance; }
 }

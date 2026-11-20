@@ -2,8 +2,7 @@
   "hero": {
     "title": "Behind Every Great Possibility Is the Infrastructure That Makes It Work.",
     "paragraphs": [
-      "Technology is changing how we live, work and grow. Progress depends on reliable power, connected networks, strong infrastructure and security that protects what matters.",
-      "At Integrated Solutions Technology, we bring energy and technology solutions together to help businesses, organisations and individuals build strong foundations for today and prepare for tomorrow."
+      "Integrated Solutions Technology provides solar energy, IT infrastructure, networking and security solutions for homes, businesses and institutions."
     ],
     "actions": [
       "Discover Our Solutions",
@@ -17,20 +16,20 @@
     ],
     "items": [
       {
-        "title": "Power that keeps you moving.",
+        "title": "Reliable Power",
         "description": "Reliable energy for the systems you depend on."
       },
       {
-        "title": "Connections that bring teams together.",
-        "description": "Networks that keep people and information connected."
+        "title": "Connected Networks",
+        "description": "Dependable connections for people and information."
       },
       {
-        "title": "Infrastructure that supports your work.",
-        "description": "Servers and systems planned around daily operations."
+        "title": "Strong Infrastructure",
+        "description": "Servers and storage that support daily operations."
       },
       {
-        "title": "Security that protects what matters.",
-        "description": "Practical protection for your people, places and assets."
+        "title": "Practical Security",
+        "description": "Protection for your people, property and assets."
       }
     ]
   },
