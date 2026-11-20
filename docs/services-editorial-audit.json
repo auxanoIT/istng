@@ -1,0 +1,65 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "serviceGroups": 6,
+  "linkedPages": 6,
+  "serviceLayouts": [
+    {
+      "width": 1440,
+      "alternating": true,
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "alternating": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "alternating": true,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "alternating": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "alternating": false,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "alternating": false,
+      "overflow": false
+    }
+  ],
+  "aboutLayouts": [
+    {
+      "width": 1440,
+      "balanced": true
+    },
+    {
+      "width": 1366,
+      "balanced": true
+    },
+    {
+      "width": 1024,
+      "balanced": true
+    },
+    {
+      "width": 768,
+      "balanced": true
+    },
+    {
+      "width": 390,
+      "balanced": true
+    },
+    {
+      "width": 320,
+      "balanced": true
+    }
+  ],
+  "paragraphRemoved": true,
+  "pageErrors": []
+}

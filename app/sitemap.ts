@@ -17,7 +17,7 @@ import { operationTeams } from "@/data/operation-teams";
 import { aboutContent } from "@/data/about-content";
 import { installationPortfolio } from "@/data/integrated-case-studies";
 import { getCaseStudyServiceCards } from "@/data/case-study-service-cards";
-import { solutionPillars } from "@/data/enterprise-solutions";
+import { serviceDirectory } from "@/data/service-directory";
 import { getIndustryEditorial } from "@/data/industry-editorial";
 import { industryEditorialImage, industrySolutionImage } from "@/data/industry-section-images";
 
@@ -42,7 +42,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [projects, industries, resources, gallery] = await Promise.all([getCaseStudies(), getIndustries(), getResourceSitemap(), getWorkGallery()]);
   const entries: Entry[] = [
     { path: "/", images: ["/integrated-assets/images/solar-campus.webp", "/integrated-assets/images/nigerian-energy-engineer.webp", ...homeServicePillars.items.map(item => item.imageSrc), ...operationTeams.map(team => "/image/operation-teams/" + team.image)] },
-    { path: "/solutions", images: solutionPillars.map(page => page.image.src) },
+    { path: "/services", images: serviceDirectory.map(page => page.image.src) },
     { path: "/industries", images: industries.map(industry => industry.heroImage.src) },
     { path: "/about", images: [aboutContent.hero.image, aboutContent.story.image, aboutContent.visionMission.image, aboutContent.collaboration.image] },
     { path: "/book-consultation", images: ["/image/value-we-deliver/planning.webp"] },

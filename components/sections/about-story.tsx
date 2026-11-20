@@ -36,9 +36,8 @@ export function AboutStory() {
     <div className={styles.band}>
       <Container className={styles.bandInner}>
         <p className={styles.statement}>One partner.<br />A stronger foundation.</p>
-        <p className={styles.summary}>{story.statement}</p>
         <figure className={styles.photo}>
-          <Image src={aboutContent.story.image} alt={aboutContent.story.alt} fill sizes="(min-width: 1024px) 300px, (min-width: 640px) 600px, 100vw" className="object-cover" />
+          <Image src={aboutContent.story.image} alt={aboutContent.story.alt} fill sizes="(min-width: 1280px) 584px, (min-width: 768px) 45vw, 100vw" className="object-cover" />
         </figure>
       </Container>
     </div>

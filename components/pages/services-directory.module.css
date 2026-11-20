@@ -1,0 +1,29 @@
+.page { background: white; color: var(--brand-navy); }
+.intro { padding-block: clamp(3rem, 6vw, 5rem); text-align: center; }
+.intro h1 { font-size: clamp(2rem, 3.4vw, 3rem); font-weight: 600; line-height: 1.15; letter-spacing: -.04em; text-wrap: balance; }
+.intro p { margin: 1.25rem auto 0; max-width: 44rem; color: var(--brand-support); font-size: 1rem; line-height: 1.7; text-wrap: balance; }
+.rows { border-top: 2px solid var(--brand-orange); padding-bottom: 2rem; }
+.row { display: grid; gap: 1.5rem; padding-block: 1.5rem 2rem; border-bottom: 1px solid var(--brand-border); }
+.row:last-child { border-bottom: 0; }
+.photo { position: relative; aspect-ratio: 16 / 10; width: 100%; overflow: hidden; background: var(--brand-soft-white); }
+.image { object-fit: cover; }
+.copy { align-self: center; }
+.copy h2 { max-width: 25ch; font-size: clamp(1.5rem, 2.1vw, 2rem); font-weight: 600; line-height: 1.2; letter-spacing: -.025em; text-wrap: balance; }
+.copy p { max-width: 38ch; margin-top: 1rem; color: var(--brand-support); font-size: 1rem; line-height: 1.7; }
+.link, .consultationLink { display: inline-flex; align-items: center; gap: .625rem; min-height: 2.75rem; margin-top: .75rem; font-size: 1rem; font-weight: 600; text-underline-offset: .3em; }
+.link { color: var(--brand-navy); }
+.link svg { color: var(--brand-orange); transition: transform 180ms ease; }
+.link:hover, .consultationLink:hover { text-decoration: underline; }
+.link:hover svg { transform: translateX(3px); }
+.link:focus-visible, .consultationLink:focus-visible { outline: 2px solid var(--brand-orange); outline-offset: 4px; }
+.consultation { padding-block: 2.5rem; background: var(--brand-navy); color: white; text-align: center; }
+.consultation h2 { font-size: clamp(1.25rem, 2vw, 1.625rem); font-weight: 600; line-height: 1.35; text-wrap: balance; }
+.consultationLink { color: var(--brand-orange); }
+@media (min-width: 768px) {
+  .row { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(2rem, 5vw, 5rem); padding-block: 2rem; }
+  .row:nth-child(even) .photo { grid-column: 2; grid-row: 1; }
+  .row:nth-child(even) .copy { grid-column: 1; grid-row: 1; }
+  .copy { width: 100%; max-width: 30rem; margin-inline: auto; }
+  .rows { padding-bottom: 3rem; }
+}
+@media (prefers-reduced-motion: reduce) { .link svg { transition: none; } }
