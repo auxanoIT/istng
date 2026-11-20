@@ -18,6 +18,7 @@ import { aboutContent } from "@/data/about-content";
 import { installationPortfolio } from "@/data/integrated-case-studies";
 import { getCaseStudyServiceCards } from "@/data/case-study-service-cards";
 import { serviceDirectory } from "@/data/service-directory";
+import { getArticleCluster, getArticleTopic, insightClusterPath, insightTopicPath, insightTopics } from "@/data/insight-topics";
 import { getIndustryEditorial } from "@/data/industry-editorial";
 import { industryEditorialImage, industrySolutionImage } from "@/data/industry-section-images";
 
@@ -60,6 +61,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/resources/our-work", images: gallery.map(album => album.photos[0].src) },
     ...gallery.map(album => ({ path: "/resources/our-work/" + album.id, images: album.photos.map(photo => photo.src) })),
     ...(Object.keys(resourceSections) as ResourceSection[]).filter(section => resources.some(resource => resource.section === section)).map(section => ({ path: resourcePath(section), images: resources.filter(resource => resource.section === section).flatMap(resource => resource.image ? [resource.image] : []) })),
+    ...insightTopics.filter(topic => resources.some(resource => resource.section === "insights" && getArticleTopic(resource)?.slug === topic.slug)).map(topic => ({ path: insightTopicPath(topic.slug) })),
+    ...resources.filter(resource => resource.section === "insights" && getArticleCluster(resource)).map(resource => ({ path: insightClusterPath(resource.cluster!.topic, resource.cluster!.slug) })),
     ...resources.map(resource => ({ path: resourcePath(resource.section,resource.slug), images: resource.images ?? (resource.image ? [resource.image] : []), updatedAt: resource.updatedAt })),
   ];
   const unique = new Map<string,Entry>();

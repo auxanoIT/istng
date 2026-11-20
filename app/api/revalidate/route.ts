@@ -22,6 +22,7 @@ const documentTags: Record<string, string[]> = {
   navigation: ["navigation"],
   page: ["pages"],
   post: ["posts", "resources"],
+  insightCluster: ["resources"],
   technicalGuide: ["resources"],
   knowledgeEntry: ["resources"],
   resourceDownload: ["resources"],
@@ -117,6 +118,8 @@ function getPathsForDocument(type?: string, slug?: string) {
       return [slug && slug !== "home" ? `/${slug}` : "/"].filter(isPath);
     case "post":
       return ["/resources/insights", "/sitemap.xml", slug ? `/resources/insights/${slug}` : null].filter(isPath);
+    case "insightCluster":
+      return ["/resources/insights", "/sitemap.xml"];
     case "technicalGuide":
     case "knowledgeEntry":
     case "resourceDownload": {

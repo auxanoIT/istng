@@ -4,6 +4,7 @@ import { previewToken, sanityFetch } from "@/sanity/lib/client";
 import {
   editorialArticleQuery, editorialIndexQuery, planningResourceQuery, planningResourcesQuery,
   relatedResourceCardsQuery, resourceSitemapQuery,
+  insightClusterIndexQuery, insightClusterQuery,
 } from "@/sanity/lib/queries";
 import { editorialSections, planningSections, type EditorialSection, type PlanningSection, type ResourceSection } from "@/data/resource-sections";
 import type { BlogPost, ServiceNavMedia } from "@/lib/types";
@@ -15,7 +16,8 @@ export type PlanningResource = Pick<BlogPost, "title" | "slug" | "excerpt" | "se
   file?: { url: string; originalFilename?: string; size?: number; mimeType?: string };
 };
 export type ResourceCard = { title: string; slug: string; excerpt?: string; section: ResourceSection; image?: ServiceNavMedia };
-type SitemapResource = Pick<ResourceCard, "title" | "slug" | "section"> & { image?: string; images?: string[]; updatedAt?: string };
+type SitemapResource = Pick<ResourceCard, "title" | "slug" | "section"> & Pick<BlogPost, "topic" | "cluster" | "relatedService" | "relatedServices"> & { image?: string; images?: string[]; updatedAt?: string };
+export type InsightCluster = { title: string; slug: string; topic: string; description: string };
 
 async function preview() {
   return Boolean(previewToken && (await draftMode()).isEnabled);
@@ -27,6 +29,14 @@ export async function getEditorialIndex(section: EditorialSection) {
 
 export async function getEditorialArticle(section: EditorialSection, slug: string) {
   return await sanityFetch<BlogPost>({ query: editorialArticleQuery, params: { type: editorialSections[section].type, slug }, preview: await preview(), tags: ["resources"] });
+}
+
+export async function getInsightClusters(topic: string) {
+  return await sanityFetch<InsightCluster[]>({ query: insightClusterIndexQuery, params: { topic }, preview: await preview(), tags: ["resources"] }) ?? [];
+}
+
+export async function getInsightCluster(topic: string, slug: string) {
+  return await sanityFetch<InsightCluster>({ query: insightClusterQuery, params: { topic, slug }, preview: await preview(), tags: ["resources"] });
 }
 
 export async function getPlanningIndex(section: PlanningSection) {

@@ -15,6 +15,7 @@ export default defineConfig({
       S.listItem().id("resources").title("Resources").child(
         S.list().title("Resources").items([
           S.documentTypeListItem("post").title("Insights & Articles"),
+          S.documentTypeListItem("insightCluster").title("Topic Clusters"),
           S.documentTypeListItem("technicalGuide").title("Technical Guides"),
           S.documentTypeListItem("knowledgeEntry").title("Knowledge Centre"),
           S.documentTypeListItem("resourceDownload").title("Downloads & Checklists"),

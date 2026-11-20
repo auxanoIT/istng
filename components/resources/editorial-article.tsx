@@ -11,13 +11,14 @@ import { ButtonLink } from "@/components/ui/button-link";
 import { MobileArticleContents } from "@/components/blog/mobile-article-contents";
 import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
-import { getEditorialArticle } from "@/lib/resources";
+import { getEditorialArticle, getEditorialIndex } from "@/lib/resources";
 import { editorialSections, knowledgeKinds, resourcePath, type EditorialSection } from "@/data/resource-sections";
 import { ResourceConnections } from "@/components/resources/resource-connections";
 import { buildMetadata } from "@/lib/seo";
 import type { BlogBodyBlock, BlogPost } from "@/lib/types";
 import { absoluteUrl, formatDate } from "@/lib/utils";
-import { serviceResourceClusters } from "@/data/service-resource-clusters";
+import { resourceClusterForValue } from "@/data/service-resource-clusters";
+import { articlesForTopic, getArticleCluster, getArticleTopic, insightClusterPath, insightTopicPath } from "@/data/insight-topics";
 
 export async function getEditorialMetadata(section: EditorialSection, slug: string): Promise<Metadata> {
   const post = await getEditorialArticle(section, slug);
@@ -61,9 +62,14 @@ export async function EditorialArticle({ section, slug }: { section: EditorialSe
     );
   const bodyBlocks = normalizeBlogBody(postBody);
   const introduction = post.excerpt?.trim() || getOpeningParagraph(postBody);
-  const relatedService = serviceResourceClusters.find(
-    (service) => service.value === post.relatedService,
-  );
+  const relatedService = resourceClusterForValue(post.relatedService);
+  const topic = section === "insights" ? getArticleTopic(post) : undefined;
+  const cluster = topic ? getArticleCluster(post) : undefined;
+  const topicReading = topic ? articlesForTopic(await getEditorialIndex("insights"), topic.slug)
+    .filter(item => !cluster || getArticleCluster(item)?.slug === cluster.slug || (item.isPillarGuide && !item.cluster))
+    .filter(item => item.slug !== post.slug && !post.relatedReading?.some(related => related.section === "insights" && related.slug === item.slug))
+    .sort((a, b) => Number(Boolean(b.isPillarGuide)) - Number(Boolean(a.isPillarGuide)))
+    .slice(0, 3) : [];
 
   return (
     <>
@@ -111,9 +117,21 @@ export async function EditorialArticle({ section, slug }: { section: EditorialSe
                 name: sectionTitle,
                 item: absoluteUrl(resourcePath(section)),
               },
-              {
+              ...(topic ? [{
                 "@type": "ListItem",
                 position: 3,
+                name: topic.title,
+                item: absoluteUrl(insightTopicPath(topic.slug)),
+              }] : []),
+              ...(cluster ? [{
+                "@type": "ListItem",
+                position: 4,
+                name: cluster.title,
+                item: absoluteUrl(insightClusterPath(cluster.topic, cluster.slug)),
+              }] : []),
+              {
+                "@type": "ListItem",
+                position: cluster ? 5 : topic ? 4 : 3,
                 name: post.title,
                 item: absoluteUrl(resourcePath(section, post.slug)),
               },
@@ -132,6 +150,8 @@ export async function EditorialArticle({ section, slug }: { section: EditorialSe
                   <li aria-hidden="true">/</li>
                   <li><Link href={resourcePath(section)} className="hover:text-[var(--color-ink)]">{sectionTitle}</Link></li>
                   <li aria-hidden="true">/</li>
+                  {topic && <><li><Link href={insightTopicPath(topic.slug)} className="hover:text-[var(--color-ink)]">{topic.title}</Link></li><li aria-hidden="true">/</li></>}
+                  {cluster && <><li><Link href={insightClusterPath(cluster.topic, cluster.slug)} className="hover:text-[var(--color-ink)]">{cluster.title}</Link></li><li aria-hidden="true">/</li></>}
                   <li aria-current="page" className="min-w-0 truncate text-[var(--color-ink)]">{post.title}</li>
                 </ol>
               </nav>
@@ -211,6 +231,15 @@ export async function EditorialArticle({ section, slug }: { section: EditorialSe
                 />
               </div>
 
+              {topicReading.length > 0 && <aside className="mt-12 border-t border-brand-border pt-7" aria-labelledby="topic-reading-title">
+                <h2 id="topic-reading-title" className="text-xl font-semibold text-brand-navy">More in {cluster?.title ?? topic?.title}</h2>
+                <ul className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{topicReading.map(item => <li key={item.slug}>
+                  <Link href={resourcePath("insights", item.slug)} className="block h-full rounded border border-brand-border bg-white p-5 transition-colors hover:border-brand-orange focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-navy">
+                    <h3 className="font-semibold leading-6 text-brand-navy">{item.title}</h3>
+                    {item.excerpt && <p className="mt-3 line-clamp-2 text-sm leading-6 text-brand-support">{item.excerpt}</p>}
+                  </Link>
+                </li>)}</ul>
+              </aside>}
               <ResourceConnections resource={post} legacyService={relatedService} />
               <div className="mt-12 flex flex-wrap gap-4 border-t border-[color:color-mix(in_srgb,var(--brand-navy)_8%,transparent)] pt-8">
                 <ButtonLink href="/book-consultation">Book a Technical Consultation</ButtonLink>

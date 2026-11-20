@@ -1,0 +1,35 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "mainHubs": 6,
+  "currentEmptyHubsNoindex": true,
+  "emptyHubsExcludedFromSitemap": true,
+  "unknownCluster404": true,
+  "relatedOverviewLinks": 6,
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "pageErrors": []
+}

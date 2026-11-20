@@ -1,6 +1,7 @@
 import { createElement } from "react";
 import { galleryAlbum } from "./gallery-album";
 import { serviceResourceClusters } from "../../data/service-resource-clusters";
+import { insightTopics } from "../../data/insight-topics";
 import { resourceIndustryOptions, resourceServiceOptions } from "../../data/resource-relationships";
 import {
   PortableTextInput,
@@ -827,6 +828,17 @@ const resourceLinksFields = [
   }),
 ];
 
+const insightCluster = defineType({
+  name: "insightCluster", title: "Topic Clusters", type: "document",
+  fields: [
+    defineField({ name: "title", title: "Topic Name", type: "string", description: "For example: Solar Battery Storage, Fibre Optic Cabling, or CCTV Planning.", validation: rule => rule.required() }),
+    defineField({ name: "topic", title: "Main Service", type: "string", options: { list: insightTopics.map(({ title, slug }) => ({ title, value: slug })) }, validation: rule => rule.required().custom(value => insightTopics.some(topic => topic.slug === value) ? true : "Choose a current main service.") }),
+    defineField({ name: "slug", title: "URL Slug", type: "slug", options: { source: "title", maxLength: 90 }, description: "A short, specific address such as battery-storage. Set this before publishing and keep it stable.", validation: rule => rule.required().custom(value => !value?.current || /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(value.current) ? true : "Use lowercase words separated by hyphens.") }),
+    defineField({ name: "description", title: "Introduction", type: "text", rows: 3, description: "Explain the specific questions this topic helps readers answer. Its hub appears in navigation when it has published articles.", validation: rule => rule.required().min(30).max(260) }),
+  ],
+  preview: { select: { title: "title", topic: "topic" }, prepare: ({ title, topic }) => ({ title, subtitle: insightTopics.find(item => item.slug === topic)?.title ?? "Choose a main service" }) },
+});
+
 const post = defineType({
   name: "post",
   title: "Posts",
@@ -843,14 +855,38 @@ const post = defineType({
       title: "Slug",
       type: "slug",
       options: { source: "title" },
-      validation: (rule) => rule.required(),
+      validation: (rule) => rule.required().custom((value, context) => context.document?._type === "post" && insightTopics.some(topic => topic.slug === value?.current) ? "This slug is reserved for a service topic hub. Use a specific article slug." : true),
     }),
-    defineField({ name: "category", title: "Category", type: "string" }),
+    defineField({ name: "category", title: "Category", description: "Optional reader-facing label. The main service topic below controls the article hub.", type: "string" }),
+    defineField({
+      name: "topic", title: "Main Service Topic", type: "string",
+      description: "Choose one Integrated Solutions service pillar. The article will appear in that topic hub after publication.",
+      options: { list: insightTopics.map(({ title, slug }) => ({ title, value: slug })) },
+      hidden: ({ document }) => document?._type !== "post",
+      validation: rule => rule.custom((value, context) => context.document?._type !== "post" || (value && insightTopics.some(topic => topic.slug === value)) ? true : "Choose a main service topic."),
+    }),
+    defineField({
+      name: "cluster", title: "Topic Cluster", type: "reference", to: [{ type: "insightCluster" }],
+      description: "Optional: select a topic within the main service. Create new topics under Resources → Topic Clusters. Leave blank for a service-wide overview guide.",
+      options: { filter: ({ document }) => ({ filter: "topic == $topic", params: { topic: document?.topic ?? "" } }) },
+      hidden: ({ document }) => document?._type !== "post",
+      validation: rule => rule.custom(async (value, context) => {
+        if (context.document?._type !== "post" || !value?._ref) return true;
+        if (!context.document.topic) return "Choose the main service topic first.";
+        const cluster = await context.getClient({ apiVersion: "2026-04-02" }).fetch<{ topic?: string }>("*[_id in [$id, $draft]][0]{topic}", { id: value._ref, draft: `drafts.${value._ref}` });
+        return cluster?.topic === context.document.topic ? true : "Choose a cluster belonging to the selected main service.";
+      }),
+    }),
+    defineField({
+      name: "isPillarGuide", title: "Main Guide for This Hub", type: "boolean", initialValue: false,
+      description: "Feature this as the overview guide for its selected topic cluster, or for the whole service if no cluster is selected.",
+      hidden: ({ document }) => document?._type !== "post",
+    }),
     defineField({
       name: "relatedService",
       title: "Related Sub-Service",
       type: "string",
-      description: "Optional: show this published article in the selected sub-service's Related Resources section. Category remains separate.",
+      description: "Optional: connect this article to one of Integrated Solutions Technology's current sub-services. The main service topic remains separate.",
       options: { list: serviceResourceClusters.map(({title,value,pillarTitle}) => ({title: `${title} — ${pillarTitle}`, value})) },
       validation: rule => rule.custom(value => !value || serviceResourceClusters.some(cluster => cluster.value === value) ? true : "Choose an existing sub-service."),
     }),
@@ -1070,6 +1106,7 @@ export const schemaTypes = [
   blogTableRow,
   blogTable,
   caseStudy,
+  insightCluster,
   post,
   technicalGuide,
   knowledgeEntry,

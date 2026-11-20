@@ -5,6 +5,8 @@ import { editorialSections, knowledgeKinds, resourcePath, type EditorialSection 
 import { getEditorialIndex, type EditorialCard } from "@/lib/resources";
 import { Container } from "@/components/ui/container";
 import { ResourceIntro, ResourceEmpty } from "./resource-intro";
+import { InsightTopicNavigation } from "./insight-topics";
+import { getArticleTopic } from "@/data/insight-topics";
 
 export async function EditorialIndex({ section }: { section: EditorialSection }) {
   const posts = await getEditorialIndex(section);
@@ -17,6 +19,7 @@ export async function EditorialIndex({ section }: { section: EditorialSection })
   return <>
     <ResourceIntro {...config} />
     <section className="bg-brand-surface py-12 sm:py-20"><Container>
+      {section === "insights" && <InsightTopicNavigation posts={posts} />}
       {featured && <EditorialCardView section={section} post={featured} featured />}
       {groups.filter(group => group.posts.length > 0).map(group => <div key={group.label} className={featured ? "mt-14" : "mb-12 last:mb-0"}>
         <h2 className="mb-6 text-3xl font-semibold tracking-tight text-brand-navy">{group.label}</h2>
@@ -27,8 +30,8 @@ export async function EditorialIndex({ section }: { section: EditorialSection })
   </>;
 }
 
-function EditorialCardView({ post, section, featured }: { post: EditorialCard; section: EditorialSection; featured?: boolean }) {
-  const label = section === "knowledge-centre" && post.entryKind ? knowledgeKinds[post.entryKind] : post.category;
+export function EditorialCardView({ post, section, featured }: { post: EditorialCard; section: EditorialSection; featured?: boolean }) {
+  const label = section === "knowledge-centre" && post.entryKind ? knowledgeKinds[post.entryKind] : post.category === "General" ? getArticleTopic(post)?.title ?? post.category : post.category;
   const Heading = featured ? "h2" : "h3";
   return <Link href={resourcePath(section, post.slug)} className={`group block h-full overflow-hidden rounded-xl border border-brand-border bg-white transition hover:border-brand-orange ${featured ? "lg:grid lg:grid-cols-[1.15fr_1fr]" : ""}`}>
     {(post.coverImage?.src || featured) && <div className={`relative flex items-center justify-center bg-brand-navy text-white ${featured ? "min-h-52" : "aspect-[16/9]"}`}>

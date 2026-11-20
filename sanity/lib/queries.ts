@@ -172,6 +172,8 @@ const editorialFields = groq`{
     title,
     "category": coalesce(category, "General"),
     entryKind,
+    topic, isPillarGuide,
+    "cluster": cluster->{title, "slug": slug.current, topic},
     relatedIndustries, relatedServices, "relatedReading": relatedReading[]-> { title, "slug": slug.current, "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", "insights") },
     relatedService,
     publishedAt,
@@ -256,12 +258,12 @@ const editorialFields = groq`{
     }, []),
     "slug": slug.current
   }`;
-export const editorialIndexQuery = groq`*[_type == $type && defined(slug.current) && defined(title)] | order(publishedAt desc, _updatedAt desc) {title, "slug": slug.current, excerpt, "updatedAt": _updatedAt, "category": coalesce(category, "General"), entryKind, publishedAt, author, readingTime, "coverImage": select(defined(coverImage.asset) => {"src":coverImage.asset->url,"alt":coalesce(coverImage.alt,title)})}`;
+export const editorialIndexQuery = groq`*[_type == $type && defined(slug.current) && defined(title)] | order(publishedAt desc, _updatedAt desc) {title, "slug": slug.current, excerpt, "updatedAt": _updatedAt, "category": coalesce(category, "General"), entryKind, topic, isPillarGuide, "cluster": cluster->{title, "slug": slug.current, topic}, relatedService, relatedServices, publishedAt, author, readingTime, "coverImage": select(defined(coverImage.asset) => {"src":coverImage.asset->url,"alt":coalesce(coverImage.alt,title)})}`;
 export const editorialArticleQuery = groq`*[_type == $type && slug.current == $slug][0]${editorialFields}`;
 export const planningResourcesQuery = groq`*[_type == $type && defined(slug.current) && defined(title) && (_type == "resourceDownload" && pdf.asset->mimeType == "application/pdf")] | order(title asc) {title, "slug": slug.current, excerpt, seo{metaTitle, metaDescription}, "updatedAt": _updatedAt, relatedIndustries, relatedServices, "relatedReading": relatedReading[]-> { title, "slug": slug.current, "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", "insights") }, instructions, "file": pdf.asset->{url, originalFilename, size, mimeType}}`;
 export const planningResourceQuery = groq`*[_type == $type && slug.current == $slug && (_type == "resourceDownload" && pdf.asset->mimeType == "application/pdf")][0]{title, "slug": slug.current, excerpt, seo{metaTitle, metaDescription}, "updatedAt": _updatedAt, relatedIndustries, relatedServices, "relatedReading": relatedReading[]-> { title, "slug": slug.current, "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", "insights") }, instructions, "file": pdf.asset->{url, originalFilename, size, mimeType}}`;
 export const relatedResourceCardsQuery = groq`*[!(_id in path("drafts.**")) && !(_id in path("versions.**")) && defined(slug.current) && defined(title) && (_type in ["post","technicalGuide","knowledgeEntry"] || (_type == "resourceDownload" && pdf.asset->mimeType == "application/pdf")) && (($industry != "" && $industry in coalesce(relatedIndustries, [])) || ($service != "" && (count(relatedServices[@ in $serviceAliases]) > 0 || relatedService in $legacyServices)))] | order(publishedAt desc, _updatedAt desc)[0...6]{title, "slug": slug.current, excerpt, "image": {"src": coverImage.asset->url, "alt": coalesce(coverImage.alt, title)}, "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", _type == "resourceDownload" => "downloads", "insights")}`;
-export const resourceSitemapQuery = groq`*[!(_id in path("drafts.**")) && !(_id in path("versions.**")) && defined(slug.current) && defined(title) && (_type in ["post","technicalGuide","knowledgeEntry"] || (_type == "resourceDownload" && pdf.asset->mimeType == "application/pdf"))]{ title, "slug":slug.current, "updatedAt":_updatedAt, "image":coverImage.asset->url, "images":array::compact([coverImage.asset->url, ...body[_type == "image"].asset->url, ...body[_type == "blogImageBlock"].image.asset->url]), "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", _type == "resourceDownload" => "downloads", "insights") }`;
+export const resourceSitemapQuery = groq`*[!(_id in path("drafts.**")) && !(_id in path("versions.**")) && defined(slug.current) && defined(title) && (_type in ["post","technicalGuide","knowledgeEntry"] || (_type == "resourceDownload" && pdf.asset->mimeType == "application/pdf"))]{ title, topic, "cluster": cluster->{title, "slug": slug.current, topic}, relatedService, relatedServices, "slug":slug.current, "updatedAt":_updatedAt, "image":coverImage.asset->url, "images":array::compact([coverImage.asset->url, ...body[_type == "image"].asset->url, ...body[_type == "blogImageBlock"].image.asset->url]), "section": select(_type == "technicalGuide" => "guides", _type == "knowledgeEntry" => "knowledge-centre", _type == "resourceDownload" => "downloads", "insights") }`;
 
 export const testimonialsQuery = groq`
   *[_type == "testimonial"] | order(_createdAt desc) {
@@ -303,3 +305,6 @@ export const careerOpeningsQuery = groq`
     summary
   }
 `;
+
+export const insightClusterIndexQuery = groq`*[_type == "insightCluster" && topic == $topic && defined(title) && defined(slug.current)] | order(title asc){title, "slug": slug.current, topic, description}`;
+export const insightClusterQuery = groq`*[_type == "insightCluster" && topic == $topic && slug.current == $slug][0]{title, "slug": slug.current, topic, description}`;

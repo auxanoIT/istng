@@ -248,6 +248,9 @@ export type CaseStudy = {
 };
 
 export type BlogPost = {
+  topic?: string;
+  isPillarGuide?: boolean;
+  cluster?: { title: string; slug: string; topic: string };
   relatedService?: string;
   relatedServices?: string[];
   relatedIndustries?: string[];
