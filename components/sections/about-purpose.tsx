@@ -7,7 +7,7 @@ function MobilePlatform({ end = false }: { end?: boolean }) {
     <g fill="none" stroke="currentColor" strokeWidth="1.25" strokeLinejoin="round">
       <path d="M20 19V5h120v14 M15 19h130v6H15Z M35 25l45 18 45-18 M80 25v18 M45 5v14 M70 5v14 M95 5v14 M120 5v14" />
     </g>
-    <path d="M80 43v12" stroke="var(--brand-orange)" strokeWidth="2" />
+    <path data-about-line pathLength="1" d="M80 43v12" stroke="var(--brand-orange)" strokeWidth="2" />
     <circle cx="80" cy="43" r="4" fill="var(--brand-orange)" />
   </svg>;
 }
@@ -18,7 +18,7 @@ function DesktopBridge() {
       <path d="M25 28V12h270v16 M20 28h280v8H20Z M65 36l58 42 M263 36l-128 66 M123 36v96h12V36 M99 132h60 M60 12v16 M105 12v16 M150 12v16 M195 12v16 M240 12v16" />
     </g></defs>
     <use href="#purpose-platform" /><use href="#purpose-platform" transform="translate(1000 0) scale(-1 1)" />
-    <path d="M300 32H700" stroke="var(--brand-orange)" strokeWidth="2.5" />
+    <path data-about-line pathLength="1" d="M300 32H700" stroke="var(--brand-orange)" strokeWidth="2.5" />
     <circle cx="300" cy="32" r="6" fill="var(--brand-orange)" /><circle cx="700" cy="32" r="6" fill="var(--brand-orange)" />
   </svg>;
 }

@@ -24,3 +24,15 @@
   .copy h3 { font-size: 1.125rem; }
   .copy p { font-size: 1rem; }
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  .section:global([data-about-reveal="visible"]) .step::before { animation: connectVertical .6s ease-out .1s both; transform-origin: top; }
+  .section:global([data-about-reveal="visible"]) .step:nth-child(2)::before { animation-delay: .2s; }
+  .section:global([data-about-reveal="visible"]) .step:nth-child(3)::before { animation-delay: .3s; }
+  .section:global([data-about-reveal="visible"]) .step:nth-child(4)::before { animation-delay: .4s; }
+  @media (min-width: 1024px) {
+    .section:global([data-about-reveal="visible"]) .step::before { animation-name: connectHorizontal; transform-origin: left; }
+  }
+}
+@keyframes connectVertical { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes connectHorizontal { from { transform: scaleX(0); } to { transform: scaleX(1); } }

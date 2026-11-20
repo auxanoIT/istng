@@ -27,3 +27,9 @@
   .bridge { display: block; grid-column: 1 / -1; grid-row: 2; width: 100%; height: auto; color: #d4e2e8; }
   .closing { margin-top: .75rem; font-size: 1.125rem; padding-top: 1.75rem; }
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  .section:global([data-about-reveal="visible"]) .connection::before,
+  .section:global([data-about-reveal="visible"]) .connection::after { animation: connect .8s ease-out .1s both; transform-origin: top; }
+}
+@keyframes connect { from { transform: scaleY(0); } to { transform: scaleY(1); } }

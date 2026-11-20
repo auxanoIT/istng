@@ -52,3 +52,16 @@
   .icon { width: 3rem; }
   .principle { margin-top: 2.75rem; padding-top: 2.25rem; }
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  .section:global([data-about-reveal="visible"]) .service::after,
+  .section:global([data-about-reveal="visible"]) .hub::after { animation: connectVertical .8s ease-out .1s both; transform-origin: top; }
+  .section:global([data-about-reveal="visible"]) .services::before { animation: connectHorizontal .8s ease-out .1s both; transform-origin: right; }
+  @media (min-width: 1024px) {
+    .section:global([data-about-reveal="visible"]) .service::after { animation-name: connectHorizontal; }
+    .section:global([data-about-reveal="visible"]) .service[data-side="left"]::after { transform-origin: right; }
+    .section:global([data-about-reveal="visible"]) .service[data-side="right"]::after { transform-origin: left; }
+  }
+}
+@keyframes connectVertical { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes connectHorizontal { from { transform: scaleX(0); } to { transform: scaleX(1); } }

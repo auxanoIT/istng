@@ -1,5 +1,6 @@
 import { OverviewBanner } from "@/components/pages/overview-layout";
 import { AboutIndustries } from "@/components/sections/about-industries";
+import { AboutMotion } from "@/components/sections/about-motion";
 import { AboutValues } from "@/components/sections/about-values";
 import { AboutApproach } from "@/components/sections/about-approach";
 import { AboutVisionMission } from "@/components/sections/about-vision-mission";
@@ -37,7 +38,7 @@ export const metadata = buildMetadata({
 
 export default function AboutPage() {
   return (
-    <>
+    <AboutMotion>
       <JsonLd data={{
         "@context": "https://schema.org",
         "@type": "AboutPage",
@@ -86,6 +87,6 @@ export default function AboutPage() {
         ]}
       />
       <p className="bg-brand-navy px-5 py-5 text-center text-sm text-white">{copy.closing.statement}</p>
-    </>
+    </AboutMotion>
   );
 }

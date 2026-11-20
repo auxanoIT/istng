@@ -20,7 +20,7 @@ export function AboutCompany() {
         <div className={styles.hub}>
           <svg aria-hidden="true" viewBox="0 0 240 420" width="240" height="420">
             <g fill="none" stroke="var(--brand-muted)" strokeWidth="1">
-              <path d="M0 70 H20 L46.46 136.46 M0 210 H16 M0 350 H20 L46.46 283.54 M240 70 H220 L193.54 136.46 M240 210 H224 M240 350 H220 L193.54 283.54" />
+              <path data-about-line pathLength="1" d="M0 70 H20 L46.46 136.46 M0 210 H16 M0 350 H20 L46.46 283.54 M240 70 H220 L193.54 136.46 M240 210 H224 M240 350 H220 L193.54 283.54" />
             </g>
             <circle cx="120" cy="210" r="104" fill="var(--brand-navy)" stroke="var(--brand-orange)" strokeWidth="3" />
             {nodes.map(([x, y]) => <circle key={`${x}-${y}`} cx={x} cy={y} r="5" fill="var(--brand-orange)" stroke="white" strokeWidth="1.5" />)}

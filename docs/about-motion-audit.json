@@ -1,0 +1,42 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "animatedSections": 9,
+  "heroUnaffected": true,
+  "animationsFinish": true,
+  "reducedMotion": true,
+  "noJavaScriptContentVisible": true,
+  "footerBrandCorrect": true,
+  "results": [
+    {
+      "width": 1440,
+      "ledgerCentred": true,
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "ledgerCentred": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "ledgerCentred": true,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "ledgerCentred": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "ledgerCentred": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "ledgerCentred": true,
+      "overflow": false
+    }
+  ],
+  "pageErrors": []
+}
