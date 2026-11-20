@@ -4,6 +4,7 @@ import { ArrowDownRight, ArrowRight, X } from "lucide-react";
 import { useRef, useState } from "react";
 
 import { BackgroundVideo } from "@/components/ui/background-video";
+import { homeVideoPoster } from "@/lib/background-media";
 import { TurnstileField } from "@/components/forms/turnstile-field";
 import { leadSchema } from "@/lib/schemas";
 import { formErrors } from "@/lib/form-errors";
@@ -83,7 +84,7 @@ export function EnergyHero() {
     <section className={styles.hero} aria-labelledby="energy-title">
       <BackgroundVideo className={styles.video}
         src={process.env.NEXT_PUBLIC_INTEGRATED_HERO_VIDEO_URL || "https://res.cloudinary.com/dnqn2cs4e/video/upload/integrated_service_new_xd6vey.mp4"}
-        poster="/integrated-assets/images/solar-campus-poster.webp" />
+        poster={homeVideoPoster} />
       <div className={styles.content}>
         <h1 id="energy-title">Leaders in <em>energy solutions</em> for your business</h1>
         <p>What brings you here?</p>

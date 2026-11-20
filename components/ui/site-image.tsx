@@ -8,6 +8,7 @@ export default function SiteImage({ src, alt, style, ...props }: ComponentProps<
   return (
     <NextImage
       {...props}
+      fetchPriority={props.fetchPriority ?? (props.preload || props.priority ? "high" : undefined)}
       src={typeof src === "string" ? resolveSiteImagePath(src) : src}
       alt={alt && replacement ? replacement.alt : alt}
       style={replacement?.objectPosition ? { ...style, objectPosition: replacement.objectPosition } : style}

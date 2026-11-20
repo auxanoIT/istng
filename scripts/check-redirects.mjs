@@ -14,8 +14,9 @@ rules.push(
   { source: '/our-work', destination: '/resources/our-work' },
 );
 const results = [];
-while (rules.length) {
-  await Promise.all(rules.splice(0, 4).map(async rule => {
+const uniqueRules = [...new Map(rules.map(rule => [rule.source, rule])).values()];
+while (uniqueRules.length) {
+  await Promise.all(uniqueRules.splice(0, 4).map(async rule => {
     try {
       const query = '?utm_source=seo-audit';
       const response = await fetch(origin + rule.source + query, { redirect: 'manual', signal: AbortSignal.timeout(30000) });

@@ -12,6 +12,7 @@ import { JsonLd } from "@/components/ui/json-ld";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
 import styles from "./home.module.css";
+import { homeVideoPoster } from "@/lib/background-media";
 
 export const revalidate = false;
 
@@ -40,7 +41,7 @@ export default async function HomePage() {
 
   return (
     <div className={styles.page}>
-      <link rel="preload" as="image" href="/integrated-assets/images/solar-campus-poster.webp" fetchPriority="high" />
+      <link rel="preload" as="image" href={homeVideoPoster} fetchPriority="high" />
       <JsonLd
         data={[
           {
