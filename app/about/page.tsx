@@ -1,6 +1,5 @@
-import Link from "@/components/ui/site-link";
-import { ArrowRight } from "lucide-react";
-import { OverviewBanner, OverviewHeading, OverviewSection } from "@/components/pages/overview-layout";
+import { OverviewBanner, OverviewHeading } from "@/components/pages/overview-layout";
+import { AboutIndustries } from "@/components/sections/about-industries";
 import { AboutValues } from "@/components/sections/about-values";
 import { AboutApproach } from "@/components/sections/about-approach";
 import { AboutVisionMission } from "@/components/sections/about-vision-mission";
@@ -12,7 +11,6 @@ import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
 import copy from "@/data/about-company.json";
 import { aboutContent } from "@/data/about-content";
-import { industryNavigation } from "@/data/industry-navigation";
 import { buildMetadata } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/utils";
 
@@ -68,28 +66,7 @@ export default function AboutPage() {
 
       <AboutApproach />
 
-      <OverviewSection id="about-industries">
-        <OverviewHeading id="about-industries-title" copy={copy.industries} />
-        <details className="mx-auto mt-7 max-w-5xl rounded-lg border border-brand-border bg-brand-soft-white open:bg-white">
-          <summary className="cursor-pointer p-5 font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-orange-text">{copy.industries.cta}</summary>
-          <div className="grid gap-6 border-t border-brand-border p-5 sm:grid-cols-2 lg:grid-cols-3">
-            {industryNavigation.map(({ id, label, entries }) => (
-              <div key={id}>
-                <h3 className="font-semibold">{label}</h3>
-                <ul className="mt-2">
-                  {entries.map(([slug, name]) => (
-                    <li key={slug}>
-                      <Link href={`/industries/${slug}`} className="inline-flex min-h-10 items-center gap-2 text-sm text-brand-support underline-offset-4 hover:underline">
-                        {name}<ArrowRight size={15} aria-hidden="true" className="shrink-0" />
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-          </div>
-        </details>
-      </OverviewSection>
+      <AboutIndustries />
 
       <PartnerLogoMarquee staticDisplay />
 

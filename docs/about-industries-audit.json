@@ -1,0 +1,39 @@
+{
+  "base": "http://127.0.0.1:3106",
+  "industries": 17,
+  "results": [
+    {
+      "width": 1440,
+      "columns": 3,
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "columns": 3,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "columns": 3,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "columns": 2,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "columns": 2,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "columns": 2,
+      "overflow": false
+    }
+  ],
+  "linkedPages": 17,
+  "hoverAndKeyboardFocus": true,
+  "pageErrors": []
+}
