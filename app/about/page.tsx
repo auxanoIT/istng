@@ -1,4 +1,4 @@
-import { OverviewBanner, OverviewHeading } from "@/components/pages/overview-layout";
+import { OverviewBanner, OverviewHeading, OverviewSection } from "@/components/pages/overview-layout";
 import { AboutIndustries } from "@/components/sections/about-industries";
 import { AboutValues } from "@/components/sections/about-values";
 import { AboutApproach } from "@/components/sections/about-approach";
@@ -7,7 +7,6 @@ import { AboutPurpose } from "@/components/sections/about-purpose";
 import { AboutCompany } from "@/components/sections/about-company";
 import { AboutStory } from "@/components/sections/about-story";
 import { TrustBanner } from "@/components/sections/trust-banner";
-import { Container } from "@/components/ui/container";
 import { JsonLd } from "@/components/ui/json-ld";
 import copy from "@/data/about-company.json";
 import { aboutContent } from "@/data/about-content";
@@ -78,16 +77,9 @@ export default function AboutPage() {
         }} />
       </div>
 
-      <div className="bg-brand-soft-white text-brand-navy">
-        <Container className="grid gap-8 py-14 sm:py-20 lg:grid-cols-2 lg:gap-14">
-          <section aria-labelledby="about-commitment-title">
-            <OverviewHeading id="about-commitment-title" copy={copy.commitment} align="left" />
-          </section>
-          <section aria-labelledby="about-future-title">
-            <OverviewHeading id="about-future-title" copy={copy.future} align="left" />
-          </section>
-        </Container>
-      </div>
+      <OverviewSection id="about-future" tone="warm">
+        <OverviewHeading id="about-future-title" copy={copy.future} />
+      </OverviewSection>
 
       <OverviewBanner
         copy={copy.closing}
