@@ -13,8 +13,8 @@ import { trackLead } from "@/lib/lead-analytics";
 import styles from "./energy-hero.module.css";
 
 const choices = [
+  ["I want Solar Powered inverter system", "Solar powered inverter system"],
   ["I want cheaper electricity", "Reduce energy costs"],
-  ["I want to go green", "Switch to cleaner energy"],
   ["I want to control my power", "Improve power reliability"],
 ];
 
