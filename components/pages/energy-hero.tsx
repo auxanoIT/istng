@@ -128,7 +128,7 @@ export function EnergyHero() {
               dialog.current?.scrollTo(0, 0);
             }}>
               <RadioGroup name="Support" title="How can we help?" options={["I have a solution in mind", "Help me choose a solution"]} selected={answers?.get("Support")?.toString()} />
-              <RadioGroup name="Goal" title="What matters most to your business?" options={choices.map(([, value]) => value)} selected={goal} onChange={setGoal} />
+              <RadioGroup name="Goal" title="What matters most to your business?" options={["Improve power reliability", "Reduce energy costs", "Switch to cleaner energy"]} selected={goal} onChange={setGoal} />
               <RadioGroup name="Monthly spend" title="What is your monthly electricity spend?" options={["Below ₦500,000", "₦500,000 or more", "I’m not sure yet"]} selected={answers?.get("Monthly spend")?.toString()} />
               <button className={styles.action} type="submit">Next <ArrowRight size={18} /></button>
             </form>
